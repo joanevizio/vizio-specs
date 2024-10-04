@@ -1,0 +1,838 @@
+Message-ID: <460721582.5.1728074936970@619f5516ee2a>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_4_1037176625.1728074936970"
+
+------=_Part_4_1037176625.1728074936970
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>2.0 Bluetooth Headphones</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>2.0 Bluetooth Headphones</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074936898 {padding: 0px;}
+div.rbtoc1728074936898 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074936898 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074936898">
+<style>[data-colorid=3Db82hgp8hak]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Db82hgp8hak]{color:#cf2600}[data-colorid=3Dre3b0osvxy]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dre3b0osvxy]{colo=
+r:#cf2600}[data-colorid=3Dqmlfrco5ox]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dqmlfrco5ox]{color:#cf2600}[data-colorid=3Djmqy3g9i=
+7u]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Djmqy3g9i7u]=
+{color:#cf2600}[data-colorid=3Drc8qa2nlfy]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Drc8qa2nlfy]{color:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.1BluetoothHeadphonesinMainmenu"=
+>2.1 Bluetooth Headphones in Main menu</a></li>
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2BluetoothHeadphonesSettings">2=
+.2 Bluetooth Headphones Settings</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2.1TVSpeakers">2.2.1 TV Speaker=
+s</a></li>
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2.2PairedDevices">2.2.2 Paired =
+Devices</a></li>
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2.3OtherDevices">2.2.3 Other De=
+vices</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2.3.1MoreDevicesforOtherDevices=
+">2.2.3.1 More Devices for Other Devices</a></li>
+</ul></li>
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2.4PairedDevices">2.2.4 Paired =
+Devices</a></li>
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2.5NotificationsforPairedDevice=
+s">2.2.5 Notifications for Paired Devices</a></li>
+<li><a href=3D"#id-2.0BluetoothHeadphones-2.2.6SupportedSkus">2.2.6 Support=
+ed Skus</a></li>
+</ul></li>
+</ul>
+</div>
+<p></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6b=
+ac389b-12b8-46bf-b38a-8494865c7b05" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 488.0px;">
+<col style=3D"width: 230.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Bluetooth Headphones Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes/Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth headphones can be used to hear audio instead of the TV speaker=
+s or audio device such as a sound bar or AV receiver.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Per design decision, no help text included in the Bluetooth Headphones m=
+enu.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When Bluetooth headphones connected, Audio settings cannot open and warn=
+ing notification displays with Disconnect and Cancel buttons.</p></td>
+<td class=3D"confluenceTd">
+<p>Audio Settings disabled when connected to Bluetooth headphones.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"b82hgp8hak">Volume for the headphones can be contr=
+olled from the headphones or TV remote with display of the volume control. =
+No other functions supported. </span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"rc8qa2nlfy">Pause on the headphones may pause the =
+content but not a requirement. </span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.0BluetoothHeadphones-2.1BluetoothHeadphonesinMainmenu">2.1 <=
+strong>Bluetooth Headphones in Main menu </strong></h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"40=
+b27eba-ca7f-4da6-8b13-df327c49f82d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 255.0px;">
+<col style=3D"width: 273.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Bluetooth Headphones in Main menu </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Headphones (in use)</p></td>
+<td class=3D"confluenceTd">
+<p>Current connected headphones displays</p></td>
+<td class=3D"confluenceTd">
+<p>Headphones in use</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Headphones (not in use)</p></td>
+<td class=3D"confluenceTd">
+<p>If not in use or no paired devices, =E2=80=9CNone=E2=80=9D displays</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.0BluetoothHeadphones-2.2BluetoothHeadphonesSettings">2.2 Blu=
+etooth Headphones Settings</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8d=
+273c7f-00a4-40cb-bb0e-bfb9cc2bd583" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 300.0px;">
+<col style=3D"width: 122.0px;">
+<col style=3D"width: 296.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Audio Settings</p></th>
+<th class=3D"confluenceTh">
+<p>Circle check&nbsp;</p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV Speakers</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;yes</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Paired Device</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;yes (for listed devices)</p></td>
+<td class=3D"confluenceTd">
+<p>Setting: grayed text</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Other Devices</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Setting: grayed text</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Forget Devices</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.0BluetoothHeadphones-2.2.1TVSpeakers">2.2.1&nbsp;&nbsp;&nbsp=
+;&nbsp;TV Speakers</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ae=
+699093-37f3-4706-93b6-6989c295c4fb" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 187.0px;">
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 212.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>TV Speakers setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Definition</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Unchecked</p></td>
+<td class=3D"confluenceTd">
+<p>Audio sent to Bluetooth headphones, no audio directed to TV speakers or =
+to audio out for sound bar/audio device.</p></td>
+<td class=3D"confluenceTd">
+<p>Can this be unchecked and if so, automatic reconnect to top listed BT he=
+adphones?</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Checked (default)</p></td>
+<td class=3D"confluenceTd">
+<p>TV speakers or connected sound bar/audio device is the audio source.</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>In some cases both TV speakers and audio device can be heard.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.0BluetoothHeadphones-2.2.2PairedDevices">2.2.2&nbsp;&nbsp;&n=
+bsp;&nbsp;Paired Devices</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d9=
+d047bb-1782-4e8b-8306-d248c7785ac5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Paired Devices Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Paired Devices are grayed out and not selectable</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The list of paired devices is indented.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Paired devices are listed in order of last used, first listed.</p></td>
+<td class=3D"confluenceTd">
+<p>Maximum number of paired devices is 15.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A paired device is selected and connects:</p>
+<ul>
+<li>
+<p>animation during connection</p></li>
+<li>
+<p>after connected, radio button is checked</p></li>
+<li>
+<p>moves to first listed under paired devices</p></li>
+<li>
+<p>TV speakers is unchecked</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A paired device is selected and fails to connect:</p>
+<ul>
+<li>
+<p>animation during connection</p></li>
+<li>
+<p>pop up displays =E2=80=9Cconnection unsuccessful=E2=80=9D with notificat=
+ion and OK soft button</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>After OK button is selected, the device that failed to connect highlight=
+s again.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.0BluetoothHeadphones-2.2.3OtherDevices">2.2.3&nbsp;&nbsp;&nb=
+sp;&nbsp;Other Devices</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"55=
+6e43b8-6774-4df8-9485-6ca9037508e8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Other Devices Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Other Devices is a grayed out and not selectable</p></td>
+<td class=3D"confluenceTd">
+<p>Animation (circle) while searching for new devices lasting for up to 60 =
+seconds.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The list of other devices are indented.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Other devices are listed in order of Bluetooth detection</p></td>
+<td class=3D"confluenceTd">
+<p>TBD</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A device is selected</p>
+<ul>
+<li>
+<p>Pair is added on the right side</p></li>
+<li>
+<p>animation during pair</p></li>
+<li>
+<p>after paired and connected, moves to first setting under paired devices<=
+/p></li>
+<li>
+<p>radio button is checked</p></li>
+<li>
+<p>if need be, paired headphones are disconnected and listed below the newl=
+y paired headphones</p></li>
+<li>
+<p>TV speakers is unchecked</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A device is selected and fails to pair:</p>
+<ul>
+<li>
+<p>animation during connection</p></li>
+<li>
+<p>pop up displays =E2=80=9Cpairing unsuccessful=E2=80=9D with notification=
+ and OK soft button</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>After OK button is selected, the device that failed to pair highlights a=
+gain.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>If all the other devices can not display the =E2=80=9CMore Devices=E2=80=
+=A6=E2=80=9D is added as the last setting.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-2.0BluetoothHeadphones-2.2.3.1MoreDevicesforOtherDevices">2.2.=
+3.1&nbsp;&nbsp;&nbsp;More Devices for Other Devices</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"76=
+2cb769-61e7-40a3-8e58-18a62abea542" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>More Devices requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>More Devices is selected from Other Devices</p></td>
+<td class=3D"confluenceTd">
+<p>Animation (circle) while searching for other devices lasting for up to 6=
+0 seconds.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The complete list of Other devices displays including those displayed on=
+ the previous page</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.0BluetoothHeadphones-2.2.4PairedDevices">2.2.4&nbsp;&nbsp;&n=
+bsp;&nbsp;<span data-colorid=3D"qmlfrco5ox">Paired</span> Devices</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b9=
+914ec1-0a19-4494-b28f-918a3f8fadcb" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Forget Devices</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Selection of <span data-colorid=3D"jmqy3g9i7u">Paired</span> Devices dis=
+plays a submenu with</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p><span data-colorid=3D"re3b0osvxy">Paired</span> Devices in gray text and=
+ unselectable</p></li>
+<li>
+<p>list of paired devices (same as in previous menu)</p></li>
+<li>
+<p>First paired device is highlighted with =E2=80=9CForget=E2=80=9D to the =
+right</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Press OK for the highlighted device displays a pop up</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Do you want to forget NAMEPAIREDDEVICE?</p></li>
+<li>
+<p>Forget or Cancel buttons (highlighted)</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Forget in pop up is confirmed</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Selected device is unpaired and removed from the list of Paired devices =
+(both instances).</p></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.0BluetoothHeadphones-2.2.5NotificationsforPairedDevices">2.2=
+.5&nbsp;&nbsp;&nbsp;&nbsp;Notifications for Paired Devices</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"12=
+b40f12-5e4b-49df-8ede-994fb67dc19d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>More Devices requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Currently paired headphones are disconnected</p></td>
+<td class=3D"confluenceTd">
+<p>PAIREDHEADPHONES have been disconnected</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Batteries low for the paired headphones</p></td>
+<td class=3D"confluenceTd">
+<p>PAIREDHEADPHONES Batteries are low.</p>
+<p>Please charge the batteries in your Bluetooth headphones</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.0BluetoothHeadphones-2.2.6SupportedSkus">2.2.6 Supported Sku=
+s</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b6=
+8b0e15-da7f-48ca-a907-b534e02483ea" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 189.0px;">
+<col style=3D"width: 121.0px;">
+<col style=3D"width: 121.0px;">
+<col style=3D"width: 325.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>BT headphones added</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>2020</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>2021</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>NOTES</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>5695</p></td>
+<td class=3D"confluenceTd">
+<p>Yes</p></td>
+<td class=3D"confluenceTd">
+<p>Yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>5691</p></td>
+<td class=3D"confluenceTd">
+<p>NO</p></td>
+<td class=3D"confluenceTd">
+<p>Yes</p></td>
+<td class=3D"confluenceTd">
+<p>2020: No bluetooth module</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>5583</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>NO</p></td>
+<td class=3D"confluenceTd">
+<p>No bluetooth module</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_4_1037176625.1728074936970--

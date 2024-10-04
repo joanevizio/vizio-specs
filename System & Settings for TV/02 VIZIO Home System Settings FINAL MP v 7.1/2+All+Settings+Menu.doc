@@ -1,0 +1,696 @@
+Message-ID: <62023109.9.1728074721273@4651cd33682a>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_8_241251409.1728074721273"
+
+------=_Part_8_241251409.1728074721273
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>2 All Settings Menu</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>2 All Settings Menu</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074721261 {padding: 0px;}
+div.rbtoc1728074721261 ul {list-style: none;margin-left: 0px;}
+div.rbtoc1728074721261 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074721261">
+<style>[data-colorid=3Dsnx6crfmv1]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dsnx6crfmv1]{color:#cf2600}[data-colorid=3Dffsjo8jcw5]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dffsjo8jcw5]{colo=
+r:#cf2600}[data-colorid=3Dlvi0bnqdey]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dlvi0bnqdey]{color:#cf2600}[data-colorid=3Dpfzkjwgi=
+i6]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dpfzkjwgii6]=
+{color:#cf2600}[data-colorid=3Dtjgvpidnpj]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dtjgvpidnpj]{color:#cf2600}[data-colorid=3Dom89g=
+ve1yp]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dom89gve1=
+yp]{color:#cf2600}[data-colorid=3Dm1vp1qukje]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dm1vp1qukje]{color:#cf2600}[data-colorid=3Dl7=
+6y2k7v90]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dl76y2=
+k7v90]{color:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-2AllSettingsMenu-2.1AllSettingsMenuOrder">2.1 All Settin=
+gs Menu Order</a></li>
+<li><a href=3D"#id-2AllSettingsMenu-2.2NavigationofAllSettings">2.2 Navigat=
+ion of All Settings</a></li>
+<li><a href=3D"#id-2AllSettingsMenu-2.3VIZIOTest(Hidden)Menu">2.3 VIZIO Tes=
+t (Hidden) Menu</a></li>
+</ul>
+</div>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"57=
+74f7b5-c3ea-488b-848b-80e53f3f94c5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 469.0px;">
+<col style=3D"width: 249.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings Menu Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV settings are either adjusted from All Settings menu on the TV using t=
+he IR remote or from the SmartCast Mobile app.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>All settings, also known as the sidebar.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>When SmartCast Mobile app is used to adjust settings, the order is the s=
+ame as in the All Settings menu displayed on the TV.</p></td>
+<td class=3D"confluenceTd">
+<p>Differences are only as required for settings as per limitation of the a=
+pp.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When a system setting is changed using SmartCast Mobile app, a notificat=
+ion displays confirming the change has been completed with exception that c=
+hanges to most parental control settings do NOT display a notification on t=
+he TV.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>When SmartCast Mobile app is used to adjust the value of a slider, the a=
+djustment is also annunciated on the TV with a slider (no notification in t=
+his case). &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>When the MENU or gear key is first pressed, the header for the menu is A=
+ll Settings.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>The default selected setting is the top setting (Picture) if no selectio=
+n previously made. Thereafter All Settings launches with the last used sett=
+ing selected.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>All Settings Timeout and Dismissal:</p>
+<ul>
+<li>
+<p>For all skus, after the last key press timer starts. After 1 minute of s=
+creen quiescence the sidebar is dismissed.</p>
+<ul>
+<li>
+<p>During one 1 minute timer, if another key press the restart the 1 minute=
+ timer.</p></li>
+<li>
+<p>Antenna Scan complete then 1 minute timer starts.</p></li>
+</ul></li>
+<li>
+<p>A key press that displays another UI takes down the sidebar including:</=
+p>
+<ul>
+<li>
+<p>INPUT, PIC, MIC, HOME, partner keys</p>
+<ul>
+<li>
+<p><span data-colorid=3D"m1vp1qukje">PIC key dismisses Quick and deep links=
+ to Picture mode.</span></p></li>
+</ul></li>
+<li>
+<p>no dismissal with VOLUME, MUTE keys, INFO or CC</p>
+<ul>
+<li>
+<p><span data-colorid=3D"tjgvpidnpj">INFO displays the input change control=
+ which displays concurrently with sidebar (no overlap)</span></p></li>
+</ul></li>
+</ul></li>
+<li>
+<p>For System Info after 5 minutes timer then sidebar is dismissed.</p></li=
+>
+<li>
+<p><span data-colorid=3D"l76y2k7v90">Sidebar timeout timer is paused during=
+ if Talk Back is voicing, restarts after Talk Back is quiet.</span></p></li=
+>
+<li>
+<p>No timeout with antenna scan</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>1 minute timeout does not apply:</p>
+<ul>
+<li>
+<p>During antenna scan.</p></li>
+<li>
+<p>System Info (system info timeout after 5 minutes).</p></li>
+<li>
+<p>Hidden menu</p></li>
+<li>
+<p>non-customer facing ODM/SOC menus including factory menus</p></li>
+<li>
+<p><span data-colorid=3D"ffsjo8jcw5">Talk Back voicing</span></p></li>
+<li>
+<p><span data-colorid=3D"snx6crfmv1">CC notifications and closed captions d=
+o not take down TV settings.</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If a setting, option or name exceeds the maximum of 15 characters for in=
+put name or 24 characters for TV name or does not fit then ellipses used to=
+ indicate the name is incomplete. <span data-colorid=3D"pfzkjwgii6"> </span=
+></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"lvi0bnqdey">If Loki has not received values from D=
+TV service the first time leave setting blank (not a 0). </span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"om89gve1yp">This applies to Quick menu and All set=
+tings.</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2AllSettingsMenu-2.1AllSettingsMenuOrder">2.1 All Settings Men=
+u Order</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6b=
+4727f3-ad04-47e3-a27b-a5a0acd2180e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 220.0px;">
+<col style=3D"width: 496.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Sub menu</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Definition</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Picture</p></td>
+<td class=3D"confluenceTd">
+<p>Configures the picture settings.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Configures the audio settings.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>HDMI &amp; Gaming</p></td>
+<td class=3D"confluenceTd">
+<p>Configures HDMI, CEC and gaming settings.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Network</p></td>
+<td class=3D"confluenceTd">
+<p>Configures and tests the network connection for the TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth and Remote</p></td>
+<td class=3D"confluenceTd">
+<p>Configures Bluetooth Headphones, game controllers and the Voice remote.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Antenna Channels</p></td>
+<td class=3D"confluenceTd">
+<p>Configures the tuner.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td class=3D"confluenceTd">
+<p>Configures closed captions, video description, talk back and zoom mode f=
+or all models with SmartCast TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>System</p></td>
+<td class=3D"confluenceTd">
+<p>Configures menu language, time and timers, TV and input names, power mod=
+e, parental controls including the System PIN, store demo. Includes access =
+to System Information and reset to defaults.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Support</p></td>
+<td class=3D"confluenceTd">
+<p>Provides support including access to the support code, reboot TV, and ch=
+eck for updates. &nbsp;Includes a QR code for the user manual.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Privacy and Legal</p></td>
+<td class=3D"confluenceTd">
+<p>Configures viewing data and DAI settings. Displays the VIZIO privacy pol=
+icy and the License List. &nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2AllSettingsMenu-2.2NavigationofAllSettings">2.2 Navigation of=
+ All Settings</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"20=
+313c01-b22e-4f19-9628-94b818b5a05c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 452.0px;">
+<col style=3D"width: 264.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Definition</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A highlighted setting can be changed in two ways</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A press of the LEFT/RIGHT keys toggles the options displayed right of th=
+e setting in the the sidebar menu.</p></td>
+<td class=3D"confluenceTd">
+<p>Setting is immediately changed.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>A press of UP/DOWN navigates up and down in a menu.</p>
+<ul>
+<li>
+<p>A press of Up at top setting wraps to bottom setting. Examples:</p>
+<ul>
+<li>
+<p>Picture in All Settings wraps to Privacy &amp; Legal Central</p></li>
+<li>
+<p>Picture header in Picture menu wraps to Picture Mode Edit???</p></li>
+</ul></li>
+<li>
+<p>A press of Down at bottom setting wraps to top setting. Examples:</p>
+<ul>
+<li>
+<p>Privacy &amp; Legal Central in All Settings wraps to Picture</p></li>
+</ul></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Alternatively, a press of OK key opens the specific setting.</p>
+<ul>
+<li>
+<p>The setting name becomes the menu header</p></li>
+<li>
+<p>options displayed in the menu below.</p></li>
+<li>
+<p>The first option is selected &amp; highlighted.&nbsp;&nbsp;</p></li>
+<li>
+<p>A press of the UP or DOWN key highlights the next option above or below.=
+</p></li>
+<li>
+<p>To change to the highlighted setting press OK key.</p></li>
+<li>
+<p>The setting menu closes and the originating menu reopens with the settin=
+g and new option highlighted.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>For example, in Picture menu,</p>
+<ul>
+<li>
+<p>Picture mode is highlighted</p></li>
+</ul>
+<ul>
+<li>
+<p>press of OK key opens the Picture Mode options menu</p></li>
+<li>
+<p>current picture mode option highlighted</p></li>
+<li>
+<p>A press of the DOWN key highlights the next picture mode.</p></li>
+<li>
+<p>A press of OK switches to the highlighted option</p></li>
+<li>
+<p>Returns to the Picture menu with Picture mode highlighted.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If a carat is displayed the corresponding arrow navigates:</p>
+<ul>
+<li>
+<p>Left carat for header, then left arrow key takes back to All Settings ma=
+in menu</p></li>
+<li>
+<p>Right carat for a setting, then right arrow opens the menu for the setti=
+ng</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>For example,</p>
+<ul>
+<li>
+<p>Picture highlighted with left carat, left arrow returns to main menu wit=
+h Picture highlighted.</p></li>
+<li>
+<p>Advanced settings highlighted with right carat, right arrow opens Advanc=
+ed Settings submenu</p></li>
+<li>
+<p>Input Name highlighted with right carat, right arrow opens the Input Nam=
+e with soft keyboard.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Under specific conditions, if a setting is noted as =E2=80=9Cnot availab=
+le=E2=80=9D, then the setting cannot be selected or used.&nbsp; The setting=
+ is grayed out and not sent to the SmartCast app until the condition is rel=
+ieved.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Gray out is not used in SmartCast mobile (setting is not displayed).</p>
+<p>Gray out is not used in Set and Forget settings (e.g. Digital Audio unde=
+r TV Channels).</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2AllSettingsMenu-2.3VIZIOTest(Hidden)Menu">2.3 VIZIO Test (Hid=
+den) Menu</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"5d=
+7f82fd-a2de-4546-836e-3b94c8ee8a1a" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Menu</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Definition</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>VIZIO Test menu AKA Hidden menu</p></td>
+<td class=3D"confluenceTd">
+<p>Access to functions intended for use by engineering. &nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>To access the VIZIO Test menu, press</p>
+<ul>
+<li>
+<p>Press MENU or gear icon</p></li>
+<li>
+<p>Press LEFT</p></li>
+<li>
+<p>Press RIGHT</p></li>
+<li>
+<p>Press PLAY or UP</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_8_241251409.1728074721273--

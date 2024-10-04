@@ -1,0 +1,1967 @@
+Message-ID: <1311659659.7.1728074748640@141767f01b91>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6_1490343901.1728074748640"
+
+------=_Part_6_1490343901.1728074748640
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>5.5 CEC Control</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>5.5 CEC Control</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074748597 {padding: 0px;}
+div.rbtoc1728074748597 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074748597 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074748597">
+<style>[data-colorid=3Dy3jabp701f]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dy3jabp701f]{color:#cf2600}[data-colorid=3Dt0l4t0z325]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dt0l4t0z325]{colo=
+r:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5.5CECControl-5.5.1BasicCECrequirements">5.5.1 Basic CEC=
+ requirements</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.2VIZIOCECVendorID">5.5.2 VIZIO CEC Ven=
+dor ID</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3CECFeatures,Supported">5.5.3 CEC Feat=
+ures, Supported</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5.5CECControl-5.5.3.1DeviceDiscovery">5.5.3.1 Device Dis=
+covery</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3.2OneTouchPlay">5.5.3.2 One Touch Pla=
+y</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3.3SystemStandby">5.5.3.3 System Stand=
+by</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3.4RoutingControl">5.5.3.4 Routing Con=
+trol</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3.5RemoteControlPassThrough">5.5.3.5 R=
+emote Control Pass Through</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3.6DeckControl">5.5.3.6 Deck Control</=
+a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3.7SystemAudioControl">5.5.3.7 System =
+Audio Control</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.3.8ARC/eARC">5.5.3.8 ARC/eARC</a></li>
+</ul></li>
+<li><a href=3D"#id-5.5CECControl-5.5.4CECFeatures,NotSupported">5.5.4 CEC F=
+eatures, Not Supported</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.5CECDeviceData">5.5.5 CEC Device Data<=
+/a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.6AutomaticAudioSystemSupportforTV">5.5=
+.6 Automatic Audio System Support for TV</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.7CECAutomaticNaming">5.5.7 CEC Automat=
+ic Naming</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.8KeySupport">5.5.8 Key Support</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5.5CECControl-5.5.8.1KeySupportRequirements">5.5.8.1 Key=
+ Support Requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-5.5CECControl-5.5.9ARC/eARCcommandforDolbyDigitalPlus">5=
+.5.9 ARC/eARC command for Dolby Digital Plus</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.10HDMIDemoModeAudio">5.5.10 HDMI Demo =
+Mode Audio</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.11VirtualInputDisplayandSelection">5.5=
+.11 Virtual Input Display and Selection</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5.5CECControl-5.5.11.1CECdeviceconnectedtoHDMIport">5.5.=
+11.1 CEC device connected to HDMI port</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.11.2CECVirtualDevicesAKAVCEC">5.5.11.2=
+ CEC Virtual Devices AKA VCEC</a></li>
+</ul></li>
+<li><a href=3D"#id-5.5CECControl-5.5.12ARCPlugandPlay">5.5.12 ARC Plug and =
+Play</a></li>
+<li><a href=3D"#id-5.5CECControl-5.5.13TVDeviceDiscovery">5.5.13 TV Device =
+Discovery</a></li>
+</ul>
+</div>
+<p></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"2b=
+4e25ef-78c7-4e7d-99c8-5d71056ed007" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC Control Overview</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>HDMI Consumer Electronics Control (CEC) is a method of controlling devic=
+es with one remote (e.g. the TV remote), to solve the problem of multiple r=
+emotes to control all connected devices.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Full support of CEC is required with some notable exceptions (no support=
+ for One touch Record).&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.1BasicCECrequirements">5.5.1 Basic CEC requi=
+rements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"28=
+c4b1a0-6dd1-4b20-85a9-39b60dfbeb98" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 622.0px;">
+<col style=3D"width: 136.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Basic CEC requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>CEC is supported with the goal to improve the user experience by simplif=
+ying the set up and use of devices connected to the TV.&nbsp;&nbsp;</p></td=
+>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Upon discovery, a device is controlled via CEC using the TV remote witho=
+ut need to define the make or model of the CEC device, or use IR or Bluetoo=
+th to pass IR codes.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If CEC is enabled, the CEC device is controlled using CEC commands.&nbsp=
+;&nbsp;TV Remote IR codes received by the TV are passed to the CEC device a=
+s CEC commands.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The CEC setting of enabled or disabled applies to all connected devices.=
+&nbsp;&nbsp;If CEC support is enabled, CEC must be turned off from the devi=
+ce to exclude it from CEC control.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.2VIZIOCECVendorID">5.5.2 VIZIO CEC Vendor ID=
+</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"46=
+7b42af-6f89-4625-8067-31631761333f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 504.0px;">
+<col style=3D"width: 214.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>VIZIO CEC Vendor ID requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As defined by HDMI 2.0, the vendor ID uses the first 3 bytes of the&nbsp=
+;IEEE Organizationally Unique Identifier (OUI)&nbsp;as defined by&nbsp;IEEE=
+ Registration Authority Committee (RAC).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The vendor ID is the RAC assigned MAC address.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>VIZIO CEC Vendor ID uses the first 3 bytes of the very first assigned MA=
+C address which is 00:19:9D.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.3CECFeatures,Supported">5.5.3 CEC Features, =
+Supported</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8b=
+6f2e90-1289-4cd0-aef6-db20b6b71075" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC features support</strong></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Device Discovery</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>One Touch Play</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>System Standby</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Routing Control</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Remote Control Pass Through</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Deck Control</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>System Audio Control</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>ARC</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>eARC</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.1DeviceDiscovery">5.5.3.1 Device Discovery=
+</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"26=
+c8d91b-f6eb-462d-b14e-28a78354957b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 443.0px;">
+<col style=3D"width: 135.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Device Discovery requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRail Test Case #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Device discovery detects if the device includes CEC and discovers the de=
+vice type.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If discovered and CEC functionality remains enabled, then the supported =
+CEC features apply.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>After discovery, if CEC is turned off, then no CEC functionality is supp=
+orted, listed devices are deleted and CEC device name resets to the default=
+ HDMI port name (e.g. HDMI-1).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/20929957" rel=3D"nofollow">C20929957</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Only one&nbsp;audio system (audio receiver or sound bar) can be configur=
+ed: delete a previous&nbsp;audio system&nbsp;upon discovery of a new one.&n=
+bsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.2OneTouchPlay">5.5.3.2 One Touch Play</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a2=
+9ac161-588d-4fbd-9dba-c0ba9e5f55f4" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 549.0px;">
+<col style=3D"width: 169.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>One Touch Play Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>One touch play is supported for playback devices, e.g. Blu-ray players</=
+p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If the PLAY key is pressed on a playback device, both the CEC device and=
+ the TV are powered on, if needed, the TV source is switched to the playbac=
+k device, and play begins for the CEC device.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21370503" rel=3D"nofollow">C21370503</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Per VIZIO mandated requirement, One Touch Play is not supported for Tune=
+</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.3SystemStandby">5.5.3.3 System Standby</h4=
+>
+<div class=3D"table-wrap">
+<table data-table-width=3D"960" data-layout=3D"wide" data-local-id=3D"7c63f=
+1f0-5500-43dc-bc8a-28eae13e80c0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 560.0px;">
+<col style=3D"width: 218.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>System Standby Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRail Test Case #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"y3jabp701f"><span class=3D"inline-comment-marker" =
+data-ref=3D"541009e9-97a5-493a-b084-0959bc12e104">If the last source was an=
+ HDMI port and Input at Power On setting is VIZIO Home </span></span><span =
+class=3D"inline-comment-marker" data-ref=3D"541009e9-97a5-493a-b084-0959bc1=
+2e104">then at TV power on the CEC device is NOT powered on. </span></p>
+<ul>
+<li>
+<p>I<span data-colorid=3D"t0l4t0z325">f Input at Power On setting is Last U=
+sed input then at TV power on the CEC device IS powered on. </span></p></li=
+>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"541009e9-97a5-493a-b08=
+4-0959bc12e104">A CEC device automatically powers off when no longer the so=
+urce. </span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>No CEC power on to support Input at Power On</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A CEC device is powered on when a CEC device is selected as the source f=
+or the TV and automatically powered off when no longer the source.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"160c1940-940f-4a65-801=
+8-d7202664ac77">If TV is powered down,</span> issue a standby command to al=
+l connected CEC devices.&nbsp;&nbsp;Each device can choose to follow or ign=
+ore the request.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367096" rel=3D"nofollow">C21367096</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The TV responds to a standby command issued by a CEC devices if the curr=
+ent active source.&nbsp;&nbsp;That is, the TV powers down when an active CE=
+C device is the current source and is powered down from the power button on=
+ the front panel or remote of the device.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>A standby command from a CEC device that is not the current active sourc=
+e is ignored.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A sound bar follows a standby command.&nbsp;&nbsp;If a CEC audio system =
+is connected and selected as the audio source (TV speakers are off), send p=
+ower on to the audio system when TV is powered on.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.4RoutingControl">5.5.3.4 Routing Control</=
+h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"81=
+7bbf95-404a-4920-aca2-1e9c69d620af" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 420.0px;">
+<col style=3D"width: 298.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Routing Control Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Automatic switching by a signal source connected to a hub such as an AV =
+receiver.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Example 1: TV initiating an input switch on sound bar to the input with =
+a Blu-ray player.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Example 2: Press Play on a Blu-ray player switches to</p>
+<ul>
+<li>
+<p>input connected to the player on the audio receiver</p></li>
+<li>
+<p>input connected to the AVR on TV.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>This is One Touch Play</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.5RemoteControlPassThrough">5.5.3.5 Remote =
+Control Pass Through</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a6=
+66562c-bc4f-442c-ab36-5f5e89b43ef5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 423.0px;">
+<col style=3D"width: 295.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Remote Control Pass Through Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Remote Control Pass Through provides device control of the current sourc=
+e using the TV remote.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A key press on the TV remote control is passed as a CEC command to the c=
+urrent CEC device.</p></td>
+<td class=3D"confluenceTd">
+<p>Examples: Play, fast forward</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.6DeckControl">5.5.3.6 Deck Control</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8e=
+03e693-66eb-4225-999a-51c89889318d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 423.0px;">
+<col style=3D"width: 295.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Deck Control Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Deck Control supports TV control of the transport functions for a playba=
+ck component such as Blu-ray or HD DVD players or Camcorders.</p></td>
+<td class=3D"confluenceTd">
+<p>Transport functions include: play, pause, rewind, fast forward, stop, re=
+cord</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.7SystemAudioControl">5.5.3.7&nbsp;System A=
+udio Control</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"00=
+578ac3-c1a4-4311-bb4a-73c0412445a4" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 422.0px;">
+<col style=3D"width: 296.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>System Audio Control Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Volume control of an AV receiver or sound bar using TV remote control.</=
+p></td>
+<td class=3D"confluenceTd">
+<p>Volume Up/Down and mute are sent as CEC commands to the audio device.</p=
+></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.3.8ARC/eARC">5.5.3.8 ARC/eARC</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"71=
+e15a2e-34dc-4690-9c70-2fdc592d5d9b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 426.0px;">
+<col style=3D"width: 294.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>ARC/eARC Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>ARC/eARC works immediately when an audio receiver or sound bar is discov=
+ered and TV speakers are turned off.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>TV speakers setting is set to =E2=80=9CAuto=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Volume control is sent to the sound bar or audio receiver via ARC/eARC.<=
+/p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>TV audio is sent for current source to the sound bar or audio receiver.&=
+nbsp;&nbsp;</p>
+<ul>
+<li>
+<p>TV tuner</p></li>
+<li>
+<p>External devices connected to TV (e.g. cable box)</p></li>
+<li>
+<p>Streaming content.&nbsp;&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If TV speakers are turned on, both volume control and TV audio are no lo=
+nger sent to the sound bar or audio receiver.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>TV speakers setting is set to =E2=80=9COn=E2=80=9D.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.4CECFeatures,NotSupported">5.5.4 CEC Feature=
+s, Not Supported</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b0=
+7419d1-fe58-4885-a84f-ff0a2ceae563" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 419.0px;">
+<col style=3D"width: 299.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC Features, Not Supported Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>One Touch Record</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Vendor Specific Command not supported for competitor sound bars/audio re=
+ceivers.</p></td>
+<td class=3D"confluenceTd">
+<p>Vendor specific commands are supported for VIZIO sound bars.</p>
+<ul>
+<li>
+<p>TV control of sound bar features</p></li>
+<li>
+<p>optimize volume response</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Device OSD Display</p></td>
+<td class=3D"confluenceTd">
+<p>May be supported for VIZIO sound bar</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.5CECDeviceData">5.5.5 CEC Device Data</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"77=
+feedd5-bdad-45ab-a691-a2c29d4a72e5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 419.0px;">
+<col style=3D"width: 299.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC Device Data Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Not included in CEC menu:</p>
+<ul>
+<li>
+<p>CEC physical address</p></li>
+<li>
+<p>CEC version</p></li>
+<li>
+<p>vendor ID</p></li>
+<li>
+<p>Power Status for device</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Not included in System info either.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.6AutomaticAudioSystemSupportforTV">5.5.6 Aut=
+omatic Audio System Support for TV</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8d=
+6b00df-abe3-436d-8e0d-862b4e8cb05f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 421.0px;">
+<col style=3D"width: 297.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Auto Audio System Support for TV Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When a CEC audio receiver or sound bar is discovered, the TV speakers ar=
+e turned off. &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>VOLUME and MUTE keys are passed as commands to the audio receiver or sou=
+nd ba</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>A press of the TV VOLUME and MUTE keys displays the volume bar with =E2=
+=80=9CAudio System=E2=80=9D above the volume bar.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The audio receiver or sound bar is powered on and off with the TV</p></t=
+d>
+<td class=3D"confluenceTd">
+<p>TV issues CEC power on and power off commands to the sound bar or audio =
+receiver</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If sound bar or audio receiver is turned off while the TV is on, then th=
+e TV speakers are turned on.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>VOLUME and MUTE keys are sent as IR codes to the TV until the sound bar =
+or audio receiver is powered again</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.7CECAutomaticNaming">5.5.7 CEC Automatic Nam=
+ing</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"70=
+edb00a-907a-4fe3-bf23-62df05b09713" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 420.0px;">
+<col style=3D"width: 298.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC Automatic Naming Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Details</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>5 device types discoverable over CEC.</p>
+<ul>
+<li>
+<p>TV (1)</p></li>
+<li>
+<p>Recording Device (2)</p></li>
+<li>
+<p>Playback Device (4)</p></li>
+<li>
+<p>Tuner (4)</p></li>
+<li>
+<p>Audio System (1).&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Only one audio system can be connected to a TV</p></li>
+<li>
+<p>Two recording devices can be connected to TV</p></li>
+<li>
+<p>Four playback devices or tuners can be connected to TV.</p></li>
+<li>
+<p>No cable boxes or satellite support CEC except Dish Network joeys and ho=
+ppers.&nbsp;&nbsp;</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A maximum of 13 devices can be connected on the HDMI CEC system for the =
+TV.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Devices connected directly to a TV</p></li>
+<li>
+<p>Devices connected to a hub such as an audio receiver.&nbsp;&nbsp;</p></l=
+i>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Devices may include two device types but is discovered as a single devic=
+e. Examples are:</p>
+<ul>
+<li>
+<p>Tuner &amp; Recording Device AKA DVR or cable box that records</p></li>
+<li>
+<p>Playback Device &amp; Recording Device AKA camcorder</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>At discovery, the TV assigns the name provided by the manufacturer which=
+ may include the branding name.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The assigned CEC name can be replaced with a customer name.&nbsp;</p></t=
+d>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.8KeySupport">5.5.8 Key Support</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3a=
+55e353-cc5d-43c1-ae80-b59efed3d91d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 144.16px;">
+<col style=3D"width: 119.14px;">
+<col style=3D"width: 90.14px;">
+<col style=3D"width: 96.14px;">
+<col style=3D"width: 87.14px;">
+<col style=3D"width: 92.14px;">
+<col style=3D"width: 89.14px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>TV Remote Control Key</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC Command</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Recorder</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Playback</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Tuner</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio System</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TV</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Play</p></td>
+<td class=3D"confluenceTd">
+<p>Play</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Pause</p></td>
+<td class=3D"confluenceTd">
+<p>Pause</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Stop</p></td>
+<td class=3D"confluenceTd">
+<p>Stop</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Rewind</p></td>
+<td class=3D"confluenceTd">
+<p>Rewind</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Fast Forward</p></td>
+<td class=3D"confluenceTd">
+<p>Fast Forward</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>&lt;Forward&gt;</p></td>
+<td class=3D"confluenceTd">
+<p>Forward</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>&lt;Backward&gt;</p></td>
+<td class=3D"confluenceTd">
+<p>Backward</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Record</p></td>
+<td class=3D"confluenceTd">
+<p>Record</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>CH Up</p></td>
+<td class=3D"confluenceTd">
+<p>Channel Up</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>CH Down</p></td>
+<td class=3D"confluenceTd">
+<p>Channel Down</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>MENU</p></td>
+<td class=3D"confluenceTd">
+<p>Root Menu</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>Select</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>EXIT</p></td>
+<td class=3D"confluenceTd">
+<p>Exit</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>BACK</p></td>
+<td class=3D"confluenceTd">
+<p>Exit</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p>&lt;Enter&gt;</p></td>
+<td class=3D"confluenceTd">
+<p>Enter</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p>Up</p></td>
+<td class=3D"confluenceTd">
+<p>Up</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p>Down</p></td>
+<td class=3D"confluenceTd">
+<p>Down</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p>Left</p></td>
+<td class=3D"confluenceTd">
+<p>Left</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p>Right</p></td>
+<td class=3D"confluenceTd">
+<p>Right</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">20</td>
+<td class=3D"confluenceTd">
+<p>GUIDE</p></td>
+<td class=3D"confluenceTd">
+<p>Electronic Program Guide</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">21</td>
+<td class=3D"confluenceTd">
+<p>LIST</p></td>
+<td class=3D"confluenceTd">
+<p>Content menu</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">22</td>
+<td class=3D"confluenceTd">
+<p>0 =E2=80=93 9</p></td>
+<td class=3D"confluenceTd">
+<p>0 =E2=80=93 9</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">23</td>
+<td class=3D"confluenceTd">
+<p>- (dash)</p></td>
+<td class=3D"confluenceTd">
+<p>Dot</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">24</td>
+<td class=3D"confluenceTd">
+<p>Volume Up</p></td>
+<td class=3D"confluenceTd">
+<p>Volume Up</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">25</td>
+<td class=3D"confluenceTd">
+<p>Volume Down</p></td>
+<td class=3D"confluenceTd">
+<p>Volume Down</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">26</td>
+<td class=3D"confluenceTd">
+<p>Mute</p></td>
+<td class=3D"confluenceTd">
+<p>Mute</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h5 id=3D"id-5.5CECControl-5.5.8.1KeySupportRequirements">&nbsp;5.5.8.1 Key=
+ Support Requirements</h5>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"06=
+d011f6-6249-4004-915a-6c4e9725e18e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 422.0px;">
+<col style=3D"width: 296.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Key Support Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Remote Control Passthrough support of keys on the remote.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Not all remote control keys are supported for all devices.&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Manufacturer dictates passthrough functions available for the device.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Some passthrough functions do not apply to all device types (e.g. Channe=
+l Up/Down only applies to Tuner).&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.9ARC/eARCcommandforDolbyDigitalPlus">5.5.9 A=
+RC/eARC command for Dolby Digital Plus</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"41=
+380971-0cde-4907-81f8-9aa5bf7b0a1e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 421.0px;">
+<col style=3D"width: 401.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>ARC Command Dolby Digital Plus Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV must query the audio decoding capabilities of the downstream device v=
+ia the Short Audio Descriptor CEC message.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>&nbsp;If Dolby Digital Plus is detected, transmit Dolby Digital Plus ove=
+r HDMI ARC to the audio device.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.10HDMIDemoModeAudio">5.5.10 HDMI Demo Mode A=
+udio</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"85=
+7d6a9a-237c-435e-a27d-67974944cd03" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 426.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>HDMI Demo Mode Audio Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For sound bar, to play demo mode content from a media player and control=
+ the audio, only for HDMI demo mode, support audio commands from any device=
+ type (not limited to TV):</p>
+<ul>
+<li>
+<p>Volume Up</p></li>
+<li>
+<p>Volume Down</p></li>
+<li>
+<p>Mute.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.11VirtualInputDisplayandSelection">5.5.11 Vi=
+rtual Input Display and Selection</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4c=
+e46836-711d-45d7-a714-b7eb8474e187" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 429.0px;">
+<col style=3D"width: 289.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Reset Input Select menu display Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Input selection includes the ability to select all discovered CEC device=
+s.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If an HDMI hub, such as an&nbsp;audio receiver or sound bar, the Input s=
+election is required to include the CEC devices connected to the hub as vir=
+tual devices.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.11.1CECdeviceconnectedtoHDMIport">5.5.11.1 C=
+EC device connected to HDMI port</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"68=
+807457-5989-4ef8-9af3-7824114dc2e6" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 433.0px;">
+<col style=3D"width: 409.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC device Connected to HDMI Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Upon discovery, the CEC device name (as per section&nbsp;2.5&nbsp;CEC Au=
+tomatic Naming) displays instead of HDMI port.</p></td>
+<td class=3D"confluenceTd">
+<p>The device name can be replaced with a customer selected name if desired=
+.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>CEC devices connected to an HDMI hub (e.g. sound bar or&nbsp;audio recei=
+ver), then these devices must also display in the list of inputs that can b=
+e selected as virtual devices.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5.5CECControl-5.5.11.2CECVirtualDevicesAKAVCEC">5.5.11.2 CEC&n=
+bsp;Virtual Devices AKA VCEC</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d3=
+80a908-a94e-4541-bc0f-45f245b64a66" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 436.0px;">
+<col style=3D"width: 282.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC Virtual Devices Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>CEC devices connected to&nbsp;a&nbsp;CEC&nbsp;HDMI hub&nbsp;such as an&n=
+bsp;audio receiver or sound bar are also detectable via CEC.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>These devices must display in the Input list as selectable virtual devic=
+es.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The CEC assigned name is used for the virtual device.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>CEC Virtual inputs cannot be hidden.</p></td>
+<td class=3D"confluenceTd">
+<p>If the virtual input is connected to an audio device that is hidden then=
+ the virtual input is not displayed.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.12ARCPlugandPlay">5.5.12 ARC Plug and Play</=
+h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"1c=
+a67488-4f7d-484c-bace-9d430480281d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 439.0px;">
+<col style=3D"width: 279.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>ARC Plug and Play Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When a sound bar or audio receiver is connected to the ARC HMDI input, t=
+he device is immediately discovered</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If CEC is set to Enabled, then full CEC support applies including discov=
+ery and control of virtual devices connected to sound bar or audio receiver=
+.&nbsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5.5CECControl-5.5.13TVDeviceDiscovery">5.5.13 TV Device Discov=
+ery</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"28=
+c63865-8b84-4602-bedf-8f81af6c1fd9" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 440.0px;">
+<col style=3D"width: 278.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>TV Device Discovery Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If CEC is set to Enabled, then all connected CEC devices are discovered =
+for all HDMI ports.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If a sound bar or&nbsp;audio receiver discovered then virtual CEC device=
+s connected to the audio device are also discovered.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_6_1490343901.1728074748640--

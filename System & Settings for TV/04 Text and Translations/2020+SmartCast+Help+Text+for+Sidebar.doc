@@ -1,0 +1,4554 @@
+Message-ID: <1094255943.9.1728075192817@141767f01b91>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_8_1522480992.1728075192817"
+
+------=_Part_8_1522480992.1728075192817
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>2020 SmartCast Help Text for Sidebar</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>2020 SmartCast Help Text for Sidebar</h1>
+    <div class=3D"Section1">
+        <p>
+<style>[data-colorid=3Dczfvj248k4]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dczfvj248k4]{color:#cf2600}[data-colorid=3Dyp74agm4tk]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dyp74agm4tk]{colo=
+r:#cf2600}[data-colorid=3Dtkd0pphl6b]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dtkd0pphl6b]{color:#cf2600}[data-colorid=3Dx9s8h2ln=
+su]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dx9s8h2lnsu]=
+{color:#cf2600}[data-colorid=3Dpu4rcr9ezu]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dpu4rcr9ezu]{color:#cf2600}[data-colorid=3Dqnvao=
+zx2sw]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dqnvaozx2=
+sw]{color:#cf2600}[data-colorid=3Dswgkc003a8]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dswgkc003a8]{color:#cf2600}[data-colorid=3Doq=
+wt6mnxph]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Doqwt6=
+mnxph]{color:#cf2600}[data-colorid=3Djspsvy0mx3]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Djspsvy0mx3]{color:#cf2600}[data-colorid=
+=3Dmn1uss7rz4]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+mn1uss7rz4]{color:#cf2600}[data-colorid=3Dliu8nd9joq]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dliu8nd9joq]{color:#cf2600}[data-colo=
+rid=3Db3ck8lbizd]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Db3ck8lbizd]{color:#cf2600}[data-colorid=3Dqfsii8sydh]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dqfsii8sydh]{color:#cf2600}[data-c=
+olorid=3Dx9y6d081sk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dx9y6d081sk]{color:#cf2600}[data-colorid=3Dmrhdlulehg]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dmrhdlulehg]{color:#cf2600}[dat=
+a-colorid=3Ddygy2nnrab]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Ddygy2nnrab]{color:#cf2600}[data-colorid=3Dx42jv0xvyl]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dx42jv0xvyl]{color:#cf2600}[=
+data-colorid=3Dw7n9lriq3y]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dw7n9lriq3y]{color:#cf2600}[data-colorid=3Dh7ta4h5jfi]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dh7ta4h5jfi]{color:#cf260=
+0}[data-colorid=3Dtxlfnmkumu]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dtxlfnmkumu]{color:#cf2600}[data-colorid=3Dd3e8xva9rv]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dd3e8xva9rv]{color:#cf=
+2600}[data-colorid=3Dh9sw2znvma]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dh9sw2znvma]{color:#cf2600}[data-colorid=3Dikk4l061z0]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dikk4l061z0]{color:=
+#cf2600}[data-colorid=3Dhghgz7lq0g]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dhghgz7lq0g]{color:#cf2600}[data-colorid=3Dqzhv3kxea2]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dqzhv3kxea2]{col=
+or:#cf2600}[data-colorid=3Dgw9nz2o0x4]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dgw9nz2o0x4]{color:#cf2600}[data-colorid=3Duyf3znfv=
+xe]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Duyf3znfvxe]=
+{color:#cf2600}[data-colorid=3Dubvtz846kn]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dubvtz846kn]{color:#cf2600}[data-colorid=3Dmi5f8=
+q5ikg]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dmi5f8q5i=
+kg]{color:#cf2600}[data-colorid=3Dhohdxaetp4]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dhohdxaetp4]{color:#cf2600}[data-colorid=3Dnr=
+la5us7dk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dnrla5=
+us7dk]{color:#cf2600}[data-colorid=3Dqwov0r9xou]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dqwov0r9xou]{color:#cf2600}[data-colorid=
+=3Dy29dhd37tq]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+y29dhd37tq]{color:#cf2600}[data-colorid=3Dmta9ia95oc]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dmta9ia95oc]{color:#cf2600}[data-colo=
+rid=3Dmxc5eob86s]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dmxc5eob86s]{color:#cf2600}[data-colorid=3Dzrtlwa6ccg]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dzrtlwa6ccg]{color:#cf2600}[data-c=
+olorid=3Diwcwrvzw8m]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Diwcwrvzw8m]{color:#cf2600}[data-colorid=3Ddbg5z9cu1z]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Ddbg5z9cu1z]{color:#cf2600}[dat=
+a-colorid=3Dkk0lvxkon5]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dkk0lvxkon5]{color:#cf2600}[data-colorid=3Drlrzdjr05c]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Drlrzdjr05c]{color:#cf2600}[=
+data-colorid=3Dx4y9hk3j18]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dx4y9hk3j18]{color:#cf2600}[data-colorid=3Dp1ctdnemdf]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dp1ctdnemdf]{color:#cf260=
+0}[data-colorid=3Dvdfz959v03]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dvdfz959v03]{color:#cf2600}[data-colorid=3Da5axo9yzt5]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Da5axo9yzt5]{color:#cf=
+2600}[data-colorid=3Difzxphf89i]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Difzxphf89i]{color:#cf2600}[data-colorid=3Do25rjpmbaf]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Do25rjpmbaf]{color:=
+#cf2600}[data-colorid=3Dgucpxynt26]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dgucpxynt26]{color:#cf2600}[data-colorid=3Dq6smh5v4kv]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dq6smh5v4kv]{col=
+or:#cf2600}[data-colorid=3Dfstfpau0t7]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dfstfpau0t7]{color:#cf2600}</style></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"960" data-layout=3D"wide" data-local-id=3D"f1589=
+023-ab0a-4ee5-920d-34b044bdfe2e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 104.0px;">
+<col style=3D"width: 91.0px;">
+<col style=3D"width: 121.0px;">
+<col style=3D"width: 174.0px;">
+<col style=3D"width: 203.0px;">
+<col style=3D"width: 225.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Help Text, Notification, Pop Up</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Menu</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>English</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Espa=C3=B1ol</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Fran=C3=A7ais</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select picture mode, adjust backlight, brightness, contrast, color, tint=
+, sharpness, and access advanced picture settings.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione el modo de imagen, ajuste la luz de fondo, el brillo, el cont=
+raste, el color, el tono, la nitidez y acceda a la configuraci=C3=B3n avanz=
+ada de im=C3=A1genes.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez le mode image, ajustez le r=C3=A9tro=C3=A9clairage, la=
+ luminosit=C3=A9, le contraste, la couleur, la teinte, la nettet=C3=A9 et a=
+cc=C3=A9dez aux param=C3=A8tres avanc=C3=A9s de l'image.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust speaker balance, lip sync, surround sound, volume leveling, audio=
+ equalizer, analog and digital outputs, or turn built-in speakers on/off.</=
+p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste el balance de los altavoces, la sincronizaci=C3=B3n de audio, el =
+sonido envolvente, la nivelaci=C3=B3n de volumen, el ecualizador de audio, =
+las salidas anal=C3=B3gicas y digitales o encienda/apague los altavoces int=
+egradas.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>=C3=89galisez les haut-parleurs, ajustez la synchronisation image/son, l=
+e son surround, le niveau du volume, les sorties analogiques et num=C3=A9ri=
+ques ou activez et d=C3=A9sactivez les haut-parleurs int=C3=A9gr=C3=A9s.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Adjust speaker balance, lip sync, surround sound, volume leveling, bass,=
+ treble, analog and digital outputs, or turn built-in speakers on/off.</p><=
+/td>
+<td class=3D"confluenceTd">
+<p>Ajuste el balance de los altavoces, la sincronizaci=C3=B3n de audio, el =
+sonido envolvente, la nivelaci=C3=B3n de volumen, graves, agudos, las salid=
+as anal=C3=B3gicas y digitales o encienda/apague los altavoces integradas.<=
+/p></td>
+<td class=3D"confluenceTd">
+<p>=C3=89galisez les haut-parleurs, ajustez la synchronisation image/son, l=
+e son surround, le niveau du volume, basses, aigus, les sorties analogiques=
+ et num=C3=A9riques ou activez et d=C3=A9sactivez les haut-parleurs int=C3=
+=A9gr=C3=A9s.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Connect to W-iFi, test network speed, and access advanced network settin=
+gs.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Con=C3=A9ctese a Wi-Fi, pruebe la velocidad de la red y acceda a la conf=
+iguraci=C3=B3n avanzada de red.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Connectez-vous au Wi-Fi, testez la vitesse du r=C3=A9seau et acc=C3=A9de=
+z aux param=C3=A8tres r=C3=A9seau avanc=C3=A9s.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Scan for channels, remove channels, setup analog and digital audio and p=
+arental controls.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Busque canales, elimine canales o configure el audio anal=C3=B3gico y di=
+gital y controles parentales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Balayez pour trouver de cha=C3=AEnes, supprimez des cha=C3=AEnes, ou ins=
+tallez l'audio analogique et num=C3=A9rique et les contr=C3=B4les parentaux=
+.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility services include closed captions, Video Description, text-=
+to-speech Talk Back and Zoom Mode to enlarge displayed text.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Los servicios de Accesibilidad incluyen&nbsp; los subt=C3=ADtulos, Descr=
+ipci=C3=B3n Video, texto-a-voz Talk Back y Modo Zoom para agrandar el texto=
+ en la pantalla.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Les services d'accessibilit=C3=A9 comprennent sous-titres, description v=
+id=C3=A9o, la synth=C3=A8se vocale Talk Back et le Mode Zoom pour agrandir =
+le texte affich=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Setup menu language, time, CEC, voice remote and name TV or inputs.</p><=
+/td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Programe el idioma de men=C3=BA, hora, CEC, control remoto de voz, y nom=
+brar la TV o entradas.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Configurez la langue du menu, l'heure, les CEC, t=C3=A9l=C3=A9commande v=
+ocale et nommez la TV ou les entr=C3=A9es.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Administrative tasks are available here. View system information and res=
+et settings.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Aqu=C3=AD est=C3=A1n disponibles los controles administrativos.&nbsp; Ve=
+a la informaci=C3=B3n de sistema y reinicie los ajustes.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Les t=C3=A2ches administratives se trouvent ici. Affichez les informatio=
+ns syst=C3=A8me et r=C3=A9initialisez les param=C3=A8tres.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Main</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>BT heaphones</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pair, reconnect and manage your Bluetooth headphones.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Emparejar, reconectar y administrar sus aud=C3=ADfonos Bluetooth.</p></t=
+d>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Apparirer, reconnecter, et g=C3=A9rer votre casque d'=C3=A9coute Bluetoo=
+th.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p>Select from preset picture modes. Your television=E2=80=99s energy consu=
+mption may change based on your usage and picture settings.</p></td>
+<td class=3D"confluenceTd">
+<p>Elija entre los modos de imagen preestablecidos. El consumo de energ=C3=
+=ADa de su televisi=C3=B3n puede cambiar basado en su uso y la programaci=
+=C3=B3n de imagen.</p></td>
+<td class=3D"confluenceTd">
+<p>S=C3=A9lectionnez =C3=A0 partir des modes image pr=C3=A9r=C3=A9gl=C3=A9s=
+. La consommation d'=C3=A9nergie de votre TV peut changer en fonction de vo=
+tre utilisation et des param=C3=A8tres de l'image.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ambient Light Sensor</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Detects your room's light level and automatically adjusts the backlight.=
+ Select Low for the darkest picture or High for the brightest picture. Sele=
+ct Off for manual backlight control.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Detecta el nivel de iluminaci=C3=B3n de la sala y ajusta la luz de fondo=
+. Seleccione Bajo para ver la imagen m=C3=A1s oscura, Alto para m=C3=A1s br=
+illante o Apagado para controlar manualmente.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9tecte le niveau de luminosit=C3=A9 dans votre pi=C3=A8ce et ajust=
+e le r=C3=A9tro=C3=A9clairage. S=C3=A9lectionnez Bas pour l'image la plus s=
+ombre, =C3=89lev=C3=A9 pour l'image la plus claire ou Arr=C3=AAt pour le co=
+ntr=C3=B4le manuel.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Backlight</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts brightness without affecting black level or contrast.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta el brillo sin afectar el nivel de negro ni el contraste.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle la luminosit=C3=A9 sans influer sur le niveau de noir ou le c=
+ontraste.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Tone Mapping</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the mid-range brightness level.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta el nivel de brillo de rango medio.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle le niveau de luminosit=C3=A9 moyen.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Luminance</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the Luminance of standard content without affecting black level.=
+</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta la Luminosidad del contenido est=C3=A1ndar sin afectar el nivel n=
+egro.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle la Luminance de contenu standard sans affecter le niveau noir=
+.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Brightness</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the black level of the picture.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta el nivel de negro de la imagen.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle le niveau de noir de l'image.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Contrast</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the white level, either fading the picture or sharpening the con=
+trast between dark and bright areas.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta el nivel de blanco, difuminando la imagen o agudizando el contras=
+te entre las =C3=A1reas oscuras y brillantes.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle le niveau de blanc, soit en d=C3=A9colorant l'image ou en acc=
+entuant le contraste entre les zones fonc=C3=A9es et les zones claires.</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Color</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the intensity of colors.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta la intensidad de los colores.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle l'intensit=C3=A9 des couleurs.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Tint</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the hue of the picture. This is useful for improving flesh tones=
+.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta el matiz de la imagen. Esto es =C3=BAtil para mejorar los tonos d=
+e piel.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle la teinte de l'image. Cela est utile pour am=C3=A9liorer les =
+tons chair.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sharpness</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the edge sharpness of the picture, making details easier to see.=
+</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta la nitidez de los bordes de la imagen, para facilitar la visualiz=
+aci=C3=B3n de los detalles.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A8gle la nettet=C3=A9 des contours de l'image, permettant ainsi de =
+voir les d=C3=A9tails plus facilement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">20</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Color Temp</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select a preset color temperature.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione una temperatura de color preestablecida.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez une temp=C3=A9rature de couleur pr=C3=A9r=C3=A9gl=C3=
+=A9e.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">21</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture Aspect</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust to preserve aspect ratio or to fill the screen.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione la relaci=C3=B3n de aspecto de la pantalla.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajustez le mode large pour pr=C3=A9server les rapports ou pour remplir l=
+'=C3=A9cran.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">22</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Advanced</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust black detail, noise reduction, game low latency and color gamut.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste detalles del negro, la reducci=C3=B3n de ruido, baja latencia de =
+juegos y gama de color.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9glez le d=C3=A9tail du noir, la r=C3=A9duction du bruit, faible l=
+atence pour jeux et gamme de couleurs.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">23</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"vdfz959v03">Contrast Enhancer (previously Black De=
+tail)</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Improves details in dark areas of the picture. High provides the stronge=
+st effect.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Mejora los detalles en las =C3=A1reas oscuras de la imagen. El valor Alt=
+o ofrece el efecto m=C3=A1s fuerte.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Am=C3=A9liore les d=C3=A9tails dans les zones sombres de l'image. =C3=89=
+lev=C3=A9 offre l'effet le plus marqu=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">24</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"zrtlwa6ccg">Dark Detail</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"b3ck8lbizd">Improves details in dark areas of the =
+picture and is only for Dolby Vision Content.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"mrhdlulehg">Mejora los detalles en =C3=A1reas oscu=
+ras de la imagen y es solo para contenido Dolby Vision.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"txlfnmkumu">Am=C3=A9liore les d=C3=A9tails dans le=
+s zones sombres de l'image et concerne uniquement le contenu Dolby Vision.<=
+/span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">25</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Super Resolution</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Configures the resolution to enhance dim and blurred pictures resulting =
+in a sharper picture.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Configurar la resoluci=C3=B3n para mejorar la iluminaci=C3=B3n e imagen =
+borrosa para una imagen m=C3=A1s definida.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Configure la r=C3=A9solution qui am=C3=A9liore les images sombres et flo=
+ues ce qui permet d'obtenir une image plus nette.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">26</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Edge Enhancement</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Smooths out jagged lines or edges caused by content with low resolution.=
+</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Suaviza las l=C3=ADneas irregulares o los bordes causados =E2=80=8B=E2=
+=80=8Bpor contenido con baja resoluci=C3=B3n.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lisse les lignes ou les bords irr=C3=A9guliers caus=C3=A9s par le conten=
+u =C3=A0 faible r=C3=A9solution.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">27</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture -</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Local Contrast</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the contrast of the picture locally.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta el contraste de la imagen localmente</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste le contraste de l'image localement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">28</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture -</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Active Full Array=E2=84=A2</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Based on the content, dynamically adjusts and balances the brightness an=
+d the contrast ratio of the picture by locally adjusting backlight zones.&n=
+bsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Basado en el contenido, ajusta din=C3=A1micamente los balances, brillant=
+ez y porcentaje de contraste de la imagen al ajustar localmente las zonas d=
+e retroiluminaci=C3=B3n.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bas=C3=A9 sur le contenu, ajuste et =C3=A9quilibre dynamiquement la lumi=
+nosit=C3=A9 et le rapport de contraste de l'image en ajustant localement le=
+s zones de r=C3=A9tro=C3=A9clairage.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">29</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture -</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"ifzxphf89i">Backlight Control</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Dynamically improves the contrast ratio of the picture by adjusting the =
+backlight. The adjustment is controlled by the content on the screen.</p></=
+td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"dbg5z9cu1z">Mejora en forma din=C3=A1mica la relac=
+i=C3=B3n del contraste de la imagen mediante el ajuste de la luz de fondo.&=
+nbsp; El contenido de la pantalla controla el ajuste.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"jspsvy0mx3">Am=C3=A9liore rapidement le rapport de=
+ contraste de l'image en r=C3=A9glant le r=C3=A9tro=C3=A9clairage. Ce r=C3=
+=A9glage est contr=C3=B4l=C3=A9 par le contenu sur l'=C3=A9cran.</span></p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">30</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Peak Luminance</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Peak Luminance boosts the bright highlights for the overall picture of t=
+he OLED TV.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pico de Luminancia Pico aumenta los reflejos brillantes de la imagen gen=
+eral del televisor OLED.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pic de luminance augmente les reflets lumineux de l'image globale du t=
+=C3=A9l=C3=A9viseur OLED.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">31</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Motion Control</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduce the motion blur of the content with fast action.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduzca el deslineamento de imagen por movimiento del contenido con acci=
+=C3=B3n r=C3=A1pida.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9duisez le flou cin=C3=A9tique du contenu avec de l'action rapide.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">32</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Judder Reduction</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Increases frame rate to reduce judder for film and 30 hertz video. As th=
+e setting increases, judder is reduced.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Incrementa la velocidad de fotogramas para reducir la vibraci=C3=B3n de =
+la pel=C3=ADcula y video de 30 hertz. Cuando esto aumenta, la vibraci=C3=B3=
+n se reduce.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Augmente le d=C3=A9bit d'images pour r=C3=A9duire l'effet de saccade des=
+ films et des vid=C3=A9os 30 hertz. Plus le r=C3=A9glage est =C3=A9lev=C3=
+=A9, plus l'effet de saccade diminue.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">33</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Motion Blur Reduction</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Increases frame rate to reduce motion blur of 60 hertz video. As the set=
+ting increases, motion blur is reduced.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Incrementa las velocidad de fotogramas para reducir el movimiento borros=
+o del video de 60 hertz. Al aumentar, se reduce el movimiento borroso.</p><=
+/td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Augmente le d=C3=A9bit d'images pour r=C3=A9duire l'effet de flou des vi=
+d=C3=A9os 60 hertz. Plus le r=C3=A9glage est =C3=A9lev=C3=A9, plus l'effet =
+de flou diminue.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">34</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Variable Refresh Rate</p></td>
+<td class=3D"confluenceTd">
+<p>Adjusts the refresh rate of the screen based on the content.</p></td>
+<td class=3D"confluenceTd">
+<p>Ajusta y actualiza la calidad de la pantalla basada en el contenido.</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>Adapte la fr=C3=A9quence de rafra=C3=AEchissement de l'=C3=A9cran en fon=
+ction du contenu.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">35</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Clear Action 60 Hz panel</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduces blur in scenes with fast action but limits the range for the Bac=
+klight setting.&nbsp; Some sensitive viewers may notice flicker.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduce el efecto borroso en las escenas de acci=C3=B3n r=C3=A1pida, pero=
+ limita el rango de programaci=C3=B3n de Luz de Fondo. Algunos espectadores=
+ sensibles pueden notar el parpadeo.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9duit le flou dans les sc=C3=A8nes d'action rapide mais limite le =
+champ de r=C3=A9glage du R=C3=A9tro=C3=A9clairage. Certains t=C3=A9l=C3=A9s=
+pectateurs sensibles peuvent remarquer du scintillement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">36</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Clear Action 120 Hz panel</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduces blur in scenes with fast action but limits the range for the Bac=
+klight setting.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduce el efecto borroso en las escenas con acci=C3=B3n r=C3=A1pida pero=
+ limita el rango de programaci=C3=B3n de Luz de Fondo.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9duit le flou dans les sc=C3=A8nes d=E2=80=99action rapide mais li=
+mite le champ de r=C3=A9glage du R=C3=A9tro=C3=A9clairage.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">37</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduce Noise</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduces picture noise for analog and digital sources.&nbsp;&nbsp;</p></t=
+d>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduce el ruido de la imagen para&nbsp; fuentes anal=C3=B3gicas y digita=
+les.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Diminue le bruit de l'image pour les sources analogiques et num=C3=A9riq=
+ues.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">38</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Signal Noise</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduces background picture noise when viewing analog sources. This funct=
+ion helps to correct "speckle" noise with a slight reduction in sharpness.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduce el ruido de la imagen de fondo cuando se visualizan fuentes anal=
+=C3=B3gicas. Esta funci=C3=B3n ayuda a corregir el ruido "moteado" con una =
+leve reducci=C3=B3n de la nitidez.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Diminue le bruit de l'image&nbsp; des sources analogiques. Cette fonctio=
+n aide =C3=A0 corriger le chatoiement, avec une l=C3=A9g=C3=A8re diminution=
+ de la nettet=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">39</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Block Noise</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduces the side effects of digital compression such as "blocking" and n=
+oise on sharp edges. The High setting will cause a slight reduction in shar=
+pness.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reduce los efectos secundarios de la compresi=C3=B3n digital, como el "b=
+loqueo" y el ruido en los bordes agudos. El valor Alto provoca una leve red=
+ucci=C3=B3n de la nitidez.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Diminue les effets secondaires de la compression num=C3=A9rique comme le=
+ =C2=AB&nbsp;blocage&nbsp;=C2=BB et le bruit sur les bords nets. Le r=C3=A9=
+glage =C3=89lev=C3=A9 causera une l=C3=A9g=C3=A8re diminution de la nettet=
+=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">40</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Contour Smoothing</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Removes visible contour noise without loss of the complex detail.</p></t=
+d>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Quita el contorno de sonido visible sin perder los detalles complejos.</=
+p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enl=C3=A8ve le bruit de contour visible sans perte du d=C3=A9tail comple=
+xe.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">41</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Game/PC mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select On to reduce video delay (lag). <span data-colorid=3D"gucpxynt26"=
+>Select Off to disable video delay reduction for PC, but for devices that s=
+upport ALLM turn off this setting from the game console.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"czfvj248k4">Seleccione Auto o Activado para reduci=
+r la demora de video (retraso). Seleccione Apagado para deshabilitar para P=
+C, pero para los dispositivos compatibles con ALLM, desactive esta configur=
+aci=C3=B3n desde la consola de juegos.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"ubvtz846kn">S=C3=A9lectionnez Automatique ou Activ=
+=C3=A9 pour r=C3=A9duire le d=C3=A9calage vid=C3=A9o. S=C3=A9lectionnez Off=
+ pour d=C3=A9sactiver pour PC, mais pour les appareils prenant en charge AL=
+LM, d=C3=A9sactivez ce param=C3=A8tre =C3=A0 partir de la console de jeu.</=
+span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">42</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Gaming HDR</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Optimizes picture quality for HDR game.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Optimiza la calidad de la imagen para el juego HDR.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Optimise la qualit=C3=A9 d'image pour le jeu HDR.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">43</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Film Mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>When film content is detected, picture is optimized when Film Mode is On=
+.&nbsp; If artifacts are visible, change the setting to Off.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cuando se detecta el contenido de la pel=C3=ADcula, la imagen se optimiz=
+a si Modo de Pel=C3=ADcula es Activado.&nbsp; Hay artefactos visibles, camb=
+iar la preferencia a Apagado.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lorsque le contenu d'un film est d=C3=A9tect=C3=A9, l'image est optimis=
+=C3=A9e lorsque Mode Film est Activ=C3=A9. Si des objets sont visibles, d=
+=C3=A9sactivez le param=C3=A8tre.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">44</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Gamma</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sets the shape of the Gamma curve. Use lower Gamma values for bright roo=
+m conditions, and higher values when it=E2=80=99s dark.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Programe la forma de la curva Gamma. Utilice Gamma m=C3=A1s bajo si la h=
+abitaci=C3=B3n est=C3=A1 bien iluminada, y Gamma m=C3=A1s alto cuando es os=
+cura.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9finit la forme de la courbe Gamma. Utilisez les valeurs Gamma les=
+ plus basses en cas de pi=C3=A8ce =C3=A9clair=C3=A9e, valeurs les plus haut=
+es quand sombre.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">45</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enhanced Viewing Angle</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Increases the viewing angle with richer colors and a higher contrast ima=
+ge.&nbsp; This mode reduces horizontal resolution.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Incrementa el =C3=A1ngulo de visualizaci=C3=B3n con colores m=C3=A1s v=
+=C3=ADvidos y m=C3=A1s contraste en la imagen. Este modo reduce la resoluci=
+=C3=B3n horizontal.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Augmente l'angle de vue avec des couleurs plus riches et une image au co=
+ntraste plus =C3=A9lev=C3=A9. Ce mode r=C3=A9duit la r=C3=A9solution horizo=
+ntale.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">46</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Color Calibration</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Calibrate the colors using HSB, gain, offset and 20 point white balance =
+and test or reset colors to defaults.&nbsp;&nbsp;&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Calibrar los colores utilizando HSB, compensar, aumento y balance de bla=
+nco de 20puntos, y cheque o reprograme los colores a la programaci=C3=B3n d=
+e f=C3=A1brica.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Calibrez les couleurs en utilisant le mode TSL, le gain, l'offset et la =
+balance des blancs en 20 points et testez ou r=C3=A9initialisez les couleur=
+s aux valeurs par d=C3=A9faut.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">47</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Color Cal. Dynamic Range</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select the dynamic range for the color calibration.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione el rango din=C3=A1mico para la calibraci=C3=B3n de color.</p>=
+</td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez la plage dynamique pour le calibrage des couleurs.</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">48</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Color Tuner</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust HSB color.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste color de HSB .</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajustez le syst=C3=A8me colorim=C3=A9trique TSL.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">49</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>White Balance Tuner</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust 20 point white balance.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste balance de blanco de 20 puntos.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajustez les 20 points de balance des blancs.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">50</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Calibration Tests</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Test with gray scale and color bar test images.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Haga la prueba con escala gris e im=C3=A1genes de prueba con barra de co=
+lor.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Testez avec l=E2=80=99=C3=A9chelle de gris et des images de test de barr=
+e de couleurs.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">51</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Picture</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Color Temperature</p></td>
+<td class=3D"confluenceTd">
+<p>Reset 20 point white balance, offset and gain to the defaults.&nbsp;</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>Reprogramar el balance de blanco de 20 puntos, compensar y aumento a la =
+programaci=C3=B3n de f=C3=A1brica.</p></td>
+<td class=3D"confluenceTd">
+<p>R=C3=A9initialisez 20 points de balance des blancs, d=C3=A9calages et ga=
+in aux valeurs par d=C3=A9faut.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">52</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td class=3D"confluenceTd">
+<p>Picture</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Color Temperature DB</p></td>
+<td class=3D"confluenceTd">
+<p>Select Reset to restore &lt;COLORTEMPNAME&gt; color temperature to facto=
+ry defaults.</p></td>
+<td class=3D"confluenceTd">
+<p>Seleccione Reiniciar para restablecer la temperatura del color &lt;COLOR=
+TEMPNAME&gt; a los ajustes originales.</p></td>
+<td class=3D"confluenceTd">
+<p>S=C3=A9lectionnez R=C3=A9initialiser pour r=C3=A9tablir le temp=C3=A9rat=
+ure de couleur &lt;COLORTEMPNAME&gt; par d=C3=A9faut de l'usine.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">53</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Picture</p></td>
+<td class=3D"confluenceTd">
+<p>Input Picture Settings noFMM</p></td>
+<td class=3D"confluenceTd">
+<p>Enable HDMI Mode, Full Color 4:4:4, and adjust picture size and position=
+.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Active Modo HDMI, Color Completo 4:4:4, y ajustar el tama=C3=B1o y posic=
+i=C3=B3n de la imagen.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Activez Mode HDMI, Couleur Compl=C3=A8te 4:4:4, et ajustez la taille et =
+la position de l'image.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">54</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Picture</p></td>
+<td class=3D"confluenceTd">
+<p>Input Picture Settings</p></td>
+<td class=3D"confluenceTd">
+<p>Enable HDMI Mode, Full Color 4:4:4&nbsp; and adjust picture size and pos=
+ition.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Active Modo HDMI, Color Completo 4:4:4&nbsp; y ajustar el tama=C3=B1o y =
+posici=C3=B3n de la imagen.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Activez Mode HDMI, Couleur Compl=C3=A8te 4:4:4 et ajustez la taille et l=
+a position de l'image.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">55</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Picture</p></td>
+<td class=3D"confluenceTd">
+<p>Input Pic Set. (no Full Color 4:4:4)</p></td>
+<td class=3D"confluenceTd">
+<p>Enable HDMI Mode and adjust picture size and position.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Active Modo HDMI y ajustar el tama=C3=B1o y posici=C3=B3n de la imagen.&=
+nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Activez Mode HDMI et ajustez la taille et la position de l'image.</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">56</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture Size &amp; Position</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjusts the size and position of the image for the best fit on the telev=
+ision.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajusta el tama=C3=B1o y posici=C3=B3n de la imagen al mejor tama=C3=B1o =
+para la TV.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste la taille et la position de l=E2=80=99image pour qu=E2=80=99elle =
+s=E2=80=99adapte au mieux sur la TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">57</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture Size</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press UP and RIGHT to enlarge or&nbsp;DOWN and LEFT to shrink the image =
+and completely fill the screen.&nbsp; Then press OK.&nbsp; Can be useful if=
+ you see bright lines on the screen edges.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Oprima UP y RIGHT o DOWN y LEFT para agrandar o encoger la imagen para q=
+ue llene totalmente la pantalla. Luego oprima OK.&nbsp; Puede resultar =C3=
+=BAtil si observa l=C3=ADneas brillantes en los bordes de la pantalla.</p><=
+/td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur les touches UP et RIGHT ou DOWN et LEFT pour agrandir ou dim=
+inuer l=E2=80=99image afin de remplir compl=C3=A8tement l=E2=80=99=C3=A9cra=
+n. Ensuite appuyez sur OK. Peut =C3=AAtre utile si vous voyez des lignes cl=
+aires sur la bordure de l'=C3=A9cran.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">58</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture Position</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press UP, DOWN, LEFT or RIGHT to center the image.&nbsp; Then press OK.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Oprima UP, DOWN, LEFT o RIGHT para centrar la imagen. Luego Oprima OK.</=
+p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur les touches UP, DOWN, LEFT ou RIGHTs pour centrer l=E2=80=99=
+image. Ensuite appuyez sur OK.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">59</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>HDMI Mode 5691/5695 fielded</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>If the device supports HDMI 2.1 then HDMI Mode is available.&nbsp;</p></=
+td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Si el aparato soporta el HDMI 2.1 entonces el Modo HDMI est=C3=A1 dispon=
+ible.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Si l'appareil prend en charge le HDMI 2.1 alors Mode HDMI est disponible=
+.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">60</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI Mode</p></td>
+<td class=3D"confluenceTd">
+<p>If necessary to support correct picture of older devices, override the a=
+utomatic setting to use legacy HDMI mode.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Si es necesario para apoyar la imagen correcta de aparatos m=C3=A1s viej=
+os, cambie la selecci=C3=B3n autom=C3=A1tica para usar el legado del modo H=
+DMI.</p></td>
+<td class=3D"confluenceTd">
+<p>Si n=C3=A9cessaire pour prendre en charge l'image correcte des appareils=
+ plus anciens, modifiez la s=C3=A9lection automatique pour utiliser le mode=
+ HDMI h=C3=A9rit=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">61</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Full Color 4:4:4.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Maintains full color data with 4:4:4 content.&nbsp; Some picture setting=
+s will not be available when this setting is On.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Mantiene el dato de color completo con contenido 4:4:4. Algunos programa=
+s de imagen pueden no estar disponibles cuando esta preferencia de programa=
+ est=C3=A1 activada.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Maintient les donn=C3=A9es en couleur avec du contenu 4:4:4. Certains pa=
+ram=C3=A8tres de l'image ne seront pas disponibles lorsque ce r=C3=A8glage =
+est activ=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">62</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>&nbsp;Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Color Space Range</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select the Color Space for the source.&nbsp; Video sources use YCbCr, bu=
+t a PC uses RGB.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione el Espacio de Color para la fuente. Las fuentes de video util=
+izan YCbCr, y las PC utilizan RGB</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez l'Espace de Couleur pour la source. Les sources vid=C3=
+=A9o utilisent YCbCr, mais un ordinateur utilise RVB.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">63</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pic Mode Edit</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Manage custom picture modes and reset preset picture modes.&nbsp;</p></t=
+d>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Gestione los modos de imagen personalizados y reprograme los modos de im=
+agen preprogramados.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>G=C3=A9rez les modes d'image personnalis=C3=A9s et r=C3=A9initialisez le=
+s modes d'image pr=C3=A9d=C3=A9finis.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">64</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">Notification</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Save/Create Pic 8+ error</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>The maximum of six picture modes has been created: PICMODE1, PICMODE2, P=
+ICMODE3, PICMODE4, PICMODE5, PICMODE6.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Se ha creado el m=C3=A1ximo de seis modos de imagen: PICMODE1, PICMODE2,=
+ PICMODE3, PICMODE4, PICMODE5, PICMODE6.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Un maximum de six modes image a =C3=A9t=C3=A9 cr=C3=A9=C3=A9 : PICMODE1,=
+ PICMODE2, PICMODE3, PICMODE4, PICMODE5, PICMODE6.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">65</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Save/Create Picture mode name</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter the name for the custom picture mode using up to 15 characters.</p=
+></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Programe el nombre del modo de imagen personalizado usando hasta 15 cara=
+cteres.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Entrez le nom du mode image personnalis=C3=A9 en utilisant jusqu'=C3=A0 =
+15 caract=C3=A8res.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">66</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Save Pic mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Save the settings for a custom picture mode.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Guarde la configuraci=C3=B3n del modo de imagen personalizado.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enregistrez les param=C3=A8tres pour un mode image personnalis=C3=A9.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">67</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Delete Pic mode</p></td>
+<td class=3D"confluenceTd">
+<p>Delete a custom picture mode. Inputs assigned to the custom picture mode=
+ will use the Bright picture mode.</p></td>
+<td class=3D"confluenceTd">
+<p>Elimine un modo de imagen personalizado. Las entradas asignadas al modo =
+de imagen personalizado utilizar=C3=A1n el modo de imagen Brillante.</p></t=
+d>
+<td class=3D"confluenceTd">
+<p>Supprimez un mode image personnalis=C3=A9. Les entr=C3=A9es assign=C3=A9=
+es au mode image personnalis=C3=A9 utiliseront le mode image Lumineux.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">68</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Delete Pic mode DB</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>To delete the user created &lt;NAMEPICMODE&gt; picture mode, select the =
+Delete button.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Para borrar el modo de imagen &lt;NAMEPICMODE&gt; creado por el usuario,=
+ seleccione el bot=C3=B3n Borrar.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pour effacer le mode image &lt;NAMEPICMODE&gt; cr=C3=A9=C3=A9 par l=E2=
+=80=99utilisateur, s=C3=A9lectionnez le bouton Effacez.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">69</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset Picture mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Resets the picture mode settings to factory default values. This reset o=
+nly affects the current input.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Restaura los ajustes del modo de imagen a la configuraci=C3=B3n original=
+.&nbsp; Este restauraci=C3=B3n s=C3=B3lo afecta a la entrada actual.</p></t=
+d>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9tablit le mode image param=C3=A8tres aux valeurs par d=C3=A9faut =
+de l'usine. Cette r=C3=A9initialisation a un effet sur l'entr=C3=A9e actuel=
+le seulement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">70</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Picture</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset Picture mode DB</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select Reset to restore &lt;PRESETNAME&gt; picture mode to factory defau=
+lts.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione Restaurar para restablecer el modo de imagen &lt;PRESETNAME&g=
+t; a los ajustes originales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez R=C3=A9initialiser pour r=C3=A9tablir le mode image &l=
+t;PRESETNAME&gt; par d=C3=A9faut de l'usine.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">71</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio Out</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Auto setting changes to the sound bar name if a sound bar is discovered =
+and built-in Speakers automatically turn off.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>La opci=C3=B3n Autom=C3=A1tico cambia al nombre de la barra de sonido si=
+ se detecta una barra de sonido y los altavoces internos se apagar=C3=A1n a=
+utom=C3=A1ticamente.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>L'option Automatique change pour le nom de la barre de son si une barre =
+de son est d=C3=A9couverte et les haut-parleurs int=C3=A9gr=C3=A9s s'=C3=A9=
+teignent automatiquement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">72</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Surround Sound</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>When set to On, enables Surround Sound suitable for sports and TV shows.=
+ Virtual:X=E2=84=A2 adds virtualized height best for movies.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cuando Activa, permite el sonido envolvente mejor deportes y programas. =
+Virtual:X=E2=84=A2 a=C3=B1ade mejor altura virtualizada para pel=C3=ADculas=
+.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lorsqu'il est Activ=C3=A9, permet son surround adapt=C3=A9 pour sports e=
+t =C3=A9missions.Virtual: X=E2=84=A2 ajoute la hauteur virtualis=C3=A9e mie=
+ux pour films.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">73</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Volume Leveling 2020</p></td>
+<td class=3D"confluenceTd">
+<p>When set On, DTS TruVolume=E2=84=A2 audio solution levels the speaker vo=
+lume.</p></td>
+<td class=3D"confluenceTd">
+<p>Cuando activa la soluci=C3=B3n de audio DTS TruVolume=E2=84=A2, se nivel=
+a el volumen de los altavoces.</p></td>
+<td class=3D"confluenceTd">
+<p>DTS TruVolume=E2=84=A2 solution le volume des haut-parleurs est nivel=C3=
+=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">74</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Volume Leveling 2021</p></td>
+<td class=3D"confluenceTd">
+<p>DTS TruVolume=E2=84=A2 audio solution levels the speaker volume. For&nbs=
+p;DTS content&nbsp;Dynamic&nbsp;Range&nbsp;Compression levels volume using =
+content data.</p></td>
+<td class=3D"confluenceTd">
+<p>La soluci=C3=B3n de audio DTS TruVolume=E2=84=A2, se nivela el volumen d=
+e los altavoces.&nbsp; Para el contenido DTS, nivela el volumen mediante da=
+tos de contenido.</p></td>
+<td class=3D"confluenceTd">
+<p>DTS TruVolume=E2=84=A2 solution le volume des haut-parleurs est nivel=C3=
+=A9. Pour le contenu DTS, volume est nivel=C3=A9 =C3=A0 l=E2=80=99aide de d=
+onn=C3=A9es de contenu.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">75</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Balance</p></td>
+<td class=3D"confluenceTd">
+<p>Balance the audio loudness between the left and right speakers.&nbsp;</p=
+></td>
+<td class=3D"confluenceTd">
+<p>Aplique el balance de intensidad de audio entre los altavoces izquierdo =
+y derecho.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>=C3=89quilibrez l'intensit=C3=A9 sonore entre le haut-parleur gauche et =
+le haut-parleur droit.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">76</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Bass</p></td>
+<td class=3D"confluenceTd">
+<p>Adjust low-frequency audio.</p></td>
+<td class=3D"confluenceTd">
+<p>Ajuste el audio de baja frecuencia.</p></td>
+<td class=3D"confluenceTd">
+<p>R=C3=A9glez le son basse fr=C3=A9quence.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">77</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Treble</p></td>
+<td class=3D"confluenceTd">
+<p>Adjust high-frequency audio.</p></td>
+<td class=3D"confluenceTd">
+<p>Ajuste el audio de alta frecuencia.</p></td>
+<td class=3D"confluenceTd">
+<p>R=C3=A9glez le son haute fr=C3=A9quence.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">78</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lip Sync</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Synchronize the display image with the audio track.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sincronice la imagen que se muestra con la pista de audio.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Synchronisez l'image avec la piste sonore.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">79</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Digital Audio Out</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select the digital audio output format for both the optical and HDMI ARC=
+ audio devices.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione el formato de salida del audio digital para ambos dispositivo=
+s de audio =C3=B3ptico y HDMI ARC.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez le format de sortie audio num=C3=A9rique pour les appa=
+reils audio optique et HDMI ARC.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">80</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Analog Audio Out</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select Variable if you are controlling the volume with the remote. Selec=
+t Fixed if an external audio device (sound bar or AV receiver) will control=
+ the volume.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione Variable si est=C3=A1 controlando el volumen con el control r=
+emoto. Seleccione Fijo si un dispositivo de audio externo (barra de sonido =
+o receptor AV) controlar=C3=A1 el volumen.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez Variable si vous commandez le volume =C3=A0 partir de =
+la t=C3=A9l=C3=A9commande. S=C3=A9lectionnez Fixe si un appareil audio exte=
+rne (barre de son ou r=C3=A9cepteur AV) commande le volume.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">81</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Equalizer</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Boosts or attenuates loudness at different frequencies.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Aumenta o aten=C3=BAa la intensidad a distintas frecuencias.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Augmente ou att=C3=A9nue le volume =C3=A0 des fr=C3=A9quences diff=C3=A9=
+rentes.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">82</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"y29dhd37tq">ClearDialog</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"hghgz7lq0g">Enhances the dialogue of TV and movies=
+ when Surround Sound is On or Virtual:X</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"h7ta4h5jfi">Mejora el di=C3=A1logo de TV y pel=C3=
+=ADculas cuando Sonido envolvente est=C3=A1 Activado o Virtual:X</span></p>=
+</td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"uyf3znfvxe">Am=C3=A9liore le dialogue de la t=C3=
+=A9l=C3=A9vision et des films lorsque Son surround est activ=C3=A9 ou Virtu=
+al:X. </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">83</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>eARC</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>If On is selected then high quality audio is outputted to the audio devi=
+ces supporting eARC. If Off selected, then ARC audio is used.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Si Activado es seleccionado, la calidad de audio est=C3=A1 con salida a =
+los aparatos de audio que apoyan al ARC audio. Si selecciona Apagado, se us=
+a el audio ARC.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Si Activ=C3=A9 est s=C3=A9lectionn=C3=A9, un son de haute qualit=C3=A9 e=
+st transmis aux appareils audio prenant en charge eARC. Si D=C3=A9sactiv=C3=
+=A9 est s=C3=A9lectionn=C3=A9, l=E2=80=99audio ARC est utilis=C3=A9.</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">84</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio Mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select preferred preset audio mode from Flat, Dynamic, Center, Bass Boos=
+t, or Bright.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione el modo de audio preestablecido preferido de Plano, Din=C3=A1=
+mico, Central, Impulso de Bajos o N=C3=ADtido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez le mode audio pr=C3=A9r=C3=A9gl=C3=A9 que vous pr=C3=
+=A9f=C3=A9rez parmi Plat, Dynamique, Centr=C3=A9, Booster de basses ou Clai=
+r.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">85</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control</p></td>
+<td class=3D"confluenceTd">
+<p>SB Control from TV</p></td>
+<td class=3D"confluenceTd">
+<p>Settings for the VIZIO sound bar are included.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Las programaciones de VIZIO barra de sonido est=C3=A1n incluidas.</p></t=
+d>
+<td class=3D"confluenceTd">
+<p>Les param=C3=A8tres de la barre de son VIZIO&nbsp; sont inclusi.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">86</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB EQ Mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sound bar selection of EQ mode.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Selecci=C3=B3n del modo EQ para la barra de sonido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lection du mode EQ pour la barre de son.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">87</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB Bass</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sound bar adjustment of low-frequency audio.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste de audio de baja frecuencia para la barra de sonido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9glez audio basse fr=C3=A9quence pour la barre de son.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">88</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB Treble</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sound bar adjustment of high-frequency audio.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste de audio de alta frecuencia para la barra de sonido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9glez audio haute fr=C3=A9quence pour la barre de son.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">89</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB Dialogue</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sound Bar enhancement of dialogue clarity.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Mejora de la claridad del di=C3=A1logo para la barra de sonido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Am=C3=A9lioration de la clart=C3=A9 du dialogue pour la barre de son.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">90</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB Subwoofer</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sound bar adjustment of subwoofer level.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste del nivel del subwoofer para la barra de sonido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9glez du subwoofer pour la barre de son.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">91</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"q6smh5v4kv">Audio SB Control&nbsp;</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"gw9nz2o0x4">SB Height Level</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"a5axo9yzt5">Sound bar adjustment of height effect =
+with immersive content.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"h9sw2znvma">Ajuste del efecto de altura con conten=
+ido inmersivo para la barra de sonido.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"swgkc003a8">R=C3=A9glez du R=C3=A9glage de l'effet=
+ de hauteur avec contenu immersif pour la barre de son.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">92</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB NightMode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sound bar night mode reduces subwoofer until next power cycle.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>El modo nocturno de la barra de sonido reduce el subwoofer hasta el pr=
+=C3=B3ximo ciclo de encendido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Le mode nuit de la barre de son r=C3=A9duit le subwoofer jusqu'au procha=
+in cycle d'alimentation.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">93</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB Virtual:X</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sound bar adjustment of <span data-colorid=3D"mxc5eob86s">DTS</span> Vir=
+tual:X to on or off.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste de <span data-colorid=3D"w7n9lriq3y">DTS</span> Virtual: X a ence=
+ndido o apagado para la barra de sonido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9glez de <span data-colorid=3D"nrla5us7dk">DTS</span> Virtual: X s=
+ur activ=C3=A9 ou arr=C3=AAt=C3=A9 pour la barre de son.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">94</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Audio SB Control&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SB info</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Announces cuurent sound bar input and audio format.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Anuncia la entrada de la barra de sonido actual y el formato de audio.</=
+p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Annonce une entr=C3=A9e de barre de son et un format audio actuels.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">95</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Network</p></td>
+<td class=3D"confluenceTd">
+<p>Access point</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to select your WiFi network.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Presione OK para seleccionar el WiFi de red.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour s=C3=A9lectionner votre WiFi au r=C3=A9seau.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">96</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Forget access point</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to forget the connected WiFi network.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Oprima OK para olvidar la red WiFi conectada.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour oublier le r=C3=A9seau WiFi connect=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">97</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">Dialog Box</p></td>
+<td class=3D"confluenceTd">
+<p>Network</p></td>
+<td class=3D"confluenceTd">
+<p>Forget access pop up</p></td>
+<td class=3D"confluenceTd">
+<p>Select Forget to forget &lt;NETWORKNAME&gt;.&nbsp; <br>
+Forget&nbsp; Cancel</p></td>
+<td class=3D"confluenceTd">
+<p>Seleccione Olvidar para olvidar &lt;NETWORKNAME&gt;.&nbsp; <br>
+Olvidar&nbsp; Cancelar</p></td>
+<td class=3D"confluenceTd">
+<p>S=C3=A9lectionnez Oublier pour oublier &lt;NETWORKNAME&gt;.&nbsp; <br>
+Oublier&nbsp;&nbsp; Annuler</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">98</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>More Access points</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to view more access points.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Presione OK para ver m=C3=A1s puntos de acceso.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour voir d'autres points d'acc=C3=A8s.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">99</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Can't connectDB</p></td>
+<td data-highlight-colour=3D"#ffffdd" class=3D"confluenceTd">
+<p>Unable to connect to &lt;NETWORKNAME&gt; <br>
+Try Another<br>
+Forget<br>
+Try Again</p></td>
+<td data-highlight-colour=3D"#ffffdd" class=3D"confluenceTd">
+<p>No se puede conectar a &lt;NETWORKNAME&gt; <br>
+Intente Otro<br>
+Olvidar<br>
+Intente de Nuevo</p></td>
+<td data-highlight-colour=3D"#ffffdd" class=3D"confluenceTd">
+<p>Impossible de se connecter =C3=A0 &lt;NETWORKNAME&gt; <br>
+Veuillez un autre<br>
+Oublier <br>
+Veuillez r=C3=A9essayer</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">100</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Manual Setup</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Advanced network setup using static IP settings.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Configuraci=C3=B3n a red avanzada mediante valores de IP est=C3=A1tica.&=
+nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Configuration avanc=C3=A9e du r=C3=A9seau utilisant les param=C3=A8tres =
+IP statiques.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">101</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Hidden Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Allows manual entry of access point name or hidden SSID.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Permite el ingreso manual del nombre del punto de acceso del SSID oculto=
+.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Autorise l'entr=C3=A9e manuelle du nom du point d'acc=C3=A8s ou du SSID =
+masqu=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">102</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Hidden network db</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Unable to connect to &lt;NETWORKNAME&gt;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>No se puede conectar a &lt;NETWORKNAME&gt;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Impossible de se connecter =C3=A0 &lt;NETWORKNAME&gt;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">103</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Test Connect</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Test the network for DNS, NTP, and connection speed. If connected via Wi=
+-Fi, wireless signal strength is also displayed.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pruebe la red para DNS. NTP y velocidad de conexi=C3=B3n. Si est=C3=A1 c=
+onectada a trav=C3=A9s de Wi-Fi, tambi=C3=A9n aparece la intensidad de la s=
+e=C3=B1al inal=C3=A1mbrica.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Testez le r=C3=A9seau pour le DNS, le NTP et la vitesse de connexion. Si=
+ vous =C3=AAtes connect=C3=A9 par Wi-Fi, la force du signal sans fil est au=
+ssi affich=C3=A9e.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">104</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;"><span data-colorid=3D"qwov0r9xou">HT</span=
+></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"qzhv3kxea2">Network</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"fstfpau0t7">Test launches</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"x9y6d081sk">Testing Connection</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"liu8nd9joq">Conexi=C3=B3n de prueba</span></p></td=
+>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"yp74agm4tk">Test de connexion</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">105</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>DHCP</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Set DHCP Off to enter the IP settings manually.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Establezca DHCP en Apagado para ingresar la configuraci=C3=B3n de IP man=
+ualmente.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9sactivez le DHCP pour entrer les param=C3=A8tres IP manuellement.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">106</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>IP settings</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Manually enter your static internet connection settings.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ingrese manualmente la configuraci=C3=B3n de conexi=C3=B3n a Internet es=
+t=C3=A1tica.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Entrez manuellement les param=C3=A8tres statiques de votre connexion Int=
+ernet.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">107</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter access point</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter your access point name.&nbsp; This is used to connect to an access=
+ point with a hidden SSID.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ingrese el nombre del punto de acceso.&nbsp; Se utiliza para conectarse =
+a un punto de acceso con un SSID oculto.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Entrez le nom de votre point d'acc=C3=A8s.&nbsp; Ceci est utilis=C3=A9 p=
+our vous connecter =C3=A0 un point d'acc=C3=A8s avec un SSID masqu=C3=A9.</=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">108</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Connect button</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Search for an access point with the above SSID.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Busque un punto de acceso con el SSID ingresado.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cherchez un point d'acc=C3=A8s avec le SSID ci-dessus.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">109</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Network Info</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Display information about your network.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Muestre informaci=C3=B3n acerca de su red.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Affichez l'information =C3=A0 propos de votre r=C3=A9seau.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">110</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td class=3D"confluenceTd">
+<p>Find Channels</p></td>
+<td class=3D"confluenceTd">
+<p>Scan for all <span data-colorid=3D"o25rjpmbaf">antenna</span> channels.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Busque todos los canales <span data-colorid=3D"x9s8h2lnsu">de antena</sp=
+an>.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Recherchez toutes les cha=C3=AEnes <span data-colorid=3D"dygy2nnrab">d=
+=E2=80=99antenne</span>.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">111</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td class=3D"confluenceTd">
+<p>Find More Channels</p></td>
+<td class=3D"confluenceTd">
+<p>Scan for all new channels and for all cable channels.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Busque todos los nuevos canales y para todos los canales de cable.</p></=
+td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Recherchez toutes les nouveaux cha=C3=AEnes et pour toutes les cha=C3=AE=
+nes c=C3=A2bl=C3=A9es.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">112</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Skip Channel</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select channels to be skipped when using the CH+ / CH- keys. Skipped cha=
+nnels can still be selected using the number buttons on the remote.</p></td=
+>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione los canales que se omitir=C3=A1n cuando use los botones CH+ /=
+ CH-. Los canales omitidos a=C3=BAn pueden seleccionarse mediante los boton=
+es num=C3=A9ricos del control remoto.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez les cha=C3=AEnes =C3=A0 ignorer lorsque vous utilisez =
+les touches CH+ / CH-. Les cha=C3=AEnes ignor=C3=A9es peuvent tout de m=C3=
+=AAme =C3=AAtre s=C3=A9lectionn=C3=A9es en utilisant les touches num=C3=A9r=
+iques de la t=C3=A9l=C3=A9commande.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">113</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td class=3D"confluenceTd">
+<p>Analog Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Select analog audio MTS mode: Mono, Stereo, or SAP (Secondary Audio Prog=
+ram).</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione el modo MTS de audio anal=C3=B3gico: Mono, Est=C3=A9reo o SAP=
+ (Segundo Audio Programa).</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez le mode audio MTS analogique : Mono, St=C3=A9r=C3=A9o =
+ou SAP (Seconde Piste Audio).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">114</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Digital Audio</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>For digital channels, select the preferred audio language. Available lan=
+guages or video description depends on the broadcast content.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Para los canales digitales, seleccione el idioma de audio preferido. Los=
+ idiomas o descripci=C3=B3n <span data-colorid=3D"kk0lvxkon5">de</span> vid=
+eo disponibles dependen del contenido transmitido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pour les cha=C3=AEnes num=C3=A9riques, s=C3=A9lectionnez la langue que v=
+ous pr=C3=A9f=C3=A9rez. Les langues ou&nbsp; description vid=C3=A9o disponi=
+bles d=C3=A9pendent du contenu diffus=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">115</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cancel button</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cancel the channel scan.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cancele la b=C3=BAsqueda de canales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Annuler le balayage des cha=C3=AEnes.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">116</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Done button</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Scan is complete. Press OK to continue.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>La b=C3=BAsqueda est=C3=A1 completa. Presione OK para continuar.</p></td=
+>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Le balayage est termin=C3=A9. Appuyez sur OK pour continuer.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">117</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Parental Controls</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Block content and channels for younger viewers.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bloquee contenido y canales para los ni=C3=B1os.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bloquez du contenu et des cha=C3=AEnes pour les plus jeunes.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">118</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Menu Locked passcode entry</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>This menu requires the System PIN.&nbsp; Enter your 4 digit PIN to unloc=
+k.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Este men=C3=BA requiere el NIP de Sisteme. Ingrese el NIP de 4 d=C3=ADgi=
+tos para desbloquear.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ce menu n=C3=A9cessite le code PIN Syst=C3=A8me. Entrez le PIN =C3=A0 4 =
+chiffres pour d=C3=A9verrouiller.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">119</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Rating Enable</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enables or disables all locks. All selected locks can be turned off for =
+parent viewing, then easily turned on again.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Activa o desactiva todos los bloqueos. Todos los bloqueos seleccionados =
+pueden desactivarse para la visualizaci=C3=B3n paternal, y luego pueden vol=
+ver a activarse f=C3=A1cilmente.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Active ou d=C3=A9sactive les verrouillages. Tous les verrouillages s=C3=
+=A9lectionn=C3=A9s peuvent =C3=AAtre d=C3=A9sactiv=C3=A9s pour les parents =
+et ensuite =C3=AAtre r=C3=A9activ=C3=A9s.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">120</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Parent Passcode DB</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter the 4 digit passcode using the virtual PIN pad or the number butto=
+ns on the remote.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Este contenido requiere el NIP de Sisteme Ingrese el NIP de 4 d=C3=ADgit=
+os para desbloquear.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ce contenu n=C3=A9cessite le PIN Syst=C3=A8me. Entrez le PIN =C3=A0 4 ch=
+iffres pour d=C3=A9verrouiller.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">121</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lock by Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lock or unlock channels.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bloquear o desbloquear los canales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Verrouiller ou d=C3=A9verrouiller les cha=C3=AEnes.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">122</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>lock a channel</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to lock or unlock the channel.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pulsar OK para bloquear o desbloquear el canal.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour verrouiller ou d=C3=A9verrouiller le cha=C3=AEne.&nb=
+sp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">123</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lock Shows by Rating</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Set Ratings Levels to lock or unlock for US TV broadcasts.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Fijar los niveles de clasificaci=C3=B3n para bloquear/desbloquear emisio=
+nes de TV en EE.UU.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9finissez les niveaux de classification =C3=A0 bloquer ou non pour=
+ les =C3=A9missions TV am=C3=A9ricaine.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">124</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lock Shows by Rating table</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Rating Allowed</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Permitada</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Niveau Autoris=C3=A9</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">125</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lock Shows by Rating table</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Rating Blocked</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bloquear</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Niveaut Bloqu=C3=A9</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">126</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lock Shows by Rating table</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to block all &lt;RATING&gt;-rated programs.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pulsar OK para bloquear todos los programas de clasificaci=C3=B3n &lt;RA=
+TING&gt;.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour bloquer tous les programmes classifi=C3=A9s &lt;RATI=
+NG&gt;.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">127</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>USA rating with DLSV</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to block all &lt;RATING&gt;-rated programs with &lt;CONTENT&gt;=
+.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pulsar OK para bloquear todos los programas de clasificaci=C3=B3n &lt;RA=
+TING&gt; con &lt;CONTENT&gt;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour bloquer tous les programmes classifi=C3=A9s &lt;RATI=
+NG&gt; avec un &lt;CONTENT&gt;.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">128</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Content</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>fantasy violence</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>fantas=C3=ADa violenta</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>violence fictive</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">129</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Content</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>suggestive dialog</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>di=C3=A1logo sugestivo</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>dialog suggestif</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">130</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Content</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>strong language</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>lenguaje subido de tono</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>langage vulgaire</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">131</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Content</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>sexual content</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>contenido sexual</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>contenu sexuel</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">132</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Content</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>violence</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>violencia</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>contenu violent</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">133</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Lock Movies by Rating</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Set Ratings Levels to lock or unlock for US Movie broadcasts.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Fijar los niveles de <span data-colorid=3D"rlrzdjr05c">clasificacados</s=
+pan> para bloquear/desbloquear emisiones de pel=C3=ADculas en EE.UU.</p></t=
+d>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9finissez les niveaux de classification =C3=A0 bloquer ou non pour=
+ les =C3=A9missions de films am=C3=A9ricains.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">134</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Movie rating</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to block movies rated &lt;RATING&gt;.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pulsar OK para bloquear pel=C3=ADculas clasificadas &lt;RATING&gt;.</p><=
+/td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour bloquer tous les films classifi=C3=A9s &lt;RATING&gt=
+;.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">135</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Canadian English</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Set Ratings Levels to lock or unlock for Canadian English TV broadcasts.=
+</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Fijar los niveles de clasificaci=C3=B3n para bloquear/desbloquear emisio=
+nes de TV en ingl=C3=A9s canadiense.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9finissez les niveaux de classification =C3=A0 bloquer ou non pour=
+ les =C3=A9missions canadiennes en anglais.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">136</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Canadian French</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Set Ratings Levels to lock or unlock for Canadian French TV broadcasts.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Fijar los niveles de clasificaci=C3=B3n para bloquear/desbloquear emisio=
+nes de TV en franc=C3=A9s canadiense.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9finissez les niveaux de classification =C3=A0 bloquer ou non pour=
+ les =C3=A9missions canadiennes en fran=C3=A7ais.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">137</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Canadian rating</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to block programs rated &lt;RATING&gt;.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pulsar OK para bloquear programas clasificados &lt;RATING&gt;.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour bloquer les programmes classifi=C3=A9s &lt;RATING&gt=
+;.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">138</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Block Unrated Shows</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Block or unblock unrated TV broadcasts or movies.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bloquear o desbloquear emisiones de TV o pel=C3=ADculas sin clasificar.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bloquer ou d=C3=A9bloquez les =C3=A9missions TV ou les films non classif=
+i=C3=A9s.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">139</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Set Ratings Levels to lock or unlock for &lt;SYSTEM&gt; TV broadcasts.</=
+p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Fijar los niveles de clasificaci=C3=B3n para bloquear/desbloquear emisio=
+nes de TV &lt;SYSTEM&gt;.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>D=C3=A9finissez les niveaux de classification =C3=A0 bloquer ou non pour=
+ les =C3=A9missions &lt;SYSTEM&gt;.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">140</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System Rating</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to block programs rated &lt;RATING&gt;.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pulsar OK para bloquear programas clasificados &lt;RATING&gt;.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour bloquer les programmes classifi=C3=A9s &lt;RATING&gt=
+;.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">141</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset Locks</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset Parental Control locks back to factory settings.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Restablecer los bloqueos de los Controles Parentales a los valores de f=
+=C3=A1brica.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9initialisationdes blocages du Contr=C3=B4le Parental selon les pa=
+ram=C3=A8tres d'usine.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">142</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td class=3D"confluenceTd">
+<p>TV Channels</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset Locks DB</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select Reset to restore Parental Controls to factory defaults.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione Reiniciar para restablecer Controles Parentales a los ajustes=
+ originales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez R=C3=A9initialiser pour restaurer Contr=C3=B4les Paren=
+taux aux param=C3=A8tres par d=C3=A9faut de l'usine.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">143</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Captions</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Activate and customize analog and digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Active y personalice los subt=C3=ADtulos anal=C3=B3gicos y digitales.</p=
+></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Activez et personnalisez les sous-titres analogiques et num=C3=A9riques.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">144</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Analog CC</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Captions for analog programming as available by the broadcaster.&nbsp; C=
+C1 is usually the only caption used.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Los subt=C3=ADtulos disponibles para la programaci=C3=B3n anal=C3=B3gica=
+ dependen de la entidad transmisora.&nbsp; CC1 suele ser el =C3=BAnico tipo=
+ de subt=C3=ADtulo utilizado.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Les sous-titres pour la programmation analogique tels qu=E2=80=99offerts=
+ par le diffuseur.&nbsp; SC1 est g=C3=A9n=C3=A9ralement le seul type de sou=
+s-titre utilis=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">145</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Digital CC</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Captions for digital programming as available by the broadcaster.&nbsp; =
+CS1 is usually the only caption used.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Los subt=C3=ADtulos disponibles para la programaci=C3=B3n digital depend=
+en de la entidad transmisora.&nbsp; CS1 suele ser el =C3=BAnico tipo de sub=
+t=C3=ADtulo utilizado.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Les sous-titres pour la programmation num=C3=A9rique tels qu'offerts par=
+ le diffuseur.&nbsp; CS1 est g=C3=A9n=C3=A9ralement le seul type de sous-ti=
+tre utilis=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">146</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Digital CC style</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize text color, size, and background color for digital closed capt=
+ioning.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice el color del texto, el tama=C3=B1o y el color de fondo para =
+los subt=C3=ADtulos ocultos digitales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la couleur du texte, la taille et la couleur de l'arri=C3=
+=A8re-plan pour le sous-titrage num=C3=A9rique.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">147</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Text Style</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the font for digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice la fuente de los subt=C3=ADtulos ocultos digitales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la police des sous-titres num=C3=A9riques.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">148</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Text Size</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the text size for digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice el tama=C3=B1o de texto de los subt=C3=ADtulos ocultos digit=
+ales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la taille du texte des sous-titres num=C3=A9riques.</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">149</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Color</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the text color for digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice el color de texto de los subt=C3=ADtulos ocultos digitales.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la couleur du texte des sous-titres num=C3=A9riques.</p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">150</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Opacity</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the text transparency for digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice la transparencia de texto de los subt=C3=ADtulos ocultos dig=
+itales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la transparence du texte des sous-titres num=C3=A9riques.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">151</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Edges</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the text edges for digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice los bordes del texto para los subt=C3=ADtulos digitales.</p>=
+</td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez les bords du texte des sous-titres num=C3=A9riques.</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">152</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Edges Color</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the text edges color for digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice el color de los bordes de texto para los subt=C3=ADtulos dig=
+itales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la couleur des bords du texte des sous-titres num=C3=A9riq=
+ues.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">153</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>BG Color</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the background color for digital closed captions.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice el color de fondo de los subt=C3=ADtulos ocultos digitales.<=
+/p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la couleur de l'arri=C3=A8re-plan des sous-titres num=C3=
+=A9riques.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">154</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>BG Opacity</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the background transparency for digital closed captions.</p></=
+td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice la transparencia de fondo de los subt=C3=ADtulos ocultos dig=
+itales.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la transparence de l'arri=C3=A8re-plan des sous-titres num=
+=C3=A9riques.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">155</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Window color</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the color for the closed caption window.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice el color de la ventana de subt=C3=ADtulos ocultos.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la couleur de la fen=C3=AAtre de sous-titrage.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">156</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Window opacity</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Customize the transparency for the closed caption window.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personalice la transparencia de la ventana de subt=C3=ADtulos ocultos.</=
+p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Personnalisez la transparence de la fen=C3=AAtre de sous-titrage.</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">157</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Video Description</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>If included by the broadcaster, provides a narrated description of the a=
+ction for the content.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Si lo a=C3=B1adee la transmisora, se provee una descripci=C3=B3n narrada=
+ de la acci=C3=B3n del contenido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Si inclus par le diffuseur, donne une description narrative de l'action =
+pour le contenu.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">158</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Talk Back</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Text-to-speech is provided to speak the text displayed.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>De texto a voz se puede activar para decir el contenido del texto en voz=
+ alta.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>La synth=C3=A8se vocale est fournie pour prononcer le texte affich=C3=A9=
+.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">159</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Speech Rate</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select the speed at which text is spoken.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccionar la velocidad en la que se dice el texto.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez la vitesse =C3=A0 laquelle le texte est prononc=C3=A9.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">160</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Accessibility</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Zoom Mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Zoom mode enlarges the text for the selected setting or current display.=
+</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>El Modo Zoom agranda el texto de la programaci=C3=B3n seleccionada o la =
+pantalla actual.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Le mode Zoom agrandit le texte pour le r=C3=A9glage s=C3=A9lectionn=C3=
+=A9 ou l'affichage en cours.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">161</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Menu language</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select the menu language.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione el idioma del men=C3=BA.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez la langue du menu.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">162</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Time</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select time zone and activate daylight saving time.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione la zona horaria y&nbsp; active el horario de verano.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez le fuseau horaire et activez l'heure d'=C3=A9t=C3=A9.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">163</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Automatic Time</p></td>
+<td class=3D"confluenceTd">
+<p>Automatic Time sets the time automatically.&nbsp; Uncheck to manually as=
+sign time zone or DST.</p></td>
+<td class=3D"confluenceTd">
+<p>Hora autom=C3=A1tica establece la hora autom=C3=A1ticamente. Desmarque p=
+ara asignar manualmente la zona horaria o el horario de verano.</p></td>
+<td class=3D"confluenceTd">
+<p>Heure automatique d=C3=A9finit l'heure automatiquement. D=C3=A9cochez po=
+ur attribuer manuellement le fuseau horaire ou l'heure d'=C3=A9t=C3=A9.</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">164</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Time Zone</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select your time zone.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione la zona horaria.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez votre fuseau horaire.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">165</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Daylight Saving</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select On if Daylight Saving Time applies to your location. Select Off i=
+f standard time zone applies year round.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione Activado si el Horario de Verano se aplica en su =C3=A1rea. S=
+eleccione Apagado si tiene horario est=C3=A1ndar todo el a=C3=B1o.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez Activ=C3=A9 si l=E2=80=99Heure d=E2=80=99Et=C3=A9 s=E2=
+=80=99applique =C3=A0 votre endroit. S=C3=A9lectionnez Arr=C3=AAt si un fus=
+eau horaire standard s=E2=80=99applique toute l=E2=80=99ann=C3=A9e.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">166</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Time Format</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select the time format.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccionar el formato de tiempo.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez le format de l'heure.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">167</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Time empty</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Time Not Availabe</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Hora No Disponible</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Heure Non Disponible</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">168</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Name</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Press OK to customize the TV Name.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Oprima OK para personalizar el nombre de la TV.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Appuyez sur OK pour personnaliser le nom de la TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">169</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Name OK button</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter a custom name for the TV of up to 24 characters.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ingrese un nombre personalizado para la TV de hasta 24 caracteres.</p></=
+td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Entrez un nom personnalis=C3=A9 pour la TV en utilisant jusqu'=C3=A0 24 =
+caract=C3=A8res.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">170</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>TV Name&nbsp; Cancel</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cancel TV Name changes.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cancele cambios de Nombre la TV.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Annulez des changements de Nomme la TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">171</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>HDMI-1 (same for all HDMI)</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter a custom name for HDMI-1.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ingrese un nombre personalizado para HDMI-1.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Entrez un nom personnalis=C3=A9 pour HDMI-1.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">172</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>COMP</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter a custom name for COMP.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ingrese un nombre personalizado para COMP.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Entrez un nom personnalis=C3=A9 pour COMP.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">173</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Input Text entry Keybaord</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Enter a custom name of up to 16 characters.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ingrese un nombre personalizado de hasta 16 caracteres.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Entrez un nom personnalis=C3=A9 en utilisant jusqu'=C3=A0 16 caract=C3=
+=A8res.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">174</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Hide from Input List</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>All inputs are included when the Input List displays.&nbsp; Select Hidde=
+n to hide an input not in use.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Todas las Entradas est=C3=A1n inclu=C3=ADdas cuando&nbsp;est=C3=A1 en la=
+ pantalla el Men=C3=BA de Selecci=C3=B3n de Entrada. Seleccione Escondido p=
+ara ocultar una entrada que no est=C3=A9 en uso.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Toutes les entr=C3=A9es sont incluses lorsque le menu S=C3=A9lection d'e=
+ntr=C3=A9e s'affiche. S=C3=A9lectionnez Masqu=C3=A9 pour masquer une entr=
+=C3=A9e non utilis=C3=A9e.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">175</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Input at Power On</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select the input on the TV when powered on.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccionar la entrada en el televisor cuando est=C3=A9 encendido.</p></=
+td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez l'entr=C3=A9e sur le t=C3=A9l=C3=A9viseur lorsqu'il es=
+t allum=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">176</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Power Mode</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>To have the most control of your TV, switch to Quick Start.&nbsp; Your t=
+elevision=E2=80=99s energy consumption may change based on your usage and p=
+ower settings.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Para poder obtener el mejor control de su TV, cambie a Inicio R=C3=A1pid=
+o. El consumo de energ=C3=ADa de su televisi=C3=B3n puede cambiar basado en=
+ su uso y la programaci=C3=B3n del modo de encendido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pour avoir le meilleur contr=C3=B4le de votre TV, passez en D=C3=A9marra=
+ge Rapide.&nbsp; La consommation d'=C3=A9nergie de votre TV peut changer en=
+ fonction de votre utilisation et des param=C3=A8tres de le mode d'alimenta=
+tion.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">177</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>OLED</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust screen protection settings that prevent screen burn in.&nbsp;</p>=
+</td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajustar la programaci=C3=B3n de protecci=C3=B3n de pantalla para preveni=
+r que la imagen se pegue a la pantalla.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajustez les param=C3=A8tres de protection de l=E2=80=99=C3=A9cran qui em=
+p=C3=AAchent la persistance de l=E2=80=99image =C3=A0 l=E2=80=99=C3=A9cran.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">178</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Screen Refresher</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>The Screen Refresh corrects picture dimness that may result after the TV=
+ has been powered on for an extended period of time.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>La actualizaci=C3=B3n de pantalla corrige la falta de luz que pudiera re=
+sultar despu=C3=A9s de que la TV ha sido apagada por un per=C3=ADodo largo =
+de tiempo.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Le rafra=C3=AEchissement de l'=C3=A9cran corrige le manque de clart=C3=
+=A9 de l'image qui peut r=C3=A9sulter de l'allumage prolong=C3=A9 de la TV.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">179</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>Screen Refresher</p></td>
+<td class=3D"confluenceTd">
+<p>Select Start Power Off to start at next power off or select Start Now to=
+ start immediately.</p></td>
+<td class=3D"confluenceTd">
+<p>Seleccione Iniciar apagado para comenzar en el siguiente corte de energ=
+=C3=ADa o seleccionar Iniciar ahora para comenzar inmediatamente.</p></td>
+<td class=3D"confluenceTd">
+<p>Choisissez Commencer =C3=A0 l'arr=C3=AAt pour commencer au pouvoir suiva=
+nt d'ou choisir Commencer maintenant pour commencer tout de suite.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">180</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>Screen Refresher</p></td>
+<td class=3D"confluenceTd">
+<p>Start Now</p></td>
+<td class=3D"confluenceTd">
+<p>Iniciar ahora</p></td>
+<td class=3D"confluenceTd">
+<p>Commencer maintenant</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">181</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>Screen Refresher</p></td>
+<td class=3D"confluenceTd">
+<p>Start Power Off</p></td>
+<td class=3D"confluenceTd">
+<p>Iniciar apagado</p></td>
+<td class=3D"confluenceTd">
+<p>Commencer =C3=A0 l'arr=C3=AAt</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">182</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>Screen Refresher</p></td>
+<td class=3D"confluenceTd">
+<p>Cancel</p></td>
+<td class=3D"confluenceTd">
+<p>Cancelar</p></td>
+<td class=3D"confluenceTd">
+<p>Annulez</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">183</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>Screen Refresher Start Now confirmation</p></td>
+<td class=3D"confluenceTd">
+<p>Select Start Now to begin Screen Refresher.&nbsp; <strong>The TV is off =
+for up to an hour.&nbsp; </strong><br>
+Start Now&nbsp; Cancel</p></td>
+<td class=3D"confluenceTd">
+<p>Seleccione Iniciar Ahora para comenzar el Actualizaci=C3=B3n de Pantalla=
+. <strong>La TV es desconectada durante hasta una hora.</strong><br>
+Iniciar Ahora&nbsp; Cancelar</p></td>
+<td class=3D"confluenceTd">
+<p>S=C3=A9lectionnez Commencer maintenant pour commencer le Rafra=C3=AEchis=
+sement de l'=C3=A9cran.&nbsp; <strong>La TV est d=C3=A9branch=C3=A9e depuis=
+ jusqu'=C3=A0 une heure.</strong><br>
+Commencer maintenant&nbsp; Annulez</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">184</td>
+<td class=3D"confluenceTd">
+<p>Notification</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Screen refresher starts when TV is turned off.</p></td>
+<td class=3D"confluenceTd">
+<p>Actualizador de Pantalla comienza cuando la TV es apagada.</p></td>
+<td class=3D"confluenceTd">
+<p>Rafra=C3=AEchisseur d'=C3=A9cran commence lorsque la TV est =C3=A9teinte=
+.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">185</td>
+<td class=3D"confluenceTd">
+<p>Notification</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>Screen Refresher</p></td>
+<td class=3D"confluenceTd">
+<p>Screen Refresh completed.</p></td>
+<td class=3D"confluenceTd">
+<p>Se ha completado la Actualizaci=C3=B3n de Pantalla.</p></td>
+<td class=3D"confluenceTd">
+<p>Rafra=C3=AEchissement de l'=C3=A9cran termin=C3=A9</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">186</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td class=3D"confluenceTd">
+<p>OLED Screen Refreshdemo&nbsp;mode&nbsp; popup</p></td>
+<td class=3D"confluenceTd">
+<p>Run Screen Refresh?&nbsp; <br>
+YES&nbsp; DECLINE</p></td>
+<td class=3D"confluenceTd">
+<p>=C2=BFActivar actualizaci=C3=B3n de pantalla?<br>
+SI&nbsp; DECLINAR</p></td>
+<td class=3D"confluenceTd">
+<p>Activer rafra=C3=AEchisseur d'=C3=A9cran? <br>
+OUI&nbsp; REFUSEZ</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">187</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System/ OLED</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Pixel Shift</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>The Pixel Shift shifts the screen slightly to prevent screen burn</p></t=
+d>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>El cambio de Pixeles cambia la pantalla levemente para prevenir que se q=
+ueme la pantalla.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Le mode d=C3=A9calage des pixels d=C3=A9cale l=C3=A9g=C3=A8rement l'=C3=
+=A9cran pour =C3=A9viter les br=C3=BBlures d'=C3=A9cran.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">188</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>USB Power TV</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>The USB port can be used to charge&nbsp; devices.&nbsp; For Always On, p=
+ower is always available.&nbsp; For Off When TV Off, when the TV is powered=
+ off, no power to the connected device.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>=C3=89ste puerto de USB puede ser usado para cargar aparatos. Para Mante=
+ner Encendido, poder est=C3=A1 siempre disponible. Para Apagar Si TV Apagad=
+o, no hay corriente el=C3=A9ctrica hacia el aparato.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Le port USB peut =C3=AAtre utilis=C3=A9 pour charger des appareils. Pour=
+ Toujours Activ=C3=A9, l'alimentation est toujours disponible. Pour D=C3=A9=
+sactiv=C3=A9 Si TV =C3=89teint, lorsqu'on l'=C3=A9teint, aucune alimentatio=
+n sur l'appareil connect=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">189</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Power Indicator TV</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Select if the LED Power Indicator light is Off or On when TV is on.</p><=
+/td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Seleccione si la luz del Indicador de Corriente LED debe estar encendida=
+ o apagada cuando est=C3=A1 encendido el televisor.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>S=C3=A9lectionnez si L'indicateur d'Alimentation LED est =C3=A9teint ou =
+allum=C3=A9 lorsque la TV est en marche.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">190</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Timers</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust settings for sleep timer auto power off and blank the screen.&nbs=
+p;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste la configuraci=C3=B3n del temporizador de reposo, apague autom=C3=
+=A1tico y la pantalla en blanco.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajustez les param=C3=A8tres pour l'arr=C3=AAt diff=C3=A9r=C3=A9, l'arr=
+=C3=AAt automatique y l'=C3=A9cran vide.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">191</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sleep Timer</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Automatically power off the TV after the selected period of time. Useful=
+ when watching TV before going to sleep.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Apaga el televisor autom=C3=A1ticamente despu=C3=A9s de un per=C3=ADodo =
+de tiempo seleccionado. Resulta =C3=BAtil cuando vea televisi=C3=B3n antes =
+de irse a dormir.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>=C3=89teignez automatiquement la TV apr=C3=A8s la p=C3=A9riode de temps =
+d=C3=A9termin=C3=A9e. Utile lorsque vous regardez la TV avant de vous endor=
+mir.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">192</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Auto Power Off</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>No input signal.&nbsp; Power will be turned off.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Si no hay se=C3=B1al, el TV se apagara.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Aucun signal d'entr=C3=A9e.&nbsp; L'alimentation va =C3=AAtre coup=C3=A9=
+e.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">193</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Blank Screen</p></td>
+<td class=3D"confluenceTd">
+<p>Immediately blank the screen while audio is streaming. This saves energy=
+ and LED life.&nbsp; Or press MUTE for 2 seconds.</p></td>
+<td class=3D"confluenceTd">
+<p>Inmediatamente la pantalla en blanco mientras se transmite el audio. Est=
+o ahorra energ=C3=ADa y aumenta la duraci=C3=B3n del LED. U oprima al MUTE =
+durante 2 segundos.</p></td>
+<td class=3D"confluenceTd">
+<p>Affiche imm=C3=A9diatement un =C3=A9cran vide pendant que le son est dif=
+fus=C3=A9. Cela permet d'=C3=A9conomiser de l'=C3=A9nergie et la dur=C3=A9e=
+ de vie de la LED.&nbsp; Ou appuyez sur le MUTE depuis 2 secondes.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">194</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System PIN</p></td>
+<td class=3D"confluenceTd">
+<p>Create a System PIN code to lock content and reset.</p></td>
+<td class=3D"confluenceTd">
+<p>Crear un Sistema de c=C3=B3digo NIP para bloquear el contenido y reprogr=
+amar.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Cr=C3=A9ez un code PIN Syst=C3=A8me pour verrouiller le contenu et la r=
+=C3=A9initialisation.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">195</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System PIN initial entry</p></td>
+<td class=3D"confluenceTd">
+<p>Create a 4 digit System PIN code using the numbers keys on the remote.&n=
+bsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Cree un Sistema de c=C3=B3digo NIP de 4 d=C3=ADgitos utilizando los boto=
+nes num=C3=A9ricos del control remoto.</p></td>
+<td class=3D"confluenceTd">
+<p>Cr=C3=A9ez un PIN Syst=C3=A8me =C3=A0 4 chiffres en utilisant les touche=
+s num=C3=A9riques de la t=C3=A9l=C3=A9commande.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">196</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System PIN unlock menu</p></td>
+<td class=3D"confluenceTd">
+<p>Enter the 4 digit PIN code using the numbers keys on the remote.&nbsp;</=
+p></td>
+<td class=3D"confluenceTd">
+<p>Ingrese el c=C3=B3digo NIP de 4 d=C3=ADgitos utilizando los botones num=
+=C3=A9ricos del control remoto.</p></td>
+<td class=3D"confluenceTd">
+<p>Entrez le code PIN =C3=A0 4 chiffres en utilisant les touches num=C3=A9r=
+iques de la t=C3=A9l=C3=A9commande.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">197</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>invalid PIN</p></td>
+<td class=3D"confluenceTd">
+<p>Invalid PIN. Try again.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>NIP inv=C3=A1lido. Intente de nuevo.</p></td>
+<td class=3D"confluenceTd">
+<p>Code PIN invalide.&nbsp; Veuillez r=C3=A9essayer.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">198</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Change&nbsp; PIN</p></td>
+<td class=3D"confluenceTd">
+<p>Change the PIN used for the System PIN.</p></td>
+<td class=3D"confluenceTd">
+<p>Cambiar el NIP utilizado para Sistema de c=C3=B3digo NIP.</p></td>
+<td class=3D"confluenceTd">
+<p>Modifiez le code PIN utilis=C3=A9 pour le PIN Syst=C3=A8me.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">199</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Change PIN cancel</p></td>
+<td class=3D"confluenceTd">
+<p>Cancel PIN changes.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Cancelar cambios de NIP.</p></td>
+<td class=3D"confluenceTd">
+<p>Annulez les modifications de code PIN.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">200</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>New PIN</p></td>
+<td class=3D"confluenceTd">
+<p>New PIN confirmed.</p></td>
+<td class=3D"confluenceTd">
+<p>Nuevo NIP confirmado.</p></td>
+<td class=3D"confluenceTd">
+<p>Nouveau code PIN confirm=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">201</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>PIN mismatch</p></td>
+<td class=3D"confluenceTd">
+<p>PINs do not match.&nbsp; Try again.</p></td>
+<td class=3D"confluenceTd">
+<p>NIPs no coinciden. Intente de nuevo.</p></td>
+<td class=3D"confluenceTd">
+<p>Les codes PIN ne correspondent pas. Veuillez r=C3=A9essayer.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">202</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>CEC</p></td>
+<td class=3D"confluenceTd">
+<p>CEC (Consumer Electronics Control) provides automatic control of HDMI de=
+vices using the remote.</p></td>
+<td class=3D"confluenceTd">
+<p>El CEC (Control de dispositivos electr=C3=B3nicos para consumidores) ofr=
+ece control autom=C3=A1tico de dispositivos HDMI mediante el control remoto=
+.</p></td>
+<td class=3D"confluenceTd">
+<p>Le CEC (Consumer Electronics Control) permet de commander automatiquemen=
+t des appareils HDMI en utilisant la t=C3=A9l=C3=A9commande.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">203</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>CEC function</p></td>
+<td class=3D"confluenceTd">
+<p>Select Enable to control CEC devices connected to HDMI.</p></td>
+<td class=3D"confluenceTd">
+<p>Seleccione Activado para controlar los aparatos CEC conectados a HDMI.</=
+p></td>
+<td class=3D"confluenceTd">
+<p>S=C3=A9lectionnez Activez pour contr=C3=B4le les appareils CEC connect=
+=C3=A9s via HDMI.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">204</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Discovery</p></td>
+<td class=3D"confluenceTd">
+<p>Registers CEC enabled devices when connected via HDMI cable.</p></td>
+<td class=3D"confluenceTd">
+<p>Registra los dispositivos compatibles con CEC cuando est=C3=A1n conectad=
+os a trav=C3=A9s de un cable HDMI.</p></td>
+<td class=3D"confluenceTd">
+<p>Enregistre les appareils compatibles CEC lorsqu'ils sont connect=C3=A9s =
+via un c=C3=A2ble HDMI.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">205</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Voice Remote</p></td>
+<td class=3D"confluenceTd">
+<p>Pair a voice remote, review status, check battery level or update firmwa=
+re.</p></td>
+<td class=3D"confluenceTd">
+<p>Sincronice un control remoto de voz, vea el estatus, chequee el nivel de=
+ bater=C3=ADa o actualice el firmware.</p></td>
+<td class=3D"confluenceTd">
+<p>Couplez une t=C3=A9l=C3=A9commande vocale, contr=C3=B4lez le statut, v=
+=C3=A9rifiez le niveau de la batterie ou mettez =C3=A0 jour le micrologicie=
+l.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">206</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Restart TV</p></td>
+<td class=3D"confluenceTd">
+<p>Force the system to power off and reset.</p></td>
+<td class=3D"confluenceTd">
+<p>Forzar el sistema a apagarse y reprogramarse.</p></td>
+<td class=3D"confluenceTd">
+<p>Obligez le syst=C3=A8me =C3=A0 s'=C3=A9teindre et se r=C3=A9initialiser.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">207</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Restart TV DB</p></td>
+<td class=3D"confluenceTd">
+<p>Do you want to restart the TV? Yes No</p></td>
+<td class=3D"confluenceTd">
+<p>=C2=BFQuiere usted reiniciar la TV?&nbsp; S=C3=AD No</p></td>
+<td class=3D"confluenceTd">
+<p>Voulez-vous red=C3=A9marrer le t=C3=A9l=C3=A9viseur? Oui Non</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">208</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>System Information</p></td>
+<td class=3D"confluenceTd">
+<p>View status information, current input and your network.</p></td>
+<td class=3D"confluenceTd">
+<p>Visualice la informaci=C3=B3n de estado, la entrada actual y la red.</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>Visualisez les informations du statut, de l'entr=C3=A9e actuelle et de v=
+otre r=C3=A9seau.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">209</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Support Code</p></td>
+<td class=3D"confluenceTd">
+<p>View the support code PIN and a summary of the TV state.</p></td>
+<td class=3D"confluenceTd">
+<p>Vea el n=C3=BAmero personal de identificaci=C3=B3n de c=C3=B3digo de apo=
+yo y un resumen del estado de TV.</p></td>
+<td class=3D"confluenceTd">
+<p>Voyez le code confidentiel de code de soutien et un r=C3=A9sum=C3=A9 de =
+l'=C3=A9tat de TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">210</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Check for Update</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Check if a new update is available.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Comprobar si est=C3=A1 disponible una nueva actualizaci=C3=B3n.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>V=C3=A9rifiez si une nouvelle mise =C3=A0 jour est disponible.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">211</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Check for Update DB1</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Do you want to Check for Updates?</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>=C2=BFQuiere usted Revisar las Actualizaciones?&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Voulez-vous V=C3=A9rifiez les Mises =C3=A0 Jour ?&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">212</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset to Defaults</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"iwcwrvzw8m">Clear memory and reset all settings to=
+ factory defaults. </span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"ikk4l061z0">Borre la memoria y restaura toda la co=
+nfiguraci=C3=B3n a los ajustes originales. </span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"oqwt6mnxph">Effacez la m=C3=A9moire et r=C3=A9tabl=
+issez la les param=C3=A8tres par d=C3=A9faut de l'usine. </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">213</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Dialog Box - Reset TV</p></td>
+<td class=3D"confluenceTd">
+<p>Reset TV - <span data-colorid=3D"d3e8xva9rv">Returns your VIZIO TV to it=
+s original factory settings. This will provide an update to the latest firm=
+ware, and all settings and login credentials will be reset.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Resetear TV - <span data-colorid=3D"mn1uss7rz4">Lo regresa a su programa=
+ci=C3=B3n original de f=C3=A1brica. Esto le dar=C3=A1 la actualizaci=C3=B3n=
+ al =C3=BAltimo firmware, y todas las programaciones y credenciales de acce=
+so ser=C3=A1n reprogramadas.</span></p></td>
+<td class=3D"confluenceTd">
+<p>R=C3=A9initialisation de la TV - <span data-colorid=3D"x42jv0xvyl">Perme=
+t de r=C3=A9tablir les param=C3=A8tres usine originaux de votre TV VIZIO. C=
+ela fournira une mise =C3=A0 jour du dernier firmware, et tous les param=C3=
+=A8tres et identifiants de connexion seront r=C3=A9initialis=C3=A9s.</span>=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">214</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Dialog Box - Reset Apps</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Apps - <span data-colorid=3D"mi5f8q5ikg">Deletes application data =
+and restarts your VIZIO TV. You may be required to resubmit your login cred=
+entials for select applications.</span></p></td>
+<td class=3D"confluenceTd">
+<p>Resetear Apps - <span data-colorid=3D"mta9ia95oc">Borra los datos de la =
+aplicaci=C3=B3n y reiniciar su VIZIO TV. Es posible que se le requiera volv=
+er a ingresar sus credenciales de acceso para ciertas aplicaciones.</span><=
+/p></td>
+<td class=3D"confluenceTd">
+<p>R=C3=A9initialisation des Apps - <span data-colorid=3D"p1ctdnemdf">Suppr=
+ime les donn=C3=A9es des applications et red=C3=A9marre votre TV VIZIO. Il =
+se peut que vous deviez soumettre =C3=A0 nouveau vos identifiants de connex=
+ion pour certaines applications.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">215</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Dialog Box - Restart</p></td>
+<td class=3D"confluenceTd">
+<p>Restart - <span data-colorid=3D"pu4rcr9ezu">Your VIZIO TV will power off=
+ and restart.</span></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reiniciar - <span data-colorid=3D"hohdxaetp4">su VIZIO TV se apagar=C3=
+=A1 y reiniciar=C3=A1.</span></p></td>
+<td class=3D"confluenceTd">
+<p>Red=C3=A9marrage - <span data-colorid=3D"qnvaozx2sw">Votre TV VIZIO va s=
+'=C3=A9teindre et red=C3=A9marrer.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">216</td>
+<td class=3D"confluenceTd">
+<p>Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Dialog Box - Cancel</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"x4y9hk3j18">Cancel - Returns back to main menu.</s=
+pan></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p><span data-colorid=3D"tkd0pphl6b">Cancelar - Vuelve al men=C3=BA princip=
+al.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qfsii8sydh">Annular - Revient au menu principal.</=
+span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">217</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset in progress TV</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Memory is being cleared.&nbsp; The TV will reset shortly.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Se est=C3=A1 borrando la memoria. La TV se reprogramar=C3=A1 a la breved=
+ad.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>La m=C3=A9moire est en train d=E2=80=99=C3=AAtre effac=C3=A9e.&nbsp; La =
+TV va se r=C3=A9initialiser dans peu de temps.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">218</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Viewing Data</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Collected via Automated Content Recognition technology.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Recolectado por medio de tecnolog=C3=ADa de Reconocimiento Autom=C3=A1ti=
+co de Contenido.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Recueilli gr=C3=A2ce =C3=A0 la technologie de Reconnaissance Automatique=
+ de Contenu.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">219</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Advertising</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Your advertising choices can be personalized.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sus preferencias de anuncios pueden personalizarse.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Vos choix publicitaires peuvent =C3=AAtre personnalis=C3=A9s.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">220</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Advertising</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Limited Ad Tracking</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>When enabled, TV Ad ID will not be passed or used for personalized ads o=
+n this device.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cuando activarse, anuncio de TV no ser=C3=A1 pasado ni usado para anunci=
+os personalizados en este aparato.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Quand activ=C3=A9, l=E2=80=99identifiant de l=E2=80=99annonceur TV ne se=
+ra pas transmis ni utilis=C3=A9 pour des publicit=C3=A9s personnalis=C3=A9e=
+s sur cet appareil.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">221</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Advertising</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset TV Advertiser ID</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>An Identifier for Advertising - can be reset to a new identifier at any =
+time.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Un identificador de aunincios puede ser reprogramado a un nuevo identifi=
+cador en cualquier momento.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Un identifiant pour la publicit=C3=A9 - peut =C3=AAtre remplac=C3=A9 par=
+ un nouvel identifiant =C3=A0 tout moment.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">222</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">Dialog Box</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Advertising</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset TV Advertiser ID</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Do you want to create a new Advertiser ID?</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Desea crear un nuevo indentificador de ID?</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Souhaitez-vous cr=C3=A9er un nouvel identifiant d'annonceur ?</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">223</td>
+<td class=3D"confluenceTd">
+<p>Notification</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Advertising</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Reset TV Advertiser ID</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>The advertiser ID is reset.&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>El ID de Anuncios ha reprogramado.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>L'identifiant de l'annonceur est r=C3=A9initialis=C3=A9.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">224</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td class=3D"confluenceTd">
+<p>Privacy policy - link (no network connection)</p></td>
+<td class=3D"confluenceTd">
+<p>US: View the Privacy Policy at: <a class=3D"external-link" href=3D"http:=
+//www.vizio.com/privacy" rel=3D"nofollow">www.vizio.com/privacy</a>.<br>
+CAN: View the Privacy Policy at: <a class=3D"external-link" href=3D"http://=
+www.vizio.com/en_ca/privacy" rel=3D"nofollow">www.vizio.com/en_ca/privacy</=
+a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Lea la Pol=C3=ADtica de Privacidad en:&nbsp; <a class=3D"external-link" =
+href=3D"http://www.vizio.com/es-mx/privacy" rel=3D"nofollow">www.vizio.com/=
+es-mx/privacy</a>.</p></td>
+<td class=3D"confluenceTd">
+<p>Visualisez la Politique de Confidentialit=C3=A9 sur : <a class=3D"extern=
+al-link" href=3D"http://www.vizio.com/fr-ca/privacy" rel=3D"nofollow">www.v=
+izio.com/fr-ca/privacy</a>.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">225</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td class=3D"confluenceTd">
+<p>Privacy policy - text</p></td>
+<td class=3D"confluenceTd">
+<p>View the VIZIO Privacy Policy.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Lea la Pol=C3=ADtica de Privacidad VIZIO.</p></td>
+<td class=3D"confluenceTd">
+<p>Visualisez la Politique de Confidentialit=C3=A9 de VIZIO.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">226</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>Admin &amp; Privacy</p></td>
+<td class=3D"confluenceTd">
+<p>Store Demo</p></td>
+<td class=3D"confluenceTd">
+<p>Restart or stop the demo mode.</p></td>
+<td class=3D"confluenceTd">
+<p>Reinicie o detenga el modo demostraci=C3=B3n.</p></td>
+<td class=3D"confluenceTd">
+<p>Red=C3=A9marrez ou arr=C3=AAtez le mode d=C3=A9mo.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">227</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>User manual</p></td>
+<td class=3D"confluenceTd">
+<p>User manual - not available</p></td>
+<td class=3D"confluenceTd">
+<p>User manual not available.&nbsp; View the user manual at:</p></td>
+<td class=3D"confluenceTd">
+<p>Manual del Usuario no est=C3=A1 disponible. Ver el Manual del Usuario en=
+:</p></td>
+<td class=3D"confluenceTd">
+<p>Manuel de l'Utilisateur n=E2=80=99est pas disponible.&nbsp; Visualisez l=
+e Manuel de l'Utilisateur sur:</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">228</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>User manual</p></td>
+<td class=3D"confluenceTd">
+<p>User manual -&nbsp; TV</p></td>
+<td class=3D"confluenceTd">
+<p>Read your TV's User Manual.</p></td>
+<td class=3D"confluenceTd">
+<p>Lea el manual del usuario del televisor.</p></td>
+<td class=3D"confluenceTd">
+<p>Lisez le manuel d'utilisateur de votre TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">229</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Camera &amp; Mic</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Adjust and customize the camera and microphone settings.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajuste y personalice la configuraci=C3=B3n de la c=C3=A1mara y el micr=
+=C3=B3fono.</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Ajustez et personnalisez les param=C3=A8tres de la cam=C3=A9ra et du mic=
+rophone.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">230</td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">HT</p></td>
+<td class=3D"confluenceTd">
+<p>All</p></td>
+<td class=3D"confluenceTd">
+<p>Back icon</p></td>
+<td class=3D"confluenceTd">
+<p>Back to previous page.</p></td>
+<td class=3D"confluenceTd">
+<p>Regresar a la p=C3=A1gina previa.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Retour =C3=A0 la page pr=C3=A9c=C3=A9dente.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">231</td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>Test</p></td>
+<td class=3D"confluenceTd">
+<p>iPerf</p></td>
+<td class=3D"confluenceTd">
+<p>Enter port number.</p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"cc501b80-0fcf-48a5-ac8=
+9-6286a2e7e190">Enter port number.</span></p></td>
+<td class=3D"confluenceTd">
+<p>Enter port number.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">232</td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>WPA Connections are not Supported.</p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"24de073c-4262-4e76-a2c=
+2-c4c4c75594db">Las conexiones WPA3 no son soporte</span>.</p></td>
+<td class=3D"confluenceTd">
+<p>Connexion de WPA3 non prise en charge.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">233</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">234</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Main</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI and Gaming</p></td>
+<td class=3D"confluenceTd">
+<p>Setup HDMI, CEC and Gaming.</p></td>
+<td class=3D"confluenceTd">
+<p>Programe configuraci=C3=B3n HDMI, CEC y Juego.</p></td>
+<td class=3D"confluenceTd">
+<p>Configurez les param=C3=A8tres HDMI, CEC et Jeu.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">235</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Pic =E2=86=92 Adv</p></td>
+<td class=3D"confluenceTd">
+<p>Color</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Setup HDMI including HDMI Mode, Color Range and CEC.</p></td>
+<td class=3D"confluenceTd">
+<p>Programe HDMI incluido el Modo HDMI, la gama de Colores y CEC.</p></td>
+<td class=3D"confluenceTd">
+<p>Configurez HDMI, y compris le mode HDMI, la gamme de couleurs et CEC.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">236</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Pic =E2=86=92 Adv</p></td>
+<td class=3D"confluenceTd">
+<p>Clarity</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p></p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">237</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Main</p></td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Device and Remote</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">238</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>System</p></td>
+<td class=3D"confluenceTd">
+<p>Manage Input List</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">239</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>System</p></td>
+<td class=3D"confluenceTd">
+<p>Power</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">240</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Main</p></td>
+<td class=3D"confluenceTd">
+<p>Support</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">241</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Main</p></td>
+<td class=3D"confluenceTd">
+<p>Privacy &amp; Legal</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_8_1522480992.1728075192817--

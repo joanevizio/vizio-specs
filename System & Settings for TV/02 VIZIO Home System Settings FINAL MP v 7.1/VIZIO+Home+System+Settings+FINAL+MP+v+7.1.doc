@@ -1,0 +1,684 @@
+Message-ID: <408349394.11.1728074674601@41606d7090e1>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10_901645803.1728074674601"
+
+------=_Part_10_901645803.1728074674601
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>VIZIO Home System Settings FINAL MP v 7.1</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>VIZIO Home System Settings FINAL MP v 7.1</h1>
+    <div class=3D"Section1">
+        <p>
+<style>[data-colorid=3Db341upm8mu]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Db341upm8mu]{color:#cf2600}[data-colorid=3Dqicuxo0w91]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dqicuxo0w91]{colo=
+r:#cf2600}[data-colorid=3Dv3ngear93t]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dv3ngear93t]{color:#cf2600}[data-colorid=3Dnuaug828=
+vz]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dnuaug828vz]=
+{color:#cf2600}[data-colorid=3Djib52n3eug]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Djib52n3eug]{color:#cf2600}[data-colorid=3Dtk3ti=
+tftqc]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dtk3titft=
+qc]{color:#cf2600}[data-colorid=3Dghsn0a13am]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dghsn0a13am]{color:#cf2600}[data-colorid=3Drc=
+yijrzfms]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Drcyij=
+rzfms]{color:#cf2600}[data-colorid=3Dqh5rh7vxcf]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dqh5rh7vxcf]{color:#cf2600}[data-colorid=
+=3Dee18i3q5pg]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+ee18i3q5pg]{color:#cf2600}[data-colorid=3Dtid2ehqyz9]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dtid2ehqyz9]{color:#cf2600}</style>Re=
+leased September 10, 2024</p>
+<p>The 2024 VIZIO Home System Settings specification defines for <strong>55=
+86</strong> the</p>
+<ul>
+<li>
+<p>SOC settings that can be adjusted and controlled</p></li>
+<li>
+<p>Input selector</p></li>
+<li>
+<p>Volume Control</p></li>
+<li>
+<p>Input Change Control</p></li>
+<li>
+<p>Remote Control support</p></li>
+<li>
+<p>Front Panel Behavior</p></li>
+<li>
+<p>VIZIO hidden test menu. &nbsp;</p></li>
+</ul>
+<p><a href=3D"/wiki/spaces/PM/pages/235874419577/2024+Change+List" data-lin=
+ked-resource-id=3D"235874419577" data-linked-resource-version=3D"251" data-=
+linked-resource-type=3D"page">2024 Change List</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874420911/1+Quick+Settings" data-lin=
+ked-resource-id=3D"235874420911" data-linked-resource-version=3D"9" data-li=
+nked-resource-type=3D"page">1 Quick Settings</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874420941/2+All+Settings+Menu" data-=
+linked-resource-id=3D"235874420941" data-linked-resource-version=3D"16" dat=
+a-linked-resource-type=3D"page">2 All Settings Menu 2 All Settings Menu</a>=
+</p>
+<p><a href=3D"/wiki/spaces/PM/pages/235880810054/3+Picture" data-linked-res=
+ource-id=3D"235880810054" data-linked-resource-version=3D"45" data-linked-r=
+esource-type=3D"page">3 Picture</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421035/4+Audio" data-linked-resou=
+rce-id=3D"235874421035" data-linked-resource-version=3D"38" data-linked-res=
+ource-type=3D"page">4 Audio</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235875008523/5+HDMI+and+Gaming" data-li=
+nked-resource-id=3D"235875008523" data-linked-resource-version=3D"62" data-=
+linked-resource-type=3D"page">5 HDMI and Gaming</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421102/6+Network" data-linked-res=
+ource-id=3D"235874421102" data-linked-resource-version=3D"44" data-linked-r=
+esource-type=3D"page">6 Network</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874420927/7+Bluetooth+and+Remote" da=
+ta-linked-resource-id=3D"235874420927" data-linked-resource-version=3D"18" =
+data-linked-resource-type=3D"page">7 Bluetooth and Remote</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421122/8+Antenna+Channels" data-l=
+inked-resource-id=3D"235874421122" data-linked-resource-version=3D"13" data=
+-linked-resource-type=3D"page">8 Antenna Channels</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421150/9+Accessibility" data-link=
+ed-resource-id=3D"235874421150" data-linked-resource-version=3D"29" data-li=
+nked-resource-type=3D"page">9 Accessibility</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421201/10+System" data-linked-res=
+ource-id=3D"235874421201" data-linked-resource-version=3D"117" data-linked-=
+resource-type=3D"page">10 System</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421332/11+Support" data-linked-re=
+source-id=3D"235874421332" data-linked-resource-version=3D"35" data-linked-=
+resource-type=3D"page">11 Support</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421271/12+Privacy+Legal" data-lin=
+ked-resource-id=3D"235874421271" data-linked-resource-version=3D"8" data-li=
+nked-resource-type=3D"page">12 Privacy &amp; Legal</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421375/13+VIZIO+Test+Menu" data-l=
+inked-resource-id=3D"235874421375" data-linked-resource-version=3D"14" data=
+-linked-resource-type=3D"page">13 VIZIO Test Menu</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421389/14+Panel+Button" data-link=
+ed-resource-id=3D"235874421389" data-linked-resource-version=3D"6" data-lin=
+ked-resource-type=3D"page">14 Panel Button</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421415/15+Remote+Keys" data-linke=
+d-resource-id=3D"235874421415" data-linked-resource-version=3D"16" data-lin=
+ked-resource-type=3D"page">15 Remote Keys</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421526/16+TV+Control" data-linked=
+-resource-id=3D"235874421526" data-linked-resource-version=3D"29" data-link=
+ed-resource-type=3D"page">16 TV Control</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421603/17+TV+Update+Check" data-l=
+inked-resource-id=3D"235874421603" data-linked-resource-version=3D"4" data-=
+linked-resource-type=3D"page">17 TV Update Check</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421617/18+Digit+Pad+Entry" data-l=
+inked-resource-id=3D"235874421617" data-linked-resource-version=3D"8" data-=
+linked-resource-type=3D"page">18 Digit Pad Entry</a></p>
+<p><a href=3D"/wiki/spaces/PM/pages/235874421693/19+OOBE" data-linked-resou=
+rce-id=3D"235874421693" data-linked-resource-version=3D"52" data-linked-res=
+ource-type=3D"page">19 OOBE</a></p>
+<p></p>
+<p>The supported skus are:</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f4=
+f0a63f-d2b7-485e-9549-db62104fd7a9" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 60.0px;">
+<col style=3D"width: 132.0px;">
+<col style=3D"width: 127.0px;">
+<col style=3D"width: 125.0px;">
+<col style=3D"width: 139.0px;">
+<col style=3D"width: 128.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Year</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>5586F HD/FHD</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>5586L 4K</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>5586L 4K club/seasonal</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>5586L Quantum</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>NT72690-2K </strong>HD/FHD</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>2024</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"jib52n3eug">VFD40M-0810</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nuaug828vz">V4K43M-0801</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ee18i3q5pg">VQD43M-0801</span></p></td>
+<td class=3D"confluenceTd">
+<p>VHD24M-0807</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"b341upm8mu">VFD43M-0804</span></p></td>
+<td class=3D"confluenceTd">
+<p>V4K43M-0804</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"rcyijrzfms">VQD50M-0809</span></p></td>
+<td class=3D"confluenceTd">
+<p>VHD32M-0807</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K50M-0807</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qh5rh7vxcf">M55Q6-L4</span></p></td>
+<td class=3D"confluenceTd">
+<p>VFD32M-0807</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K50M-0810</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"v3ngear93t">M65Q6-L4</span></p></td>
+<td class=3D"confluenceTd">
+<p>VFD40M-0807</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K50M-0809</p></td>
+<td class=3D"confluenceTd">
+<p>V4K50C-0809</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qicuxo0w91">M75Q6-L4</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K50M-0801</p></td>
+<td class=3D"confluenceTd">
+<p>V4K50C-0801</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tid2ehqyz9">VQD50S-0809</span></p></td>
+<td class=3D"confluenceTd">
+<p>D40fM-K09?</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K55M-0804</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tk3titftqc">VQD75S-0804</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K65C-0804</p></td>
+<td class=3D"confluenceTd">
+<p>V4K65C-0804</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K65M-0810</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ghsn0a13am">V4K70M-0801</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K70M-0810</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K75M-0804</p></td>
+<td class=3D"confluenceTd">
+<p>V4K75C-0804</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K75M-0810</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>V4K86C-0804</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">20</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">21</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_10_901645803.1728074674601--

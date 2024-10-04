@@ -1,0 +1,1045 @@
+Message-ID: <1189998601.13.1728074795011@655e6d022ca6>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_12_1127398358.1728074795010"
+
+------=_Part_12_1127398358.1728074795010
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>11 Support</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>11 Support</h1>
+    <div class=3D"Section1">
+        <div class=3D"table-wrap">
+<style>[data-colorid=3Dw5xb32u33t]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dw5xb32u33t]{color:#cf2600}[data-colorid=3Dkc0rz1yc9l]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dkc0rz1yc9l]{colo=
+r:#cf2600}[data-colorid=3Doggdpzmczf]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Doggdpzmczf]{color:#cf2600}[data-colorid=3Dlu7qzzr0=
+zb]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dlu7qzzr0zb]=
+{color:#cf2600}[data-colorid=3Dp7vw5gfj2c]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dp7vw5gfj2c]{color:#cf2600}[data-colorid=3Dknfch=
+fb2re]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dknfchfb2=
+re]{color:#cf2600}[data-colorid=3Dt72emar98x]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dt72emar98x]{color:#cf2600}[data-colorid=3Dym=
+xofkgruf]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dymxof=
+kgruf]{color:#cf2600}[data-colorid=3Dlky3u5wtjx]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dlky3u5wtjx]{color:#cf2600}[data-colorid=
+=3Dk18plycx4s]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+k18plycx4s]{color:#cf2600}[data-colorid=3Dbcs1pw4r0x]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dbcs1pw4r0x]{color:#cf2600}[data-colo=
+rid=3Dd61fkiq5pk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dd61fkiq5pk]{color:#cf2600}[data-colorid=3Db7xag69lpk]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Db7xag69lpk]{color:#cf2600}[data-c=
+olorid=3Dhg2l31riwc]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dhg2l31riwc]{color:#cf2600}[data-colorid=3Dd619ur4h9n]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dd619ur4h9n]{color:#cf2600}[dat=
+a-colorid=3Dt9xp87vdg4]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dt9xp87vdg4]{color:#cf2600}[data-colorid=3Dmlxd51fqdl]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dmlxd51fqdl]{color:#cf2600}[=
+data-colorid=3Djylje8p1bg]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Djylje8p1bg]{color:#cf2600}[data-colorid=3Dzuilt5h4uu]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dzuilt5h4uu]{color:#cf260=
+0}[data-colorid=3Dyjhz58l4i3]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dyjhz58l4i3]{color:#cf2600}[data-colorid=3Dtdhqlkvtn8]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dtdhqlkvtn8]{color:#cf=
+2600}[data-colorid=3Dyty9sc65n2]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dyty9sc65n2]{color:#cf2600}</style>
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"89=
+a54a7e-b901-4c67-9618-cbffc5f3bfea" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Menu</strong></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Restart TV</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Support Code</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Check for Updates</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Reset to Factory Settings</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>TV Speaker Test</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>User Manual</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-11Support-11.1RestartTV">11.1 Restart TV</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e5=
+d6ae45-d9c5-4f77-865d-904d13715daf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 360.0px;">
+<col style=3D"width: 278.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong> Restart TV Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Restart&nbsp;TV&nbsp;supports a soft AC reset in the event the plug is i=
+naccessible for launching a hard AC reset.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p=
+></td>
+<td class=3D"confluenceTd">
+<p>The equivalent to an AC cycle to the extent possible from software. Prev=
+iously known as Soft Power Cycle and RestartTV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Selection of Restart TV displays pop up =E2=80=9CWould you like to&nbsp;=
+restart&nbsp;your VIZIO TV=E2=80=9D and Yes and No soft buttons.&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Selection from SmartCast app also launches Restart TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>TV launches a soft AC reset and powers down to the lowest possible level=
+.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>LED blinks 3 times to indicate Reboot is completed.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>The TV then powers back up automatically.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>After Restart TV DC power on to HDMI port, no need to display Input Chan=
+ge Control (not a normal power on).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Reboot TV after 5 DC <span data-colorid=3D"p7vw5gfj2c">power cycles</spa=
+n> automatically.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"knfchfb2re">Maintenance Mode is </span>Dallas requ=
+irement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Disable automatic TV Reboot after 5 DC off if:</p>
+<ol start=3D"1">
+<li>
+<p>TV in Demo mode</p></li>
+<li>
+<p>
+<del>TV not network connected</del></p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-11Support-11.1.1MaintenanceMode"><span data-colorid=3D"yjhz58l=
+4i3">11.1.1 Maintenance Mode</span></h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ca=
+681827-31d9-4252-aac5-07d48b07fa01" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"k18plycx4s"> Requirements</span></strong><=
+/p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"jylje8p1bg">Maintenance mode is a reboot of the TV=
+, the same as Restart TV. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"bcs1pw4r0x">After 5 DC power cycles, after BGM, ro=
+ughly 5 - 7 minutes after power down, launch maintenance mode.</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"kc0rz1yc9l">If a request to power on during the 5 =
+- 6 minutes prior to launch, then power on the TV.</span></p></li>
+<li>
+<p><span data-colorid=3D"lu7qzzr0zb">Wait for next DC cycle to launch maint=
+enance mode. </span></p></li>
+<li>
+<p><span data-colorid=3D"yty9sc65n2">Not connected (offline) is about 5 min=
+utes</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tdhqlkvtn8">One minute after power down, Backgroun=
+d Manager (BGM) launches to </span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"d619ur4h9n">manage power handling (ECO vs QuickSta=
+rt)</span></p></li>
+<li>
+<p><span data-colorid=3D"t9xp87vdg4">check for and download OTA updates</sp=
+an></p></li>
+<li>
+<p><span data-colorid=3D"t72emar98x">check for and download DLM updates </s=
+pan></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"zuilt5h4uu">After maintenance mode is launched, LE=
+D blinks until completed.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"lky3u5wtjx">If an update is taken prior to mainten=
+ance mode then:</span></p>
+<ol start=3D"1">
+<li>
+<p><span data-colorid=3D"ymxofkgruf">If OTA taken which also does reboot th=
+en no maintenance reboot and restarts the 5 count</span></p></li>
+<li>
+<p><span data-colorid=3D"oggdpzmczf">If no OTA taken but OS/App update is t=
+aken then no maitiance reboot does launch.</span></p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-11Support-11.2SupportCode">11.2 Support&nbsp;Code</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ef=
+100cc2-e80f-491f-b724-bfda3f282baf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 360.0px;">
+<col style=3D"width: 278.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong> Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Selection of&nbsp;Support&nbsp;Code&nbsp;launches a&nbsp;full&nbsp;scree=
+n&nbsp;HTML file that displays the state of the TV.&nbsp;&nbsp;&nbsp;&nbsp;=
+</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A customer service PIN or support code is generated and displays</p></td=
+>
+<td class=3D"confluenceTd">
+<p>This is per request of customer support.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Basic TV status displays including model, serial number,&nbsp;network,&n=
+bsp;the current source</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Basic audio status added sound bar status</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Press the BACK key to exit the&nbsp;Support&nbsp;Code page.&nbsp;&nbsp;<=
+/p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Restart TV button displays above the customer service PIN.</p></td>
+<td class=3D"confluenceTd">
+<p>Selection of Restart TV displays a pop up with Restart TV and Dismiss bu=
+ttons. Restart TV button reboots the TV. Dismiss button returns to Support =
+Code page.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Text left of Restart TV button recommends to select to solve issues.</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>Text is =E2=80=9C<span data-colorid=3D"d61fkiq5pk">If you are currently =
+experiencing problems, please restart your TV or check for updates=E2=80=9C=
+ </span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-11Support-11.3CheckforUpdates">11.3 Check for Updates</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"5c=
+f1cc3a-97b1-4258-b1d2-46f9a6c62a49" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 307.0px;">
+<col style=3D"width: 331.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notifications</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Selection of Check for Updates displays a dialog box.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If Yes is selected a spinner displays while the TV contacts the NOC.&nbs=
+p;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>NOC detects an update then</p>
+<ul>
+<li>
+<p>TV settings is dismissed</p></li>
+<li>
+<p>Notification displays</p></li>
+<li>
+<p>Progress Bar displays.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CSoftware update found. Do not power off the TV</p>
+<p>Your TV will restart to finish the update.</p>
+<p>Current Version: XX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;Update Version: XX=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>On completion of install, the update complete notification displays.</p>=
+</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If NOC does not detect an update then TV checks for TV binary (DLM) upda=
+tes.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>If found then TV binary updates are downloaded and a notification displa=
+ys.</p></td>
+<td class=3D"confluenceTd">
+<p>No reboot required:</p>
+<p>=E2=80=9CTV Binary Update: Do not power off the TV during the update.=E2=
+=80=9D</p>
+<p>Reboot required:</p>
+<p>=E2=80=9CTV Binary Update: Please do not power off.Your TV will restart =
+to finish the update.=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>If needed after TV binaries are updated then reboot the TV.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If NOC does not detect an update and TV binary updates are not found the=
+n a notification displays.</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CThe TV is up-do-date.=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>During the update download, no response to any key press except for powe=
+r.&nbsp;&nbsp;During the install, no response to ANY key press, including n=
+o response to the POWER key press.&nbsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"hg2l31riwc">No response to insertion USB stick. </=
+span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>If the network is not connected, then a network error notification displ=
+ays as the TV cannot check if an update is available.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CWe're having trouble finding an internet connection.</p>
+<p>Please check your connection by pressing GEARICON / Menu on your remote,=
+ select =E2=80=98Network=E2=80=99, and re-connect to your network provider.=
+=E2=80=9D</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-11Support-11.3.1SilentUpdate">11.3.1 Silent Update</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"02=
+3fa4e7-d611-4c6d-93b2-a765267cb991" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 307.0px;">
+<col style=3D"width: 331.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes/Notifications</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When a command demands a service check, the flow will kill the flag crea=
+ted by ULI in the system and the TV will contact the NOC to check for an up=
+grade at DC power off.&nbsp;&nbsp;Then the flag is reset.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>At power down the TV check for an update.</p></li>
+<li>
+<p>TV does not power on after completion of a silent update.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If TV is powered on during a silent update the notification is different=
+ from Check for Updates.</p></td>
+<td class=3D"confluenceTd">
+<p>Updated Firmware</p>
+<p>=E2=80=9CYour TV is updating.&nbsp;&nbsp;To finish the upgrade, the TV w=
+ill restart.&nbsp;&nbsp;Please do not power off your TV'</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-11Support-11.4ResettoFactorySettings">11.4 Reset to Factory Se=
+ttings</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4e=
+e1a465-5948-4d54-b54e-938614bdd1da" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Reset to Factory Settings Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification/Note</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If Reset to Factory Settings is selected then the TV displays a confirma=
+tion pop up notification to Reset to Factory Settings with 4 buttons.</p>
+<ul>
+<li>
+<p>Reset TV</p></li>
+<li>
+<p>Reset Apps</p></li>
+<li>
+<p>Restart</p></li>
+<li>
+<p>Cancel (default)</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Restart - Your VIZIO TV will power off and restart.</p>
+<p>Reset Apps - Deletes application data and restarts your VIZIO TV. You ma=
+y be required to resubmit your login credentials for select applications.</=
+p>
+<p>Reset TV - Returns your VIZIO TV to its original factory settings. This =
+will provide an update to the latest firmware, and all settings and login c=
+redentials will be <span data-colorid=3D"w5xb32u33t">reset</span>.</p>
+<p>Cancel - Return back to main menu.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If the System PIN Code has been set, the PIN confirmation is required fi=
+rst, and once satisfied, then the notification for Reset to Factory setting=
+s displays.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Once confirmed the reset proceeds.</p>
+<p>No Notification: removed if reset launched from All Settings but remains=
+ if launched from long front panel press.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If powered on the TV can also be reset to factory settings from the fron=
+t panel button:</p>
+<ul>
+<li>
+<p>Long 15 second press of front panel button</p></li>
+<li>
+<p>Notification displays after 15 seconds</p></li>
+<li>
+<p>Simultaneously with notification a tone is heard (if black screen, user =
+can=E2=80=99t see the notification)</p></li>
+<li>
+<p>Reset launches.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CMemory is being cleared. The TV will reset shortly.=E2=80=9D</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>During the reset:</p>
+<ul>
+<li>
+<p>At launch LED blinks rapidly for 2 seconds</p></li>
+<li>
+<p>Resets TV to factory defaults</p></li>
+<li>
+<p>Remote Bluetooth&nbsp;pairing is NOT&nbsp;deleted including at factory</=
+p></li>
+<li>
+<p>Reboots the TV.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>LED blinks to confirm TV is resetting to defaults.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-11Support-11.4.1ResettoFactorySettingsButtonRequirements">11.4=
+.1 Reset to Factory Settings Button Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"69=
+2bb74a-0582-4499-9e77-7f9acf2a04f6" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 277.0px;">
+<col style=3D"width: 441.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification Buttons</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Reset TV</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Reset the TV to factory settings.</p></li>
+<li>
+<p>Reboots TV.</p></li>
+<li>
+<p>All settings are cleared to defaults including credential for apps but e=
+xcluding pairing of the remote.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Reset Apps</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Removes permenant cache</p></li>
+<li>
+<p>Reboots TV.</p></li>
+<li>
+<p>Must login to apps again</p>
+<ul>
+<li>
+<p>HTML apps are logged out during reset apps</p></li>
+<li>
+<p>Native apps now can be logged out during reset apps and included in rese=
+t (no need to reset to defaults). The apps are:</p>
+<ul>
+<li>
+<p>Netflix</p></li>
+<li>
+<p>Prime Video</p></li>
+<li>
+<p>Youtube/YouTube TV</p></li>
+<li>
+<p>AirPlay</p></li>
+</ul></li>
+</ul></li>
+<li>
+<p>Clear cache includes issues not solved by Reboot alone but does not requ=
+ire a factory reset to clear.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Restart</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Reboots TV</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Cancel</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Cancels and closes the notification - no action taken</p></li>
+<li>
+<p>Returns highlight to =E2=80=9CReset to Factory Settings=E2=80=9D.</p></l=
+i>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-11Support-11.5TVSpeakerTest">11.5 TV Speaker Test</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"75=
+db6d42-7f1b-4a63-8746-2b1d0b12480f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 380.0px;">
+<col style=3D"width: 338.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>User Manual Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV Speaker Test supports a way to test speakers to rule out TV speakers.=
+</p></td>
+<td class=3D"confluenceTd">
+<p>For customer support troubleshooting of TV audio test speakers to rule o=
+ut TV speakers and turn to video source as the issue.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Selection of TV speaker test plays audio clip.</p>
+<ul>
+<li>
+<p><span data-colorid=3D"mlxd51fqdl">mp3 file plays pink noise first to the=
+ left speaker, then to the right</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>The TV plays an audio clip that can be heard, confirming TV speakers are=
+ working.</p>
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Notification displays when the audio clip starts and displays concurrent=
+ with the audio clip play.</p>
+<p>=E2=80=9CTest audio is playing.=E2=80=9D</p></td>
+<td class=3D"confluenceTd">
+<p>If no audio heard from the speakers then the issue is the speakers or sp=
+eaker connection.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-11Support-11.6UserManual">11.6 User Manual</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7b=
+d430d5-0e1a-4244-8064-efb2d2dd0b27" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 397.0px;">
+<col style=3D"width: 321.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>User Manual Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The selection of User Manual launches the user manual app with the QR co=
+de embedded. Alternatively <a class=3D"external-link" data-card-appearance=
+=3D"inline" href=3D"http://vizio.com/manuals" rel=3D"nofollow">http://vizio=
+.com/manuals</a> and the model for the TV is also displayed in the user man=
+ual page.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"b7xag69lpk">A connected network not required. QR c=
+ode included based on the model. </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>To dismiss user manual page</p>
+<ul>
+<li>
+<p>Press HOME key or partner key</p></li>
+<li>
+<p>Select an input</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>A press of HOME displays the VIZIO Home page.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If TV is not connected the QR code displays.</p>
+<p>
+<del>TV must be connected to display the QR code for the user manual. If TV=
+ is offline, then VIZIO Home is the source with the Galaxy full screen offl=
+ine condition with a no network notification displays</del></p></td>
+<td class=3D"confluenceTd">
+<p>
+<del>Notification:</del></p>
+<p>
+<del>Connect your TV to the network to download the user manual using a QR =
+code.</del></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_12_1127398358.1728074795010--

@@ -1,0 +1,1101 @@
+Message-ID: <531603995.3.1728074804240@b3671f2e9ff1>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2_2064732498.1728074804239"
+
+------=_Part_2_2064732498.1728074804239
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>13 VIZIO Test Menu</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>13 VIZIO Test Menu</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074804219 {padding: 0px;}
+div.rbtoc1728074804219 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074804219 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074804219">
+<style>[data-colorid=3Dg68xo9zz3u]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dg68xo9zz3u]{color:#cf2600}[data-colorid=3Dicxwiuvx5t]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dicxwiuvx5t]{colo=
+r:#cf2600}[data-colorid=3Dcuc79a2nc3]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dcuc79a2nc3]{color:#cf2600}[data-colorid=3Dhc2d51ln=
+no]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dhc2d51lnno]=
+{color:#cf2600}[data-colorid=3Dpep4lhosig]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dpep4lhosig]{color:#cf2600}[data-colorid=3Db0273=
+ni9cg]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Db0273ni9=
+cg]{color:#cf2600}[data-colorid=3Dnw875pewx8]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dnw875pewx8]{color:#cf2600}[data-colorid=3Dng=
+hpyqbg0g]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dnghpy=
+qbg0g]{color:#cf2600}[data-colorid=3Dygmp98914o]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dygmp98914o]{color:#cf2600}[data-colorid=
+=3Dt76fbmlupr]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+t76fbmlupr]{color:#cf2600}[data-colorid=3Db06x7s460c]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Db06x7s460c]{color:#cf2600}[data-colo=
+rid=3Dl8v6a8n47u]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dl8v6a8n47u]{color:#cf2600}[data-colorid=3Dxmywmk9mqk]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dxmywmk9mqk]{color:#cf2600}[data-c=
+olorid=3Dn8fry6dmg5]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dn8fry6dmg5]{color:#cf2600}[data-colorid=3Djdqhmkh7ne]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Djdqhmkh7ne]{color:#cf2600}[dat=
+a-colorid=3Dl34imdu4w8]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dl34imdu4w8]{color:#cf2600}[data-colorid=3Djl2odwwfuk]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Djl2odwwfuk]{color:#cf2600}[=
+data-colorid=3Ddhx7lsgwm8]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Ddhx7lsgwm8]{color:#cf2600}[data-colorid=3Dwjg141cagb]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dwjg141cagb]{color:#cf260=
+0}[data-colorid=3Djd52uqxxp1]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Djd52uqxxp1]{color:#cf2600}[data-colorid=3Ddr5g3sh35k]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ddr5g3sh35k]{color:#cf=
+2600}[data-colorid=3Dhe4wxe8c4p]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dhe4wxe8c4p]{color:#cf2600}[data-colorid=3Dz1qe6ni2dw]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dz1qe6ni2dw]{color:=
+#cf2600}[data-colorid=3Ddpc0darpz9]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Ddpc0darpz9]{color:#cf2600}[data-colorid=3Dhxs8lwnj0r]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dhxs8lwnj0r]{col=
+or:#cf2600}[data-colorid=3Dv41596ysz2]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dv41596ysz2]{color:#cf2600}[data-colorid=3Do5olnhyo=
+k9]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Do5olnhyok9]=
+{color:#cf2600}[data-colorid=3Dr93nrkmbh2]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dr93nrkmbh2]{color:#cf2600}[data-colorid=3Df1xcl=
+ams39]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Df1xclams=
+39]{color:#cf2600}[data-colorid=3Ddrymltd0j6]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Ddrymltd0j6]{color:#cf2600}[data-colorid=3Dqd=
+ikqoqt5d]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dqdikq=
+oqt5d]{color:#cf2600}[data-colorid=3Dz0okw74tia]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dz0okw74tia]{color:#cf2600}[data-colorid=
+=3Ddo8zjgzmps]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+do8zjgzmps]{color:#cf2600}[data-colorid=3Dn7894onp9u]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dn7894onp9u]{color:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-13VIZIOTestMenu-13.0Testmenu">13.0 Test menu</a></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.1iPerf">13.1 iPerf</a></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.2RSSI">13.2 RSSI</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-13VIZIOTestMenu-13.2.1RSSIPowerLevelsDisplayed">13.2.1 R=
+SSI Power Levels Displayed</a></li>
+</ul></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.3OTALoopTest">13.3 OTA Loop Test</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-13VIZIOTestMenu-13.3.1OTALoopTest">13.3.1 OTA Loop Test<=
+/a></li>
+</ul></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.4VLOG">13.4 VLOG</a></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.5Provisions">13.5 Provisions</a></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.6ForceLogUpload">13.6 Force Log Uploa=
+d</a></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.7AudioStatus">13.7 Audio Status</a></=
+li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.8HDMIStatus">13.8 HDMI Status</a></li=
+>
+<li><a href=3D"#id-13VIZIOTestMenu-13.9DLMInformation">13.9 DLM Information=
+</a></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.10LaunchPQColorCalibrationmenu">13.10=
+ Launch PQ Color Calibration menu</a></li>
+<li><a href=3D"#id-13VIZIOTestMenu-13.11LauchFactoryMenu">13.11 Lauch Facto=
+ry Menu</a></li>
+</ul>
+</div>
+<p></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"fe=
+69ea9d-0a24-470f-ace6-8ae3eb433f04" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>VIZIO Test Menu Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>iPerf</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>RSSI</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;Detailed RRSI network information</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>OTA Loop Test</p>
+<p><span data-colorid=3D"icxwiuvx5t">OTA Loop Test Counter </span></p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>VLOG</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Provisions</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Force Log Upload</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Audio Status</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>HDMI Status</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Color Calibration</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>DLM Information</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Launch PQ Color Calibration menu</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>Launch Factory menu</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.0Testmenu">13.0 Test menu</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"61=
+736de2-3267-4986-9cef-40bc648c3d4a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Details</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>VIZIO Test Menu is a hidden menu for internal use. Not for consumers.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>To launch Test menu press the following keys in this order, IR or BT rem=
+ote.</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>MENU (Quick menu displays)</p></li>
+<li>
+<p>LEFT</p></li>
+<li>
+<p>RIGHT</p></li>
+<li>
+<p>UP (remove PLAY key as remotes no longer include)</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>VIZIO Test Menu includes</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>iPerf</p></li>
+<li>
+<p>RSSI (for Wi-Fi)</p></li>
+<li>
+<p>OTA Loop Test</p>
+<ol start=3D"1">
+<li>
+<p>OTA Loop Test Counter</p></li>
+</ol></li>
+<li>
+<p>VLOG</p></li>
+<li>
+<p>Provisions</p></li>
+<li>
+<p>FORCE LOG UPDATE</p></li>
+<li>
+<p>Audio Status</p></li>
+<li>
+<p>HDMI Status</p></li>
+<li>
+<p>DLM Information</p></li>
+<li>
+<p><span data-colorid=3D"v41596ysz2">Enable HCI Snoop Log</span></p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Additional tests may be added as needed.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Not for customer use so text is not translated and Talk Back does not ap=
+ply.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>When menu displays, a press of digits from the IR remote launches the te=
+st.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.1iPerf">13.1&nbsp;iPerf</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"fb=
+ae5908-e773-4f73-aefc-12825a1aa724" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 421.0px;">
+<col style=3D"width: 297.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Supported iPerf version is 2.0.5.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>To test the TV network connection from a PC, iPerf must be launched from=
+ the TV</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>To launch, when iPerf is selected a notification displays that includes =
+the text =E2=80=9CEnter port number=E2=80=9D.&nbsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Enter the 4 digit port number from the IR remote.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The port number is typically 5001.</p>
+<p>A remote with digits must be used (no digit pad display).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Once a 4 digit port number is received, iPerf launches and a notificatio=
+n of iPerf launch is displayed.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>To exit iPerf, turn off the TV.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.2RSSI">13.2&nbsp;RSSI</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"72=
+b7a999-5671-4ac9-9825-c548c7746d9c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>RSSI Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>RSSI displays a dialog box with the current Wi-Fi RSSI power levels disp=
+lay.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"n7894onp9u">RSSI Power Levels</span></p>
+<p><span data-colorid=3D"do8zjgzmps">5.0-1: -XX dBM</span></p>
+<p><span data-colorid=3D"pep4lhosig">5.0-2: -XX dBM</span></p>
+<p><span data-colorid=3D"jl2odwwfuk">Combo: -XX dBM</span></p>
+<p><span data-colorid=3D"b06x7s460c">NOTES: 5.0-1 and 5.0-2 may be 2.4-1 an=
+d 2.4-2 on some models or all 4 may display</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Populate the fields that are applicable, leave the others blank.&nbsp;&n=
+bsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The RSSI power levels are updated once per second <span data-colorid=3D"=
+xmywmk9mqk">and displays in dBM. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A press of the OK key on an IR remote removes the RSSI display.&nbsp;</p=
+></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nw875pewx8">OK button always highlighted in dialog=
+ box. </span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-13VIZIOTestMenu-13.2.1RSSIPowerLevelsDisplayed">13.2.1&nbsp;RS=
+SI Power Levels Displayed</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c2=
+48de40-7fbf-41b1-9749-25942f11c077" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>2.4-1</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>2.4-2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Combo (combination of 2.4-1 and 2.4-2)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>5.0-1</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>5.0-2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Combo (combination of 5.0-1 and 5.0-2)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.3OTALoopTest">13.3&nbsp;OTA Loop Test</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"17=
+637447-95d0-4e9d-81b7-e7579787e77a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 463.0px;">
+<col style=3D"width: 255.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When turned on OTA Loop test periodically checks ULI server for updates.=
+</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The same update is downloaded repeatedly for ODM testing.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The settings are:</p>
+<ul>
+<li>
+<p>Off (default)</p></li>
+<li>
+<p>On.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-13VIZIOTestMenu-13.3.1OTALoopTest"><span data-colorid=3D"dpc0d=
+arpz9">13.3.1&nbsp;OTA Loop Test</span></h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"80=
+9aeeb9-f7ce-431a-9b86-0d827cdff958" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 463.0px;">
+<col style=3D"width: 255.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"o5olnhyok9">When OTA Loop test is enabled then the=
+ OTA Loop Test Counter updates from default of 0 to current number of loops=
+.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.4VLOG">13.4&nbsp;VLOG</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6c=
+d9926c-c8b7-4419-a534-ac94feac6652" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 364.0px;">
+<col style=3D"width: 353.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes/Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>VLOG is the ability to support logging of all TV behaviors to a remote d=
+evice.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>In the past logging was on by default but this adversely impacted perfor=
+mance.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The settings are:</p>
+<ul>
+<li>
+<p>Off (default)</p></li>
+<li>
+<p><span data-colorid=3D"drymltd0j6">App only</span></p></li>
+<li>
+<p><span data-colorid=3D"dr5g3sh35k">Kernel only</span></p></li>
+<li>
+<p><span data-colorid=3D"hc2d51lnno">All</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"z1qe6ni2dw">Help text included</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"l34imdu4w8">Set log level:</span></p>
+<p><span data-colorid=3D"ygmp98914o">-&gt;Off: Disable all log for better p=
+erformance</span></p>
+<p><span data-colorid=3D"f1xclams39">-&gt;APP ONLY: print app log only</spa=
+n></p>
+<p><span data-colorid=3D"n8fry6dmg5">-&gt;KERNEL ONLY: printer kernel/drive=
+r log only</span></p>
+<p><span data-colorid=3D"nghpyqbg0g">-&gt;ALL: print kernel/driver/app log<=
+/span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.5Provisions">13.5&nbsp;Provisions</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7b=
+79dce8-6d1d-4f9b-9a75-b8638f2013fa" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 378.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A list of the provisioning keys for review.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A selection of a key returns to the test menu.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.6ForceLogUpload">13.6&nbsp;Force Log Upload=
+</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"94=
+6795f3-ad83-4a8e-aa9a-f53eee044a04" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 378.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Forces the TV log to upload to the Axial server.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Uploaded TV logs can be downloaded for processing JIRA=E2=80=99s.</p></t=
+d>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.7AudioStatus">13.7&nbsp;Audio Status</h2>
+<p>A full page of audio status displays.</p>
+<h2 id=3D"id-13VIZIOTestMenu-13.8HDMIStatus">13.8&nbsp;HDMI Status</h2>
+<p>A full page of HDMI status displays.</p>
+<h2 id=3D"id-13VIZIOTestMenu-13.9DLMInformation">13.9&nbsp;DLM Information<=
+/h2>
+<p>A full page of DLM Information displays.</p>
+<h2 id=3D"id-13VIZIOTestMenu-13.10LaunchPQColorCalibrationmenu"><span data-=
+colorid=3D"b0273ni9cg">13.10 Launch PQ Color Calibration menu</span></h2>
+<p><span data-colorid=3D"jd52uqxxp1">PQ Color Calibration menu is not inclu=
+ded in the VIZIO Test menu. </span></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"99=
+385bdc-522b-4d9a-b30b-1290adea2ef8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 303.0px;">
+<col style=3D"width: 142.0px;">
+<col style=3D"width: 274.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>VIZIO PQ Launch Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Remote keys pressed</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"cuc79a2nc3">PQ Color Calibration is a separate hid=
+den menu for internal use. Not for consumers. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"t76fbmlupr">This may be shared with reviewers or p=
+rofessional calibrators so must be separate from VIZIO Test menu. </span></=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"wjg141cagb">To launch PQ Color Calibration menu pr=
+ess the following keys in this order.</span></p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p><span data-colorid=3D"z0okw74tia">MENU</span></p></li>
+<li>
+<p><span data-colorid=3D"l8v6a8n47u">STAR</span></p></li>
+<li>
+<p><span data-colorid=3D"r93nrkmbh2">LEFT</span></p></li>
+<li>
+<p><span data-colorid=3D"hxs8lwnj0r">RIGHT</span></p></li>
+<li>
+<p><span data-colorid=3D"g68xo9zz3u">UP</span></p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qdikqoqt5d">Deep links to the Picture menu with th=
+e following additions:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"dhx7lsgwm8">Picture Mode has Vivid picture mode in=
+cluded</span></p></li>
+<li>
+<p><span data-colorid=3D"jdqhmkh7ne">Color Calibration menu, after Advanced=
+ Picture</span></p></li>
+<li>
+<p><span data-colorid=3D"he4wxe8c4p">Gamma after Color Calibration menu. </=
+span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-13VIZIOTestMenu-13.11LauchFactoryMenu">13.11 Lauch Factory Men=
+u</h2>
+<p>Factory menu is not included in the VIZIO Test menu. This defines keys t=
+o launch the Factory menu.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f1=
+8b9a43-fc48-4a0a-b562-c2c845183411" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 261.0px;">
+<col style=3D"width: 184.0px;">
+<col style=3D"width: 274.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>VIZIO Factory Menu Launch Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Remote keys pressed</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>IR remote XRT140 with digit keys</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>MENU</p></li>
+<li>
+<p>4</p></li>
+<li>
+<p>2</p></li>
+<li>
+<p>1</p></li>
+<li>
+<p>0</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>For all but Innolux, ODM use their own remotes with hot keys to call out=
+ factory menu</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth remote XRT270, no digit keys</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>MENU</p></li>
+<li>
+<p>VOLUME UP</p></li>
+<li>
+<p>VOLUME DOWN</p></li>
+<li>
+<p>MUTE</p></li>
+<li>
+<p>BACK</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>Used by ODM if needed and by VIZIO engineers if no IR remote available</=
+p>
+<p>Keys selected that won=E2=80=99t change display or settings in the menu<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Native factory UI (BOE only)</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>MENU</p></li>
+<li>
+<p>LEFT</p></li>
+<li>
+<p>RIGHT</p></li>
+<li>
+<p>MUTE</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>Special key sequence for BOE only</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2_2064732498.1728074804239--

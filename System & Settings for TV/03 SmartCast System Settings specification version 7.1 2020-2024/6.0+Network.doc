@@ -1,0 +1,3052 @@
+Message-ID: <559770826.7.1728074955718@52304fd6a9ae>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6_1056260969.1728074955718"
+
+------=_Part_6_1056260969.1728074955718
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>6.0 Network</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>6.0 Network</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074955670 {padding: 0px;}
+div.rbtoc1728074955670 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074955670 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074955670">
+<style>[data-colorid=3Dckqvcv0y0h]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dckqvcv0y0h]{color:#cf2600}[data-colorid=3Ds6ru1ctwgm]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ds6ru1ctwgm]{colo=
+r:#cf2600}[data-colorid=3Dhvb8e7l65l]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dhvb8e7l65l]{color:#cf2600}[data-colorid=3Dxpems3eq=
+4o]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dxpems3eq4o]=
+{color:#cf2600}[data-colorid=3Diy6g8209qx]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Diy6g8209qx]{color:#cf2600}[data-colorid=3Dhlejh=
+v3w0s]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dhlejhv3w=
+0s]{color:#cf2600}[data-colorid=3Dxputgzfnzw]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dxputgzfnzw]{color:#cf2600}[data-colorid=3Dge=
+8mophhb2]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dge8mo=
+phhb2]{color:#cf2600}[data-colorid=3Dtg591ok8ns]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dtg591ok8ns]{color:#cf2600}[data-colorid=
+=3Dju98h79exk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+ju98h79exk]{color:#cf2600}[data-colorid=3Dgkdhnevl59]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dgkdhnevl59]{color:#cf2600}[data-colo=
+rid=3Diq2d3d22gv]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Diq2d3d22gv]{color:#cf2600}[data-colorid=3Dhyaacwouc3]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dhyaacwouc3]{color:#cf2600}[data-c=
+olorid=3Daqusncqnrn]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Daqusncqnrn]{color:#cf2600}[data-colorid=3Dy5b67qcnjr]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dy5b67qcnjr]{color:#cf2600}[dat=
+a-colorid=3Dujtts3ugfg]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dujtts3ugfg]{color:#cf2600}[data-colorid=3Dp9f7fr7c9w]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dp9f7fr7c9w]{color:#cf2600}[=
+data-colorid=3Digll2stwqd]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Digll2stwqd]{color:#cf2600}[data-colorid=3Dz7r1wfczla]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dz7r1wfczla]{color:#cf260=
+0}[data-colorid=3Du4nihubmp6]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Du4nihubmp6]{color:#cf2600}[data-colorid=3Deu2vlngmsp]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Deu2vlngmsp]{color:#cf=
+2600}[data-colorid=3Dpcquh1ct5n]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dpcquh1ct5n]{color:#cf2600}[data-colorid=3Dpavsz6ghhn]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dpavsz6ghhn]{color:=
+#cf2600}[data-colorid=3Dg2u815f0uz]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dg2u815f0uz]{color:#cf2600}[data-colorid=3Dnhnypi7dag]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dnhnypi7dag]{col=
+or:#cf2600}[data-colorid=3Ddz5uk98yxw]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Ddz5uk98yxw]{color:#cf2600}[data-colorid=3Ds4lyyket=
+zp]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ds4lyyketzp]=
+{color:#cf2600}[data-colorid=3Df50k5ge9e9]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Df50k5ge9e9]{color:#cf2600}[data-colorid=3Df6u4o=
+xe5us]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Df6u4oxe5=
+us]{color:#cf2600}[data-colorid=3Da1l9mzngin]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Da1l9mzngin]{color:#cf2600}[data-colorid=3Dt3=
+1unf75d3]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dt31un=
+f75d3]{color:#cf2600}[data-colorid=3Dhcflaycdbd]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dhcflaycdbd]{color:#cf2600}[data-colorid=
+=3Dxinsft3rdq]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+xinsft3rdq]{color:#cf2600}[data-colorid=3Dwdha4f0htd]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dwdha4f0htd]{color:#cf2600}[data-colo=
+rid=3Dquuosm06wk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dquuosm06wk]{color:#cf2600}[data-colorid=3Dhjn7rmi8ix]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dhjn7rmi8ix]{color:#cf2600}[data-c=
+olorid=3Dkcgof6s6qs]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dkcgof6s6qs]{color:#cf2600}[data-colorid=3Dacm3wwyby2]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dacm3wwyby2]{color:#cf2600}[dat=
+a-colorid=3Dy93a80glrr]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dy93a80glrr]{color:#cf2600}[data-colorid=3Dbsqg5owacd]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dbsqg5owacd]{color:#cf2600}[=
+data-colorid=3Dnc9mes2877]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dnc9mes2877]{color:#cf2600}[data-colorid=3Dqn7lm6ldl9]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dqn7lm6ldl9]{color:#cf260=
+0}[data-colorid=3Dziu0pljt4t]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dziu0pljt4t]{color:#cf2600}[data-colorid=3Dzz5y0d1kps]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dzz5y0d1kps]{color:#cf=
+2600}[data-colorid=3Dtmhw3j5wqf]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dtmhw3j5wqf]{color:#cf2600}[data-colorid=3Dg5t54eb5u7]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dg5t54eb5u7]{color:=
+#cf2600}[data-colorid=3Douusp7ez7p]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Douusp7ez7p]{color:#cf2600}[data-colorid=3Dyxv8m3soqx]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dyxv8m3soqx]{col=
+or:#cf2600}[data-colorid=3Dz6emq4i0pn]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dz6emq4i0pn]{color:#cf2600}[data-colorid=3Dws5pmhap=
+wd]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dws5pmhapwd]=
+{color:#cf2600}[data-colorid=3Djp0lrwo799]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Djp0lrwo799]{color:#cf2600}[data-colorid=3Dz97t6=
+yr4nn]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dz97t6yr4=
+nn]{color:#cf2600}[data-colorid=3Dfqj5stu97q]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dfqj5stu97q]{color:#cf2600}[data-colorid=3Dxo=
+0bazrq8l]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dxo0ba=
+zrq8l]{color:#cf2600}[data-colorid=3Dsaqu6u39ll]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dsaqu6u39ll]{color:#cf2600}[data-colorid=
+=3Dki0y1cpu72]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+ki0y1cpu72]{color:#cf2600}[data-colorid=3Dl222bl6u9u]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dl222bl6u9u]{color:#cf2600}[data-colo=
+rid=3Dcwegfsi6ws]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dcwegfsi6ws]{color:#cf2600}[data-colorid=3Duqitebm16q]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Duqitebm16q]{color:#cf2600}[data-c=
+olorid=3Dfkuyp3j98a]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dfkuyp3j98a]{color:#cf2600}[data-colorid=3Dcsvsm40mrd]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dcsvsm40mrd]{color:#cf2600}[dat=
+a-colorid=3Dvg6kkmgj85]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dvg6kkmgj85]{color:#cf2600}[data-colorid=3Dk69uakjlfm]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dk69uakjlfm]{color:#cf2600}[=
+data-colorid=3Dy3bmb2q7d4]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dy3bmb2q7d4]{color:#cf2600}[data-colorid=3Doeihuup700]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Doeihuup700]{color:#cf260=
+0}[data-colorid=3Dqtrug9jery]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dqtrug9jery]{color:#cf2600}[data-colorid=3Dx2amsps5o7]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dx2amsps5o7]{color:#cf=
+2600}[data-colorid=3Deouo6dnly5]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Deouo6dnly5]{color:#cf2600}[data-colorid=3Duw37nvgu4m]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Duw37nvgu4m]{color:=
+#cf2600}[data-colorid=3Ddoo0ntbo10]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Ddoo0ntbo10]{color:#cf2600}[data-colorid=3Dsakumk7fly]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dsakumk7fly]{col=
+or:#cf2600}[data-colorid=3Difm5lvxovu]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Difm5lvxovu]{color:#cf2600}[data-colorid=3Dbaw4gwbo=
+on]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dbaw4gwboon]=
+{color:#cf2600}[data-colorid=3Dt81y52ng4k]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dt81y52ng4k]{color:#cf2600}[data-colorid=3Dngfcp=
+li431]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dngfcpli4=
+31]{color:#cf2600}[data-colorid=3Dda1izavtin]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dda1izavtin]{color:#cf2600}[data-colorid=3Dq6=
+466hfesl]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dq6466=
+hfesl]{color:#cf2600}[data-colorid=3Dbishwrwe6x]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dbishwrwe6x]{color:#cf2600}[data-colorid=
+=3Dgiea9iubub]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+giea9iubub]{color:#cf2600}[data-colorid=3Dqmkh9y4am0]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dqmkh9y4am0]{color:#cf2600}[data-colo=
+rid=3Du9q3l7849v]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Du9q3l7849v]{color:#cf2600}[data-colorid=3Dci3bmz6t6e]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dci3bmz6t6e]{color:#cf2600}[data-c=
+olorid=3Dz3a7ebt7ll]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dz3a7ebt7ll]{color:#cf2600}[data-colorid=3Dd6txxg6fje]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dd6txxg6fje]{color:#cf2600}[dat=
+a-colorid=3Dpjdqkg2499]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dpjdqkg2499]{color:#cf2600}[data-colorid=3Ds8c0ocui5p]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Ds8c0ocui5p]{color:#cf2600}[=
+data-colorid=3Dvefokoz6ky]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dvefokoz6ky]{color:#cf2600}[data-colorid=3Djr438zbpd5]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Djr438zbpd5]{color:#cf260=
+0}[data-colorid=3Dizlr4yf398]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dizlr4yf398]{color:#cf2600}[data-colorid=3Dtm5uo1vj0i]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dtm5uo1vj0i]{color:#cf=
+2600}[data-colorid=3Dmnwyhukg98]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dmnwyhukg98]{color:#cf2600}[data-colorid=3De8ob2cpt6g]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3De8ob2cpt6g]{color:=
+#cf2600}[data-colorid=3Dp4d4pnmle4]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dp4d4pnmle4]{color:#cf2600}[data-colorid=3Dgj92g37nnq]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dgj92g37nnq]{col=
+or:#cf2600}[data-colorid=3Dk9yn0tl76w]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dk9yn0tl76w]{color:#cf2600}[data-colorid=3Dldag749q=
+no]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dldag749qno]=
+{color:#cf2600}[data-colorid=3Dzktz5huvwc]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dzktz5huvwc]{color:#cf2600}[data-colorid=3Ddqujn=
+vz3pt]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ddqujnvz3=
+pt]{color:#cf2600}[data-colorid=3Dltdi8bjwp5]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dltdi8bjwp5]{color:#cf2600}[data-colorid=3Dn6=
+9zwd9u08]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dn69zw=
+d9u08]{color:#cf2600}[data-colorid=3Dqdjhphrabu]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dqdjhphrabu]{color:#cf2600}[data-colorid=
+=3Ds7ptk7bnoy]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+s7ptk7bnoy]{color:#cf2600}[data-colorid=3Dlr8d86hjep]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dlr8d86hjep]{color:#cf2600}[data-colo=
+rid=3Dgyhqcjtxf0]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dgyhqcjtxf0]{color:#cf2600}[data-colorid=3Dadlql3szmx]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dadlql3szmx]{color:#cf2600}[data-c=
+olorid=3Docvajl72a6]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Docvajl72a6]{color:#cf2600}[data-colorid=3Do8z78l6s74]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Do8z78l6s74]{color:#cf2600}[dat=
+a-colorid=3Dgebsnf3wm6]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dgebsnf3wm6]{color:#cf2600}[data-colorid=3Dufol5dkerp]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dufol5dkerp]{color:#cf2600}[=
+data-colorid=3Decmt9e0j64]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Decmt9e0j64]{color:#cf2600}[data-colorid=3Dzlva5qigui]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dzlva5qigui]{color:#cf260=
+0}[data-colorid=3Dhqh6xptnad]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dhqh6xptnad]{color:#cf2600}[data-colorid=3Dwb9z2r1oux]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dwb9z2r1oux]{color:#cf=
+2600}[data-colorid=3Dzrplogfg02]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dzrplogfg02]{color:#cf2600}[data-colorid=3Dqteq9ymez4]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dqteq9ymez4]{color:=
+#cf2600}[data-colorid=3Dmfpum9enp6]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dmfpum9enp6]{color:#cf2600}[data-colorid=3Ddku9umyptt]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ddku9umyptt]{col=
+or:#cf2600}[data-colorid=3Dn8jxgdjod4]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dn8jxgdjod4]{color:#cf2600}[data-colorid=3Dsgbndla4=
+tc]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dsgbndla4tc]=
+{color:#cf2600}[data-colorid=3Dd4xyrd6m8n]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dd4xyrd6m8n]{color:#cf2600}[data-colorid=3Daptem=
+3qtwo]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Daptem3qt=
+wo]{color:#cf2600}[data-colorid=3Ddzmh7684r9]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Ddzmh7684r9]{color:#cf2600}[data-colorid=3Dox=
+35es67id]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dox35e=
+s67id]{color:#cf2600}[data-colorid=3Drurakq924z]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Drurakq924z]{color:#cf2600}[data-colorid=
+=3Dcl8o9yfhbx]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+cl8o9yfhbx]{color:#cf2600}[data-colorid=3Diifv8tkv0d]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Diifv8tkv0d]{color:#cf2600}[data-colo=
+rid=3Dycomqem1lg]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dycomqem1lg]{color:#cf2600}[data-colorid=3Deebb2jny5m]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Deebb2jny5m]{color:#cf2600}[data-c=
+olorid=3Dd5o1atcb0w]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dd5o1atcb0w]{color:#cf2600}[data-colorid=3Dyftrphjd3r]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dyftrphjd3r]{color:#cf2600}[dat=
+a-colorid=3Dvob8mixsi3]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dvob8mixsi3]{color:#cf2600}[data-colorid=3Daapp04rknb]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Daapp04rknb]{color:#cf2600}[=
+data-colorid=3Dvp0q28kfsg]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dvp0q28kfsg]{color:#cf2600}[data-colorid=3Dydkufecary]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dydkufecary]{color:#cf260=
+0}[data-colorid=3Dubvxsx2y7v]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dubvxsx2y7v]{color:#cf2600}[data-colorid=3Dyyhrd43my1]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dyyhrd43my1]{color:#cf=
+2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.0.1NetworkRequirements">6.0.1 Network Requi=
+rements</a></li>
+</ul>
+<li><a href=3D"#id-6.0Network-6.1MyNetworks">6.1 My Networks</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.1.1EthernetConnected">6.1.1 Ethernet Connec=
+ted</a></li>
+<li><a href=3D"#id-6.0Network-6.1.2Wi-FiNetworkConnected">6.1.2 Wi-Fi Netwo=
+rk Connected</a></li>
+<li><a href=3D"#id-6.0Network-6.1.3ListofWi-FiNetworks">6.1.3 List of Wi-Fi=
+ Networks</a></li>
+</ul></li>
+<li><a href=3D"#id-6.0Network-6.2MoreWi-FiNetworks">6.2 More Wi-Fi Networks=
+</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.2.1Wi-FiPasswordEntry">6.2.1 Wi-Fi Password=
+ Entry</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.2.1.1Wi-FiPasswordEntryFailure">6.2.1.1 Wi-=
+Fi Password Entry Failure</a></li>
+<li><a href=3D"#id-6.0Network-6.2.1.2Wi-FiPasswordEncryptionTypeandEntrylen=
+gth">6.2.1.2 Wi-Fi Password Encryption Type and Entry length</a></li>
+<li><a href=3D"#id-6.0Network-6.2.1.3Wi-FiCaptivePortal">6.2.1.3 Wi-Fi Capt=
+ive Portal</a></li>
+</ul></li>
+<li><a href=3D"#id-6.0Network-6.2.2ForgetSavedNetwork">6.2.2 Forget Saved N=
+etwork</a></li>
+<li><a href=3D"#id-6.0Network-6.2.3SavePasswordsforMultipleAP">6.2.3 Save P=
+asswords for Multiple AP</a></li>
+</ul></li>
+<li><a href=3D"#id-6.0Network-6.3TestConnection">6.3 Test Connection</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.3.1TestConnection(2020)">6.3.1 Test Connect=
+ion (2020)</a></li>
+<li><a href=3D"#id-6.0Network-6.3.2TestConnectionDownloadProcedure">6.3.2 T=
+est Connection Download Procedure</a></li>
+<li><a href=3D"#id-6.0Network-6.3.3TestConnectionSError">6.3.3 Test Connect=
+ion SError</a></li>
+</ul></li>
+<li><a href=3D"#id-6.0Network-6.4HiddenNetwork">6.4 Hidden Network</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.4.1HiddenNetworkSecurityType">6.4.1 Hidden =
+Network Security Type</a></li>
+<li><a href=3D"#id-6.0Network-6.4.2HiddenNetworkPasswordEntry">6.4.2 Hidden=
+ Network Password Entry</a></li>
+</ul></li>
+<li><a href=3D"#id-6.0Network-6.5ManualSetupIPv4">6.5 Manual Setup IPv4</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.5.1ManualSetupDHCPsettingsandrequirementsar=
+e:">6.5.1 Manual Setup DHCP settings and requirements are:</a></li>
+<li><a href=3D"#id-6.0Network-6.5.2NoManualEntryforIPv6">6.5.2 No Manual En=
+try for IPv6</a></li>
+<li><a href=3D"#id-6.0Network-6.5.3DigitPadforIPAddressEntrywithBluetoothRe=
+mote">6.5.3 Digit Pad for IP Address Entry with Bluetooth Remote</a></li>
+</ul></li>
+<li><a href=3D"#id-6.0Network-6.6NetworkInformation">6.6 Network Informatio=
+n</a></li>
+<li><a href=3D"#id-6.0Network-6.7NetworkDiagnostics">6.7 Network Diagnostic=
+s</a></li>
+<li><a href=3D"#id-6.0Network-6.8TermsandConditions">6.8 Terms and Conditio=
+ns</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-6.0Network-6.8.1TermsandConditionsNotConfirmed,NetworkCo=
+nnected">6.8.1 Terms and Conditions Not Confirmed, Network Connected</a></l=
+i>
+<li><a href=3D"#id-6.0Network-6.8.2TermsandConditionsNotConfirmed,NetworkNo=
+tConnected">6.8.2 Terms and Conditions Not Confirmed, Network Not Connected=
+</a></li>
+<li><a href=3D"#id-6.0Network-6.8.3ViewingData(DELETED)">6.8.3 Viewing Data=
+ (DELETED)</a></li>
+</ul></li>
+</div>
+<p></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"1b=
+50de41-186f-4ab2-95a7-393fd02c6462" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 177.0px;">
+<col style=3D"width: 252.0px;">
+<col style=3D"width: 209.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Network Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"zz5y0d1kps">My Networks</span></p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p><span data-colorid=3D"xo0bazrq8l">Ethernet Connected OR</span></p></li>
+<li>
+<p><span data-colorid=3D"ouusp7ez7p">WiFiName OR</span></p></li>
+<li>
+<p><span data-colorid=3D"igll2stwqd">Not Connected</span></p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"yyhrd43my1">If WiFi is the connection for My Netwo=
+rks, then WiFiName is followed by a list of up to 4 networks</span></p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>More Wi-Fi Networks</p></td>
+<td class=3D"confluenceTd">
+<p>Displays if more than four access points</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Test Connection</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Hidden Network</p></td>
+<td class=3D"confluenceTd">
+<p>Displays only if Wi-Fi connection, no display with Wired Connection</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Manual Setup</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Network Information</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ki0y1cpu72">Terms and Conditions</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.0.1NetworkRequirements">6.0.1&nbsp;Network Requir=
+ements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"33=
+c376f3-b0aa-4193-9b72-edc6e2e922c7" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 354.0px;">
+<col style=3D"width: 284.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Network Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>In the main menu the Network setting includes the ethernet icon or the n=
+ame of the Wi-Fi access point and signal strength&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>After successful connection, a connection failures is annunciated on the=
+ TV such as loss of Wi-Fi connection or Ethernet disconnected.&nbsp;</p></t=
+d>
+<td class=3D"confluenceTd">
+<p>Annunciation is displayed on the VIZIO Home page.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If Wi-Fi is previously connected and then Ethernet is connected, the Wi-=
+Fi passcode is retained.&nbsp;&nbsp;If Ethernet is unplugged, the TV automa=
+tically reconnects to Wi-Fi with saved passcode.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If TOS confirmed during OOBE then Network menu is available for setup ev=
+en if network setup skipped in OOBE.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.1MyNetworks"><span data-colorid=3D"ubvxsx2y7v">6.=
+1 My Networks</span></h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"76=
+be0655-73a4-47eb-9e93-dff8691ef865" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"wb9z2r1oux">Ethernet Connected</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"hvb8e7l65l">Only for skus with RJ45 jack. </span><=
+/p>
+<ul>
+<li>
+<p><span data-colorid=3D"o8z78l6s74">no ethernet 2021/2022 D and all 2024 s=
+kus. </span></p></li>
+</ul>
+<p><span data-colorid=3D"baw4gwboon">Grayed out and not selectable, status =
+only</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"g5t54eb5u7">Wi-Fi Network Name</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"a1l9mzngin">Name of connected Wi-Fi network</span>=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"eebb2jny5m">Not Connected</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"bishwrwe6x">Default if no connection</span></p>
+<p><span data-colorid=3D"pavsz6ghhn">Grayed out and not selectable, status =
+only</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"adlql3szmx">My Networks header is grayed out and s=
+tatus only. Not selectable.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.1.1EthernetConnected">6.1.1 <span data-colorid=3D=
+"jp0lrwo799">Ethernet</span> Connect<span data-colorid=3D"cl8o9yfhbx">ed</s=
+pan></h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ca=
+d1e428-d16d-46f5-bbac-0103d67fff93" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 272.0px;">
+<col style=3D"width: 228.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Ethernet Connected Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"dqujnvz3pt">Ethernet Connected</span> is status on=
+ly, grayed out and not selectable.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tmhw3j5wqf">No Ethernet for:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"mfpum9enp6">2021/2022 D skus (no 2023 skus)</span>=
+</p></li>
+<li>
+<p><span data-colorid=3D"qteq9ymez4">2024 VHD/VFD skus</span></p></li>
+<li>
+<p><span data-colorid=3D"ycomqem1lg">2024 4VK skus</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>For skus without Ethernet support (all 2021/2022 D skus) <span data-colo=
+rid=3D"f6u4oxe5us">then Ethernet Connectied</span> <span data-colorid=3D"hj=
+n7rmi8ix">is not an option. </span></p></td>
+<td class=3D"confluenceTd">
+<p>Also for 5581:</p>
+<ul>
+<li>
+<p>D32h-F4</p></li>
+<li>
+<p>D32h-F0</p></li>
+<li>
+<p>D32h-F1</p></li>
+<li>
+<p>D69f-F0</p></li>
+<li>
+<p>D43fx-F4</p></li>
+<li>
+<p>D48f-F0</p></li>
+<li>
+<p>D24-G9</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.1.2Wi-FiNetworkConnected">6.1.2 <span data-colori=
+d=3D"rurakq924z">Wi-Fi Network Connected</span></h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"31=
+102a60-a588-4341-a72b-c6c7a43f74bf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 272.0px;">
+<col style=3D"width: 228.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Wi-Fi Connected Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"hqh6xptnad">The connected AP with </span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"z97t6yr4nn">checkmark indicating connected left of=
+ AP name </span></p></li>
+<li>
+<p><span data-colorid=3D"ws5pmhapwd">Lock icon on the right if password req=
+uired</span></p></li>
+<li>
+<p><span data-colorid=3D"d6txxg6fje">Signal strength icon on the right. </s=
+pan></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"k69uakjlfm">This includes the name of a hidden net=
+work.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"pcquh1ct5n">Below the AP is the network status as =
+follows:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"vob8mixsi3">Connected</span></p></li>
+<li>
+<p><span data-colorid=3D"hyaacwouc3">No Internet</span></p></li>
+<li>
+<p><span data-colorid=3D"dzmh7684r9">Sign-In Required</span></p></li>
+<li>
+<p><span data-colorid=3D"ujtts3ugfg">Checking</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"cwegfsi6ws">Sign-In Required is for captive portal=
+ that is connected but sign in not completed. </span></p>
+<p><span data-colorid=3D"ge8mophhb2">No checkmark to indicated connected fo=
+r network if =E2=80=9CNo Internet=E2=80=9D</span></p>
+<p><span data-colorid=3D"tm5uo1vj0i">Checking is for unknown status.</span>=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"lr8d86hjep">Password is saved through DC and AC po=
+wer cycles. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.1.3ListofWi-FiNetworks">6.1.3 List of Wi-Fi Netwo=
+rks</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"60=
+fb30f3-409c-4059-83bb-506baf706998" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nhnypi7dag">The connected Wi-Fi network is followe=
+d by a list of 4 saved Wi-Fi networks in the order of the highest signal st=
+rength. </span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"zrplogfg02">Password is saved through DC and AC po=
+wer cycles. </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Right of the AP is a lock icon if password protected.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Signal strength icon display right of the lock icon.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The TV can store up to 5 passwords for networks. If the password is save=
+d then the network displays following the connected network regardless of s=
+ignal strength and if selected, the network connects using the saved passwo=
+rd: password entry not displayed.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"u9q3l7849v">If the currently connected Wi-Fi is lo=
+st then</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"ltdi8bjwp5">If two or more saved networks are avai=
+lable, the last connected network takes precedence and reconnects</span></p=
+></li>
+<li>
+<p><span data-colorid=3D"bsqg5owacd">If the last connected Wi-Fi is not res=
+tored, then automatically connect to the next saved network</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"e8ob2cpt6g">Connection loss due to:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"ufol5dkerp">forget network</span></p></li>
+<li>
+<p><span data-colorid=3D"u4nihubmp6">router or IP failure</span></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.2MoreWi-FiNetworks">6.2 More <span data-colorid=
+=3D"oeihuup700">Wi-Fi Networks</span></h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d6=
+6386dc-dbb7-4157-a4fb-a17776baa6fa" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ju98h79exk">Selecting More Wi-Fi Networks header d=
+isplays a list of available Wi-Fi networks. </span></p></td>
+<td class=3D"confluenceTd">
+<p>Formerly named More Access Points</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A complete list of access points found by the Wi-Fi radio displays in th=
+e order of saved access points by signal strength followed by non-saved acc=
+ess points by signal strength The connected network is excluded.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Right of the access point is a lock icon if password protected.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Signal strength icon display right of the lock icon.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.2.1Wi-FiPasswordEntry">6.2.1&nbsp;Wi-Fi Password =
+Entry</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"10=
+f4e85f-1ad2-4001-96a9-2237a7881aea" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+<th class=3D"confluenceTh">
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"149762605520=
+">
+<li data-inline-task-id=3D"1"><span class=3D"placeholder-inline-tasks">Note=
+s</span></li>
+</ul></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The password entry screen displays with a soft keyboard.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Displayed for WPA3 SAE security but skipped for WPA3 open guest.</p></li=
+>
+<li>
+<p>Skipped if captive portal SSID detected</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Above the soft keyboard, the password entry includes the selected AP and=
+ security level.</p></td>
+<td class=3D"confluenceTd">
+<p>Text is</p>
+<ul>
+<li>
+<p>Connect to =E2=80=9CNETWORK (SecurityLevel)=E2=80=9D</p></li>
+<li>
+<p>Enter Passphrase for =E2=80=9CNETWORK=E2=80=9D</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Below the soft keyboard, the Connect and Cancel soft buttons display.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qdjhphrabu">Connect soft button is grayed and not =
+selectable until 8 characters have been entered for the password. </span></=
+p>
+<ul>
+<li>
+<p><span data-colorid=3D"iy6g8209qx">For Enhanced Open and None, the Connec=
+t button is immediately available (no password entry required). </span></p>=
+</li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"y3bmb2q7d4">8 characters is minimum number of char=
+acters required for a valid password. </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Below the soft keyboard, the Show Password checkbox displays with unchec=
+ked default.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>In the soft keyboard the highlight defaults to the top left most charact=
+er, letter a.</p></td>
+<td class=3D"confluenceTd">
+<p>The UP, DOWN, RIGHT, and LEFT keys are used to highlight characters and =
+a press of OK adds the character in the text entry field.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Press Up key from a character in bottom row of the soft keyboard wraps t=
+o same column of characters in the bottom row.</p></td>
+<td class=3D"confluenceTd">
+<p>Excludes Connect and Cancel soft buttons.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Press Down key from a character in bottom row of the soft keyboard moves=
+ down to:</p>
+<ol start=3D"1">
+<li>
+<p>Connect soft button if a least one character selected</p></li>
+<li>
+<p>Cancel soft button if NO characters selected, returns to the Wi-Fi list =
+with the selected Wi-Fi highlghted.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Once the password is entered in the soft keyboard select the Connect but=
+ton to complete connection to the network.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>After connection, the keyboard screen closes and the Network settings di=
+splays again.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Direct character entry is also supported from the alpha-numeric keyboard=
+.&nbsp;&nbsp;When characters are entered from a remote, the Character Input=
+ Field is highlighted.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>WPA3 is supported for -K going forward as -H and -J Wi-FI chips may or m=
+ay not support WPA3.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>Password length depends on format supported for the router. Passwords ar=
+e ASCII based.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>If the password is saved, the network connects using the saved password:=
+ password entry not displayed.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"xpems3eq4o">If more than 57 characters are entered=
+ then</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"jr438zbpd5">The first left character moves off scr=
+een. </span></p></li>
+<li>
+<p><span data-colorid=3D"vg6kkmgj85">The 58th characters display on the rig=
+ht. </span></p></li>
+<li>
+<p><span data-colorid=3D"gj92g37nnq">Repeat as characters 59 - 63 are enter=
+ed so the left most characters appear to slide off screen. </span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ckqvcv0y0h">A password can be up to 63 characters =
+per Wi-Fi requirements. </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qtrug9jery">If a passcode is entered from the mobi=
+le apps with characters not supported by the TV character set, then a box d=
+isplays. </span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"y93a80glrr">Only latin alpha-numeric characters ad=
+ded. Other character sets and emoji characters are not supported by VIZIO d=
+efault font set. </span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-6.0Network-6.2.1.1Wi-FiPasswordEntryFailure">6.2.1.1 Wi-Fi Pas=
+sword Entry Failure</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"22=
+15d158-2783-4da2-8e46-6bc5a7903906" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 330.0px;">
+<col style=3D"width: 308.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Help Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For initial password entry, if the connection fails for the selected Wi-=
+Fi network 30 seconds after the user has input credentials (e.g. password),=
+ an error message displays with 2 buttons, =E2=80=9CTry Another=E2=80=9D an=
+d =E2=80=9CTry Again=E2=80=9D&nbsp;<span data-colorid=3D"sgbndla4tc">(defau=
+lt).</span></p></td>
+<td class=3D"confluenceTd">
+<p>WARNING ICON</p>
+<p>Incorrect Password entered for &lt;NETWORKNAME&gt;</p>
+<ul>
+<li>
+<p>Try Another</p></li>
+<li>
+<p>Try Again</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If a saved network is selected and the connection fails for the selected=
+ Wi-Fi network 30 seconds later (e.g. password has changed), an error messa=
+ge displays with 3 buttons, =E2=80=9CTry Another=E2=80=9D, =E2=80=9CTry Aga=
+in=E2=80=9D&nbsp;and =E2=80=9CForget=E2=80=9D <span data-colorid=3D"quuosm0=
+6wk">(default)</span>.</p></td>
+<td class=3D"confluenceTd">
+<p>WARNING ICON</p>
+<p>Incorrect Password entered for &lt;NETWORKNAME&gt;</p>
+<ul>
+<li>
+<p>Try Another</p></li>
+<li>
+<p>Try Again</p></li>
+<li>
+<p>Forget</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CTry Another=E2=80=9D redisplays the Wi-Fi screen with the list =
+of access points. &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CForget=E2=80=9D deletes the saved credentials for the network.<=
+/p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CTry Again=E2=80=9D returns the highlight to the password entry =
+of the keyboard with the highlight on the delete character. &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>If connection failure is due to lack of support for WPA3 then additional=
+ notification displays with the =E2=80=9CTry Another=E2=80=9D and =E2=80=9C=
+Try Again=E2=80=9D soft buttons.</p></td>
+<td class=3D"confluenceTd">
+<p>WARNING ICON</p>
+<p>Incorrect Password entered for &lt;NETWORKNAME&gt;</p>
+<p>The &lt;NETWORKNAME&gt; is set up for WPA3 security only. To connect cha=
+nge security mode on your router to WPA2/WPA3 compatibility.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-6.0Network-6.2.1.2Wi-FiPasswordEncryptionTypeandEntrylength">6=
+.2.1.2 Wi-Fi Password Encryption Type and Entry length</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b2=
+734346-bdbd-4104-a327-2a1235aa6d99" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 108.0px;">
+<col style=3D"width: 88.0px;">
+<col style=3D"width: 90.0px;">
+<col style=3D"width: 115.0px;">
+<col style=3D"width: 237.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Encryption </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Minimum length</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Maximum length</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Skus</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>WPA Personal TKIP</p></td>
+<td class=3D"confluenceTd">
+<p>8 characters</p></td>
+<td class=3D"confluenceTd">
+<p>63 characters</p></td>
+<td class=3D"confluenceTd">
+<p>all skus</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>WPA2 Personal AES</p></td>
+<td class=3D"confluenceTd">
+<p>8 characters</p></td>
+<td class=3D"confluenceTd">
+<p>63 characters</p></td>
+<td class=3D"confluenceTd">
+<p>all skus</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>WPA2+WPA3 Personal Mixed AES</p></td>
+<td class=3D"confluenceTd">
+<p>8 characters</p></td>
+<td class=3D"confluenceTd">
+<p>63 characters</p></td>
+<td class=3D"confluenceTd">
+<p>all skus</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>WPA3 Personal SAE</p></td>
+<td class=3D"confluenceTd">
+<p>8 characters</p></td>
+<td class=3D"confluenceTd">
+<p>64 characters</p></td>
+<td class=3D"confluenceTd">
+<p>-K (2022) going forward</p></td>
+<td class=3D"confluenceTd">
+<p>WPA3 uses with Simultaneous Authentication of Equals&nbsp;(SAE) exchange=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>WPA3 enhanced open</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>-K (2022) going forward</p>
+<p><span data-colorid=3D"d5o1atcb0w">-H and -J skus 5691 / MT7638 or MT7663=
+ </span></p>
+<p><span data-colorid=3D"ci3bmz6t6e">H and -J skus 5695 / MT7668</span></p>=
+</td>
+<td class=3D"confluenceTd">
+<p>No password entry - when TV connects to the WiFi router, Wi=E2=80=91Fi e=
+nhanced open mode uses with a strong encryption (84-bit Hashed Message Auth=
+entication Mode) between TV and router.</p>
+<p><span data-colorid=3D"vp0q28kfsg">WPA3 support applied for 5691 and 5695=
+ H/J skus in FUR6.0. </span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-6.0Network-6.2.1.3Wi-FiCaptivePortal">6.2.1.3 Wi-Fi Captive Po=
+rtal</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"bf=
+44a926-7fb3-41ae-b4bc-ca3a4287a3ad" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If captive portal with open enhanced network is selected, instead of the=
+ VIZIO password entry page, redirect to service provider=E2=80=99s full scr=
+een landing page. Landing page designed and hosted by service provider/rout=
+er.</p></td>
+<td class=3D"confluenceTd">
+<p>VIZIO provides secure network communication for captive portal authentic=
+ation and login via HPPT and HTTPS captive portal pages.</p>
+<p>Launch within 3 seconds.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Navigation of captive portal page:</p>
+<ul>
+<li>
+<p>If the web page content is more than one screen, scroll bars are inserte=
+d.</p></li>
+<li>
+<p>D-Pad UP key will scroll up</p></li>
+<li>
+<p>D-Pad Down key will scroll down</p></li>
+<li>
+<p>When a text box, checkbox, or button appears on the screen, it will be a=
+utomatically be highlighted.</p></li>
+<li>
+<p>OK key support</p>
+<ul>
+<li>
+<p>OK toggles check boxes, radio buttons and other selectors</p></li>
+<li>
+<p>OK displays virtual keyboard for Input text box</p></li>
+<li>
+<p>OK confirms Accept/Sign In</p></li>
+</ul></li>
+<li>
+<p>If next field is not visible on the page, Down key scrolls down and high=
+lighted the next field.</p></li>
+<li>
+<p>Back key while in the landing page returns to the SSID list in menu and =
+dismisses Captive Portal page</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Virtual keyboard</p>
+<ul>
+<li>
+<p>Next button skips to next field.</p></li>
+<li>
+<p>Hide keyboard button dismisses keyboard, highlights visible field</p></l=
+i>
+<li>
+<p>Exit Setup button exits captive portal landing page</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>if valid login credentials are entered continue with internet connectivi=
+ty.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Select captive portal SSID from My network, then can re-connect as follo=
+ws:</p>
+<ul>
+<li>
+<p>=E2=80=9CReconnect=E2=80=9D and =E2=80=9CForget=E2=80=9D popup displayed=
+ when user selects captive portal SSID</p></li>
+<li>
+<p>Reconnect will redirect to landing page</p></li>
+<li>
+<p>Forget has came behavior as for all AP: forget the Captive Portal SSID</=
+p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>If invalid login credential are entered</p>
+<ul>
+<li>
+<p>stay in log in page</p></li>
+<li>
+<p>return to SSID list.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Response depends upon service provider network operation flow.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>To exit the captive portal landing page press the BACK key to return to =
+the Network menu.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If previously connected, displays in My Networks.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.2.2ForgetSavedNetwork">6.2.2 Forget Saved Network=
+&nbsp;</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3f=
+729641-05ff-4634-8bc3-83c713f78a53" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A press of OK when the connected network is highlighted displays a pop u=
+p notification to forget the network.</p></td>
+<td class=3D"confluenceTd">
+<p>The help text for the connected/saved network is customized as follows =
+=E2=80=9CPress OK to forget the connected WiFi network.=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The pop up notification is =E2=80=9CSelect Forget to forget NETWORKNAME=
+=E2=80=9D with =E2=80=9CForget=E2=80=9D and =E2=80=9CCancel=E2=80=9D button=
+s.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>NETWORKNAME=3D name of selected network</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If Forget is selected, then the saved credentials are deleted for the ne=
+twork and the Wi-Fi connection is lost.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.2.3SavePasswordsforMultipleAP">6.2.3 Save Passwor=
+ds&nbsp;for Multiple AP</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4c=
+5b484b-8921-4c3c-8711-5887d365796b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If the password is correct and the network connected, then the password =
+is saved.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>No indication the password is saved but connects without password entry =
+display.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Password is saved for up to 5 AP.</p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"97764078-a9ea-4219-9fa=
+7-bd3105ad9600">If a 6th AP password is saved, then the </span><strong><spa=
+n class=3D"inline-comment-marker" data-ref=3D"97764078-a9ea-4219-9fa7-bd310=
+5ad9600">oldest unused</span></strong><span class=3D"inline-comment-marker"=
+ data-ref=3D"97764078-a9ea-4219-9fa7-bd3105ad9600"> AP password is deleted.=
+</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When a network is selected with a saved network, the password entry scre=
+en does not display, network checks saved password and if valid connects.</=
+p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The APS are listed as follows</p>
+<ol start=3D"1">
+<li>
+<p>The currently connected AP is first.</p></li>
+<li>
+<p>AP with saved password are saved next by signal strength but if very low=
+ or no signal strength then not included in the saved list.</p></li>
+<li>
+<p>AP without saved password listed with strongest signal strength first.</=
+p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>The AP used last is the AP that is automatically connected at power on.<=
+/p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"7642516a-d74f-4b8e-bb0=
+3-8154912815e2">If the last used AP is not available, then manually select =
+another AP</span>.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>When a saved network is selected then the network automatically connects=
+: no need to reenter the password.</p></td>
+<td class=3D"confluenceTd">
+<p>A currently connected AP is disconnected</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Five Saved AP Applies to all future skus and</p>
+<ul>
+<li>
+<p>2022 -K all models</p></li>
+<li>
+<p>2021 -J all models</p></li>
+<li>
+<p>2020 -H all models</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.3TestConnection">6.3&nbsp;Test Connection</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"960" data-layout=3D"wide" data-local-id=3D"69787=
+0e6-d9e6-49af-b66e-8ed0738d5f6f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 372.0px;">
+<col style=3D"width: 253.0px;">
+<col style=3D"width: 293.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Test Connection Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Test Connection attempts to establish an Internet connection and procure=
+ an IP address.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Confirm DNS</p></li>
+<li>
+<p>Confirm NTP server</p></li>
+<li>
+<p>Check download</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Test Connection header at the top of the notification</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Connected to:</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Wi-Fi network name</p></li>
+<li>
+<p>Ethernet</p></li>
+<li>
+<p>Disconnected</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Status only, not selectable.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If Wi-Fi, signal strength</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"ifm5lvxovu">Excellent</span></p></li>
+<li>
+<p><span data-colorid=3D"mnwyhukg98">Good</span></p></li>
+<li>
+<p><span data-colorid=3D"gebsnf3wm6">Fair</span></p></li>
+<li>
+<p><span data-colorid=3D"g2u815f0uz">Weak</span></p></li>
+<li>
+<p><span data-colorid=3D"xputgzfnzw">Not connected</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Status only, not selectable.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Internet Connection</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Connected - DNS, NTP and download successful</p></li>
+<li>
+<p>Disconnected - DNS or NTP or download unsuccessful</p></li>
+<li>
+<p><span data-colorid=3D"ldag749qno">Testing</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Status only, not selectable.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Retest</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"kcgof6s6qs">Grayed out when Test Connection opened=
+ and displays =E2=80=9CTesting=E2=80=9D for Internet Connection until compl=
+eted. Then highlighted.</span></p></td>
+<td class=3D"confluenceTd">
+<p>The only highlighted setting. Retests the connection.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.3.1TestConnection(2020)">6.3.1 Test Connection (2=
+020)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"0c=
+857f8d-d292-414c-867b-c387cdc9475d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Test Connection Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Test Connection attempts to establish an Internet connection and procure=
+ an IP address.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Test Connection header at the top of the notification</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Connection type of Ethernet or Wi-Fi and AP name (Connected to Ethernet =
+OR APname)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If Wi-Fi, signal strength RSSI in dBm, including all channels</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Network Speed in Mb/s</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Confirmation of DNS servers (OK or Failed)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Confirmation of NTP server (OK or Failed)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>SError Code (Success or Failure)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.3.2TestConnectionDownloadProcedure">6.3.2 Test Co=
+nnection Download Procedure</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"30=
+d6d601-493a-4975-b1c9-0270c21c2e8d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Test Connection Download Procedure</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV downloads this 500K file from the CloudFront CDN&nbsp;<a class=3D"ext=
+ernal-link" href=3D"http://st-mtk.oui-0x00199d.com/st.jpg" rel=3D"nofollow"=
+><u>st.jpg (500=C3=97500) (oui-0x00199d.com)</u></a><span data-colorid=3D"g=
+iea9iubub">.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>TV is timing the download starting after DNS has been resolved.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The average download spec in Kbits displays.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.3.3TestConnectionSError">6.3.3 Test Connection SE=
+rror</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d9=
+d08f2e-aab0-459f-8774-8f7094f671e0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Step 1. Test for connection. Check network status and create a socket to=
+ access <a class=3D"external-link" href=3D"https://protect-us.mimecast.com/=
+s/G323C82BXriz5xXyh2XNdp?domain=3Dgoogle.com" rel=3D"nofollow"><span data-c=
+olorid=3D"n8jxgdjod4"><u>www.google.com</u></span></a>. If socket is connec=
+ted successfully, then DNS is established.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Step 2. Check NTP time.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Step 3. Test for download speed.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>All three steps pass then SError is Success</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If any network step fails then SError is Failure.</p></td>
+<td class=3D"confluenceTd">
+<p>The network check is stopped.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.4HiddenNetwork">6.4 Hidden Network</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"bc=
+f85b8b-bbee-45d3-96f0-90e3e765b37b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Hidden Network Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A soft keyboard displays with header =E2=80=9CEnter Network Name=E2=80=
+=9D and Connect button.</p></td>
+<td class=3D"confluenceTd">
+<p>Help text (at the top) is =E2=80=9CEnter your access point name. This is=
+ used to connect to the access point with a hidden SSID.=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Hidden network SSID is entered.</p></td>
+<td class=3D"confluenceTd">
+<p>To comply with 802.11, the SSID name can be up to 32 characters.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>SSID is validated and the security type selection displays.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.4.1HiddenNetworkSecurityType">6.4.1 Hidden Networ=
+k&nbsp;Security Type</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3e=
+d7799e-d327-44f4-a817-3c6facc6c0ea" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 327.0px;">
+<col style=3D"width: 311.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Hidden Network Security Type Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings/Help Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A list of security types with header =E2=80=9CNetwork Security Type=E2=
+=80=9D.</p></td>
+<td class=3D"confluenceTd">
+<p>Help text is =E2=80=9CPress OK to select the security type for the hidde=
+n network.=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>List of security types with the WPA2-Personal setting highlighted.</p></=
+td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>WPA-Personal</p></li>
+<li>
+<p>WPA/WPA2-Personal</p></li>
+<li>
+<p>WPA2-Personal (default)</p></li>
+<li>
+<p>WPA2/WPA3-Personal</p></li>
+<li>
+<p>WPA3-Personal</p></li>
+<li>
+<p>Enhanced Open</p></li>
+<li>
+<p>None</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>A press of OK validates the security type and the Wi-Fi password entry d=
+isplays with a soft keyboard.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A press of OK dismisses the notification and returns focus to the list o=
+f security types.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.4.2HiddenNetworkPasswordEntry">6.4.2 Hidden Netwo=
+rk Password Entry</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"93=
+131cdf-20cb-4c37-b17f-24aa83335f82" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Hidden Network Password Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi password entry displays with a soft keyboard and Connect soft butt=
+on.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"gkdhnevl59">Same keyboard as for password entry</s=
+pan>. Refer to<span data-colorid=3D"vefokoz6ky"> </span><a data-card-appear=
+ance=3D"inline" href=3D"https://vizio.atlassian.net/wiki/spaces/PM/pages/14=
+9762605520/6.0+Network#6.2.1-Wi-Fi-Password-Entry" rel=3D"nofollow">https:/=
+/vizio.atlassian.net/wiki/spaces/PM/pages/149762605520/6.0+Network#6.2.1-Wi=
+-Fi-Password-Entry</a> <span data-colorid=3D"q6466hfesl"> </span>for detail=
+s of behavior and error handling</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Hidden network is connected if the correct security type and password ar=
+e entered.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If either the security type or the password are incorrect then an error =
+notification displays.</p>
+<ul>
+<li>
+<p>If the security type is incorrect then a pop up notification displays wi=
+th a =E2=80=9CTry Another=E2=80=9D soft button.</p></li>
+<li>
+<p>If the password is incorrect then follow the password error notification=
+s</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Notification if security type incorrect:</p>
+<p>WARNING ICON</p>
+<p>Incorrect security type for &lt;HIDDENNETWORKNAME&gt;.</p>
+<p>Try Another</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A connected hidden network is included in the list of access points unti=
+l an AC off.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.5ManualSetupIPv4">6.5&nbsp;Manual Setup IPv4</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f6=
+461f6f-6a56-4e92-ab8c-1dfe2bba0421" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Manual Setup Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>DHCP</p></td>
+<td class=3D"confluenceTd">
+<p>Default is On (automatic setup)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>IP Address</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Subnet Mask</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Gateway</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Pref. DNS Server</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Alt. DNS Server</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>RJ45 (display only, no entry)</p></td>
+<td class=3D"confluenceTd">
+<p>Or MAC ID if no Ethernet port</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Wireless MAC address (display only, no entry)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.5.1ManualSetupDHCPsettingsandrequirementsare:">6.=
+5.1 Manual Setup DHCP settings and requirements are:</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f1=
+b1d4c1-ffcf-44f9-96f5-a7cd14639ba2" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 124.0px;">
+<col style=3D"width: 357.0px;">
+<col style=3D"width: 157.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>DHCP Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>On (default)</p></td>
+<td class=3D"confluenceTd">
+<p>Settings for the network are automatically configured. The accompanying =
+Manual Settings cannot be changed.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Manually configure the settings.</p>
+<ol start=3D"1">
+<li>
+<p>Select Off.</p></li>
+<li>
+<p>The addresses are available (previously grayed).</p></li>
+<li>
+<p>Change addresses using the digit pad or directly entering digits using a=
+ remote with digits.</p></li>
+<li>
+<p>Select the Save button and press OK keyto save the changes</p></li>
+<li>
+<p>TV connects to the designated wired or Wi-Fi connection.&nbsp;</p></li>
+<li>
+<p>Select Cancel and press OK key to clear any changes and dismiss the manu=
+al setup menu, displaying the Network menu.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Manual DNS</p></td>
+<td class=3D"confluenceTd">
+<p>Only the DNS addresses are changed.&nbsp;&nbsp;</p>
+<ol start=3D"1">
+<li>
+<p>Select Manual DNS.</p></li>
+<li>
+<p>The addresses Pref. DNS Server and Alt. DNS server are available (all ot=
+her addresses remain grayed).</p></li>
+<li>
+<p>Change addresses using the digit pad or directly entering digits using a=
+ remote with digits.</p></li>
+<li>
+<p>Select the Save button and press OK key to save the changes</p></li>
+<li>
+<p>TV connects to the designated wired or Wi-Fi connection.&nbsp;</p></li>
+<li>
+<p>Select Cancel and press OK key to clear any changes and dismiss the manu=
+al setup menu, displaying the Network menu.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>Service requested this option to solve some home network issues.&nbsp;</=
+p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.5.2NoManualEntryforIPv6">6.5.2 No Manual Entry fo=
+r&nbsp;IPv6</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"07=
+202c78-7967-40ea-9be5-724a30b2920e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For IPv6 manual entry is not supported. Automatic detection only. &nbsp;=
+</p></td>
+<td class=3D"confluenceTd">
+<p>IPv6 uses a 128-bit address, too long to enter using TV remote.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If only IPv6 is connected then Manual Setup IPv4 is grayed out. &nbsp;</=
+p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.5.3DigitPadforIPAddressEntrywithBluetoothRemote">=
+6.5.3&nbsp;Digit Pad for IP Address Entry with Bluetooth Remote</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7c=
+827187-aa67-486e-a400-8ba1488ebd0f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Digit Pad Requirements - Action by User</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Result</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>DHCP setting changed from On to Off.</p></td>
+<td class=3D"confluenceTd">
+<p>IP addresses are white and selectable and</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Press DOWN.</p></td>
+<td class=3D"confluenceTd">
+<p>The first IP address is highlighted (not the entire line)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Press OK</p></td>
+<td class=3D"confluenceTd">
+<p>Digit Pad displays right of the menu.</p>
+<p>IP address digits are unchanged until first digit entry.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Enter first digit</p></td>
+<td class=3D"confluenceTd">
+<p>At first digit entry, the digits in the selected IP address are cleared.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Using digit pad entry, add three digits to highlighted IP field</p></td>
+<td class=3D"confluenceTd">
+<p>Highlight advanced to the next IP address.</p>
+<p>This could be right of the previous IP address or the first IP address i=
+n the next line.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Highlight delete key in the digit pad entry and press OK button</p></td>
+<td class=3D"confluenceTd">
+<p>The right most digit in the highlighted IP address is cleared. Another p=
+ress clears the next digit if applicable. A third press clears the first di=
+git if applicable.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Highlight the Next button in the digit pad entry and press OK button</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>Move highlight to the next IP address.</p>
+<p>This could be right of the previous IP address or the first IP address i=
+n the next line.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>The last IP address for Alt DNS Server is highlighted</p></td>
+<td class=3D"confluenceTd">
+<p>Enter 3 digits and the highlight moves down to the sidebar OK button, hi=
+ghlighted, and digit pad entry removed.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"csvsm40mrd">Press the BACK key&nbsp;</span>or high=
+light Close button in the digit pad entry</p></td>
+<td class=3D"confluenceTd">
+<p>Closes digit pad and allow navigation within the IP addresses.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.6NetworkInformation">6.6&nbsp;Network Information=
+</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b1=
+d0784e-c320-4998-b257-af8c4cc4477e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 272.0px;">
+<col style=3D"width: 366.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Network Information Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>NETWORK INFORMATION</p></td>
+<td class=3D"confluenceTd">
+<p>title</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi Network</p></td>
+<td class=3D"confluenceTd">
+<p>Name of the Wi-Fi network</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi Signal Strength</p></td>
+<td class=3D"confluenceTd">
+<p>RSSI Signal Strength as follows:</p>
+<ul>
+<li>
+<p>Excellent: 0 to -57 dBm</p></li>
+<li>
+<p>Good: -58 to -67 dBm</p></li>
+<li>
+<p>Fair: -68 to -78 dBm</p></li>
+<li>
+<p>Weak: -79 dBm and lower</p></li>
+<li>
+<p><span data-colorid=3D"hlejhv3w0s">Not connected: - 90 dBm and lower or c=
+onnection lost or never connected</span>.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>IP Type</p></td>
+<td class=3D"confluenceTd">
+<p>IPv4, IPv6 or IPv4 and IPv6</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>IPv4 IP Address</p></td>
+<td class=3D"confluenceTd">
+<p>IPv4 with 32 bit or N/A</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>IPv4 Default Gateway</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>IPv4 Subnet Mask</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>IPv6 Address (2022 skus only)</p></td>
+<td class=3D"confluenceTd">
+<p>128 bit (may require 2 lines even in HEX) or N/A</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>IPv6 Default Gateway</p></td>
+<td class=3D"confluenceTd">
+<p>2022 skus only)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>IPv6 Prefix Length</p></td>
+<td class=3D"confluenceTd">
+<p>2022 skus only)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Pref. DNS Server</p></td>
+<td class=3D"confluenceTd">
+<p>Lists IPv4, then IPv6</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>Alt. DNS Server</p></td>
+<td class=3D"confluenceTd">
+<p>Lists IPv4, then IPv6</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>RJ45 MAC OR ID MAC</p></td>
+<td class=3D"confluenceTd">
+<p>ID MAC if no RJ45 port but RJ45 burned in for Inscape</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>WLAN MAC</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p>Connection</p></td>
+<td class=3D"confluenceTd">
+<p>Wired, Wi-Fi 2.4GHz, Wi-Fi 5GHz, Wi-Fi 6GHz, <span data-colorid=3D"xinsf=
+t3rdq">none</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi Security</p></td>
+<td class=3D"confluenceTd">
+<p>Open, WPA TKIP, WPA AES, WPA2 AES, WPA2+WPA3 AES, WPA3 SAE, WPA3 Open En=
+hanced (no password)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi Module</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"da1izavtin">Internet Download Speed</span></p>
+<p><span data-colorid=3D"acm3wwyby2">NOTE: Displays in Network Information =
+located under Network menu only. </span></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"eouo6dnly5">Excellent: 100 Mbps and above</span></=
+p></li>
+<li>
+<p><span data-colorid=3D"saqu6u39ll">Good: 99 - 50 Mbps</span></p></li>
+<li>
+<p><span data-colorid=3D"s7ptk7bnoy">Fair: 49 - 20 Mbps</span></p></li>
+<li>
+<p><span data-colorid=3D"ox35es67id">Poor: 20 Mbps and under.</span></p></l=
+i>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.7NetworkDiagnostics"><span data-colorid=3D"ydkufe=
+cary">6.7 Network Diagnostics</span></h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"2c=
+cec772-a74a-4e94-8a06-ec24775aef2e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"aptem3qtwo">Provides TV Network health monitor and=
+ troubleshooting guidance to users and customer support. It offers one-clic=
+k to perform TV network diagnostics tests. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nc9mes2877">Launch network diagnostics</span></p><=
+/td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"s6ru1ctwgm">Full screen page display</span></p></l=
+i>
+<li>
+<p><span data-colorid=3D"t81y52ng4k">Launch within 3 seconds</span></p></li=
+>
+<li>
+<p><span data-colorid=3D"qn7lm6ldl9">Network Diagnostics Tests includes:</s=
+pan></p></li>
+</ul>
+<ol start=3D"1">
+<li>
+<p><span data-colorid=3D"izlr4yf398">TV WiFi Connection Test</span></p></li=
+>
+<li>
+<p><span data-colorid=3D"z7r1wfczla">WiFi Router Connection Test</span></p>=
+</li>
+<li>
+<p><span data-colorid=3D"iifv8tkv0d">Internet Connection Test</span></p></l=
+i>
+<li>
+<p><span data-colorid=3D"ecmt9e0j64">VIZIO Services</span></p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"k9yn0tl76w">TV WiFi Connection Test</span></p></td=
+>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"wdha4f0htd">TV WiFi Connection Test will be conduc=
+ted to validate if proper WiFi connection has been successfully established=
+.</span></p></li>
+<li>
+<p><span data-colorid=3D"iq2d3d22gv">If WiFi connection is successful, TV o=
+nscreen will provide current network connection state (Wired or WiFi connec=
+tion success)</span></p></li>
+<li>
+<p><span data-colorid=3D"s4lyyketzp">Then proceeds to the 2nd Network Diagn=
+ostics Test stage.</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>TV WiFi Connection failure</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"t31unf75d3">App includes recommendations to:</span=
+></p>
+<ul>
+<li>
+<p><span data-colorid=3D"pjdqkg2499">Verify if correct WiFi network passwor=
+d</span></p></li>
+<li>
+<p><span data-colorid=3D"zlva5qigui">Power cycle TV to initiate TV WiFi rec=
+onnection</span></p></li>
+<li>
+<p><span data-colorid=3D"qmkh9y4am0">Move TV or Router closer to each other=
+</span></p></li>
+<li>
+<p><span data-colorid=3D"dz5uk98yxw">Upgrade new WiFi 6 WiFi router, add Ra=
+nge Extender or Mesh solution</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"p9f7fr7c9w">WiFi Router Connection Test</span></p>=
+</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"aapp04rknb">Validate if proper WiFi connection has=
+ been successfully established between TV and the WiFi router.</span></p></=
+li>
+<li>
+<p><span data-colorid=3D"zktz5huvwc">If WiFi connection is successful, TV o=
+nscreen will provide current TV WiFi and Router connection states (Wired or=
+ WiFi connection success) and WiFi Signal Strength (when using WiFi connect=
+ion). </span></p></li>
+<li>
+<p><span data-colorid=3D"yxv8m3soqx">Then proceeds to the 3rd Network Diagn=
+ostics Test stage.</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"hcflaycdbd">WiFi Router Connection failure</span><=
+/p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"yftrphjd3r">App includes recommendations to:</span=
+></p>
+<ul>
+<li>
+<p><span data-colorid=3D"y5b67qcnjr">Verify again if TV WiFi is successfull=
+y connected</span></p></li>
+<li>
+<p><span data-colorid=3D"x2amsps5o7">Power cycle WiFi Router (ISP modem/ ga=
+teway): unplug router for several minutes before plugging both back in</spa=
+n></p></li>
+<li>
+<p><span data-colorid=3D"f50k5ge9e9">Verify Internet Connection with anothe=
+r WiFi device in house (laptop or tablet); if using phone, make sure WiFi c=
+onnection only (disable Cellular Data)</span></p></li>
+<li>
+<p><span data-colorid=3D"d4xyrd6m8n">Issues persist, contact Internet Servi=
+ce Provider.&nbsp;</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Internet Connection test</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Internet connection tests if Internet connection has been successfully e=
+stablished and granted between TV, WiFi router and public Internet access.<=
+/p></li>
+<li>
+<p>If connection is successful, app provides current TV WiFi, Router and In=
+ternet connection states (Wired or WiFi connection success) and WiFi Signal=
+ Strength (when using WiFi connection)</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"s8c0ocui5p">Internet Connection failure</span></p>=
+</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"n69zwd9u08">App includes recommendations to:</span=
+></p>
+<ul>
+<li>
+<p><span data-colorid=3D"uqitebm16q">Verify again if TV WiFi is successfull=
+y connected</span></p></li>
+<li>
+<p><span data-colorid=3D"p4d4pnmle4">Power cycle WiFi Router (ISP modem/ ga=
+teway): unplug router for several minutes before plugging both back in</spa=
+n></p></li>
+<li>
+<p><span data-colorid=3D"doo0ntbo10">Verify Internet Connection with anothe=
+r WiFi device in house (laptop or tablet); if using phone, make sure WiFi c=
+onnection only (disable Cellular Data)</span></p></li>
+<li>
+<p><span data-colorid=3D"l222bl6u9u">Issues persist, contact Internet Servi=
+ce Provider.&nbsp;</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tg591ok8ns">VIZIO Services test</span></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"fqj5stu97q">internet connection test validates if =
+proper Internet connection has been successfully established and granted be=
+tween TV, WiFi router and public Internet access.</span></p></li>
+<li>
+<p><span data-colorid=3D"ocvajl72a6">If connection is successful, app provi=
+des current TV WiFi, Router, Internet and VIZIO Servers connection states (=
+Wired or WiFi connection success) and WiFi Signal Strength (when using WiFi=
+ connection). </span></p></li>
+<li>
+<p><span data-colorid=3D"ziu0pljt4t">Then proceed to the final Network Diag=
+nostics Test stage.</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"z6emq4i0pn">VIZIO Services failure</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"eu2vlngmsp">App includes recommendations to:</span=
+></p>
+<ul>
+<li>
+<p><span data-colorid=3D"fkuyp3j98a">Verify again if TV WiFi is successfull=
+y connected</span></p></li>
+<li>
+<p><span data-colorid=3D"uw37nvgu4m">Power cycle WiFi Router (ISP modem/ ga=
+teway): unplug router for several minutes before plugging both back in</spa=
+n></p></li>
+<li>
+<p><span data-colorid=3D"dku9umyptt">Verify Internet Connection with anothe=
+r WiFi device in house (laptop or tablet); if using phone, make sure WiFi c=
+onnection only (disable Cellular Data)</span></p></li>
+<li>
+<p><span data-colorid=3D"z3a7ebt7ll">Issues persist, contact Internet Servi=
+ce Provider.&nbsp;</span></p></li>
+<li>
+<p><span data-colorid=3D"gyhqcjtxf0">Please contact VIZIO Customer Support =
+if above steps all failed.</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"sakumk7fly">To exit, press BACK key.</span></p></t=
+d>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-6.0Network-6.8TermsandConditions">6.8 Terms and Conditions</h2=
+>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ec=
+c4a555-f21d-416e-b11c-89c6eba441eb" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 364.0px;">
+<col style=3D"width: 274.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Terms and Conditions Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TOS must be confirmed before SmartCast Home can display.</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast Home, Cast or app launch from partner keys are not supported. =
+&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If network was connected during OOBE but Terms and Conditions were not c=
+onfirmed then app&nbsp;launch from partner keys, SmartCast Home and Cast ar=
+e not supported.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Partner button launch is not supported (including Netflix) if network co=
+nnection but no VIZIO ToS.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.8.1TermsandConditionsNotConfirmed,NetworkConnecte=
+d"><span data-colorid=3D"aqusncqnrn">&nbsp;</span>6.8.1&nbsp;Terms and Cond=
+itions Not Confirmed, Network Connected</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"58=
+f81f40-1a80-4144-85bc-12a17fbca409" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 364.0px;">
+<col style=3D"width: 274.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>No TOS, Network Connected</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>During OOBE network connected (Wi-Fi connected or Ethernet connected)</p=
+></li>
+<li>
+<p>Skip Terms and Conditions</p></li>
+<li>
+<p>OOBE must be relaunched to accept TOS.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>OOBE required to save TOS acceptance in OneTrust.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>When Network selected from Settings, SmartCast Home displays with no Ter=
+ms and Conditions notification.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>From SCTV, click the Terms and Conditions button in the notification</p>
+<ul>
+<li>
+<p>OOBE launched and deep links to VIZIO Terms and Conditions.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>From SCTV, click the Cancel button in the notification</p>
+<ul>
+<li>
+<p>Exit <span data-colorid=3D"ngfcpli431">VIZIO Home</span> to HDMI-1.</p><=
+/li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.8.2TermsandConditionsNotConfirmed,NetworkNotConne=
+cted">6.8.2&nbsp;Terms and Conditions Not Confirmed, Network Not Connected<=
+/h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"20=
+adab1a-dfd4-4174-ae23-5ca1882fc0c1" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 364.0px;">
+<col style=3D"width: 274.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><strong>No TOS, Network Not Connected</strong></p></td>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>During OOBE skip network connection and Ethernet not connected</p></li>
+<li>
+<p>Skip Terms and Conditions</p></li>
+<li>
+<p>OOBE must be relaunched to connect network ad accept TOS.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>OOBE required to save TOS acceptance in OneTrust.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When Network selected from Settings, SmartCast Home displays with no Net=
+work notification.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>From SCTV, click the Network button in the notification</p>
+<ul>
+<li>
+<p>OOBE launched and deep links to Wi-Fi connection</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>From SCTV, click the Cancel button in the notification</p>
+<ul>
+<li>
+<p>Exit SCTV to HDMI-1.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-6.0Network-6.8.3ViewingData(DELETED)">6.8.3&nbsp;Viewing Data =
+(DELETED)</h3>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_6_1056260969.1728074955718--

@@ -1,0 +1,4326 @@
+Message-ID: <1715058415.11.1728074736556@773d810e8583>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10_718740630.1728074736556"
+
+------=_Part_10_718740630.1728074736556
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>5 HDMI and Gaming</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>5 HDMI and Gaming</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074735891 {padding: 0px;}
+div.rbtoc1728074735891 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074735891 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074735891">
+<style>[data-colorid=3Ddmc7kjjveo]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Ddmc7kjjveo]{color:#cf2600}[data-colorid=3Dw17276iwq0]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dw17276iwq0]{colo=
+r:#cf2600}[data-colorid=3Dh8ruqybcfn]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dh8ruqybcfn]{color:#cf2600}[data-colorid=3Duy47pdyz=
+p3]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Duy47pdyzp3]=
+{color:#cf2600}[data-colorid=3Dhixec43t34]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dhixec43t34]{color:#cf2600}[data-colorid=3Dw2aq4=
+t732b]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dw2aq4t73=
+2b]{color:#cf2600}[data-colorid=3Djno76qf80v]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Djno76qf80v]{color:#cf2600}[data-colorid=3Dgu=
+sfdwt2fk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dgusfd=
+wt2fk]{color:#cf2600}[data-colorid=3Dxek0cfdgzp]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dxek0cfdgzp]{color:#cf2600}[data-colorid=
+=3Diiqcg1j9op]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+iiqcg1j9op]{color:#cf2600}[data-colorid=3Dmhrvi9zjva]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dmhrvi9zjva]{color:#cf2600}[data-colo=
+rid=3Dxug8c7j0j5]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dxug8c7j0j5]{color:#cf2600}[data-colorid=3Dnmtuy198mt]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dnmtuy198mt]{color:#cf2600}[data-c=
+olorid=3Dq4wtxdzprm]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dq4wtxdzprm]{color:#cf2600}[data-colorid=3Dljb76l4mlp]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dljb76l4mlp]{color:#cf2600}[dat=
+a-colorid=3Dghqrgyg4rl]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dghqrgyg4rl]{color:#cf2600}[data-colorid=3Dgnpc5x5whu]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dgnpc5x5whu]{color:#cf2600}[=
+data-colorid=3Dqbb24f8437]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dqbb24f8437]{color:#cf2600}[data-colorid=3Dnppuj4niel]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dnppuj4niel]{color:#cf260=
+0}[data-colorid=3Dnvbjb19m8x]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dnvbjb19m8x]{color:#cf2600}[data-colorid=3Dkt2nrbhf19]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dkt2nrbhf19]{color:#cf=
+2600}[data-colorid=3Dek9k0uo9mb]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dek9k0uo9mb]{color:#cf2600}[data-colorid=3Dnhhfm3wvnt]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dnhhfm3wvnt]{color:=
+#cf2600}[data-colorid=3Dwphnc4fi1r]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dwphnc4fi1r]{color:#cf2600}[data-colorid=3Dakc3qo9r7o]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dakc3qo9r7o]{col=
+or:#cf2600}[data-colorid=3Dgsq975b7sl]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dgsq975b7sl]{color:#cf2600}[data-colorid=3Dd3duuwb6=
+68]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dd3duuwb668]=
+{color:#cf2600}[data-colorid=3Dnny1ehbeth]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dnny1ehbeth]{color:#cf2600}[data-colorid=3Dffqvx=
+7ng76]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dffqvx7ng=
+76]{color:#cf2600}[data-colorid=3Dt57vyahqvs]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dt57vyahqvs]{color:#cf2600}[data-colorid=3Drs=
+fafax39k]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Drsfaf=
+ax39k]{color:#cf2600}[data-colorid=3Dy6mxnh7166]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dy6mxnh7166]{color:#cf2600}[data-colorid=
+=3Dh82fhgimuf]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+h82fhgimuf]{color:#cf2600}[data-colorid=3Dnx4y2rj0ok]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dnx4y2rj0ok]{color:#cf2600}[data-colo=
+rid=3Diarptp88p0]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Diarptp88p0]{color:#cf2600}[data-colorid=3Dt9za2nakmb]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dt9za2nakmb]{color:#cf2600}[data-c=
+olorid=3Ddiksm4ps1v]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Ddiksm4ps1v]{color:#cf2600}[data-colorid=3Du94cyl4juu]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Du94cyl4juu]{color:#cf2600}[dat=
+a-colorid=3Dfquhop13ct]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dfquhop13ct]{color:#cf2600}[data-colorid=3Dmlamrqgyk3]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dmlamrqgyk3]{color:#cf2600}[=
+data-colorid=3Dh7wbcibush]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dh7wbcibush]{color:#cf2600}[data-colorid=3Dbprme5u8sn]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dbprme5u8sn]{color:#cf260=
+0}[data-colorid=3Dvjfj3whigt]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dvjfj3whigt]{color:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.0GamingSkuSupport">5.0 Gaming Sku Suppo=
+rt</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1Game/PCMode">5.1 Game/PC Mode</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.1.1Gaming/PCModeRequirements">5.1.1 Gam=
+ing/PC Mode Requirements</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.2AutomaticLowLatencyforPC">5.1.2 Auto=
+matic Low Latency for PC</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.3Game/PCModeifAMDVSIFdetected">5.1.3 =
+Game/PC Mode if AMD VSIF detected</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.4Game/PCModeifDolbyVisionGameVSIFdete=
+cted">5.1.4 Game/PC Mode if Dolby Vision Game VSIF detected</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.5Game/PCModeifHDMIForumVRRdetected">5=
+.1.5 Game/PC Mode if HDMI Forum VRR detected</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6VariableRefreshRateRequirements(Notf=
+orVHDskus)">5.1.6 Variable Refresh Rate Requirements (Not for VHD skus)</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.1VariableRefreshRateFreeSyncDetecti=
+onandLogo(N/Afor2024skus)">5.1.6.1 Variable Refresh Rate FreeSync Detection=
+ and Logo (N/A for 2024 skus)</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.2VariableRefreshRateActive">5.1.6.2=
+ Variable Refresh Rate Active</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.3AutomaticVariableRefreshRateifAMDV=
+SIFdetected">5.1.6.3 Automatic Variable Refresh Rate if AMD VSIF detected</=
+a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.4AutomaticVariableRefreshRateifDolb=
+yVisionGameVSIFdetected">5.1.6.4 Automatic Variable Refresh Rate if Dolby V=
+ision Game VSIF detected</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.5AutomaticVariableRefreshRateifHDMI=
+ForumVRRdetected">5.1.6.5 Automatic Variable Refresh Rate if HDMI Forum VRR=
+ detected</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.6AutomaticVariableRefreshRatetosupp=
+ortNvidiaG-syncor09h">5.1.6.6 Automatic Variable Refresh Rate to support Nv=
+idia G-sync or 09h</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.7GamingLatencyPerformance">5.1.6.7 =
+Gaming Latency Performance</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.1.6.8Game/PCMode(HDskusonly)">5.1.6.8 G=
+ame/PC Mode (HD skus only)</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#id-5HDMIandGaming-5.2GameHDR(notforVHD/VFDskus)">5.2 Game H=
+DR (not for VHD/VFD skus)</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.2.1GameHDRRequirements">5.2.1 Game HDR =
+Requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3HDMISettings">5.3 HDMI Settings</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.3.1HDMIMode">5.3.1 HDMI Mode</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.3.1.1HDMIModeRequirements">5.3.1.1 HDMI=
+ Mode Requirements</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.1.2HDMIMode(VHD/VFDonly)">5.3.1.2 HDM=
+I Mode (VHD/VFD only)</a></li>
+</ul></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.24:4:4ColorSpace">5.3.2 4:4:4 Color S=
+pace</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.3.2.14:4:4ColorSpaceRequirements(4K/VQD=
+skusonly)">5.3.2.1 4:4:4 Color Space Requirements (4K/VQD skus only)</a></l=
+i>
+</ul></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.3ColorSpaceRange">5.3.3 Color Space R=
+ange</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.3.3.1ColorSpaceRangeRequirements">5.3.3=
+.1 Color Space Range Requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.4CECDeviceControl">5.3.4 CEC Device C=
+ontrol</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.3.4.1CECRequirements">5.3.4.1 CEC Requi=
+rements</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.4.2CECAudioDevice">5.3.4.2 CEC Audio =
+Device</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.4.3CECAutomaticInputNaming">5.3.4.3 C=
+EC Automatic Input Naming</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.4.4CECAutomaticPowerOn">5.3.4.4 CEC A=
+utomatic Power On</a></li>
+</ul></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.5OneTouchPlay">5.3.5 One Touch Play</=
+a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.6DeviceDiscovery">5.3.6 Device Discov=
+ery</a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.7PictureSizeandPosition">5.3.7 Pictur=
+e Size and Position</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.3.7.1PictureSize">5.3.7.1 Picture Size<=
+/a></li>
+<li><a href=3D"#id-5HDMIandGaming-5.3.7.2PicturePosition">5.3.7.2 Picture P=
+osition</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#id-5HDMIandGaming-5.4HDMIDeviceInfo(NotforVHD)">5.4 HDMI De=
+vice Info (Not for VHD)</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-5HDMIandGaming-5.4.1HDMIDeviceName">5.4.1 HDMI Device Na=
+me</a></li>
+</ul></li>
+</ul>
+</div>
+<p></p>
+<p><span class=3D"inline-comment-marker" data-ref=3D"06767ee0-1255-472b-9da=
+6-29c42e4c3c9f">The HDMI and Gaming submenu is selectable for&nbsp;all&nbsp=
+;inputs&nbsp;</span><span data-colorid=3D"mhrvi9zjva"><span class=3D"inline=
+-comment-marker" data-ref=3D"06767ee0-1255-472b-9da6-29c42e4c3c9f">but Gami=
+ng/PC Mode, Game HDR and HDMI Settings are grayed for all inputs except for=
+ HDMI. </span></span></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a8=
+6636cc-f2a7-46af-bd91-a5697cfbacbe" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 230.0px;">
+<col style=3D"width: 223.0px;">
+<col style=3D"width: 303.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>HDMI &amp; Gaming Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Submenu</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes/Submenu</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nny1ehbeth">HDMI only, grayed out all other inputs=
+</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Game HDR</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Not for HD skus, grayed out</p>
+<p><span data-colorid=3D"nx4y2rj0ok">HDMI only, grayed out all other inputs=
+</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>HDMI Settings</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"wphnc4fi1r">HDMI only, grayed out all other inputs=
+</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>HDMI Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>4:4:4 Color Space</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Color Space Range</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>CEC Device Control</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>One Touch Play</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Device Discovery</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Picture Size and Position</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Picture Size</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Picture Position</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>HDMI Device Info</p></td>
+<td class=3D"confluenceTd">
+<p>Below are indented</p></td>
+<td class=3D"confluenceTd">
+<p>Display only, grayed out</p>
+<p>Visible when menu opens</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Input:</p></td>
+<td class=3D"confluenceTd">
+<p>Gaming Input Device Name OR if none then Input.</p>
+<p>display only, grayed out</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Resolution:</p></td>
+<td class=3D"confluenceTd">
+<p>display only, grayed out</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Frame Rate:</p></td>
+<td class=3D"confluenceTd">
+<p>display only, grayed out</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>HDR:</p></td>
+<td class=3D"confluenceTd">
+<p>display only, grayed out</p>
+<p>Not for HD skus</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Variable Refresh Rate:</p></td>
+<td class=3D"confluenceTd">
+<p>display only, grayed out</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Audio Out:</p></td>
+<td class=3D"confluenceTd">
+<p>display only, grayed out</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-5HDMIandGaming-5.0GamingSkuSupport">5.0 Gaming Sku Support</h2=
+>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7b=
+e645b6-40b1-4aa0-8141-cef78c06ac11" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 62.0px;">
+<col style=3D"width: 131.0px;">
+<col style=3D"width: 195.0px;">
+<col style=3D"width: 103.0px;">
+<col style=3D"width: 80.0px;">
+<col style=3D"width: 148.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Year</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Model</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>VRR Range</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>AMD FreeSync logo</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Game HDR</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>2024</p></td>
+<td class=3D"confluenceTd">
+<p>VFD32M-0807 VFD40M-0809 VFD43M-0804</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>none</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Was planned to cert, but removed requirement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>2023.</p>
+<p>Applies to 2024</p></td>
+<td class=3D"confluenceTd">
+<p>VQP65C-84 VQP75C-84</p></td>
+<td class=3D"confluenceTd">
+<p>TV =E2=80=BA=3D 48" (16:9)</p>
+<p>Avg Lum (100%) =3D 175 nits, (65%) =3D 250 nits, (10%) =3D 540 nits</p>
+<p>Min =3D .5 millinits</p>
+<p>Corner white =3D 300 nits</p></td>
+<td class=3D"confluenceTd">
+<p>FreeSync Premium Pro</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>2024</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>Resolution must be 4K</p>
+<p>0 - 144HZ</p></td>
+<td class=3D"confluenceTd">
+<p>FreeSync</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>2024</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=BA=3D 20 Hz if 1080P</p>
+<p>=E2=80=BA=3D 120 Hz if 4K</p></td>
+<td class=3D"confluenceTd">
+<p>FreeSync Premium</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-5HDMIandGaming-5.1Game/PCMode">5.1 <span class=3D"inline-comme=
+nt-marker" data-ref=3D"f88ed1c5-c0de-442c-9872-3671de7d75c8">Game/PC</span>=
+ Mode</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6d=
+58cc58-afa5-422e-a8e0-c95e0bcce8c0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 116.0px;">
+<col style=3D"width: 371.0px;">
+<col style=3D"width: 231.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Behavior</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Auto (default)</p></td>
+<td class=3D"confluenceTd">
+<p>For Auto setting, the TV EDID reports Automatic Low Latency Mode (ALLM) =
+support for HDMI sources.&nbsp; If low latency mode is detected for the HDM=
+I source, then automatically reduce latency by removing defined picture qua=
+lity settings to reduce throughput delay and display a notification. When t=
+he low latency mode is no longer detected, then restore all picture quality=
+ settings.</p></td>
+<td class=3D"confluenceTd">
+<p>The notification is: =E2=80=9CGame detected, optimizing by reducing late=
+ncy.=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Game Low latency applies to content while the source is selected and gra=
+y out of PQ settings apply.</p></td>
+<td class=3D"confluenceTd">
+<p>If ALLM is detected then display the Freesync logo. For games and PC wit=
+h mouse.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Low latency is not enabled for PC or for games but if ALLM is detected, =
+then low latency is enabled temporarily with no setting change. Help text u=
+pdated to clarify behavior.</p></td>
+<td class=3D"confluenceTd">
+<p>Select On to reduce video delay (lag). Select Off to disable video delay=
+ reduction for PC (for watching content), but for devices that support ALLM=
+ turn off this setting from the game console.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.1.1Gaming/PCModeRequirements">5.1.1 Gaming/PC=
+ Mode Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"67=
+34e3a6-dae0-42e0-a0cd-7181bdb6811f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 351.0px;">
+<col style=3D"width: 365.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC Mode reduces throughput delays by not applying picture quality=
+ settings that delay the display.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Picture Settings grayed out and not available</p>
+<ul>
+<li>
+<p>Sharpness - set to 5</p></li>
+<li>
+<p>Clear Action - set to Off</p></li>
+<li>
+<p>Edge Enhancement - set to Off</p></li>
+<li>
+<p>Motion Blur Reduction</p></li>
+<li>
+<p>Judder Reduction</p></li>
+<li>
+<p>Signal Noise</p></li>
+<li>
+<p>Block Noise</p></li>
+<li>
+<p>Contrast Enhancer (old name Black Detail)</p></li>
+<li>
+<p>Super Resolution - set to Off</p></li>
+<li>
+<p>Contour Smoothing</p></li>
+<li>
+<p>Film Mode (60 Hz panel only) - set to Off</p></li>
+<li>
+<p>Dark Detail - set to Off</p></li>
+<li>
+<p>Global Dimming - set to Off</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Applies to:</p>
+<ul>
+<li>
+<p>Auto setting when ALLM detect, then same as for =E2=80=9COn=E2=80=9D set=
+ting.</p></li>
+<li>
+<p>On setting, all content</p></li>
+</ul>
+<p>No display of grayed out settings in SmartCast mobile.</p>
+<p>For Gaming/PC Mode set to auto, revert back to previous picture setting =
+values when Game condition is no longer present.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC Mode is for HDMI inputs only.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nhhfm3wvnt">Gaming/PC mode is grayed out and not s=
+electable for all inputs except HDMI.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC Mode applies to input signals from 24 Hz to 120 Hz.&nbsp;</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.1.2AutomaticLowLatencyforPC">5.1.2 Automatic =
+Low Latency for PC</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ed=
+fa6504-d2c1-4bfd-8af4-75a4be1bb693" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 493.0px;">
+<col style=3D"width: 493.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If PC connected to HDMI port, to reduce drag and improve mouse response =
+activate Game Low Latency and change setting to On.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Detect PC using at least one of the following:</p>
+<ol start=3D"1">
+<li>
+<p>DVI/VGA detected</p></li>
+<li>
+<p>AV Info Frame ITC =3D 1</p></li>
+<li>
+<p>Vesa Timing is detected as PC Mode (not a video format)</p></li>
+<li>
+<p>Nvidia graphic board Vendor Name =3D NVIDIA\x00\x00 and Source code =3D =
+0x09 (PC general)</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If first time PC detected then automatically change the Gaming/PC Mode s=
+etting to On to enable low latency.</p></td>
+<td class=3D"confluenceTd">
+<p>Pop up notification deleted.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Saved by HDMI port</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC Mode setting persistent even if device is disconnected.</p></t=
+d>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC Mode set to On by this feature can be changed to Off by user.<=
+/p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper=
+ confluence-embedded-manual-size"><img class=3D"confluence-embedded-image i=
+mage-center" width=3D"250" loading=3D"lazy" src=3D"94d9883c2414777b15e8734d=
+647cc6793b1227b8f99e9b2b367cff8fb4713b6d" data-image-src=3D"https://vizio.a=
+tlassian.net/wiki/download/attachments/235875008523/image-20221116-053643.p=
+ng?version=3D1&amp;modificationDate=3D1699933559988&amp;cacheVersion=3D1&am=
+p;api=3Dv2" data-height=3D"581" data-width=3D"894" data-unresolved-comment-=
+count=3D"0" data-linked-resource-id=3D"235875008551" data-linked-resource-v=
+ersion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-=
+default-alias=3D"image-20221116-053643.png" data-base-url=3D"https://vizio.=
+atlassian.net/wiki" data-linked-resource-content-type=3D"image/png" data-li=
+nked-resource-container-id=3D"235875008523" data-linked-resource-container-=
+version=3D"62" data-media-id=3D"49e3233f-ce74-4624-8577-cfee982576a0" data-=
+media-type=3D"file" height=3D"162"></span>
+<p></p>
+<p></p>
+<h3 id=3D"id-5HDMIandGaming-5.1.3Game/PCModeifAMDVSIFdetected">5.1.3 Game/P=
+C Mode if AMD VSIF detected</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d7=
+7ea832-a69b-4fb9-babf-7eb87ad5c6ce" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 280.0px;">
+<col style=3D"width: 436.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Detection</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Automatic detection of AMD VSIF</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Game/PC mode changed to On if needed</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Enables Variable Refresh Rate</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>User can change the setting for&nbsp;Game/PC Mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>AMD game VSIF no longer detected</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Restore Game/PC Mode to setting before detection</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Disable Variable Refresh Rate</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.1.4Game/PCModeifDolbyVisionGameVSIFdetected">=
+5.1.4 Game/PC Mode if Dolby Vision Game VSIF detected</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"14=
+e46e4f-8daf-492c-8b35-ebb99131c326" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 280.0px;">
+<col style=3D"width: 436.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Detection</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Automatic detection of Dolby Vision VSIF</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Game/PC mode changed to On if needed</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Enables Variable Refresh Rate</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>User can change the setting for&nbsp;Game/PC Mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Dolby Vision game VSIF no longer detected</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Restore Game/PC Mode to setting before detection</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Disable Variable Refresh Rate</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.1.5Game/PCModeifHDMIForumVRRdetected"><span d=
+ata-colorid=3D"h8ruqybcfn">5.1.5 Game/PC Mode if HDMI Forum VRR detected</s=
+pan></h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"19=
+9f2b28-2df8-4d92-a4fe-8ce3c18f5ec3" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 312.0px;">
+<col style=3D"width: 403.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"ljb76l4mlp">Detection</span></strong></p><=
+/th>
+<th class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"w2aq4t732b">Requirements</span></strong></=
+p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"h7wbcibush">Automatic detection of HDMI Forum VRR<=
+/span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"xek0cfdgzp">Game/PC mode changed to On if needed</=
+span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"diksm4ps1v">Enables Variable Refresh Rate</span></=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ffqvx7ng76">User can change the setting for&nbsp;G=
+ame/PC Mode</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nppuj4niel">HDMI Forum VRR no longer detected</spa=
+n></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"fquhop13ct">Restore Game/PC Mode to setting before=
+ detection</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"u94cyl4juu">Disable Variable Refresh Rate</span></=
+p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.1.6VariableRefreshRateRequirements(NotforVHDs=
+kus)">5.1.6 Variable Refresh Rate&nbsp;Requirements (Not for VHD skus)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b2=
+64ed69-30e7-4bf5-8c5a-4ec684015fa5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 498.0px;">
+<col style=3D"width: 218.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>VRR no longer requires a setting. ALLM is sufficient to automatically ap=
+ply VRR and display the logo when detected.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>VRR is&nbsp;used to&nbsp;prevent&nbsp;tearing and reduce&nbsp;stuttering=
+ caused by misalignment with content's frame rate if lower than the TV=E2=
+=80=99s refresh rate.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>For supported models, FreeSync by AMD is used to support Variable Refres=
+h Rate if AMD VSIF is detected&nbsp;in the content.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>VRR support is detected by&nbsp;source by rereading&nbsp;EDID.&nbsp;&nbs=
+p;This is done&nbsp;to&nbsp;update the source device by forcing Hot Plug De=
+tection (HPD).&nbsp;&nbsp;When&nbsp;the&nbsp;Variable Refresh Rate&nbsp;set=
+ting&nbsp;is changed, then the EDID data block on VRR is updated and then h=
+ot plug detect (HPD) must be asserted by the TV to signal the source device=
+ to read the EDID again.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The source device determines&nbsp;the&nbsp;TV Variable Refresh Rate capa=
+bility by reading the TV=E2=80=99s EDID.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>When AMD FreeSync content displays then the&nbsp;Freesync logo&nbsp;disp=
+lays. &nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>If VRR flag detected&nbsp;without AMD VSIF then non-FreeSync&nbsp;adapti=
+ve sync HDMI&nbsp;VRR applies&nbsp;to content.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>To certify AMD Freesync, Variable Refresh rate must apply to input signa=
+ls from with a minimum 20 Hz range (e.g. 40 Hz to 60 HZ).</p>
+<p>For AMD Premium Freesync, VRR must apply to input signals from highest i=
+s at least 2.5 times higher than the lowest.</p></td>
+<td class=3D"confluenceTd">
+<p>No AMD cert, then no Freesync logo display allowed.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.1VariableRefreshRateFreeSyncDetectionandL=
+ogo(N/Afor2024skus)">5.1.6.1 Variable Refresh Rate FreeSync Detection and L=
+ogo (N/A for 2024 skus)</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"af=
+d70bc7-2fdb-4931-86e1-be0c76f47528" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>FreeSync Level</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>EDID</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>FreeSync Detection</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>FreeSync Brand in UI</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>VRR Range</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Average Luminance (100%)</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><strong>VRR no FreeSync</strong></p></td>
+<td class=3D"confluenceTd">
+<p>VRR flag&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><strong>VRR with Xbox, others</strong></p></td>
+<td class=3D"confluenceTd">
+<p>MConstant</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><strong>FreeSync</strong></p></td>
+<td class=3D"confluenceTd">
+<p>AMD VSDB v.1</p></td>
+<td class=3D"confluenceTd">
+<p>AMD VSIF v.1</p></td>
+<td class=3D"confluenceTd">
+<p>FreeSync logo at the start of content</p></td>
+<td class=3D"confluenceTd">
+<p>Min 20Hz range<br>
+40 - 60Hz&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><strong>FreeSync Premium</strong></p></td>
+<td class=3D"confluenceTd">
+<p>AMD VSDB v.2</p></td>
+<td class=3D"confluenceTd">
+<p>AMD VSIF v.1 and v.2</p></td>
+<td class=3D"confluenceTd">
+<p>FreeSync logo at the start of content</p></td>
+<td class=3D"confluenceTd">
+<p>Min. Ratio of 2.5:1<br>
+(i.e. 48 - 120Hz)&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p><strong>FreeSync Premium Pro</strong></p></td>
+<td class=3D"confluenceTd">
+<p>AMD VSDB v.2</p></td>
+<td class=3D"confluenceTd">
+<p>AMD VSIF v.1 and v.2</p></td>
+<td class=3D"confluenceTd">
+<p>FreeSync logo at the start of content</p></td>
+<td class=3D"confluenceTd">
+<p>Min. Ratio of 2.5:1&nbsp;<br>
+(i.e. 48 - 120Hz)</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=89=A5 350 nits</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Dolby Vision game VSIF</p></td>
+<td class=3D"confluenceTd">
+<p>DV game VSIF</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.2VariableRefreshRateActive">5.1.6.2 Varia=
+ble Refresh Rate Active</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"77=
+eaa519-11ac-4b01-9a0d-0c3ed4fd7dd0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 498.0px;">
+<col style=3D"width: 220.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>VRR is active IF</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Settings grayed out and not available</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Source detects TV EDID capability supports VRR&nbsp;and/or&nbsp;AMD&nbsp=
+;VSIF&nbsp;v.1 or v.2&nbsp;for FreeSync</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>VRR is active:&nbsp;VRR metadata&nbsp;and/or&nbsp;AMD&nbsp;VSIF v.1 or&n=
+bsp;v.2&nbsp;is sent by the source (e.g. games).&nbsp;&nbsp;For most&nbsp;H=
+DMI&nbsp;sources this setting has no effect because VRR is not detected.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If&nbsp;a&nbsp;source device&nbsp;(such as Xbox) includes&nbsp;VRR and t=
+he MConstant&nbsp;bit, then MConstant bit must&nbsp;be detected as&nbsp;0 f=
+rom the source device&nbsp;to apply VRR.&nbsp;&nbsp;If detected&nbsp;from s=
+ource device&nbsp;as&nbsp;1&nbsp;then VRR does not apply.&nbsp;If no MConst=
+ant detected&nbsp;from the source device,&nbsp;then use 0 as the value.&nbs=
+p;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If&nbsp;FreeSync is active,&nbsp;e.g. VRR is set to On&nbsp;and&nbsp;AMD=
+&nbsp;VSIF v.1&nbsp;or v.2&nbsp;is detected,&nbsp;then&nbsp;display the Fre=
+eSync logo in the Gaming submenu when opened.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If VRR flag detected&nbsp;without AMD VSIF then non-FreeSync&nbsp;adapti=
+ve sync HDMI&nbsp;VRR applies.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>For FHD, Variable Refresh Rate is limited to 2K content (4K not supporte=
+d by FHD).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>For HD, Variable Refresh Rate does not apply.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"1ef3e3ea-6281-4a86-866=
+a-e5dac03fc113">Grayed&nbsp;out and turned off when <span class=3D"inline-c=
+omment-marker" data-ref=3D"cdfb3030-0705-4819-8b9d-b4cf4b07a30c">VRR is set=
+ to On</span>&nbsp;and active.&nbsp;</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Contrast Enhancer</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Dark Detail</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Active Pixel Tuning</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Signal noise&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Contour smoothing</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Judder reduction</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Motion blur reduction</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Clear action</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Super Resolution</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Enhanced Viewing Angle</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.3AutomaticVariableRefreshRateifAMDVSIFdet=
+ected">5.1.6.3 Automatic Variable Refresh Rate if AMD VSIF detected</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"77=
+56bb3b-5cff-4dd5-91de-77dd8d8fffe7" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 351.0px;">
+<col style=3D"width: 365.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Detection</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Automatic detection of AMD VSIF (Freesync)</p></td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC mode can be any setting.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Changes Gaming/PC mode to On if needed.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Variable Refresh Rate enabled.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>User can change the setting for&nbsp;Gaming/PC mode.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>AMD game VSIF no longer detected</p></td>
+<td class=3D"confluenceTd">
+<p>Restore Gaming/PC mode to setting before detection</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Variable Refresh Rate disabled.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.4AutomaticVariableRefreshRateifDolbyVisio=
+nGameVSIFdetected">5.1.6.4 Automatic Variable Refresh Rate if Dolby Vision =
+Game VSIF detected</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"65=
+f43140-e4d4-4f6d-a55f-b2c9e42dd8d1" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Automatic Variable Refresh Rate Detection</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Automatic detection of Dolby Vision game VSIF</p></td>
+<td class=3D"confluenceTd">
+<p>Gaming/PC mode is can be any setting</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Changes to Game Picture Mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Changes Gaming/PC mode to On if needed (default is On for Game picture m=
+ode)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Variable Refresh Rate enabled.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>User can change the setting for&nbsp;Gaming/PC mode<strong> </strong></p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Dolby Vision game VSIF no longer detected</p></td>
+<td class=3D"confluenceTd">
+<p>Restore previous picture mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Restore Gaming/PC mode to setting before detection</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Variable Refresh Rate disabled.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.5AutomaticVariableRefreshRateifHDMIForumV=
+RRdetected"><span data-colorid=3D"jno76qf80v">5.1.6.5 Automatic Variable Re=
+fresh Rate if HDMI Forum VRR detected</span></h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a8=
+8525dc-fc88-49fd-b809-65e39c8fa11c" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"gnpc5x5whu">Automatic Variable Refresh Rat=
+e Detection</span></strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"gusfdwt2fk">Requirement</span></strong></p=
+></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"mlamrqgyk3">Automatic detection of HDMI Forum VRR<=
+/span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"h82fhgimuf">Gaming/PC mode is can be any setting</=
+span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"iarptp88p0">Changes Gaming/PC mode to On if needed=
+ (default is On for Game picture mode)</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"vjfj3whigt">Variable Refresh Rate enabled.</span><=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ek9k0uo9mb">User can change the setting for&nbsp;G=
+aming/PC mode</span><strong><span data-colorid=3D"d3duuwb668"> </span></str=
+ong></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"y6mxnh7166">HDMI Forum VRR no longer detected</spa=
+n></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"uy47pdyzp3">Restore Gaming/PC mode to setting befo=
+re detection</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"w17276iwq0">Variable Refresh Rate disabled.</span>=
+</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.6AutomaticVariableRefreshRatetosupportNvi=
+diaG-syncor09h">5.1.6.6 Automatic Variable Refresh Rate to support Nvidia G=
+-sync or 09h</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"87=
+4948b6-cb0f-45b4-9ec4-9e41aa691e7f" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Variable Refresh Rate Detection</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Applies to 5695/5691/5583</p></td>
+<td class=3D"confluenceTd">
+<p>G-sync is the Nvidia proprietary version of AMD Freesync.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Automatic detection of Nvidia G-Sync.</p></td>
+<td class=3D"confluenceTd">
+<p>Detection of Nvidia G-Sync changes the following:</p>
+<ul>
+<li>
+<p>Game Picture Mode</p></li>
+<li>
+<p>Gaming/PC mode to On</p></li>
+<li>
+<p>Variable Refresh Rate enabled</p></li>
+<li>
+<p>User can change GLL and VRR to Off again is desired.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Nvidia G-Sync no longer detected</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Restore previous picture mode</p></li>
+<li>
+<p>Restore Gaming/PC mode to setting before detection - due to PC automatic=
+ detection this is likely ON.</p></li>
+<li>
+<p>Variable Refresh Rate disabled.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Detection of Nvidia InfoFrame 09h for the 30 series.</p></td>
+<td class=3D"confluenceTd">
+<p>Detection of Nvidia InfoFrame 09h changes the following:</p>
+<ul>
+<li>
+<p>Game Picture Mode</p></li>
+<li>
+<p>Gaming/PC mode to On</p></li>
+<li>
+<p>Variable Refresh Rate enabled</p></li>
+<li>
+<p>HDMI mode changes</p>
+<ul>
+<li>
+<p>5691/5695/5695s: Enable 2.1 (required for 4K 120 )</p></li>
+<li>
+<p>5583: Enable Auto (2.1 not supported)</p></li>
+</ul></li>
+<li>
+<p>HDMI port renamed to Nvidia graphics card name.</p></li>
+<li>
+<p>User can change GLL and VRR to Off again is desired.</p></li>
+<li>
+<p>If the Nvidia card is removed then restore to previous setting</p>
+<ul>
+<li>
+<p>Picture mode</p></li>
+<li>
+<p>Gaming/PC mode setting</p></li>
+<li>
+<p>Variable Refresh Rate disabled</p></li>
+<li>
+<p>HDMI port name</p></li>
+</ul></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.7GamingLatencyPerformance">5.1.6.7 Gaming=
+ Latency Performance</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"10=
+c5bf02-cdae-4cda-9a05-8187b85c60c0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 426.0px;">
+<col style=3D"width: 290.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Gaming Latency by Panel</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Gaming Latency Performance Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Game mode latency HDMI 60 Hz panel</p></td>
+<td class=3D"confluenceTd">
+<p>9 msec</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Game mode latency HDMI 120 Hz panel (LD)</p></td>
+<td class=3D"confluenceTd">
+<p>6 msec</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Game mode latency HDMI 120 Hz panel (no LD)</p></td>
+<td class=3D"confluenceTd">
+<p>5 msec</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Game mode latency HDMI 240 Hz panel (LD)</p></td>
+<td class=3D"confluenceTd">
+<p>4 msec</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.1.6.8Game/PCMode(HDskusonly)">5.1.6.8 Game/PC=
+ Mode (HD skus only)</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"53=
+d9076e-7e0f-4ccf-bef1-f96ca26f8587" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For HD skus Game/PC Mode is the only setting for Game support.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-5HDMIandGaming-5.2GameHDR(notforVHD/VFDskus)">5.2&nbsp;Game HD=
+R&nbsp;(not for VHD/VFD skus)</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"35=
+dedc36-c5ff-48b8-ab04-806695b9478a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 117.0px;">
+<col style=3D"width: 361.0px;">
+<col style=3D"width: 239.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Behavior</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Tone Mapping is set to 50 and grayed out, reverts previous value when se=
+t to Off.</p></li>
+<li>
+<p>Game console controls tone mapping based on category and luminance value=
+s defined by VIZIO.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>The Game HDR setting enables the tone mapping intended for gaming when t=
+he On setting is selected.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Off (default)&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Normal tone mapping based on HDR metadata.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.2.1GameHDRRequirements">5.2.1&nbsp;Game HDR&n=
+bsp;Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d6=
+2154bc-023a-4cfc-899a-2ce1b15611ef" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 351.0px;">
+<col style=3D"width: 365.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Tone Mapping specifically for gaming is also available based on HGIG.&nb=
+sp;</p></td>
+<td class=3D"confluenceTd">
+<p>The standard tone mapping for HDR is intended for movie content.&nbsp;&n=
+bsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Game HDR is only available for HDMI ports and saved by input.</p></td>
+<td class=3D"confluenceTd">
+<p>Gray out Game HDR if source is VIZIO HOME, COMP or WatchFree+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Game HDR is only for HDR content and is grayed out and set to off if con=
+tent is not HDR.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-5HDMIandGaming-5.3HDMISettings">5.3 HDMI Settings</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"691" data-layout=3D"default" data-local-id=3D"f1=
+fc2673-2e85-4a84-9ee0-c431b3cb165e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 393.0px;">
+<col style=3D"width: 256.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong><span class=3D"inline-comment-marker" data-ref=3D"af247107-d4dd-=
+4324-b312-a13a378ccfc9">Requirements</span></strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong><span class=3D"inline-comment-marker" data-ref=3D"af247107-d4dd-=
+4324-b312-a13a378ccfc9">Notes</span></strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"af247107-d4dd-4324-b31=
+2-a13a378ccfc9">HDMI Settings is only selectable if the source is HDMI</spa=
+n></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"af247107-d4dd-4324-b31=
+2-a13a378ccfc9">HDMI Settings is grayed out and the submenu is not selectab=
+le if the source is not HDMI.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.3.1HDMIMode">5.3.1&nbsp;HDMI Mode</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"84=
+7ab232-ca78-40b5-b9f1-0e8d072bf28a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 95.0px;">
+<col style=3D"width: 382.0px;">
+<col style=3D"width: 282.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Auto (default for 18G (4K60) ports)</p></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"2e563cbf-d792-49fe-b23=
+d-9013959c14fb">The Auto setting includes 2 methods of detection</span></p>
+<ul>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"2e563cbf-d792-49fe-b23=
+d-9013959c14fb">Compatibility (HDMI 1.4) enabled initially and switches to =
+HDMI 2.1 if HDCP 2.2 or 2.3 is detected or whitelisted devices below. </spa=
+n><span data-colorid=3D"qbb24f8437">HDMI 1.4 is detected and Compatibility =
+set</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"iiqcg1j9op">If signal is invalid</span></p></li>
+<li>
+<p><span data-colorid=3D"xug8c7j0j5">If HDCP i=3D 1.x</span></p></li>
+<li>
+<p><span data-colorid=3D"ghqrgyg4rl">If DVI with TMDS &lt; 185 MHz</span></=
+p></li>
+<li>
+<p><span data-colorid=3D"t9za2nakmb">If TDMS clock &gt; 40 MHz (image is 80=
+0x600, 480P)</span></p></li>
+</ul></li>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"2e563cbf-d792-49fe-b23=
+d-9013959c14fb">Standard (HDMI 2.1) enabled with SPDIF discovery if CEC dis=
+covery to identify device.</span></p>
+<ul>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"2e563cbf-d792-49fe-b23=
+d-9013959c14fb">Xbox One</span></p></li>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"2e563cbf-d792-49fe-b23=
+d-9013959c14fb">Xbox Series X/S</span></p></li>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"2e563cbf-d792-49fe-b23=
+d-9013959c14fb">Playstation 4</span></p></li>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"2e563cbf-d792-49fe-b23=
+d-9013959c14fb">Playstation 5</span></p></li>
+</ul></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>This setting is to solve the 3G/6G switch issue. Reverted back to HDCP i=
+nstead of SCDS detection because the change in fielded skus resulted in iss=
+ues.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Standard</p>
+<p>(default for 48G (4K120) ports)</p></td>
+<td class=3D"confluenceTd">
+<p>Allows direct selection of HDMI 2.1 EDID.</p></td>
+<td class=3D"confluenceTd">
+<p>4K 120 Hz Gaming Port</p>
+<p>HDMI 2.1 EDID using HF-VSDB EDID method</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Compatibility</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI 1.4 style EDID</p>
+<p>No HF-VSDB, No SCDS</p></td>
+<td class=3D"confluenceTd">
+<p>This is fallback position for customer support use.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.1.1HDMIModeRequirements">5.3.1.1&nbsp;HDMI =
+Mode Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"1d=
+0144b6-f398-4ff5-adac-460423b9deb2" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 441.0px;">
+<col style=3D"width: 275.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>To change HDMI Mode, the HDMI port is source. Grayed out for all other i=
+nputs.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The release of HDMI 2.0 changed and expanded the color subsampling with =
+support of 4K at 60 hertz as follows:</p>
+<ul>
+<li>
+<p>4:2:0 (10 bit) HDMI 1 =E2=80=93 4</p></li>
+<li>
+<p>4:4:4 (8 bit) HDMI 1- 4</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Older devices based on HDMI 1.4 don=E2=80=99t recognize the new standard=
+ and blank the TV.</p>
+<p>Does not apply to FHD/HD skus.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>HDMI 2.1 supersedes 2.0.</p></td>
+<td class=3D"confluenceTd">
+<p>Does not apply to FHD/HD skus.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>HDMI Mode is saved by input only, not saved by picture mode.&nbsp;</p></=
+td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>When an HDMI Mode is selected, the TV must blank to change the HDMI colo=
+r gamut if changing from Auto to 2.0/2.1 or 1.4.&nbsp;Before blanking, the =
+TV displays a warning message =E2=80=9CThe TV is restarting to change HDMI =
+Mode=E2=80=9D.&nbsp; The screen is blanked while the color subsampling for =
+the selected HDMI port is changed to avoid odd displays.&nbsp; NOTE: Techni=
+cally the TV is blanked, not restarted. After completion, a notification di=
+splays (=E2=80=9CHDMI Mode is SETTING.=E2=80=9D)</p></td>
+<td class=3D"confluenceTd">
+<p>Does not apply to FHD/HD skus.&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.1.2HDMIMode(VHD/VFDonly)">5.3.1.2 HDMI Mode=
+ (VHD/VFD only)</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c1=
+7d2892-f92f-4668-9dce-aa0c0002869f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 120.0px;">
+<col style=3D"width: 209.0px;">
+<col style=3D"width: 390.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Auto</p></td>
+<td class=3D"confluenceTd">
+<p>Auto uses EDID with HF_SCDS (Sink Capabilities Data Structure).</p></td>
+<td class=3D"confluenceTd">
+<p>To define the EDID automatically using SCDS, first the HDMI port is sele=
+cted (HDMI-1, HDMI-2).</p>
+<p>SCDS structure EDID is more reliable (nearly 100%) compared to HF-VSDB.<=
+/p>
+<p>SPDIF discovery of Xbox changes setting for HDMI port to Auto. This incl=
+udes</p>
+<ul>
+<li>
+<p>Xbox One</p></li>
+<li>
+<p>Xbox Series X/S</p></li>
+<li>
+<p>Playstation 4</p></li>
+<li>
+<p>Playstation 5</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Compatibility (default)</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI 1.4 EDID</p>
+<p>No HF-VSDB, No SCDS</p></td>
+<td class=3D"confluenceTd">
+<p>This is fallback position for customer support use.</p>
+<p>Standard HDMI 1.4 EDID.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.3.24:4:4ColorSpace">5.3.2 4:4:4 Color Space</=
+h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ee=
+096ea3-664b-481d-9f92-f386a647b9cf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 178.0px;">
+<col style=3D"width: 538.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off (default)</p></td>
+<td class=3D"confluenceTd">
+<p>4:4:4 and RGB (if present) are down converted to 4:2:2 to allow adjustme=
+nt of picture settings grayed out with 4:4:4.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Upon detection of 4:4:4 content, the 4:4:4 Color Space setting allows di=
+splay of 4:4:4 content with full color.&nbsp;</p>
+<p>4:4:4 and RGB (if present) are not down converted to 4:2:2.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.2.14:4:4ColorSpaceRequirements(4K/VQDskuson=
+ly)">5.3.2.1&nbsp; 4:4:4 Color Space Requirements (4K/VQD skus only)</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"aa=
+b8bda6-e7d2-436c-9168-b503df0fcaae" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Applies to all HDMI inputs for 4K/VQD skus</p></td>
+<td class=3D"confluenceTd">
+<p>4:4:4 Color Range does NOT display for HD/V<span data-colorid=3D"t57vyah=
+qvs">F</span>D skus as not applicable.</p>
+<p>Previously named Full Color 4:4:4.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>When source is RGB and setting is on, the following settings are disable=
+d and grayed out:</p>
+<ul>
+<li>
+<p>Color</p></li>
+<li>
+<p>Tint</p></li>
+<li>
+<p>Sharpness</p></li>
+<li>
+<p>Contrast Enhancer (old name <span class=3D"inline-comment-marker" data-r=
+ef=3D"6f20b963-bbe1-44ba-8f01-4cc3dd1d292f">Black Detail)</span></p></li>
+<li>
+<p>Super Resolution</p></li>
+<li>
+<p>Edge Enhancement</p></li>
+<li>
+<p><span data-colorid=3D"rsfafax39k">Active Pixel Tuning</span></p></li>
+<li>
+<p>Judder Reduction</p></li>
+<li>
+<p>Motion Blur Reduction</p></li>
+<li>
+<p>Signal Noise</p></li>
+<li>
+<p>Block Noise</p></li>
+<li>
+<p>Contour Smoothing</p></li>
+<li>
+<p>Film Mode</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Confirmed the following are adjustable:</p>
+<ul>
+<li>
+<p>Backlight</p></li>
+<li>
+<p>Contrast&nbsp;</p></li>
+<li>
+<p>Brightness</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When source is YCbCr 444 and setting is on, the following settings are d=
+isabled, grayed out:</p>
+<ul>
+<li>
+<p>Super Resolution (only for UHD signals)</p></li>
+<li>
+<p>Judder Reduction</p></li>
+<li>
+<p>Motion Blur Reduction</p></li>
+<li>
+<p>Signal Noise</p></li>
+<li>
+<p>Block Noise</p></li>
+<li>
+<p>Contour Smoothing</p></li>
+<li>
+<p>Film Mode</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"616cdaec-38ee-4796-8c3=
+5-fa405a34ecd5">Confirmed the following are adjustable</span>:</p>
+<ul>
+<li>
+<p>Brightness</p></li>
+<li>
+<p>Contrast</p></li>
+<li>
+<p>Tint</p></li>
+<li>
+<p>Sharpness</p></li>
+<li>
+<p>Contrast Enhancer (old name Black detail)</p></li>
+<li>
+<p>Edge Enhancement</p></li>
+<li>
+<p><span data-colorid=3D"kt2nrbhf19">Active Pixel Tuning</span></p></li>
+<li>
+<p><span data-colorid=3D"q4wtxdzprm">Color</span></p></li>
+<li>
+<p>Super Resolution no gray out FHD, HD, SD.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Disabled and grayed out if the signal source is DV.&nbsp; When the sourc=
+e is no longer DV then 4:4:4 Color Space is again available and the previou=
+s setting, if On, restored. &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Saved by input only, not by picture mode.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.3.3ColorSpaceRange">5.3.3&nbsp;Color Space Ra=
+nge</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"45=
+3c00dc-7853-4768-9117-f7bbd759ba02" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 291.0px;">
+<col style=3D"width: 291.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Auto (default)</p></td>
+<td class=3D"confluenceTd">
+<p>Auto determines the source and correctly selects original HDMI input sou=
+rce as YCbCr or RGB and then proceeds as required.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>YCbCr</p></td>
+<td class=3D"confluenceTd">
+<p>YCbCr is for an HDMI source with YCbCr color space that when converted t=
+o RGB was limited to 16 =E2=80=93 235 RGB. An algorithm is used to remap th=
+e YCbCr color space to the RGB 0 =E2=80=93 255.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Setting provided to force selection if Auto does provide desired support=
+.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>RGB</p></td>
+<td class=3D"confluenceTd">
+<p>RGB setting is for an HDMI source with a full 0 =E2=80=93 255 color spac=
+e, such as a PC.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Setting provided to force selection if Auto does provide desired support=
+.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.3.1ColorSpaceRangeRequirements">5.3.3.1&nbs=
+p;Color Space Range Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"bb=
+ede76c-0e2b-47a3-9013-a01d1772a39d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 466.0px;">
+<col style=3D"width: 252.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Color Space Range for all TV=E2=80=99s has been based on REC 709.&nbsp; =
+Quantum Dot TV=E2=80=99s based on REC 2020.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Color space is limited to REC 709 if used for creation of the current co=
+ntent.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The Color Space Range setting defines the color subsampling for content =
+from an HDMI source.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>This setting only applies to HDMI inputs and is saved by input.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;Not saved by picture mode.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Color Space Range is available for HDMI for all types of content (SDR, H=
+DR, HDR10, HDR10+ and HLG).</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Gray out the Color Space Range setting if:</p>
+<ul>
+<li>
+<p>Platform cannot support color space for the HDMI content (for example, i=
+nterlaced content)</p></li>
+<li>
+<p>Content is Dolby Vision as Dolby handles automatically and cannot be adj=
+usted.&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;Only applies to HDMI ports.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.3.4CECDeviceControl">5.3.4&nbsp;CEC Device Co=
+ntrol</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"04=
+2cecbd-847c-4dad-a48e-e3badfdfebd1" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 147.0px;">
+<col style=3D"width: 572.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Enabled (default)</p></td>
+<td class=3D"confluenceTd">
+<p>The enabled setting provides automatic discovery and name assignment for=
+ CEC for devices as well as device control.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Disabled</p></td>
+<td class=3D"confluenceTd">
+<p>If CEC is disabled:</p>
+<ul>
+<li>
+<p>No CEC commands are issued for any devices including a sound bar or audi=
+o system</p></li>
+<li>
+<p>One Touch Play and Device Discovery are grayed out</p></li>
+<li>
+<p>Devices are delisted under device discovery</p></li>
+<li>
+<p>CEC device name resets to default HDMI port name (e.g. HDMI-1) or custom=
+ name if entered prior to discovery.</p></li>
+<li>
+<p>Mute eArc channel and turn off encoders (not enough computing resource o=
+n the audio processor while sound effects of the speaker channel are in use=
+ and may cause audio cutting issues)</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.4.1CECRequirements">5.3.4.1&nbsp;CEC Requir=
+ements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"38=
+ffd4c7-6ea0-478e-93c7-356f82e2d673" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 362.0px;">
+<col style=3D"width: 276.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>CEC requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Consumer Electronics Control (CEC) supports control of HDMI connected de=
+vices using one remote, typically the TV remote, using CEC commands.</p></t=
+d>
+<td class=3D"confluenceTd">
+<p>Not all HDMI devices support CEC.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>CEC support must be enabled on both the TV and the device to work.</p></=
+td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>CEC Vendor ID 00:19:9D.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>HDMI EDID ID is VIZ (3A59h).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.4.2CECAudioDevice">5.3.4.2&nbsp;CEC Audio D=
+evice</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"04=
+bc7751-cc47-40aa-bd97-01768512b27b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 312.0px;">
+<col style=3D"width: 326.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Supported CEC Commands limited to</p>
+<ul>
+<li>
+<p>Power</p></li>
+<li>
+<p>Volume</p></li>
+<li>
+<p>Mute</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>A power on command for ARC/eARC device issued when TV is powered on.</p>=
+</li>
+<li>
+<p>A remote key press of Volume Up/ Down or Mute issues CEC command to the =
+ARC/eARC device.</p></li>
+<li>
+<p>Volume and Mute IP based commands from the SmartCast app issues CEC comm=
+and to the ARC/eARC audio device.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>TV speakers setting is Auto, then TV speakers are automatically turned o=
+ff with ARC/eARC audio device</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The volume slider displays with =E2=80=9CAudio System=E2=80=9D above wit=
+h each volume adjustment including mute.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The ARC/eARC device is powered on and off with the TV.&nbsp;&nbsp;If tur=
+ned off while the TV is on, then the TV speakers are turned on again and vo=
+lume/mute control TV speakers.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.4.3CECAutomaticInputNaming">5.3.4.3&nbsp;CE=
+C Automatic Input Naming</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e7=
+a84f45-76b1-47ed-b4bb-c701f34a1233" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 360.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements CEC Automatic Input Naming</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>if CEC is enabled, hot plug detection of HDMI device assigns a name to t=
+he HDMI input as supplied by the device.</p></td>
+<td class=3D"confluenceTd">
+<p>Exception: VIZIO Sound bars are named</p>
+<ul>
+<li>
+<p>VIZIO Soundbar</p></li>
+<li>
+<p>VIZIO Elevate</p></li>
+<li>
+<p>VIZIO AIO</p></li>
+<li>
+<p><span data-colorid=3D"bprme5u8sn">VIZIO MicMe SB</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>No notification displays including when an ARC/eARC device is detected o=
+n an HDMI port other than HDMI-1 (the ARC port).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.4.4CECAutomaticPowerOn">5.3.4.4 CEC Automat=
+ic Power On</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a5=
+2726ff-c909-444f-be28-6199a83d51d5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 320.0px;">
+<col style=3D"width: 318.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements CEC Automatic Power On </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Do not issue a CEC power command to peripheral devices when:</p>
+<ul>
+<li>
+<p>The user powers on the TV.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>The intent is to drive users to VIZIO Home when no sync is found because=
+ peripheral device is off.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A CEC power command MUST be issued to ARC audio device or sound bar when=
+:</p>
+<ul>
+<li>
+<p>The user powers on the TV</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Do issue a CEC power command to peripheral devices when:</p>
+<ul>
+<li>
+<p>HDMI input or AppleTV selected from the input selector</p></li>
+<li>
+<p>HDMI input or AppleTV selected from VIZIO Home.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.3.5OneTouchPlay">5.3.5&nbsp;One Touch Play</h=
+3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"96=
+e1f067-42c2-43c7-a981-8a89177a822b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 107.0px;">
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 212.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Disabled (default)</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Disables support for One Touch Play to power on the TV with press of the=
+ PLAY key on a CEC device.</p></li>
+<li>
+<p>Disables support for One Touch Play to switch to CEC device with press o=
+f the device PLAY key.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>TV remote must be used to power on the TV and to switch inputs.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Enabled</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Enables support for One Touch Play to power on the TV with press of the =
+PLAY key on a CEC device.</p></li>
+<li>
+<p>Enables support for One Touch Play to switch to CEC device with press of=
+ the device PLAY key.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.3.6DeviceDiscovery">5.3.6 Device Discovery</h=
+3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6d=
+24cdf8-a1ae-41be-bc22-7d9946573343" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 351.0px;">
+<col style=3D"width: 287.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A maximum of 12 CEC devices can be connected to the TV, directly or indi=
+rectly.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Only one audio device is allowed per TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If CEC is enabled:</p>
+<ul>
+<li>
+<p>CEC enabled devices are automatically discovered.</p></li>
+<li>
+<p><span data-colorid=3D"dmc7kjjveo">If a CEC device is not discovered, sel=
+ect Device Discovery and press OK to force discovery. </span></p></li>
+<li>
+<p><span data-colorid=3D"akc3qo9r7o">Discovered devices are grayed out and =
+listed below Device Discovery with the device name discovered (e.g. not the=
+ rename by VIZIO for soundbars or by user).</span></p></li>
+<li>
+<p>Controls received by the TV are issued as CEC commands to the discovered=
+ device.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Examples of supported commands:</p>
+<ul>
+<li>
+<p>Play/Pause of BD player</p></li>
+<li>
+<p>Volume and Mute for ARC/eARC device</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Current remotes do not include transport functions.&nbsp;&nbsp;A press o=
+f OK, Right and Left keys are issued as CEC commands as OK, Right and Left =
+as some devices interpret as Pause, Forward and Reverse.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>If using an older remote, Pause, Play, Forward and Reverse are included =
+and sent as CEC commands to the device.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If CEC is disabled:</p>
+<ul>
+<li>
+<p>No commands are issued for any device including ARC/eARC device</p></li>
+<li>
+<p>Device discovery is grayed out and discovered devices are delisted.</p><=
+/li>
+<li>
+<p>Name reverts back to the default port name or customer name if entered b=
+efore discovery. <span data-colorid=3D"nmtuy198mt"> </span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.3.7PictureSizeandPosition">5.3.7 Picture Size=
+ and Position</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6b=
+647215-eda4-4f81-8174-4bb2300cb772" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>PIcture Size and Position benefits content that does not have a 1:1 pixe=
+l ratio on the TV.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>480i</p></li>
+<li>
+<p>480p</p></li>
+<li>
+<p>720p</p></li>
+<li>
+<p>1080i/p (for 4K models only).</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Picture Size and Position submenu is grayed out and not available if:</p=
+>
+<ul>
+<li>
+<p>Content is 120 Hz. (PC connected to HDMI is most common 120 Hz source)</=
+p></li>
+<li>
+<p>Input has no signal source</p></li>
+<li>
+<p>Cast streaming</p></li>
+<li>
+<p>Source is UHD with 4K or source is HD/FHD with 1080i/p or 4K.</p></li>
+<li>
+<p>4:4:4 content and 4:4:4 Color Space is enabled.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nvbjb19m8x">Applies only to HDMI inputs. No longer=
+ applies to OTA channels that are now included in WatchFree+.</span></p></t=
+d>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.7.1PictureSize">5.3.7.1&nbsp;Picture Size</=
+h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"10=
+5c33e9-e2a3-4895-b4fb-c4752801673e" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Picture Size configures the picture size of the current input.</p></td>
+<td class=3D"confluenceTd">
+<p>To change Picture Size for another input, exit settings, change input an=
+d the select Picture Size again.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Picture Size is saved by input globally for all Picture Modes.&nbsp;</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>Changes do not create a picture mode.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Picture size can be configured from a range of -50 to 50 with default of=
+ 0 for both horizontal and vertical size.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Vertical Picture Size.</p>
+<ul>
+<li>
+<p>As the value is increased from the SmartCast app or using the IR remote,=
+ the vertical size of the display is increased and the adjustment is annunc=
+iated on the TV.</p></li>
+<li>
+<p>As the value decreased from the SmartCast app or using the IR remote, fi=
+rst the picture position is restored to default, then the vertical size of =
+the display is decreased and the adjustment is annunciated on the TV.</p></=
+li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Horizontal Picture Size.</p>
+<ul>
+<li>
+<p>As the value is adjusted right from the SmartCast app or using the IR re=
+mote, the horizontal display size is increased and the adjustment is annunc=
+iated on the TV.</p></li>
+<li>
+<p>As the value is adjusted left from the SmartCast app or using the IR rem=
+ote, first the picture position is restored to default, then the horizontal=
+ display size is decreased and the adjustment is annunciated on the TV.</p>=
+</li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-5HDMIandGaming-5.3.7.2PicturePosition">5.3.7.2 Picture Positio=
+n</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8b=
+50607d-bbd2-4c47-9350-cf35b708776d" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Picture Position configures the picture size of the current input.</p></=
+td>
+<td class=3D"confluenceTd">
+<p>To change Picture Position for another input, exit settings, change inpu=
+t and the select Picture Position again.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Picture Position is saved by input globally for all Picture Modes.&nbsp;=
+</p></td>
+<td class=3D"confluenceTd">
+<p>Changes do not create a picture mode.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Picture Position can be configured from a range of -50 to 50 with defaul=
+t of 0 for both horizontal and vertical size.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-5HDMIandGaming-5.4HDMIDeviceInfo(NotforVHD)">5.4 <span data-co=
+lorid=3D"gsq975b7sl">HDMI Device </span>Info (Not for VHD)</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d2=
+3bd11d-e280-433e-a031-f1a6395566ca" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 351.0px;">
+<col style=3D"width: 365.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Header is <span data-colorid=3D"hixec43t34">HDMI Device</span> Info</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>System Info pertinent to gamers, below the header and indented</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Input:</p></li>
+<li>
+<p>Resolution:</p></li>
+<li>
+<p>Frame Rate:</p></li>
+<li>
+<p>HDR:</p></li>
+<li>
+<p>Variable Refresh Rate:</p></li>
+<li>
+<p>Audio Out:</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Format same as for System Info:</p>
+<ul>
+<li>
+<p>Single spaced</p></li>
+<li>
+<p>Indented</p></li>
+<li>
+<p>Colons follow the feature</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Add an extra row of space</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Grayed and unselectable</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>FreeSync logo displays right of the text if applicable for current conte=
+nt.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-5HDMIandGaming-5.4.1HDMIDeviceName">5.4.1&nbsp;HDMI Device Nam=
+e</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"48=
+f7ecb9-602e-429d-abf2-dc2a3315ca0a" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Input is a reference only listing of the Gaming input device name.</=
+p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The HDMI port replaced with the Gaming Input device name as follows:</p>
+<ul>
+<li>
+<p>CEC assigned name</p></li>
+<li>
+<p>User defined device type from Input Name setting(e.g. Game or Xbox)</p><=
+/li>
+<li>
+<p>User device name from Input Name setting</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Example is (using provided CEC name)</p>
+<ul>
+<li>
+<p>Input: PlayStation 5</p></li>
+<li>
+<p>Inpjt: Xbox</p></li>
+<li>
+<p>Input: Game</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The HDMI port is not included unless a device name is not assigned. If n=
+o assignment then the port or app name displays (e.g. VIZIO Home and WatchF=
+ree+).</p></td>
+<td class=3D"confluenceTd">
+<p>If no device name then display is port only. Examples:</p>
+<ul>
+<li>
+<p>Input: HDMI-1</p></li>
+<li>
+<p>Input: HDMI-2</p></li>
+<li>
+<p>Input: VIZIO Home</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_10_718740630.1728074736556
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/94d9883c2414777b15e8734d647cc6793b1227b8f99e9b2b367cff8fb4713b6d
+
+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
+------=_Part_10_718740630.1728074736556--

@@ -1,0 +1,1623 @@
+Message-ID: <675426463.9.1728074761119@655e6d022ca6>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_8_814048027.1728074761118"
+
+------=_Part_8_814048027.1728074761118
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>7 Bluetooth and Remote</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>7 Bluetooth and Remote</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074761100 {padding: 0px;}
+div.rbtoc1728074761100 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074761100 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074761100">
+<style>[data-colorid=3Dswj7bxdag2]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dswj7bxdag2]{color:#cf2600}[data-colorid=3Dhmjprrdvtl]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dhmjprrdvtl]{colo=
+r:#cf2600}[data-colorid=3Dnjpcqfmidh]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dnjpcqfmidh]{color:#cf2600}[data-colorid=3Dnyge1s5z=
+80]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dnyge1s5z80]=
+{color:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-7BluetoothandRemote-7.1VoiceRemote">7.1 Voice Remote</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-7BluetoothandRemote-7.1.1VoiceRemoteApplication">7.1.1 V=
+oice Remote Application</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.1.2VoiceRemoteControlLED">7.1.2 Vo=
+ice Remote Control LED</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.1.3VoiceRemoteMaintenance">7.1.3 V=
+oice Remote Maintenance</a></li>
+</ul></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.2HeadphonesRequirements">7.2 Headp=
+hones Requirements</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-7BluetoothandRemote-7.2.1HeadphonesSettings">7.2.1 Headp=
+hones Settings</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.2.2PairedDevices">7.2.2 Paired Dev=
+ices</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.2.3MoreAvailableDevices">7.2.3 Mor=
+e Available Devices</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.2.4PairedDevice">7.2.4 Paired Devi=
+ce</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.2.5NotificationsforPairedDevices">=
+7.2.5 Notifications for Paired Devices</a></li>
+</ul></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.3GamingController">7.3 Gaming Cont=
+roller</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-7BluetoothandRemote-7.3.1PairedDevice">7.3.1 Paired Devi=
+ce</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.3.2GameControllerrequirements">7.3=
+.2 Game Controller requirements</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.3.3GameControllersSupported">7.3.3=
+ Game Controllers Supported</a></li>
+<li><a href=3D"#id-7BluetoothandRemote-7.3.4KeyMappingforVIZIOHomeorLaunche=
+dApps">7.3.4 Key Mapping for VIZIO Home or Launched Apps</a></li>
+</ul></li>
+</ul>
+</div>
+<p></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6b=
+ac389b-12b8-46bf-b38a-8494865c7b05" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 262.0px;">
+<col style=3D"width: 128.0px;">
+<col style=3D"width: 329.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Bluetooth and Remote Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Type</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Voice Remote</p></td>
+<td class=3D"confluenceTd">
+<p>App</p></td>
+<td class=3D"confluenceTd">
+<p>Launches Bluetooth Voice remote app.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Headphones</p></td>
+<td class=3D"confluenceTd">
+<p>Submenu</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Game Controller</p></td>
+<td class=3D"confluenceTd">
+<p>Submenu</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-7BluetoothandRemote-7.1VoiceRemote">7.1&nbsp;Voice Remote</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d8=
+44d851-047e-4645-a9e2-b2974aafaf52" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 214.0px;">
+<col style=3D"width: 212.0px;">
+<col style=3D"width: 212.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>User Story</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TV</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Remote&nbsp;</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>OOBE setup&nbsp;- Bluetooth pairing of Voice Remote</p></td>
+<td class=3D"confluenceTd">
+<p>Initial Setup (OOBE) =E2=80=93 TV is in&nbsp;BT&nbsp;pairing during OOBE=
+ when the RC setup page is displayed.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>1.Remote goes into pairing mode with insertion of batteries only if the =
+remote is not paired to any TV.&nbsp;<br>
+2.Remote pairing mode times out at 10 minutes if not paired.<br>
+3.Fresh remote is not paired out of the box.&nbsp;</p>
+<p>4.Press MIC and MUTE keys to relaunch pairing mode.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Launch BT&nbsp;remote&nbsp;app&nbsp;from side menu.</p></td>
+<td class=3D"confluenceTd">
+<p>1.Select Pair remote -&gt; TV is in pairing mode.&nbsp;</p>
+<p>2.The HTML launches and allows remote pairing with or without a network =
+connection</p></td>
+<td class=3D"confluenceTd">
+<p>1.Long press (5 seconds) of MIC and MUTE keys&nbsp;places remote into pa=
+iring mode.&nbsp;</p>
+<p>NOTE: If remote not paired to any TV, the MIC key cannot function.&nbsp;=
+&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Re-Pairing remote that was paired but fails or loses pairing.</p></td>
+<td class=3D"confluenceTd">
+<p>1.Select Pair remote -&gt; TV is in pairing mode.&nbsp;<br>
+2.On successful pair, previous remote credentials deleted.</p></td>
+<td class=3D"confluenceTd">
+<p>1.Long press (5 seconds) of MIC and MUTE keys&nbsp;places remote into pa=
+iring mode for 1 minute.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Pair remote with a different TV.</p></td>
+<td class=3D"confluenceTd">
+<p>1.Select Pair remote -&gt; TV is in pairing mode.&nbsp;&nbsp;<br>
+2.On successful pair, previous remote credentials deleted, if any.&nbsp;</p=
+></td>
+<td class=3D"confluenceTd">
+<p>1.If not paired with TV, long press (5 seconds) of MIC and MUTE key plac=
+es remote into pairing mode for 1 minute.&nbsp;<br>
+2.When paired to new TV, delete pairing credentials for former TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Delete paired remote (remote factory reset)</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>1.Long press (<u>5</u>&nbsp;seconds) of&nbsp;<u>MUTE&nbsp;and</u>&nbsp;I=
+NPUT clears all BT credentials to return to factory defaults.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Force unpair remote from TV</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Delete paired remote invoked, then TV deletes remote credentials and goe=
+s into pairing mode.&nbsp;&nbsp;&nbsp;</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>TV not paired to any TV but user presses MIC key to speak.</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>TV displays notification with instruction to pair remote and begins BT s=
+earch mode.&nbsp;</p></li>
+<li>
+<p>Notification not to show this again.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>If not paired, press of MIC and MUTE keys places remote in pairing mode =
+for 1 minute.&nbsp;&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Paired remote out of range and not connected.</p></td>
+<td class=3D"confluenceTd">
+<p>TV is BT listening to relink to remote.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>When remote is in range, on press of any key, the remote issues relink r=
+equest to TV to reconnect.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>If remote is paired and insert batteries.</p></td>
+<td class=3D"confluenceTd">
+<p>TV is BT listening to relink to remote.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>On insertion of batteries, remote issues relink request to TV to reconne=
+ct.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>TV is powered off, press Power key.&nbsp;NOTE: At power off, connected i=
+f quick start but not connected if eco mode</p></td>
+<td class=3D"confluenceTd">
+<p>TV is BT listening to relink to remote.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>On press of POWER key, the remote issues relink request to TV to reconne=
+ct.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Press and hold MIC key to speak</p></td>
+<td class=3D"confluenceTd">
+<p>TV returns search results from SoundHound in full (aka Tom Cruise movies=
+.)</p></td>
+<td class=3D"confluenceTd">
+<p>MIC key press and release events are captured.&nbsp;&nbsp;MIC key press =
+indicates start of speech.&nbsp;&nbsp;&nbsp;End pointing of an utterance is=
+ on MIC key release + 20 msec (TBD).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>Launch Remote app but network not connected.</p></td>
+<td class=3D"confluenceTd">
+<p>TV still switches to VIZIO Home and displays the Remote app. Remotes pai=
+rs via Bluetooth, network not required for remote pairing.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.1.1VoiceRemoteApplication">7.1.1&nbsp;Vo=
+ice Remote Application</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4f=
+31b779-3499-4d6d-a062-8fd6cde84532" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Voice Remote Application settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Type of setting</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Pair new Remote</p></td>
+<td class=3D"confluenceTd">
+<p>setting</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Check for Update&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>setting</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Unpair Remote</p></td>
+<td class=3D"confluenceTd">
+<p>setting</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Status (e.g. connected)</p></td>
+<td class=3D"confluenceTd">
+<p>Informational</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Battery Level</p></td>
+<td class=3D"confluenceTd">
+<p>Informational</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>FW version</p></td>
+<td class=3D"confluenceTd">
+<p>Informational</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.1.2VoiceRemoteControlLED">7.1.2&nbsp;Voi=
+ce Remote Control LED</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"2f=
+a74a30-f1ef-42fa-94be-4e55a13eeed5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 216.0px;">
+<col style=3D"width: 211.0px;">
+<col style=3D"width: 211.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><strong>User Story</strong></p></td>
+<td class=3D"confluenceTd">
+<p><strong>Remote status</strong></p></td>
+<td class=3D"confluenceTd">
+<p><strong>Remote LED</strong></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>User is pairing</p></td>
+<td class=3D"confluenceTd">
+<p>Remote is in pairing mode</p></td>
+<td class=3D"confluenceTd">
+<p>2 strobes ON every 3 seconds</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>User expects pair confirmed</p></td>
+<td class=3D"confluenceTd">
+<p>Remote pair completed</p></td>
+<td class=3D"confluenceTd">
+<p>5 strobed ON</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>User reset remote</p></td>
+<td class=3D"confluenceTd">
+<p>Remote reset factory defaults successful</p></td>
+<td class=3D"confluenceTd">
+<p>LED flashes 3 times</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.1.3VoiceRemoteMaintenance">7.1.3&nbsp;Vo=
+ice Remote Maintenance</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"2b=
+476f6c-c4f3-46ee-9db5-21c75db0027d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 272.0px;">
+<col style=3D"width: 272.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><strong>Requirements</strong></p></td>
+<td class=3D"confluenceTd">
+<p><strong>Comments</strong></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A maximum of 24 devices can be bluetooth paired with the TV for VIZIO mo=
+bile app.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The internal paired list is maintained within the product but not displa=
+yed to the end user.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The purpose of the list and rules governing it will allow for a seamless=
+ Bluetooth user experience.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Paired Bluetooth devices will go on the internal =E2=80=9CPaired=E2=80=
+=9D list, with up to <span data-colorid=3D"nyge1s5z80">22</span> devices in=
+ non-volatile memory.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>The last (most recently) used Bluetooth device with VIZIO mobile app wil=
+l be #1 on the list.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>The order of the list depends on last used device:</p>
+<ul>
+<li>
+<p>last device with VIZIO mobile app used to control TV.</p></li>
+<li>
+<p>list continues to the next most recently used device with VIZIO mobile a=
+pp</p></li>
+<li>
+<p>the last device on the list will be the device that the longest duration=
+ of time has passed since paired.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>If a <span data-colorid=3D"swj7bxdag2">23th</span> device is paired then=
+ the =E2=80=9CLongest-since-used=E2=80=9D rule applies: the device that has=
+ not been used more recently than any other on the list will be dropped fro=
+m memory.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If =E2=80=9CReset=E2=80=9D or =E2=80=9CReset to Factory Settings=E2=80=
+=9D selected, all paired devices will be erased from the =E2=80=9CPaired=E2=
+=80=9D list memory.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-7BluetoothandRemote-7.2HeadphonesRequirements"><strong>7.2 Hea=
+dphones Requirements</strong></h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"40=
+b27eba-ca7f-4da6-8b13-df327c49f82d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 255.0px;">
+<col style=3D"width: 273.0px;">
+<col style=3D"width: 190.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Bluetooth Headphones </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth headphones can be used to hear audio instead of the TV speaker=
+s or audio device such as a sound bar or AV receiver.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>When Bluetooth headphones connected, Audio settings cannot open and warn=
+ing notification displays with Disconnect and Cancel buttons.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Audio Settings disabled when connected to Bluetooth headphones.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Headphones (in use)</p></td>
+<td class=3D"confluenceTd">
+<p>Current connected headphones displays</p></td>
+<td class=3D"confluenceTd">
+<p>Headphones in use</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Headphones (not in use)</p></td>
+<td class=3D"confluenceTd">
+<p>If not in use or no paired devices, =E2=80=9CNone=E2=80=9D displays</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"njpcqfmidh">Volume for the headphones can be contr=
+olled from the headphones or TV remote with display of the volume control. =
+No other functions supported.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Pause on the headphones may pause the content but not a requirem<span da=
+ta-colorid=3D"hmjprrdvtl">ent.</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.2.1HeadphonesSettings">7.2.1 Headphones =
+Settings</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8d=
+273c7f-00a4-40cb-bb0e-bfb9cc2bd583" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 300.0px;">
+<col style=3D"width: 122.0px;">
+<col style=3D"width: 296.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Audio Settings</p></th>
+<th class=3D"confluenceTh">
+<p>Circle check&nbsp;</p></th>
+<th class=3D"confluenceTh">
+<p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Paired Device</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;yes (for listed devices)</p></td>
+<td class=3D"confluenceTd">
+<p>Setting: grayed text</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>More Available Devices</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Setting: grayed text</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.2.2PairedDevices">7.2.2&nbsp;Paired Devi=
+ces</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d9=
+d047bb-1782-4e8b-8306-d248c7785ac5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Paired Devices Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Paired Devices header is grayed out and not selectable</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The list of paired devices is indented.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Paired devices are listed in order of last used, first listed.</p></td>
+<td class=3D"confluenceTd">
+<p>Maximum number of paired devices is 15.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A paired device is selected and connects:</p>
+<ul>
+<li>
+<p>animation during connection</p></li>
+<li>
+<p>after connected, radio button is checked</p></li>
+<li>
+<p>moves to first listed under paired devices</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A paired device is selected and fails to connect:</p>
+<ul>
+<li>
+<p>animation during connection</p></li>
+<li>
+<p>pop up displays =E2=80=9Cconnection unsuccessful=E2=80=9D with notificat=
+ion and OK soft button</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>After OK button is selected, the device that failed to connect highlight=
+s again.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Selection of a paired device displays 3 options:</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.2.3MoreAvailableDevices">7.2.3&nbsp;More=
+ Available Devices</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"55=
+6e43b8-6774-4df8-9485-6ca9037508e8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>More Available Devices Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>More Available Devices header is a grayed out and not selectable</p></td=
+>
+<td class=3D"confluenceTd">
+<p>Animation (circle) while searching for new devices lasting for up to 60 =
+seconds.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The list of unpaired devices is indented.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>More Available Devices are listed in order of Bluetooth detection</p></t=
+d>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A device is selected</p>
+<ul>
+<li>
+<p>Pair is added on the right side</p></li>
+<li>
+<p>animation during pair</p></li>
+<li>
+<p>after paired and connected, moves to first setting under paired devices<=
+/p></li>
+<li>
+<p>radio button is checked</p></li>
+<li>
+<p>If need be, paired headphones are disconnected and listed below the newl=
+y paired headphones</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A device is selected and fails to pair:</p>
+<ul>
+<li>
+<p>animation during connection</p></li>
+<li>
+<p>pop up displays =E2=80=9Cpairing unsuccessful=E2=80=9D with notification=
+ and OK soft button</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>After OK button is selected, the device that failed to pair highlights a=
+gain.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.2.4PairedDevice">7.2.4&nbsp;Paired Devic=
+e</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b9=
+914ec1-0a19-4494-b28f-918a3f8fadcb" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Forget Devices</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Selection of a Paired Device displays a submenu</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Connect</p></li>
+<li>
+<p>Disconnect</p></li>
+<li>
+<p>Forget Paired Device</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Select Forget Paired Device displays a pop up</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Do you want to forget NAMEPAIREDDEVICE?</p></li>
+<li>
+<p>Forget or Cancel buttons (highlighted)</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Forget in pop up is confirmed</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Selected device is unpaired and removed from the list of Paired devices.=
+</p></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.2.5NotificationsforPairedDevices">7.2.5&=
+nbsp;Notifications for Paired Devices</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"12=
+b40f12-5e4b-49df-8ede-994fb67dc19d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>More Devices requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Currently paired headphones are disconnected</p></td>
+<td class=3D"confluenceTd">
+<p>PAIREDHEADPHONES have been disconnected</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Batteries low for the paired headphones</p></td>
+<td class=3D"confluenceTd">
+<p>PAIREDHEADPHONES Batteries are low.</p>
+<p>Please charge the batteries in your Bluetooth headphones</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-7BluetoothandRemote-7.3GamingController">7.3 Gaming Controller=
+</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e4=
+33cd99-3aca-49c9-9bc5-a6c9f36a0729" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 87.0px;">
+<col style=3D"width: 108.0px;">
+<col style=3D"width: 200.0px;">
+<col style=3D"width: 321.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Display</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Supported Behavior</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Paired Devices</p></td>
+<td class=3D"confluenceTd">
+<p>list of paired devices</p></td>
+<td class=3D"confluenceTd">
+<p>Select a device, then settings are</p>
+<ul>
+<li>
+<p>checkbox with check</p></li>
+<li>
+<p>checkbox unchecked</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Paired Devices header is grayed out and not selectable.</p></li>
+<li>
+<p>A paired device is selected and connects:</p>
+<ul>
+<li>
+<p>animation during connection</p></li>
+<li>
+<p>after connected, checkbox is checked</p></li>
+</ul></li>
+<li>
+<p>A device is selected and fails to pair then pop up displays =E2=80=9Cpai=
+ring unsuccessful=E2=80=9D with notification and OK soft button</p></li>
+<li>
+<p>Tasks also supported in Luna gaming app and status shared with TV.</p></=
+li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>More Available Devices</p></td>
+<td class=3D"confluenceTd">
+<p>list of available devices</p></td>
+<td class=3D"confluenceTd">
+<p>Select a device to display</p>
+<ul>
+<li>
+<p>Pair</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>More Devices header is grayed out and not selectable.</p></li>
+<li>
+<p>A device is selected and press OK</p>
+<ul>
+<li>
+<p>Pair is added on the right side</p></li>
+<li>
+<p>animation during pair</p></li>
+<li>
+<p>after paired and connected, moves to first setting under paired devices<=
+/p></li>
+<li>
+<p>checkbox is checked</p></li>
+</ul></li>
+<li>
+<p>A device is selected and fails to pair then pop up displays =E2=80=9Cpai=
+ring unsuccessful=E2=80=9D with notification and OK soft button</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Forget Devices</p></td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>Opens up the Forget Devices submenu</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.3.1PairedDevice">7.3.1 Paired Device</h3=
+>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"79=
+c2ebcc-eb4f-4c0c-b039-213d506d7bf9" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 299.0px;">
+<col style=3D"width: 419.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Paired Devices</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Selection of a Paired Device displays a submenu</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Connect</p></li>
+<li>
+<p>Disconnect</p></li>
+<li>
+<p>Forget Paired Device</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Selection of Forget Devices displays a pop up including:</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Do you want to forget NAMEPAIREDDEVICE?</p></li>
+<li>
+<p>Forget or Cancel buttons (highlighted)</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Forget in pop up is confirmed</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Selected device is unpaired and removed from the list of Paired devices =
+(both instances).</p></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.3.2GameControllerrequirements">7.3.2 Gam=
+e Controller requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"66=
+f11db7-4e7b-4d61-a132-7e55e06a6d79" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 351.0px;">
+<col style=3D"width: 365.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Game controller can play games on the VIZIO =E2=80=9Cfree games=E2=80=9D=
+ app.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Game Controller can also navigate and select in the Home page and launch=
+ed apps.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>TV can power on using a previously paired game controller.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>TV will automatically try to connect paired BT game controllers to TV wh=
+en controllers sends connection request.</p>
+<ul>
+<li>
+<p><strong>The status changes from Disconnect to Connect when paired contro=
+ller automatically connects.</strong></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Device will make the choice to connect upon auto-connect request from th=
+e TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Idle mode / power saving mode support</p></td>
+<td class=3D"confluenceTd">
+<p>If controller becomes idle after 5 minutes, it will enter to power savin=
+g mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Notifications for the game controller include</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Game controller disconnects from the TV (out of range, turned off, dead =
+battery, etc.)</p></li>
+<li>
+<p>Game controller has low battery (15%)</p></li>
+<li>
+<p>Pair to game controller fails</p></li>
+<li>
+<p>Connect to paired controller fails</p></li>
+<li>
+<p>Pair or connect more controllers than supported.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Connect up to 4 Bluetooth gaming controllers simultaneously</p>
+<ul>
+<li>
+<p>4K skus</p></li>
+<li>
+<p>VQD skus</p></li>
+</ul>
+<p>limited to 2 BT game controllers (MT7663)</p>
+<ul>
+<li>
+<p>FHD</p></li>
+</ul>
+<p>No support</p>
+<ul>
+<li>
+<p>HD</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Trying to connect to a fifth or for 2 BT controllers, to a third game co=
+ntroller fails and a notifications displays indicating maximum.</p></li>
+<li>
+<p>Controllers are listed in the order connected.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Allow to support with other BT devices:</p>
+<ul>
+<li>
+<p>4 or 2 game controllers</p></li>
+<li>
+<p>1 Bluetooth Remote</p></li>
+<li>
+<p>BT headphones</p>
+<ul>
+<li>
+<p>1 for Wi-Fi BT chip MT7663</p></li>
+<li>
+<p>2 (TBD) for Wi-Fi BT chip MT7921A</p></li>
+</ul></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.3.3GameControllersSupported">7.3.3 Game =
+Controllers Supported</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a0=
+911bae-8977-4624-8dd0-2c037c233981" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Devices</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Series</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Connectivity</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Amazon Luna Controller</p></td>
+<td class=3D"confluenceTd">
+<p>Luna</p></td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi 4 Dual Band + BLE5.</p>
+<p>Limited to skus supporting 4 controllers.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Xbox Wireless Controller</p></td>
+<td class=3D"confluenceTd">
+<p>Xbox One</p>
+<p>Xbox Series</p>
+<p>Xbox Elite</p></td>
+<td class=3D"confluenceTd">
+<p>Bluetooth 4.0</p>
+<p></p>
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Playstation Wireless Controller</p></td>
+<td class=3D"confluenceTd">
+<p>PS5 Dual Sense</p>
+<p>PS4 Gen2/Gen1</p></td>
+<td class=3D"confluenceTd">
+<p>Bluetooth 5.1</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7BluetoothandRemote-7.3.4KeyMappingforVIZIOHomeorLaunchedApps"=
+>7.3.4 Key Mapping for VIZIO Home or Launched Apps</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"bc=
+30a1bf-0415-497f-9062-94b3ef81c1da" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Amazon Luna Controller</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Xbox Controller</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Playstation Controller</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Behavior</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>D-Pad</p></td>
+<td class=3D"confluenceTd">
+<p>D-Pad</p></td>
+<td class=3D"confluenceTd">
+<p>D-Pad</p></td>
+<td class=3D"confluenceTd">
+<p>Navigation</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Left Analog Stick</p></td>
+<td class=3D"confluenceTd">
+<p>Left Analog Stick</p></td>
+<td class=3D"confluenceTd">
+<p>Left Analog Stick</p></td>
+<td class=3D"confluenceTd">
+<p>Navigation</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Right Analog Stick</p></td>
+<td class=3D"confluenceTd">
+<p>Right Analog Stick</p></td>
+<td class=3D"confluenceTd">
+<p>Right Analog Stick</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A</p></td>
+<td class=3D"confluenceTd">
+<p>A</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>B</p></td>
+<td class=3D"confluenceTd">
+<p>B</p></td>
+<td class=3D"confluenceTd">
+<p>Circle</p></td>
+<td class=3D"confluenceTd">
+<p>Back</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Square</p></td>
+<td class=3D"confluenceTd">
+<p>N/A or OK</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Y</p></td>
+<td class=3D"confluenceTd">
+<p>Y</p></td>
+<td class=3D"confluenceTd">
+<p>Triangle</p></td>
+<td class=3D"confluenceTd">
+<p>N/A or Back</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Left Bumper</p></td>
+<td class=3D"confluenceTd">
+<p>Left Bumper</p></td>
+<td class=3D"confluenceTd">
+<p>Left Bumper</p></td>
+<td class=3D"confluenceTd">
+<p>Current: Left</p>
+<p>Future: Skip Left (ie jump to left most app on screen)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Right Bumper</p></td>
+<td class=3D"confluenceTd">
+<p>Right Bumper</p></td>
+<td class=3D"confluenceTd">
+<p>Right Bumper</p></td>
+<td class=3D"confluenceTd">
+<p>Current: Right</p>
+<p>Future: Skip Right (ie jump to right most app on screen)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Left Trigger</p></td>
+<td class=3D"confluenceTd">
+<p>Left Trigger</p></td>
+<td class=3D"confluenceTd">
+<p>Left Trigger</p></td>
+<td class=3D"confluenceTd">
+<p>Left</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Right Trigger</p></td>
+<td class=3D"confluenceTd">
+<p>Right Trigger</p></td>
+<td class=3D"confluenceTd">
+<p>Right Trigger</p></td>
+<td class=3D"confluenceTd">
+<p>Right</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>Menu</p></td>
+<td class=3D"confluenceTd">
+<p>Menu</p></td>
+<td class=3D"confluenceTd">
+<p>Menu</p></td>
+<td class=3D"confluenceTd">
+<p>Settings</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>Home</p></td>
+<td class=3D"confluenceTd">
+<p>Home</p></td>
+<td class=3D"confluenceTd">
+<p>Home</p></td>
+<td class=3D"confluenceTd">
+<p>Launch VIZIO Home</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>TBD</p></td>
+<td class=3D"confluenceTd">
+<p>TBD</p></td>
+<td class=3D"confluenceTd">
+<p>TBD</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Input</p></li>
+<li>
+<p>CC</p></li>
+<li>
+<p>Mute</p></li>
+<li>
+<p>Volume up/down</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_8_814048027.1728074761118--

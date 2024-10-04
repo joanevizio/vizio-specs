@@ -1,0 +1,2684 @@
+Message-ID: <1602728415.1.1728074818895@bfaf4cbcde6d>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_0_800487601.1728074818874"
+
+------=_Part_0_800487601.1728074818874
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>16 TV Control</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>16 TV Control</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074818747 {padding: 0px;}
+div.rbtoc1728074818747 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074818747 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074818747">
+<style>[data-colorid=3Drgo771ychw]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Drgo771ychw]{color:#cf2600}[data-colorid=3Dh144v6zmau]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dh144v6zmau]{colo=
+r:#cf2600}[data-colorid=3Dkp0df6fchs]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dkp0df6fchs]{color:#cf2600}[data-colorid=3Ds3hpapjd=
+5e]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ds3hpapjd5e]=
+{color:#cf2600}[data-colorid=3Dwusetxbcay]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dwusetxbcay]{color:#cf2600}[data-colorid=3Dh28fp=
+k15k3]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dh28fpk15=
+k3]{color:#cf2600}[data-colorid=3Dghdjav9zka]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dghdjav9zka]{color:#cf2600}[data-colorid=3Dfq=
+yrcy6ae7]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dfqyrc=
+y6ae7]{color:#cf2600}[data-colorid=3Dwzmhakx185]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dwzmhakx185]{color:#cf2600}[data-colorid=
+=3Dytw5o63gn5]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+ytw5o63gn5]{color:#cf2600}[data-colorid=3Dc5g33c6o56]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dc5g33c6o56]{color:#cf2600}[data-colo=
+rid=3Dzw6et7x7lm]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dzw6et7x7lm]{color:#cf2600}[data-colorid=3Df8mso3e15n]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Df8mso3e15n]{color:#cf2600}[data-c=
+olorid=3Dcpi3uj4ty5]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dcpi3uj4ty5]{color:#cf2600}[data-colorid=3Dud6bwiia7x]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dud6bwiia7x]{color:#cf2600}[dat=
+a-colorid=3Ds5kx5ddqml]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Ds5kx5ddqml]{color:#cf2600}[data-colorid=3Dmnfrtrfei5]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dmnfrtrfei5]{color:#cf2600}[=
+data-colorid=3Ddbefuhuur1]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Ddbefuhuur1]{color:#cf2600}[data-colorid=3Db4oei64e5a]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Db4oei64e5a]{color:#cf260=
+0}[data-colorid=3Dfemtudb9yc]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dfemtudb9yc]{color:#cf2600}[data-colorid=3Dg7vnork45f]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dg7vnork45f]{color:#cf=
+2600}[data-colorid=3Dp1ya7gd7oi]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dp1ya7gd7oi]{color:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-16TVControl-16.1InputChangeControl">16.1 Input Change Co=
+ntrol</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-16TVControl-16.1.1CurrentInputChangeControlRequirements"=
+>16.1.1 Current Input Change Control Requirements</a></li>
+<li><a href=3D"#id-16TVControl-16.1.2CurrentSourceList">16.1.2 Current Sour=
+ce List</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-16TVControl-16.1.2.1ContentLock">16.1.2.1 Content Lock</=
+a></li>
+<li><a href=3D"#id-16TVControl-16.1.2.2VIZIOHomeVirtualInputs">16.1.2.2 VIZ=
+IO Home Virtual Inputs</a></li>
+<li><a href=3D"#id-16TVControl-16.1.2.3CECVirtualInputs">16.1.2.3 CEC Virtu=
+al Inputs</a></li>
+</ul></li>
+<li><a href=3D"#id-16TVControl-16.1.3InputResolution">16.1.3 Input Resoluti=
+on</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-16TVControl-16.1.3.1InputResolutionRequirements">16.1.3.=
+1 Input Resolution Requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-16TVControl-16.1.4AudioTypeforInputChangeControl">16.1.4=
+ Audio Type for Input Change Control</a></li>
+<li><a href=3D"#id-16TVControl-16.1.5LogosInputChangeControlandGamingMenu">=
+16.1.5 Logos Input Change Control and Gaming Menu</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-16TVControl-16.1.5.1DolbyVisionLogo">16.1.5.1 Dolby Visi=
+on Logo</a></li>
+<li><a href=3D"#id-16TVControl-16.1.5.2DolbyAudioLogo">16.1.5.2 Dolby Audio=
+ Logo</a></li>
+<li><a href=3D"#id-16TVControl-16.1.5.3DolbyAtmoslogo">16.1.5.3 Dolby Atmos=
+ logo</a></li>
+</ul></li>
+<li><a href=3D"#id-16TVControl-16.1.6WatchFree+/AntennaChannelLandingIndica=
+tor">16.1.6 WatchFree+/Antenna Channel Landing Indicator</a></li>
+</ul></li>
+<li><a href=3D"#id-16TVControl-16.2Notifications">16.2 Notifications</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-16TVControl-16.2.1NotificationPriorityTV101">16.2.1 Noti=
+fication Priority TV 101</a></li>
+<li><a href=3D"#id-16TVControl-16.2.2InputNotifications">16.2.2 Input Notif=
+ications</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-16TVControl-16.2.2.1NoSignal(Sync)HDMIInputs">16.2.2.1 N=
+o Signal (Sync) HDMI Inputs</a></li>
+<li><a href=3D"#id-16TVControl-16.2.2.2AutoPowerOffNotification">16.2.2.2 A=
+uto Power Off Notification</a></li>
+<li><a href=3D"#id-16TVControl-16.2.2.3NetworkFailure-Offlinemode">16.2.2.3=
+ Network Failure - Offline mode</a></li>
+<li><a href=3D"#id-16TVControl-16.2.2.4BluetoothRemoteLowBatteryNotificatio=
+n">16.2.2.4 Bluetooth Remote Low Battery Notification</a></li>
+</ul></li>
+<li><a href=3D"#id-16TVControl-16.2.3VoiceControlofTVUsingAlexa">16.2.3 Voi=
+ce Control of TV Using Alexa</a></li>
+</ul></li>
+<li><a href=3D"#id-16TVControl-16.3InputSelectorVertical">16.3 Input Select=
+or Vertical</a></li>
+<li><a href=3D"#id-16TVControl-16.4FastForward/RewindinStreamingContentandV=
+IZIOHome">16.4 Fast Forward/Rewind in Streaming Content and VIZIO Home</a><=
+/li>
+</ul>
+</div>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"16=
+8e1e14-bbae-470c-9f6f-3da6ebe4db48" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>TV Control Definition</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV control includes tasks for typical TV use outside of setting adjustme=
+nts.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Over time these functions will migrate to System UI and VIZIO Home.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A limited number of commands for voice control of the TV is supported us=
+ing Alexa.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-16TVControl-16.1InputChangeControl">16.1 Input Change Control<=
+/h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"9a=
+40d3b9-2a0a-4e15-8c7f-aa42b6e9b0c8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 353.0px;">
+<col style=3D"width: 225.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Info Status</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRail Tes Case #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Input Change Control displays for 5 seconds:</p>
+<ul>
+<li>
+<p>power on for physical ports only (HDMI and comp only)</p></li>
+<li>
+<p>press of the INFO key (all inputs except Watchfree+/antenna)</p></li>
+<li>
+<p>input change to HDMI (or comp) (but not for content change on the input)=
+.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21366796" rel=3D"nofollow">C21366796</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Input Change Control does NOT display under the following conditions:</p=
+>
+<ul>
+<li>
+<p>Switch to VIZIO Home, antenna, WatchFree or AirPlay is source</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21366797" rel=3D"nofollow">C21366797</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.1.1CurrentInputChangeControlRequirements">16.1.=
+1 Current Input Change Control Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"30=
+1750e5-b359-4927-bfbb-6a33e9d78ea6" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 192.0px;">
+<col style=3D"width: 193.0px;">
+<col style=3D"width: 193.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Input Change Control requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Details</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRail Test Case #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Current source</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Physical input</p></li>
+<li>
+<p>CEC name</p></li>
+<li>
+<p>user assigned name</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Examples:</p>
+<ul>
+<li>
+<p>HDMI-1</p></li>
+<li>
+<p>Blu-ray</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367069" rel=3D"nofollow">C21367069</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Resolution of the current source (4K, 1080p, 1080i, 720p, 480p, 480i or =
+computer).&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Computer is actual resolution such as 2560x1440.</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367070" rel=3D"nofollow">C21367070</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>If resolution is unknown, resolution is blank instead of =E2=80=9Cunknow=
+n=E2=80=9D.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367070" rel=3D"nofollow">C21367070</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>For computer, display the actual resolution, e.g. 1027x728.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367070" rel=3D"nofollow">C21367070</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>If an audio only source, text of =E2=80=9Cno video=E2=80=9D displays.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367070" rel=3D"nofollow">C21367070</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Audio type (applies to all inputs)</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"fqyrcy6ae7">Only Dolby or DTS logos are included: =
+no other audio in is reported. If audio in is NOT Dolby or DTS (e.g. AAC) t=
+hen audio in is not reported and is blank.</span></p></td>
+<td class=3D"confluenceTd">
+<p>This is Audio In to TV as per System Info.</p>
+<p>Audio Out only displays if VIZIO soundbar connected with Dolby Atmos.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Dolby Audio, DTS</p></td>
+<td class=3D"confluenceTd">
+<p>This is Audio In to TV as per System Info.</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>If Dolby Audio, display the Dolby Audio logo</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>If VIZIO sound bar connected and Dolby Atmos is heard, display the Dolby=
+ Atmos logo.</p></td>
+<td class=3D"confluenceTd">
+<p>This is actually Audio Out, bypassing TV as per System Info.</p>
+<p>Name of VIZIO sound bar precedes the Dolby Atmos logo.</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>If DTS, include DTS logo instead of Stereo or Dolby Audio logo.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>If no audio is heard then audio in is not reported</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.1.2CurrentSourceList">16.1.2 Current Source Lis=
+t</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"42=
+ec3100-f187-4237-b6c0-7b61c8985ecc" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 278.0px;">
+<col style=3D"width: 439.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>VIZIO Home</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"wzmhakx185">WatchFree+</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>HDMI-1</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI-1 unless CEC or user assigned name <span data-colorid=3D"s5kx5ddqml=
+">or for VIZIO Soundbar:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"cpi3uj4ty5">VIZIO Elevate</span></p></li>
+<li>
+<p><span data-colorid=3D"h144v6zmau">VIZIO AIO</span></p></li>
+<li>
+<p><span data-colorid=3D"ud6bwiia7x">VIZIO Soundbar</span></p></li>
+<li>
+<p><span data-colorid=3D"femtudb9yc">VIZIO MicMe SB</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>HDMI-2</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI-X unless CEC or user assigned name.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>HDMI-3 (<span data-colorid=3D"ghdjav9zka">V4K and VQD </span>series <spa=
+n data-colorid=3D"s3hpapjd5e">only</span>)</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI-X unless CEC or user assigned name.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Antenna</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>USB (on insertion of USB connection)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Virtual CEC devices</p></td>
+<td class=3D"confluenceTd">
+<p>Devices connected to a CEC mux such as a sound bar or audio receiver.</p=
+></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.1.2.1ContentLock">16.1.2.1&nbsp;Content Lock</h=
+4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c1=
+c8e111-e4e0-471f-bfc2-f9c437018f9a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Content Lock Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Current channel is locked</p></td>
+<td class=3D"confluenceTd">
+<p>program name is replaced by =E2=80=9CChannel Locked=E2=80=9D.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Current program is locked</p></td>
+<td class=3D"confluenceTd">
+<p>program name is replaced by =E2=80=9CProgram Locked=E2=80=9D.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.1.2.2VIZIOHomeVirtualInputs">16.1.2.2&nbsp;VIZI=
+O Home Virtual Inputs</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"cf=
+1a698f-bf13-482d-854f-86ab693630ae" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The iVirtual Input has an associated app, the Virtual Input App, and can=
+ be accessed.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Press the Input key to select the Virtual Input.</p></li>
+<li>
+<p>Tap the Virtual tuner from the input selector on the SmartCast Mobile ap=
+p.</p></li>
+<li>
+<p>If available, select the Virtual Input app associated with Virtual Input=
+ from the app carousel on VIZIO Home and it will switch to the Virtual Inpu=
+t and launch the Virtual Input app.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Virtual Inputs are configured dynamically by VIZIO Home using a set of A=
+PIs defined by VIZIO.&nbsp;&nbsp;Localized names are provided for in the AP=
+I that instantiates the Virtual Input.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The virtual Input App behaves the same as other TV applications.&nbsp;&n=
+bsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Virtual inputs can=E2=80=99t be renamed by users. The only user configur=
+able setting of a Virtual Input, if it is designated as hide-able, is to Hi=
+de it.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>The maximum number of virtual inputs is 5.&nbsp;&nbsp;The same as for in=
+put names, the maximum number of characters for the virtual input is 24 for=
+ the mobile app but for sidebar ellipses are used if the name is longer the=
+n 16 characters.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.1.2.3CECVirtualInputs">16.1.2.3&nbsp;CEC Virtua=
+l Inputs</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"59=
+72280d-e3cc-4c8b-ab41-759e505eb7aa" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If CEC devices are connected to an HDMI switch such as a sound bar, audi=
+o receiver or Wireless HD Switch, then these devices must also display in t=
+he input list for selection</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The CEC assigned name is used.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>CEC Virtual inputs cannot be hidden.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If the virtual input is connected to an audio device that is hidden then=
+ the virtual input is not displayed.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.1.3InputResolution">16.1.3&nbsp;Input Resolutio=
+n</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"82=
+eced14-7563-4162-96d1-444a90976169" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>4K</p></td>
+<td class=3D"confluenceTd">
+<p>Previously 2160P</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>1080p</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>1080i</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>720p</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>480p</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>480i</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>PC (the actual resolution such as 768 X 480 if not one of the above)</p>=
+</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If unknown, then resolution is not provided (blank).&nbsp;&nbsp;</p></td=
+>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.1.3.1InputResolutionRequirements">16.1.3.1 Inpu=
+t Resolution Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"00=
+3591ec-51df-4af6-a0fa-3a83fd7ca10a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Input Resolution Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Cast should reflect the aspect ratio intended.&nbsp;&nbsp;That is, if bl=
+ack bars are included with the signal, then that must be included in determ=
+ining the aspect ratio.&nbsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If the resolution is not supported, then a warning notification displays=
+.</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CVideo format not supported.=E2=80=9D&nbsp;&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Normal is the only available setting in the following conditions:</p>
+<ul>
+<li>
+<p>Current content is 160Hz (typically a PC).</p></li>
+<li>
+<p>Full screen graphics - as for some apps during selection or play.</p></l=
+i>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.1.4AudioTypeforInputChangeControl">16.1.4&nbsp;=
+Audio Type for Input Change Control</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c8=
+822a07-9eca-4f8a-a2ad-a02dd8947b8d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 175.0px;">
+<col style=3D"width: 443.0px;">
+<col style=3D"width: 100.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio Types Input Change Control</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>
+<del>Mono</del></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">
+<del>C21367071</del></a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>
+<del>Stereo</del></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">
+<del>C21367071</del></a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Dolby Audio</p></td>
+<td class=3D"confluenceTd">
+<p>Logo displays, no text</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Dolby Atmos</p></td>
+<td class=3D"confluenceTd">
+<p>Logo displays, no text.</p>
+<p>Display <span data-colorid=3D"g7vnork45f">with VIZIO </span>sound bar <s=
+pan data-colorid=3D"rgo771ychw">name only</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"h28fpk15k3">Does not display with any other sound =
+bar or audio device.</span></p></li>
+<li>
+<p>Never displays with TV speakers (Dolby Atmos not supported by TV).</p></=
+li>
+<li>
+<p>For TV speakers, display Dolby Audio logo instead</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>DTS</p></td>
+<td class=3D"confluenceTd">
+<p>Logo displays, no text.</p>
+<p>For bitstream DTS Digital Surround including DTS Core, DTS-CA, DTS 96/24=
+, DTS Express, DTS-ES Matrix, and DTS-ES Discrete</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>DTS-HD</p></td>
+<td class=3D"confluenceTd">
+<p>Logo displays, no text.</p>
+<p>For bitstream DTS-HD HiRes and DTS-HD Master Audio</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>DTS:X (not for D series)</p></td>
+<td class=3D"confluenceTd">
+<p>Logo displays, no text.</p>
+<p>For bitstream DTS:X (P1), DTS:X (P2) and DTS:X Master Audio (P1)</p></td=
+>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Headphones</p></td>
+<td class=3D"confluenceTd">
+<p>Icon displays, no text</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>BLANK -</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>The audio type is blank if no audio sent to the TV or TV speakers are tu=
+rned off and the audio sent to a connected sound bar or audio receiver OR t=
+he audio format is not supported (rare).</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>BLANK -</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>The audio type is blank if audio is NOT trademarked for Dolby or DTS. Ex=
+amples are audio in from PCM and AAC.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.1.5LogosInputChangeControlandGamingMenu">16.1.5=
+&nbsp;Logos Input Change Control and Gaming Menu</h3>
+<p>Logos display as required for certification.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d9=
+f5744e-8464-4cef-a790-75b324033e94" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Partner</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Required Logo</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Location</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Dolby</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Dolby Audio</p></li>
+<li>
+<p>Dolby Atmos</p></li>
+<li>
+<p>Dolby Vision</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>Input Change Control</p>
+<p>If Input Change Control does not display then right top side of TV for D=
+olby Vision only.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>DTS</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>DTS</p></li>
+<li>
+<p>DTS HD</p></li>
+<li>
+<p>DTS X</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>Input Change Control</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>AMC Freesync</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Freesync</p></li>
+<li>
+<p>Freesync Premium</p></li>
+<li>
+<p>Freesync Premium Pro</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>Gaming menu with Gaming Info</p>
+<p>For details see HDMI and Gaming menu.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.1.5.1DolbyVisionLogo">16.1.5.1&nbsp;Dolby Visio=
+n Logo</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b1=
+8dd677-4de2-41d5-8b51-63cd5f87d1d0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 289.0px;">
+<col style=3D"width: 289.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Dolby Vision Logo Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRAil Test Case #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For current source, if content changes to Dolby Vision, as required for =
+Dolby, display the Dolby Vision logo for 3 seconds</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Logo displays once for the content.&nbsp;</p></li>
+<li>
+<p>If Info Bar displays with Dolby Vision then do not display on the right.=
+</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367122" rel=3D"nofollow"><u>C21367162</u></a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On input change, if content includes DV, the Info Bar includes the Dolby=
+ Vision logo so displaying the logo separately is suppressed and should not=
+ display after Info Bar take down.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If multiple logos display&nbsp;Dolby Vision&nbsp;logo is furthest left f=
+ollowed by FreeSync as applicable.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367122" rel=3D"nofollow"><u>C21367162</u></a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.1.5.2DolbyAudioLogo">16.1.5.2&nbsp;Dolby Audio =
+Logo</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"96=
+0eaead-b6c8-4fc1-bbba-f897df10d431" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 289.0px;">
+<col style=3D"width: 289.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Dolby Audio Logo Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRail Test Case #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Dolby requires display of the Dolby Audio logo.</p></td>
+<td class=3D"confluenceTd">
+<p>Dolby Audio logo displays only in Input Change Control. Does not display=
+ with other logos.</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21366912" rel=3D"nofollow">C213669</a>16</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>When a route is selected, and content includes Dolby audio, then Dolby A=
+udio logo displays once when Input Change Control displays.</p>
+<ul>
+<li>
+<p>if source content changes (e.g. program on tuner) do not display Dolby A=
+udio logo again.</p></li>
+<li>
+<p>If Input Change Control is displayed from Info key press, Dolby Audio is=
+ included if applicable.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21367071" rel=3D"nofollow">C21367071</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.1.5.3DolbyAtmoslogo">16.1.5.3 Dolby Atmos logo<=
+/h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4d=
+f3f31a-55ab-4e26-9cf3-a9a112d46e5a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 231.0px;">
+<col style=3D"width: 239.0px;">
+<col style=3D"width: 108.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio Types for Info Bar</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRail Test Cae #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If <span data-colorid=3D"ytw5o63gn5">a sound bar is connected,</span> an=
+d content includes Dolby Atmos, then Dolby Atmos logo displays in the Input=
+ Change Control.</p></td>
+<td class=3D"confluenceTd">
+<p>Dolby again allows Atmos logo display i<span data-colorid=3D"b4oei64e5a"=
+>f heard from the soundbar. Soundbar name does NOT display with the Dolby A=
+tmos logo. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21366912" rel=3D"nofollow">C213669</a>16</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>
+<del>If VIZIO sound bar connected then SoundBarName displays left of the Do=
+lby Atmos logo.</del></p></td>
+<td class=3D"confluenceTd">
+<p>DELETED</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p>
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21366912" rel=3D"nofollow">C213669</a>16</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.1.6WatchFree+/AntennaChannelLandingIndicator">1=
+6.1.6&nbsp;WatchFree+/Antenna Channel Landing Indicator</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f9=
+64c6c9-8746-4dda-a15d-943c6f8b0abb" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A channel change for WatchFree+ or Antenna displays the Channel Landing =
+Indicator.</p></td>
+<td class=3D"confluenceTd">
+<p>The Input Change Control does not display when WatchFree+ or Antenna is =
+the source.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Channel Landing Indicator is a banner at the top of screen displayed=
+ for tbd seconds.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>A press of INFO also displays the Channel Landing Indicator.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Channel Landing Indicator includes the following information:</p>
+<ul>
+<li>
+<p>Channel Name</p></li>
+<li>
+<p>Channel Number</p></li>
+<li>
+<p>Program Title</p></li>
+<li>
+<p>Program Season/Episode</p></li>
+<li>
+<p>Program description</p></li>
+<li>
+<p>Program Rating</p></li>
+<li>
+<p>Program broadcast time</p></li>
+<li>
+<p>Program audio</p></li>
+<li>
+<p>CC logo if included in program content.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-16TVControl-16.2Notifications">16.2 Notifications</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c9=
+634ab7-a94a-43f4-bc8e-64d518512d92" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 240.0px;">
+<col style=3D"width: 239.0px;">
+<col style=3D"width: 239.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification Type</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>State change.</p></td>
+<td class=3D"confluenceTd">
+<p>The notification times out after 5 seconds (tunable).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Current state that must be acknowledged displays screen center.</p></td>
+<td class=3D"confluenceTd">
+<p>Presented in a dialog box receive an IR code or times out after 15 secon=
+ds (tunable).&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Annunciations generated due to a setting change on the SmartCast app</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>Times out after 5 seconds (tunable).&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Except for dialog boxes, any key press such as EXIT, BACK, INPUT, or MEN=
+U, takes down the notification and launches the requested function.</p></td=
+>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Display of a picture or audio slider times out after 5 seconds of no IR =
+code adjustment.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The sidebar redisplays with the setting highlighted.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.2.1NotificationPriorityTV101">16.2.1 Notificati=
+on Priority TV 101</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"54=
+234ff8-ef8a-4617-b217-97350d457fc6" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 153.0px;">
+<col style=3D"width: 190.0px;">
+<col style=3D"width: 196.0px;">
+<col style=3D"width: 179.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Location</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Priority</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Volume Control</p></td>
+<td class=3D"confluenceTd">
+<p>Top Right</p></td>
+<td class=3D"confluenceTd">
+<p>Top</p>
+<ul>
+<li>
+<p>Volume overlays all notifications but does not dismiss (except Input cha=
+nge control)</p></li>
+<li>
+<p>Volume can display concurrently with any notification or menu</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Dismisses after 3 seconds of no change</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Input Change Control</p></td>
+<td class=3D"confluenceTd">
+<p>Top Right</p></td>
+<td class=3D"confluenceTd">
+<p>Top below Volume</p>
+<ul>
+<li>
+<p>Dismissed by volume</p></li>
+<li>
+<p>Input Change Control overlays all other notifications</p></li>
+<li>
+<p>Can display concurrently with other notifications or menus but does not =
+dismiss</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Displays only for physical inputs</p>
+<ul>
+<li>
+<p>HDMI</p></li>
+<li>
+<p>Tuner</p></li>
+<li>
+<p>COMP</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Dolby Vision logo</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Alone - Top right below volume control</p></li>
+<li>
+<p>With Input Change control</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>Technically below volume and input change control but design allows for =
+concurrent display.</p>
+<p>Above and concurrently displays with all other notifications</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Required for display per Dolby contract</p></li>
+<li>
+<p>Displays with Input Change Control if detected.</p></li>
+<li>
+<p>If detected after input change control then displays alone for 3 seconds=
+</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Input Selector</p></td>
+<td class=3D"confluenceTd">
+<p>Left side</p>
+<ul>
+<li>
+<p>fills vertically</p></li>
+<li>
+<p>about 1/4 screen width</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Below and concurrent</p>
+<ul>
+<li>
+<p>volume</p></li>
+<li>
+<p>Input Change control</p></li>
+<li>
+<p>Dolby Vision logo</p></li>
+<li>
+<p>mandatory high level notifications</p></li>
+</ul>
+<p>Dismisses</p>
+<ul>
+<li>
+<p>Quick/All Settings</p></li>
+<li>
+<p>TBD low level notifications</p></li>
+</ul>
+<p>Above and queues</p>
+<ul>
+<li>
+<p>TBD medium and low level notifications</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Q: Can some System notifications lay over but not dismiss e.g. VIZIOgram=
+ would be queued? Or queue notifications for after Input selector dismissed=
+?</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Quick Menu/All Settings</p></td>
+<td class=3D"confluenceTd">
+<p>Left side</p>
+<ul>
+<li>
+<p>fills vertically</p></li>
+<li>
+<p>about 1/3 screen width</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Below, concurrent with</p>
+<ul>
+<li>
+<p>volume</p></li>
+<li>
+<p>Input Change control</p></li>
+<li>
+<p>Dolby Vision logo</p></li>
+<li>
+<p>mandatory high level notifications</p></li>
+</ul>
+<p>Above and queues</p>
+<ul>
+<li>
+<p>TBD low level notifications</p></li>
+</ul>
+<p>Dismissed by</p>
+<ul>
+<li>
+<p>Input selector</p></li>
+</ul>
+<p>Dismisses</p>
+<ul>
+<li>
+<p>Input Selector</p></li>
+<li>
+<p>TBD medium level notifications and queues</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Full screen background for</p>
+<ul>
+<li>
+<p>Offline Mode - Home input</p></li>
+<li>
+<p>No Signal (sync) - HDMI or tuner</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Full screen</p></td>
+<td class=3D"confluenceTd">
+<p>Bottom</p>
+<ul>
+<li>
+<p>Notifications overlay</p></li>
+<li>
+<p>All OSD or menus overlays (all TV 101)</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Remains at bottom until condition releived at which time source displays=
+.</p>
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Updates</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Update at Power on</p></li>
+<li>
+<p>Update requested by user</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Update at Power on is a toast that does not dismiss until completed, no =
+user action allowed</p>
+<ul>
+<li>
+<p>queue notifications</p></li>
+</ul></li>
+<li>
+<p>Update requested by user, confirmed, no user action allowed</p>
+<ul>
+<li>
+<p>once update started queue notification</p></li>
+</ul></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>MIC pressed</p></td>
+<td class=3D"confluenceTd">
+<p>Voice toast at screen bottom</p></td>
+<td class=3D"confluenceTd">
+<p>If displayed no dismiss:</p>
+<ul>
+<li>
+<p>Dolby Vision</p></li>
+</ul>
+<p>If displayed dismiss</p>
+<ul>
+<li>
+<p>Volume</p></li>
+<li>
+<p>Input change control</p></li>
+<li>
+<p>all other TV 101</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.2.2InputNotifications">16.2.2 Input Notificatio=
+ns</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a6=
+26c695-418b-4e05-b2be-978d521a2dcb" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 240.0px;">
+<col style=3D"width: 239.0px;">
+<col style=3D"width: 239.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Condition</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When an input is selected, the following conditions generate a warning:<=
+/p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>A physical input with no sync</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Physical input no sync power off after 10 minutes</p></td>
+<td class=3D"confluenceTd">
+<p>Required by CEC (calif. energy commission)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>VIZIO Home network failure - offline mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.2.2.1NoSignal(Sync)HDMIInputs">16.2.2.1&nbsp;No=
+ Signal (Sync) HDMI Inputs</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"89=
+0cc3fb-4bbf-4850-b723-5e624d0fc664" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 189.0px;">
+<col style=3D"width: 207.0px;">
+<col style=3D"width: 182.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Condition</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>NOTES</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TestRAil Test Case #</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>HDMI input selected with no sync, notification displays within 1 second =
+or immediately following OSD.</p></td>
+<td class=3D"confluenceTd">
+<p>No Signal - INPUTNAME. Check if the source device is connected and power=
+ed on.&nbsp;&nbsp;Or press the INPUT button to select the input for the sou=
+rce device.</p></td>
+<td class=3D"confluenceTd">
+<p>HDMI ports <span data-colorid=3D"mnfrtrfei5">including HDMI-1 </span>wit=
+hout connected ARC sound bar or audio device</p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21328931" rel=3D"nofollow">C21328931</a></p>
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21328932" rel=3D"nofollow">C21328932</a></p>
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>No Sync HDMI-1 with VIZIO sound bar</p>
+<ul>
+<li>
+<p>VIZIO sound bar with CEC TV menu support</p></li>
+<li>
+<p>VIZIO sound bar with NO CEC TV menu support (pre 2020)</p></li>
+<li>
+<p>notification displays within 1 second or immediately following OSD</p></=
+li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>No signal - VIZIO SoundBarName (e.g. M-Elevate)</p>
+<p>A VIZIO sound bar is connected to HDMI-1.&nbsp;&nbsp;</p>
+<p>Press the INPUT button to select the input for a video source device.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21328933" rel=3D"nofollow">C21328933</a></p>
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21328934" rel=3D"nofollow">C21328934</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>No sync HDMI-1 with a CEC non-VIZIO sound bar or audio device</p></td>
+<td class=3D"confluenceTd">
+<p>No signal - audio device</p>
+<p>An audio device is connected to HDMI-1.&nbsp;</p>
+<p>Press the INPUT button to select the input for a video source device.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><a class=3D"external-link" href=3D"https://vizio.testrail.io/index.php?/=
+cases/view/21328935" rel=3D"nofollow">C21328935</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>No sync VIZIO sound bar discovered on non-ARC HDMI port then modify the =
+no sync notification for</p>
+<ul>
+<li>
+<p>VIZIO ARC/eARC sound bar with CEC TV menu support</p></li>
+<li>
+<p>VIZIO ARC/eARC sound bar with NO CEC TV menu support (pre 2020)</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>No signal - AUDIO_DEVICE_NAME</p>
+<p>A VIZIO sound bar is connected to HDMI-X.&nbsp;&nbsp;To hear audio from =
+your AUDIO_DEVICE_NAME, connect to HDMI-1.</p></td>
+<td class=3D"confluenceTd">
+<p>AUDIO_DEVICE_NAME is</p>
+<ul>
+<li>
+<p>VIZIO Elevate</p></li>
+<li>
+<p>VIZIO AIO</p></li>
+<li>
+<p>VIZIO Soundbar</p></li>
+<li>
+<p><span data-colorid=3D"zw6et7x7lm">VIZIO MicMe SB</span></p></li>
+</ul>
+<p>Notification displays within 1 second or immediately following OSD</p></=
+td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.2.2.2AutoPowerOffNotification">16.2.2.2&nbsp;Au=
+to Power Off Notification</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c0=
+7952a0-e6b0-41c0-a786-c3ac72b6a170" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification/Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If Auto Power Off is enabled, then after 10 minutes of no sync the TV po=
+wer off. Twenty seconds before the TV powers off, a notification displays</=
+p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CNo input signal.&nbsp; Power will be turned off.=E2=80=9D</p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Even though there is no video sync, auto power off does not power down t=
+he TV for the following and no notification displays.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Audio ceases from an audio app (not a typical use case). The TV remains =
+on with the LED lit</p></li>
+<li>
+<p>Retail Demo enabled and Overlay Retail Demo is running over input with n=
+o sync.</p></li>
+<li>
+<p>Cast input is current source and video is not streaming.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.2.2.3NetworkFailure-Offlinemode">16.2.2.3&nbsp;=
+Network Failure - Offline mode</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"17=
+409099-9bad-4725-b658-257a5cd2e95a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 127.0px;">
+<col style=3D"width: 250.0px;">
+<col style=3D"width: 254.0px;">
+<col style=3D"width: 87.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>State</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>User Story</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notification text</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Soft keys</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Offline Mode</p></td>
+<td class=3D"confluenceTd">
+<p>As a user, if source is VIZIO Home or AirPlay and TV is unable to connec=
+t to the router and/or internet, put TV into =E2=80=9COffline Mode=E2=80=9D=
+. Full screen error notification displays.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Offline Mode - No SSID/PW</p></td>
+<td class=3D"confluenceTd">
+<p>As a user, display full screen notification if no SSID / Password.</p></=
+td>
+<td class=3D"confluenceTd">
+<p>Not Connected to the Internet</p>
+<p>We see you have not yet connected this TV to the Internet. Click the "Ne=
+twork Settings" button to connect you to 250+ free channels, millions of ti=
+tles and more!</p></td>
+<td class=3D"confluenceTd">
+<p>Network Settings</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Offline Mode - Failed to connect to router (but router powered on)</p></=
+td>
+<td class=3D"confluenceTd">
+<p>As a user, display full screen notification if problems connecting to th=
+e Wi-Fi router.</p></td>
+<td class=3D"confluenceTd">
+<p>We are Having Problems Connecting</p>
+<p>Please click the "Network Settings" button and try to connect to your Wi=
+-Fi router. You're one step closer to 250+ free channels, millions of title=
+s and more!</p></td>
+<td class=3D"confluenceTd">
+<p>Network Settings</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Offline Mode - Router offline or router cannot be found</p></td>
+<td class=3D"confluenceTd">
+<p>As a user, display full screen notification if the route cannot be detec=
+ted</p></td>
+<td class=3D"confluenceTd">
+<p>We are Having Problems Connecting</p>
+<p>Please make sure your router is power ON and within range of this TV. Th=
+en, click the "Network Settings" button to connect to your router. You're o=
+ne step closer to 250+ free channels, millions of titles and more!</p></td>
+<td class=3D"confluenceTd">
+<p>Network Settings</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Offline Mode - Connected to router but not connected to the Internet</p>=
+</td>
+<td class=3D"confluenceTd">
+<p>As a user, I want to know if the problem with my connection is not with =
+the router, but with my Internet connection (e.g. Internet services is disr=
+upted, my TV is blocked from accessing the internet)</p></td>
+<td class=3D"confluenceTd">
+<p>Can=E2=80=99t Connect to the Internet</p>
+<p>You are connected to your home network but we can=E2=80=99t seem to conn=
+ect to the internet. Please reset your modem or contact your ISP for outage=
+s. You're one step closer to 250+ free channels, millions of titles and mor=
+e!</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Offline Mode - watching content</p></td>
+<td class=3D"confluenceTd">
+<p>As a user, if network is lost while streaming content, or if network is =
+lost while app is launched but content not yet streaming then take no actio=
+n. No notification is displayed. <span data-colorid=3D"wusetxbcay">App mana=
+ges notification.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>offline mode - WatchFree+ is source</p></td>
+<td class=3D"confluenceTd">
+<p>As a user, I want to be able to watch OTA channels even though not conne=
+cted. WatchFree+ displays mini-guide only.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Offline mode display</p></td>
+<td class=3D"confluenceTd">
+<p>As a user, do not display full screen offline notification errors with t=
+hese conditions:</p>
+<ul>
+<li>
+<p>physical input</p></li>
+<li>
+<p>WatchFree+</p></li>
+<li>
+<p>OOBE</p></li>
+<li>
+<p>power on TV using hot key</p>
+<ul>
+<li>
+<p>Netflix launches, handles offline case</p></li>
+<li>
+<p>WatchFree, launches for OTA support</p></li>
+<li>
+<p>All other partner keys displays offline condition</p></li>
+</ul></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Connected but TOS. not confirmed</p></td>
+<td class=3D"confluenceTd">
+<p>As a user, if network is connected but TOS not confirmed, display same T=
+erms and Conditions page in OOBE.</p>
+<ul>
+<li>
+<p>Accept All - VIZIO Home displayed</p></li>
+<li>
+<p>Skip-switch input to HDMI-1</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Skip</p>
+<p>Accept All</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-16TVControl-16.2.2.4BluetoothRemoteLowBatteryNotification">16.=
+2.2.4&nbsp;Bluetooth Remote Low Battery Notification</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"61=
+b74880-c8de-44a7-81e9-8a9fac520726" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth low battery notification displays at 20% battery.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-16TVControl-16.2.3VoiceControlofTVUsingAlexa">16.2.3&nbsp;Voic=
+e Control of TV Using Alexa</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"71=
+897769-dfca-4ec2-909e-2ab3e19ab7d6" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Details</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Voice Control using Alexa supports a limited number of commands to contr=
+ol the TV</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Power On/Off using the TV name</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Transport Controls</p>
+<ul>
+<li>
+<p>Play</p></li>
+<li>
+<p>Pause</p></li>
+<li>
+<p>Forward</p></li>
+<li>
+<p>Rewind</p></li>
+<li>
+<p>Stop</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Input Switching</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Channel Changing (up/down for IP connected devices, apps, tuner; direct =
+digit TBD)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>App and Video content launch (TBD)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Search (TBD).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>To use Alexa skills with the TV four separate steps are required:&nbsp;<=
+/p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Launch VIZIO Home as source.</p>
+<ul>
+<li>
+<p>Press the Up arrow</p></li>
+<li>
+<p>From the top menu, select =E2=80=9CEnable Alexa=E2=80=9D TBD</p></li>
+<li>
+<p>A 4 digit pairing PIN displays.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>From a second screen, launch <a class=3D"external-link" data-card-appear=
+ance=3D"inline" href=3D"http://vizio.com/alexa" rel=3D"nofollow">http://viz=
+io.com/alexa</a> and log in to the MyVizio account:</p>
+<ul>
+<li>
+<p>Enter the PIN to associate the TV to the account.</p></li>
+<li>
+<p>After successful PIN entry, notification of successful pair with Alexa d=
+isplays on the TV.&nbsp;Notification includes next steps for continued setu=
+p of Alexa</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Open Alexa app</p>
+<ul>
+<li>
+<p>Login to the MyVizio account from the Alexa app.</p></li>
+<li>
+<p>To enable the skill, install the VIZIO SmartCast skill.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Tell Alexa to =E2=80=9CDiscover devices.=E2=80=9D</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-16TVControl-16.3InputSelectorVertical">16.3&nbsp;Input Selecto=
+r Vertical</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c1=
+38d69a-0082-4379-9c66-a58a8e052ebd" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 100.0px;">
+<col style=3D"width: 341.0px;">
+<col style=3D"width: 277.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Key Press</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Details</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>INPUT first press</p></td>
+<td class=3D"confluenceTd">
+<p>Displays Input Selector</p>
+<ul>
+<li>
+<p>Sidebar display with current input highlighted and icon for current inpu=
+t underlined.</p></li>
+<li>
+<p>The current input includes all physical ports, CEC virtual devices, VIZI=
+O Home and virtual apps such as WatchFree+ and AirPlay.</p></li>
+<li>
+<p>Header is =E2=80=9CInputs=E2=80=9D</p></li>
+<li>
+<p>System Settings is dismissed to display Input Selector.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>No time or back button</p></li>
+<li>
+<p>Not part of System settings.</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>Inputs displayed in a fixed order with VIZIO Home at top of the list.</p=
+>
+<p>Input displays with custom names as per CEC or as defined by user but in=
+clude the port name as well.</p>
+<p><span data-colorid=3D"p1ya7gd7oi">Instead of the CEC name, a VIZIO sound=
+bar is renamed to:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"c5g33c6o56">VIZIO Elevate</span></p></li>
+<li>
+<p><span data-colorid=3D"kp0df6fchs">VIZIO AIO</span></p></li>
+<li>
+<p><span data-colorid=3D"f8mso3e15n">VIZIO Soundbar</span></p></li>
+<li>
+<p><span data-colorid=3D"dbefuhuur1">VIZIO MicMe SB</span></p></li>
+</ul>
+<p>Inputs hidden with the Hide From Input List&nbsp;setting do not display.=
+</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>VIZIO Home</p></li>
+<li>
+<p>WatchFree</p></li>
+<li>
+<p>HDMI-1</p></li>
+<li>
+<p>HDMI-2</p></li>
+<li>
+<p>HDMI-3 (not for D skus)</p></li>
+<li>
+<p>HDMI-4 (P/M7 only)</p></li>
+<li>
+<p>Antenna</p></li>
+<li>
+<p>AirPlay</p></li>
+<li>
+<p>Virtual CEC devices if any</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>INPUT</p></td>
+<td class=3D"confluenceTd">
+<p>Each press of the INPUT key highlights the next input but does not chang=
+e the input.</p>
+<p>Each time press Input key highlight is moved down to next input in the l=
+ist.</p></td>
+<td class=3D"confluenceTd">
+<p>The icon current input remains underlined.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>UP or DOWN</p></td>
+<td class=3D"confluenceTd">
+<p>Each press of UP or DOWN key highlights the next input but does not chan=
+ge the input.</p>
+<p>Each press Up key the highlight is moved up to previous input in the lis=
+t.</p>
+<p>Each press Down key the highlight is moved down to next input in the lis=
+t.</p></td>
+<td class=3D"confluenceTd">
+<p>The icon current input remains underlined.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>INPUT or DOWN</p></td>
+<td class=3D"confluenceTd">
+<p>If the last input in the input selector (usually TV) is selected, then h=
+ighlight wraps to VIZIO Home at the top.</p></td>
+<td class=3D"confluenceTd">
+<p>USB is the last input in the input selector is inserted.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>UP</p></td>
+<td class=3D"confluenceTd">
+<p>VIZIO Home is selected then highlight wraps to last input in input selec=
+tor.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>Dismiss Input selector and change to highlighted input.</p></td>
+<td class=3D"confluenceTd">
+<p>If current input is selected then no resync of the input, dismiss input =
+selector only.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>BACK</p></td>
+<td class=3D"confluenceTd">
+<p>Dismiss input selector but no change to highlighted input.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>If the user navigated only using INPUT, upon 5 second timeout, change to=
+ the currently highlighted input.</p></td>
+<td class=3D"confluenceTd">
+<p>Supports remotes from other devices without support of OK key IR code.</=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>If the user navigated using UP and DOWN, only switch inputs if OK key pr=
+essed. No timeout to switch input.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>n/a</p></td>
+<td class=3D"confluenceTd">
+<p>If no key press for 10 seconds then dismiss input selector without chang=
+ing the input.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>LEFT or RIGHT</p></td>
+<td class=3D"confluenceTd">
+<p>No action.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>Partner</p></td>
+<td class=3D"confluenceTd">
+<p>Take down input selector and launch partner app.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>MENU</p></td>
+<td class=3D"confluenceTd">
+<p>Take down input selector and launch System settings in sidebar.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p>HOME</p></td>
+<td class=3D"confluenceTd">
+<p>Take down input selector and launch VIZIO Home</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p>PIC</p></td>
+<td class=3D"confluenceTd">
+<p>Take down input selector and launch sidebar with Picture Mode in focus</=
+p></td>
+<td class=3D"confluenceTd">
+<p>Picture Mode is header and sidebar is populated with the options of Vivi=
+d, Bright, Calibrated, Calibrated Dark, Game, Sports and Custom (if any)</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p>WIDE</p></td>
+<td class=3D"confluenceTd">
+<p>Take down input selector and launch sidebar with Aspect Ratio in focus.<=
+/p></td>
+<td class=3D"confluenceTd">
+<p>Aspect Ratio is header and sidebar is populated with the options of Norm=
+al, Stretch, Panoramic, Wide and Zoom.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-16TVControl-16.4FastForward/RewindinStreamingContentandVIZIOHo=
+me">16.4&nbsp;Fast Forward/Rewind in Streaming Content and VIZIO Home</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"66=
+58870a-3df1-4990-b23e-badef3a8328b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Applications Supported</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For streaming content a press and hold of D-pad Left/Right issues a repe=
+at to support Fast Forward (FFW) or Rewind (REW).</p></td>
+<td class=3D"confluenceTd">
+<p>Netflix requirement is 1 hour mark in 30 seconds of D-Pad key hold. Comp=
+romised to FFW/REW for =E2=80=9C40min of video=E2=80=9D in 30 seconds. This=
+ also supports SC Home. 30 seconds is longest hold key persists.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Supports some apps but not all. Defined support includes:</p>
+<ul>
+<li>
+<p>Netflix</p></li>
+<li>
+<p>WatchFree+</p></li>
+<li>
+<p>TBD others</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>For VIZIO Home a press and hold of D-pad Left/Right scrolls through cont=
+ent.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_0_800487601.1728074818874--

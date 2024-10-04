@@ -1,0 +1,3125 @@
+Message-ID: <1019878297.5.1728074970883@b3671f2e9ff1>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_4_976214710.1728074970881"
+
+------=_Part_4_976214710.1728074970881
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>8.0 Accessibility</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>8.0 Accessibility</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074969976 {padding: 0px;}
+div.rbtoc1728074969976 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074969976 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074969976">
+<style>[data-colorid=3Dh3dejlnbih]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dh3dejlnbih]{color:#cf2600}[data-colorid=3Deiwlhv38xn]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Deiwlhv38xn]{colo=
+r:#cf2600}[data-colorid=3Dun3yxbmiok]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dun3yxbmiok]{color:#cf2600}[data-colorid=3Dhtce68bf=
+vb]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dhtce68bfvb]=
+{color:#cf2600}[data-colorid=3Dq9l9arf0vc]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dq9l9arf0vc]{color:#cf2600}[data-colorid=3Dydqcq=
+p27id]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dydqcqp27=
+id]{color:#cf2600}[data-colorid=3Dsexv43fp00]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dsexv43fp00]{color:#cf2600}[data-colorid=3Djh=
+rh8kdmmr]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Djhrh8=
+kdmmr]{color:#cf2600}[data-colorid=3Dv03j1yyqdg]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dv03j1yyqdg]{color:#cf2600}[data-colorid=
+=3Dljfqgoa00c]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+ljfqgoa00c]{color:#cf2600}[data-colorid=3Dxvfdmrm9l1]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dxvfdmrm9l1]{color:#cf2600}[data-colo=
+rid=3Doxpbgavn1q]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Doxpbgavn1q]{color:#cf2600}[data-colorid=3Dzksbu92ivg]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dzksbu92ivg]{color:#cf2600}[data-c=
+olorid=3Do4tyza43fa]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Do4tyza43fa]{color:#cf2600}[data-colorid=3Dkyvb5mvx3g]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dkyvb5mvx3g]{color:#cf2600}[dat=
+a-colorid=3Dqwsgm7n11l]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dqwsgm7n11l]{color:#cf2600}[data-colorid=3Dykmr3im0yl]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dykmr3im0yl]{color:#cf2600}[=
+data-colorid=3Dhag33e03fo]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dhag33e03fo]{color:#cf2600}[data-colorid=3Dj0snjx4ain]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dj0snjx4ain]{color:#cf260=
+0}[data-colorid=3Db554rgaoiu]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Db554rgaoiu]{color:#cf2600}[data-colorid=3Diufanjk5ct]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Diufanjk5ct]{color:#cf=
+2600}[data-colorid=3Dks18fn6zst]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dks18fn6zst]{color:#cf2600}[data-colorid=3Dfx157253n4]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dfx157253n4]{color:=
+#cf2600}[data-colorid=3Dmqhl75b2kg]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dmqhl75b2kg]{color:#cf2600}[data-colorid=3Dova7a1siqa]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dova7a1siqa]{col=
+or:#cf2600}[data-colorid=3Du7l88b6u5p]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Du7l88b6u5p]{color:#cf2600}[data-colorid=3Dt5buf49m=
+je]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dt5buf49mje]=
+{color:#cf2600}[data-colorid=3Djatunpzm47]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Djatunpzm47]{color:#cf2600}[data-colorid=3Duiuuv=
+rmcqu]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Duiuuvrmc=
+qu]{color:#cf2600}[data-colorid=3Dszqndi7a9o]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dszqndi7a9o]{color:#cf2600}[data-colorid=3Dta=
+c1orkwv1]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dtac1o=
+rkwv1]{color:#cf2600}[data-colorid=3Dfd7ea67goa]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dfd7ea67goa]{color:#cf2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-8.0Accessibility-8.1Captions">8.1 Captions</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-8.0Accessibility-8.1.0CaptionsRequirements">8.1.0 Captio=
+ns Requirements</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.1ClosedCaptions">8.1.1 Closed Capti=
+ons</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.2AnalogClosedCaptions">8.1.2 Analog=
+ Closed Captions</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.3DigitalClosedCaptions">8.1.3 Digit=
+al Closed Captions</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4DigitalStyle">8.1.4 Digital Style<=
+/a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-8.0Accessibility-8.1.4.1TextStyle">8.1.4.1 Text Style</a=
+></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.2TextSize">8.1.4.2 Text Size</a><=
+/li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.3TextColor">8.1.4.3 Text Color</a=
+></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.4TextOpacity">8.1.4.4 Text Opacit=
+y</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.5TextEdges">8.1.4.5 Text Edges</a=
+></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.6TextEdgesColor">8.1.4.6 Text Edg=
+es Color</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.7BackgroundColor">8.1.4.7 Backgro=
+und Color</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.8BackgroundOpacity">8.1.4.8 Backg=
+round Opacity</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.9WindowColor">8.1.4.9 Window Colo=
+r</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.1.4.10WindowOpacity">8.1.4.10 Window =
+Opacity</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#id-8.0Accessibility-8.2VideoDescription">8.2 Video Descript=
+ion</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-8.0Accessibility-8.2.1VideoDescriptionRequirements">8.2.=
+1 Video Description Requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-8.0Accessibility-8.3TalkBack">8.3 Talk Back</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-8.0Accessibility-8.3.1TalkBackRequirements">8.3.1 Talk B=
+ack Requirements</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.3.2TalkBackEventsReadinFull">8.3.2 Ta=
+lk Back Events Read in Full</a></li>
+</ul></li>
+<li><a href=3D"#id-8.0Accessibility-8.4SpeechRate">8.4 Speech Rate</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-8.0Accessibility-8.4.1SpeechRateRequirements">8.4.1 Spee=
+ch Rate Requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-8.0Accessibility-8.5ZoomMode">8.5 Zoom Mode</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-8.0Accessibility-8.5.1ZoomModeRequirements">8.5.1 Zoom M=
+ode Requirements</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.5.2ZoomModeappliesasfollows">8.5.2 Zo=
+om Mode applies as follows</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.5.3ZoomModeImage">8.5.3 Zoom Mode Ima=
+ge</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.5.4ZoomModeSectorSelection">8.5.4 Zoo=
+m Mode Sector Selection</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.5.5ZoomModeSectorSelection2020V/MONLY=
+(not2020Por2021&amp;beyond)">8.5.5 Zoom Mode Sector Selection 2020 V/M ONLY=
+ (not 2020 P or 2021 &amp; beyond)</a></li>
+<li><a href=3D"#id-8.0Accessibility-8.5.6Zoommodesector">8.5.6 Zoom mode se=
+ctor</a></li>
+</ul></li>
+</ul>
+</div>
+<p></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"61=
+583ccd-6739-426d-bc81-29b2af35c3cf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Network Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Captions</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Video Description</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Talk Back</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Speech Rate</p></td>
+<td class=3D"confluenceTd">
+<p>Speed of Talk back</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Zoom Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-8.0Accessibility-8.1Captions">8.1&nbsp;Captions</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a5=
+af2277-172c-4c36-9769-f849d2cdd598" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Captions Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Closed Captions</p></td>
+<td class=3D"confluenceTd">
+<p>On/Off setting</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Analog Closed Captions</p></td>
+<td class=3D"confluenceTd">
+<p>CC1/CC2/CC3/CC4</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Digital Closed Captions</p></td>
+<td class=3D"confluenceTd">
+<p>CS1/CS2/CS3/CS4/CS8/CS6</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Digital Style</p></td>
+<td class=3D"confluenceTd">
+<p>submenu</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.1.0CaptionsRequirements">8.1.0&nbsp;Caption=
+s Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"fd=
+12848c-237a-41ec-a948-f50ee35e1b35" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Captions Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Closed Captions is a global setting.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Captions applies to Tuner</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Captions applies to Composite</p></td>
+<td class=3D"confluenceTd">
+<p>If composite detected.</p>
+<p>Does not apply if COMP with no sync or component since detected.</p>
+<p>For component and HDMI, closed captions must be enabled on the device.</=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Applications must follow the TV system state for the closed captions set=
+ting.</p></td>
+<td class=3D"confluenceTd">
+<p>Some applications align internally and do not align with the system stat=
+e until CC key is pressed.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Captions applies to cast streaming content in the event closed caption s=
+upport is required by the SmartCast app.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Closed captions is supported for Cast streaming content using the SMPTE =
+standard.</p></td>
+<td class=3D"confluenceTd">
+<p>For apps without internal CC support.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>For streaming content launched from partner buttons or SmartCast TV, clo=
+sed caption support is required if supported or required for the content. &=
+nbsp;Closed Captions support from</p>
+<ul>
+<li>
+<p>CC key</p></li>
+<li>
+<p>a key press while streaming content (typically the UP key)</p></li>
+<li>
+<p>If SMPTE standard supported from TV settings&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If content includes closed captions support then the app must respond to=
+ CC key to enable and disable captioning.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>When a closed captions setting is changed on the SmartCast app, the sett=
+ing change is annunciated on the TV.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"hag33e03fo">When the Digital Style settings are ch=
+anged, an example of the appearance of the captions is displayed on the TV.=
+&nbsp;</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"uiuuvrmcqu">Long time requirement missed when move=
+d to confluence.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Analog content that is broadcast digitally may still have analog caption=
+s broadcast as per 608 over 708 requirement for captions.</p></td>
+<td class=3D"confluenceTd">
+<p>Analog closed captions defined per CEA-608 required from 1990 going forw=
+ard.</p>
+<p>Digital closed captions defined per CEA-708 required from 2014 going for=
+ward.</p>
+<p>608 over 708 refers to inclusion of CEA-608 analog captions in a digital=
+ broadcast if analog content unconverted for digital transmission.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.1.1ClosedCaptions">8.1.1&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;Closed Captions</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"58=
+58e91e-b68b-4a72-b9f7-2110e0e4129e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 174.0px;">
+<col style=3D"width: 464.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Digital captions display unless not available.&nbsp;</p>
+<p>Digital captions display if both digital and analog captions available.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>If no Digital caption then display analog captions.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Automatically enables captions to current setting typically</p>
+<ul>
+<li>
+<p>CS1 (digital captions)</p></li>
+<li>
+<p>CC1 (analog captions)</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Off (default)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.1.2AnalogClosedCaptions">8.1.2&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;Analog Closed Captions</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a7=
+7b25d3-91b0-4620-a802-012d7a26f5de" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Analog Closed Caption Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>CC1</p></td>
+<td class=3D"confluenceTd">
+<p>default</p>
+<p>In practice only CC1 is used.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>CC2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>CC3</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>CC4</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.1.3DigitalClosedCaptions">8.1.3&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;Digital Closed Captions&nbsp;&nbsp;&nbsp;</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"73=
+9ce101-ac47-4676-8a5d-d67a63f7be27" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Digital Closed Caption Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>CS1</p></td>
+<td class=3D"confluenceTd">
+<p>default</p>
+<p>In practice only CS1 is used.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>CS2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>CS3</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>CS4</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>CS5</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>CS6</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.1.4DigitalStyle">8.1.4&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;Digital Style</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"05=
+916abb-8e4f-4b8f-b079-5827168b8f57" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Digital Style Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Text Style</p></td>
+<td class=3D"confluenceTd">
+<p>Digital Style configures the appearance of digital closed captions and d=
+oes not apply to analog captions broadcast over a digital program (e.g. 608=
+ over 708).&nbsp;&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Text Size</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Text Color</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Text Opacity</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Text Edges</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Text Edges Color</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Background Color</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Background Opacity</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Window Color</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Window Opacity</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.1TextStyle">8.1.4.1&nbsp;&nbsp;&nbsp;&n=
+bsp;Text Style</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"71=
+b266a1-c695-42f0-a001-e81253762381" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 216.0px;">
+<col style=3D"width: 233.0px;">
+<col style=3D"width: 310.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Text Style Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Font</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Default <span data-colorid=3D"j0snjx4ain">or if undefined then Modern</s=
+pan></p>
+<p>The font style defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Playbill</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qwsgm7n11l">LatinModernMono</span></p></td>
+<td class=3D"confluenceTd">
+<p>Monospaced serif font</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>New<span data-colorid=3D"h3dejlnbih">s</span>print</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ykmr3im0yl">AftaSerif</span></p></td>
+<td class=3D"confluenceTd">
+<p>Proportional serif font</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Computer</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"fd7ea67goa">NotCourierSans</span></p></td>
+<td class=3D"confluenceTd">
+<p>Monospace sans serif font</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Modern</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ljfqgoa00c">TitilliumText</span></p></td>
+<td class=3D"confluenceTd">
+<p>Proportional sans serif font</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Casual</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"szqndi7a9o">IndieFlower</span></p></td>
+<td class=3D"confluenceTd">
+<p>Casual print font</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Script</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"q9l9arf0vc">DancingScript</span></p></td>
+<td class=3D"confluenceTd">
+<p>Script font</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Capitals</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"zksbu92ivg">Folk</span></p></td>
+<td class=3D"confluenceTd">
+<p>capital letters font</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.2TextSize">8.1.4.2&nbsp;&nbsp;&nbsp;&nb=
+sp;Text Size</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"80=
+dc9ac6-0e62-46f1-9de5-f98cd9ddd17d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Text Size Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default<span data-colorid=3D"un3yxbmiok"> or if undefined then Medium</s=
+pan></p>
+<p>The text size defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Small</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Large</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.3TextColor">8.1.4.3&nbsp;&nbsp;&nbsp;&n=
+bsp;Text Color</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e1=
+fa23d1-f04a-46d2-8836-1ef023f1fd27" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Text Color Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default<span data-colorid=3D"kyvb5mvx3g"> or if undefined then White</sp=
+an></p>
+<p>The text color defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Black</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>White</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Green</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Blue</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Red</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Cyan</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Yellow</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Magenta</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.4TextOpacity">8.1.4.4&nbsp;&nbsp;&nbsp;=
+&nbsp;Text Opacity</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"50=
+679a8d-0f29-416d-ac14-56c78db62fd6" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Text Opacity Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default <span data-colorid=3D"o4tyza43fa">or if undefined then Solid</sp=
+an></p>
+<p>The text opacity defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Solid</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Translucent</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Transparent</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Flashing</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.5TextEdges">8.1.4.5&nbsp;&nbsp;&nbsp;&n=
+bsp;Text Edges</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"38=
+37b486-992b-466b-b27e-6a32a45dd8f3" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Text Edges Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default <span data-colorid=3D"xvfdmrm9l1">or if undefined then None</spa=
+n></p>
+<p>The text edge defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>None</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Raised</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Depressed</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Uniform</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Drop Shadow</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.6TextEdgesColor">8.1.4.6&nbsp;&nbsp;&nb=
+sp;&nbsp;Text Edges Color</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"be=
+07a43c-99ef-4009-b524-c661e4994f84" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 321.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Text Edges Color Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default <span data-colorid=3D"jatunpzm47">or if undefined then </span>Wh=
+ite</p>
+<p>The Text Edges color defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Black</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>White</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Green</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Blue</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Red</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Cyan</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Yellow</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Magenta</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.7BackgroundColor">8.1.4.7&nbsp;&nbsp;&n=
+bsp;&nbsp;Background Color</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6d=
+deedd5-1d49-43f8-bc6e-46b7f7e631ad" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 322.0px;">
+<col style=3D"width: 358.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Background Color Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default <span data-colorid=3D"u7l88b6u5p">or if undefined then Black</sp=
+an></p>
+<p>The background color defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Black</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>White</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Green</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Blue</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Red</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Cyan</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Yellow</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Magenta</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.8BackgroundOpacity">8.1.4.8&nbsp;&nbsp;=
+&nbsp;&nbsp;Background Opacity</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6b=
+114f13-5a8d-4b0d-b03e-d8f250485438" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 272.0px;">
+<col style=3D"width: 408.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Background Opacity Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default <span data-colorid=3D"tac1orkwv1">or if undefined then Solid</sp=
+an></p>
+<p>The background opacity defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Solid</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Translucent</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Transparent</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Flashing</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.9WindowColor">8.1.4.9&nbsp;&nbsp;&nbsp;=
+&nbsp;Window Color&nbsp;&nbsp;</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"60=
+df5986-3022-45a7-9638-4618d6f62bf7" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Text Size Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default <span data-colorid=3D"sexv43fp00">or if undefined then Black</sp=
+an></p>
+<p>The window color defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Black</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>White</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Green</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Blue</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Red</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Cyan</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Yellow</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Magenta</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-8.0Accessibility-8.1.4.10WindowOpacity">8.1.4.10&nbsp;Window O=
+pacity</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"79=
+a2d8b7-ab29-427d-961d-d2b722101a06" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 333.0px;">
+<col style=3D"width: 347.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Window Opacity Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>As Broadcast</p></td>
+<td class=3D"confluenceTd">
+<p>default <span data-colorid=3D"v03j1yyqdg">or if undefined then Solid</sp=
+an></p>
+<p>The window opacity defined by the broadcaster.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Solid</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Translucent</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Transparent</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Flashing</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-8.0Accessibility-8.2VideoDescription">8.2&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;Video Description</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"1e=
+dafb18-4d2a-4a39-8e1a-931f3f455e7f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 150.0px;">
+<col style=3D"width: 237.0px;">
+<col style=3D"width: 251.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Video Description Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Video Description is the verbal description of the action on the video, =
+included in the secondary audio program.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>When =E2=80=9COn=E2=80=9D is selected then Spanish/Video Description is =
+selected for Digital Audio.&nbsp;&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"b554rgaoiu">Off (default)</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>When Off is selected then English is selected for Digital Audio.</p></td=
+>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.2.1VideoDescriptionRequirements">8.2.1 Vide=
+o Description Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"82=
+ed3b7f-de2f-459f-aa6c-82140f7e2c30" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 419.0px;">
+<col style=3D"width: 219.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>VIdeo Description Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Broadcasters have included video description in the =E2=80=9CSPA=E2=80=
+=9D (Spanish) secondary audio channel.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Added to limited content as designated by broadcasters.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Selection of the SPA setting produces either Spanish or English with vid=
+eo description as provided by the broadcaster.</p></td>
+<td class=3D"confluenceTd">
+<p>This is the same as the Digital Audio setting of Spanish/Video Descripti=
+on setting.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Video Description applies to the following inputs:</p>
+<ul>
+<li>
+<p>tuner</p></li>
+<li>
+<p>composite</p></li>
+<li>
+<p>WatchFree+</p></li>
+</ul>
+<p>For all other inputs is grayed out or does not display for SmartCast app=
+.&nbsp;&nbsp;When setting is enabled EAS warnings will also be heard.&nbsp;=
+</p></td>
+<td class=3D"confluenceTd">
+<p>Inclusion for WatchFree applies due to the WatchFree+ OTA integration.</=
+p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-8.0Accessibility-8.3TalkBack">8.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;Talk Back</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"24=
+dbb0b0-37bd-430c-94e4-512705e0f041" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Talk Back Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>default</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.3.1TalkBackRequirements">8.3.1 Talk Back Re=
+quirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e4=
+cc04f5-3a7d-4f62-9f82-4180d466bfaf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 382.0px;">
+<col style=3D"width: 336.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Talk Back Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Selection of Text-to-Speech Talk back speaks all settings changes adjust=
+ed using the basic remote in English, spoken at the current customer volume=
+.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Maximum latency is 250 Msec.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Media audio and UI sounds are attenuated to 50% of current system volume=
+.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Media audio and UI sound attenuation should ramp down at 50-100 Msec.&nb=
+sp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Talk Back must be read back to completion unless interrupted and replace=
+d by a new event.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>default</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Talk Back does not apply to notifications resulting from SmartCast Mobil=
+e adjustments, only setting changes.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Annunciations of settings changed using the SmartCast Mobile are not spo=
+ken to avoid TTS of the same setting change on both the SmartCast Mobile an=
+d the TV.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>If Talk Back is enabled and the TV language is set to French or Spanish,=
+ then Talk Back is not heard as Talk Back only supports English.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If demo mode is enabled, then Talk Back is disabled, grayed out and unav=
+ailable and for SmartCast Mobile, does not display.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>For applications, the following must provide Talk Back support:</p>
+<ul>
+<li>
+<p>On press of HOME button, Talk Back annunciates the display of the SmartC=
+ast TV App launcher as well as the highlighted app.</p></li>
+<li>
+<p>Talk Back of the highlighted app during navigation of the SmartCast TV A=
+pp Launcher</p></li>
+<li>
+<p>Playback buttons must Talk Back when used with an app.&nbsp;&nbsp;</p></=
+li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Applications must provide Talk Back support as follows:</p>
+<ul>
+<li>
+<p>Talk Back required when navigating an application for content.</p></li>
+<li>
+<p>Playback buttons must Talk Back when used with an application.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>If launched during OOBE, Talk Back is persistent after OOBE exit.</p></t=
+d>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.3.2TalkBackEventsReadinFull">8.3.2 Talk Bac=
+k Events Read in Full</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"dc=
+2ed226-d018-4fcf-9a01-17c871bcd691" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 213.0px;">
+<col style=3D"width: 257.0px;">
+<col style=3D"width: 168.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Talk Back Events Read In Full</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"fx157253n4">Key Pressed</span></strong></p=
+></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Text-to-Speech applies to basic remote events and if applicable resultin=
+g OSD display.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Power key (announces power on and power off)</p></li>
+<li>
+<p>Input key</p></li>
+<li>
+<p>Channel Up/Down keys or digits when direct channel entry</p></li>
+<li>
+<p>Wide key</p></li>
+<li>
+<p>Pic key</p></li>
+<li>
+<p>Play/Pause key</p></li>
+<li>
+<p>CC key</p></li>
+<li>
+<p>Mute key on release of mute =E2=80=93 volume level only</p></li>
+<li>
+<p>Playback keys to control streaming content (embedded apps only)</p></li>
+<li>
+<p>Partner and VIA keys.&nbsp;&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>No Talk Back for Volume Up/Down or mute of volume</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On input or channel, speak OSD in full until completed or interrupted.&n=
+bsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>System Notification (e.g. sleep timer will turn off TV)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Media Player application navigation</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>SmartCast TV App Launcher</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>User Manual</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-8.0Accessibility-8.4SpeechRate">8.4&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;Speech Rate</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8c=
+01cb6b-772d-425f-9ff7-fbffbdc74d81" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Speech Rate Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Rate TTS is spoken</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Slow</p></td>
+<td class=3D"confluenceTd">
+<p>200 words per minute</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Normal (default)</p></td>
+<td class=3D"confluenceTd">
+<p>300 words per minute</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Fast</p></td>
+<td class=3D"confluenceTd">
+<p>400 words per minute</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.4.1SpeechRateRequirements">8.4.1 Speech Rat=
+e Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7b=
+c81000-b0d7-4d96-ad33-91223b9fe8ff" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Speech Rate Requirements</p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If demo mode is enabled, then Speech Rate is disabled, grayed out and un=
+available.</p></td>
+<td class=3D"confluenceTd">
+<p>For SmartCast app, does not display.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-8.0Accessibility-8.5ZoomMode">8.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;Zoom Mode</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"96=
+4d2785-fcd2-4bc1-8489-70c37b1c57dc" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Zoom Mode Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>default</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>If On is selected, zoom mode persists through power cycles.&nbsp;&nbsp;&=
+nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.5.1ZoomModeRequirements">8.5.1 Zoom Mode Re=
+quirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"16=
+324719-1078-4525-8323-77af421bdfa1" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 498.0px;">
+<col style=3D"width: 140.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Zoom Mode Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Zoom Mode enlarges the graphics plane for the quadrant of the OSD or the=
+ currently highlighted Settings by 200% (font size based on minimum require=
+d for legibility at 20/200).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The font size has been defined to allow a person with 20/20 vision to re=
+ad the text from a distance of 7 =E2=80=93 10 times the screen height.&nbsp=
+;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>For example, for a 50=E2=80=9D TV with a screen height of 2 feet, the fo=
+nt should be easily legible for a consumer from a minimum of 14 to a maximu=
+m of 20 feet away.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>This results in a minimum preferred font size of approximately 22 pixels=
+ or 16 points.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If demo mode is enabled then Zoom Mode is disabled, grayed out and unava=
+ilable and for SmartCast app, does not display.&nbsp;&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>When Zoom Mode is enabled, the current graphics plane is doubled.&nbsp;&=
+nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>For graphics that are full screen, a sector, defined as one quarter of t=
+he original image, fills the screen.&nbsp;&nbsp;There are 9 locations for s=
+ectors with doubled graphical content.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Zoom mode does not enlarge the graphic layer when Closed captions displa=
+yed on the TV.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"mqhl75b2kg">Closed captions has a text size settin=
+g that can be charged to large as per </span><a data-card-appearance=3D"inl=
+ine" href=3D"https://vizio.atlassian.net/wiki/spaces/PM/pages/149764571428/=
+8.0+Accessibility#5.1.4.2----Text-Size" rel=3D"nofollow">https://vizio.atla=
+ssian.net/wiki/spaces/PM/pages/149764571428/8.0+Accessibility#5.1.4.2----Te=
+xt-Size</a> .</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Any App launcher is doubled with sector 1 as default.</p>
+<ul>
+<li>
+<p>For any app, during navigation of content using a graphic layer, the def=
+ault zoom mode is defined by the highlighted area on the app. The TV shall =
+receive a highlighted region bounding box and IsText boolean flag from the =
+graphical framework and use that to determine the appropriate zoom region t=
+o display.&nbsp;Priority given to an anchor in the upper-left-hand corner o=
+f text fields and the center of any other field.&nbsp;&nbsp;The highlighted=
+ zone will guarantee the display of the anchor point determined from the fi=
+eld characteristics and maximize the area of the highlighted region display=
+ed.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.5.2ZoomModeappliesasfollows">8.5.2 Zoom Mod=
+e applies as follows</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"9e=
+c1d512-b574-46b3-88cd-93950e7de180" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Zoom Mode Application</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>All screens and OSD, including SmartCast TV UI.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>All settings and parameters in the Settings menu</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Display of channel and program information</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Applications</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<h3 id=3D"id-8.0Accessibility-8.5.3ZoomModeImage">8.5.3 Zoom Mode Image</h3=
+><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><img=
+ class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=3D"4=
+e08eb33ba10ee5191b1aaea934eca5915c1ef31b4c157522a8f8bcaefd76b8f" data-image=
+-src=3D"https://vizio.atlassian.net/wiki/download/attachments/149764571428/=
+image-20200930-031836.jpeg?version=3D1&amp;modificationDate=3D1601435917584=
+&amp;cacheVersion=3D1&amp;api=3Dv2" data-height=3D"89" data-width=3D"475" d=
+ata-unresolved-comment-count=3D"0" data-linked-resource-id=3D"149934670102"=
+ data-linked-resource-version=3D"1" data-linked-resource-type=3D"attachment=
+" data-linked-resource-default-alias=3D"image-20200930-031836.jpeg" data-ba=
+se-url=3D"https://vizio.atlassian.net/wiki" data-linked-resource-content-ty=
+pe=3D"image/jpeg" data-linked-resource-container-id=3D"149764571428" data-l=
+inked-resource-container-version=3D"42" data-media-id=3D"35ebb6d4-38dd-4a78=
+-b724-6fc7d7d4c12c" data-media-type=3D"file" width=3D"468" height=3D"87"></=
+span>
+<p>Graphic&nbsp;1. Zoom Mode sectors</p>
+<h3 id=3D"id-8.0Accessibility-8.5.4ZoomModeSectorSelection">8.5.4 Zoom Mode=
+ Sector Selection</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4a=
+cf4a57-e979-475d-99d4-9e2a36c93c26" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 365.0px;">
+<col style=3D"width: 273.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Zoom Mode sector selection</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When zoom mode is selected the notification is:</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Zoom mode enabled.&nbsp;&nbsp; Press and hold the &lt;gear icon&gt;/MENU=
+ key to enable zoom focus navigation using up, down, left and right.</p></l=
+i>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A long press of the MENU key enables zoom navigation mode and displays a=
+ confirming notification.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Another long press of the MENU key disables zoom navigation mode and dis=
+plays a confirming notification.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Notifications for long MENU key press are:</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Zoom navigation mode is On.</p></li>
+<li>
+<p>Zoom navigation mode is Off.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Up/Down/Left/Right keys moves the quadrant in the direction of the arrow=
+.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Zoom Mode sector is changed using the arrow keys.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>During zoom navigation mode a press of OK key if source is tuner display=
+s digit page for channel entry and disables zoom mode navigation mode.</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>During zoom navigation mode <span data-colorid=3D"t5buf49mje">short</spa=
+n> press of MENU key displays the menu and disables zoom navigation mode <s=
+pan data-colorid=3D"ks18fn6zst">(zoom mode persists)</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"oxpbgavn1q">Adjust keys sent to Quick menu for nav=
+igation as expected by user instead of to Zoom navigation mode. </span></p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>A subsequent long press of the MENU key disables zoom navigation mode an=
+d displays a confirming notification.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.5.5ZoomModeSectorSelection2020V/MONLY(not20=
+20Por2021&amp;beyond)">8.5.5 Zoom Mode Sector Selection 2020 V/M ONLY (not =
+2020 P or 2021 &amp; beyond)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"64=
+625109-deeb-42bd-986c-569db92f29b7" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 350.0px;">
+<col style=3D"width: 288.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Zoom Mode sector selection 2020</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When the Zoom Mode is enabled (from the setting or a long press of the W=
+IDE key) and at each subsequent power on, a notification displays.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Zoom mode enabled.&nbsp;&nbsp;Use your number pad to&nbsp;move the focus=
+ for zoom mode.&nbsp;&nbsp;Press the =E2=80=93 (Dash) key to stop using dig=
+its for zoom mode. Or press and hold the &lt;gear icon&gt;/MENU key to use =
+Left, Right, Up or Down to move the zoom mode focus.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A press of a digit key switches to the content in the sector of the same=
+ number, doubling the graphics in the sector.</p></td>
+<td class=3D"confluenceTd">
+<p>For example, the default for SmartCast TV is sector 1. To see SmartCast =
+TV bottom left, press 7 key.&nbsp;&nbsp;For TV center, press 5.&nbsp;&nbsp;=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Only the graphic plane is doubled, any video below is unchanged and stil=
+l visible if not covered by graphics</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If the sector requested does not include graphic content, then the secto=
+r is not changed and a message displays.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>To exit number pad Zoom Navigation mode, press the dash key. If number p=
+ad Zoom navigation mode has been disabled, another press of the DASH key en=
+ters Zoom Navigation mode only if a digit has not preceded the DASH key (wi=
+thin 2 seconds tunable), as would be the case during channel entry.</p></td=
+>
+<td class=3D"confluenceTd">
+<p>To change channels with direct digit entry, press dash key to end zoom n=
+avigation mode.&nbsp;&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>When Zoom Mode is disabled, then Zoom Navigation mode exits automaticall=
+y.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>The messages for launch and exit of Zoom Navigation mode are:</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Number pad in zoom mode</p></li>
+<li>
+<p>Number pad in digit mode.&nbsp;&nbsp;</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>The message when an empty sector is requested:</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>No content to display.&nbsp;&nbsp;</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>While number pad is in zoom mode, a press of 0 pauses zoom mode: graphic=
+s are again full screen instead of doubled by sector.&nbsp;&nbsp;</p>
+<ul>
+<li>
+<p>A press of any digit (including 0), returns to zoom mode for the graphic=
+s layer as defined by the digit.&nbsp;&nbsp;&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>When TV is powered on, if zoom mode is enabled, the number pad Zoom Navi=
+gation mode is enabled even if disabled during the last power session.</p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-8.0Accessibility-8.5.6Zoommodesector">8.5.6&nbsp;Zoom mode sec=
+tor</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ec=
+1e6f2f-b0a5-4a28-9d2c-03106ee25858" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 227.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 329.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Graphic Element</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Sector Default</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>SmartCast Home</p></td>
+<td class=3D"confluenceTd">
+<p>1</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>User Manual</p></td>
+<td class=3D"confluenceTd">
+<p>1</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Full Multi Media Player</p></td>
+<td class=3D"confluenceTd">
+<p>1</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>PIN entry for content</p></td>
+<td class=3D"confluenceTd">
+<p>2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Warnings &amp; Notifications</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ydqcqp27id">7</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"jhrh8kdmmr">Notifications moved to screen bottom</=
+span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Picture Sliders</p></td>
+<td class=3D"confluenceTd">
+<p>2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Audio Sliders</p></td>
+<td class=3D"confluenceTd">
+<p>2</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Input Change Control</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ova7a1siqa">3</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"htce68bfvb">Input change control (top right) repla=
+ced Info Bar</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Input Selector</p></td>
+<td class=3D"confluenceTd">
+<p>4</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Wide Selector</p></td>
+<td class=3D"confluenceTd">
+<p>4</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode selector (PIC key)</p></td>
+<td class=3D"confluenceTd">
+<p>4</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>Dialog box</p></td>
+<td class=3D"confluenceTd">
+<p>5</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>Picture Size/Position adjustment</p></td>
+<td class=3D"confluenceTd">
+<p>5</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>Volume adjustment</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"iufanjk5ct">3</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"eiwlhv38xn">Volume moved to top right</span></p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p>Color Tuner</p></td>
+<td class=3D"confluenceTd">
+<p>8</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p>Full Screen apps</p></td>
+<td class=3D"confluenceTd">
+<p>apps determine</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_4_976214710.1728074970881
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/4e08eb33ba10ee5191b1aaea934eca5915c1ef31b4c157522a8f8bcaefd76b8f
+
+/9j/4AAQSkZJRgABAQAAkACQAAD/4QCARXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQAD
+AAAAAQABAACgAgAEAAAAAQAAA7agAwAEAAAAAQAAALIAAAAA/+0AOFBob3Rvc2hvcCAzLjAAOEJJ
+TQQEAAAAAAAAOEJJTQQlAAAAAAAQ1B2M2Y8AsgTpgAmY7PhCfv/AABEIALIDtgMBIgACEQEDEQH/
+xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMA
+BBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVG
+R0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0
+tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEB
+AQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2Fx
+EyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZ
+WmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TF
+xsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2wBDAAICAgICAgMCAgMFAwMDBQYFBQUF
+BggGBgYGBggKCAgICAgICgoKCgoKCgoMDAwMDAwODg4ODg8PDw8PDw8PDw//2wBDAQICAgQEBAcE
+BAcQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/
+3QAEADz/2gAMAwEAAhEDEQA/APqX9nH4c/GT4v8A7PPhH4z+LP2ivF2k3Gu2DXl0kI04W8O2R0O0
+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
+------=_Part_4_976214710.1728074970881--

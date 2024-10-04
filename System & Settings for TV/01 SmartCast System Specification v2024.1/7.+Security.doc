@@ -1,0 +1,650 @@
+Message-ID: <605805159.7.1728074600924@a050e9963acb>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6_789509264.1728074600923"
+
+------=_Part_6_789509264.1728074600923
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>7. Security</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>7. Security</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074600913 {padding: 0px;}
+div.rbtoc1728074600913 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074600913 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074600913">
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-7.Security-7.1Anti-hackingMeasures">7.1 Anti-hacking Mea=
+sures</a></li>
+<li><a href=3D"#id-7.Security-7.2SecureKeyHiding">7.2 Secure Key Hiding</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-7.Security-7.2.1TrustedExecutionEnvironmentsupportforIoT=
+">7.2.1 Trusted Execution Environment support for IoT</a></li>
+</ul></li>
+<li><a href=3D"#id-7.Security-7.3SecureBoot">7.3 Secure Boot</a></li>
+<li><a href=3D"#id-7.Security-7.4Penetration(PEN)Testing">7.4 Penetration (=
+PEN) Testing</a></li>
+<li><a href=3D"#id-7.Security-7.5CastCertification">7.5 Cast Certification<=
+/a></li>
+<li><a href=3D"#id-7.Security-7.6AirPlayCertification">7.6 AirPlay Certific=
+ation</a></li>
+<li><a href=3D"#id-7.Security-7.7HTML5Security">7.7 HTML5 Security</a></li>
+</ul>
+</div>
+<p>SmartCast TV supports a robust security methodology.</p>
+<h2 id=3D"id-7.Security-7.1Anti-hackingMeasures">7.1 Anti-hacking Measures<=
+/h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b0=
+20a084-7938-43ff-b0fd-cbdb258be678" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Anti-Hacking Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bootloader, kernel and specific rootfs/system files shall be hashed, sec=
+ured, and validated at runtime with a chain-of-trust traceable to specific =
+keys instantiated in the SoC silicon.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Whereas silicon instance keys may result in stronger code protection, a =
+scheme must be identified so the system shall run (at least the first time =
+in the factory) with the same code image on every unit, installed at board =
+build time.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>No specific security equipment shall be installed at the factory.</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>All code protections shall be such that code and key are PGP encrypted f=
+rom Qterics.&nbsp; Not emailed in the clear.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>SoC shall provide a DRAM encrypting feature that is HW based and transpa=
+rent and shall not be accessible by software.&nbsp; This is to preclude an =
+attack by monitoring DRAM data. This is to&nbsp;protect partner content.&nb=
+sp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>JTAG and PCI ports shall be disabled on all production chips.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Debugging console output shall be disabled on production systems&nbsp;an=
+d only enabled withva special unlock key controlled by VIZIO.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Production systems shall not allow any console input&nbsp;(serial).</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>All development and debugging ports and services (e.g. telnet) shall be =
+disabled in production products.&nbsp; All open ports shall be identified a=
+nd reviewed (with justification required) during security reviews.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>The platform implementation shall preclude loading or launching any code=
+ elements not subject to signature validation or from a secure store.&nbsp;=
+This mechanism shall be designed to preclude a hacker from performing an at=
+tack by file system substitution.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Field replacement of a secure code set with an unsecure one shall be sys=
+tematically prevented to ensure that all system components remain completel=
+y secure.&nbsp; If not signed firmware then TV shall not boot because lacki=
+ng correct key ladder.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>Anti-rollback (ARB) should be implemented to prevent reloading of older =
+firmware with exposed exploits.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>Platform shall provide&nbsp;TLS 1.2 and 1.3.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>SELinux kernel security module shall be provided along with a mechanism =
+supporting access control security policies, including mandatory access con=
+trols. &nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-7.Security-7.2SecureKeyHiding">7.2 Secure Key Hiding</h2>
+<p>SMARTCAST TV shall implement key protection, in-the-field provisioning, =
+and revocation using the Qterics (ULI) provisioning infrastructure.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"df=
+d3c5b1-0d9a-4f08-a5d2-8368caef7d92" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Secure Key Hiding Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Secure storage, traceable via a chain of trust to VIZIO and enforced wit=
+h silicon specific pre-shared hardware keys, shall be provided for all secu=
+re elements on the platform, including secure keys.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>All key protection schemes shall be in accordance with the respective se=
+rvice partner robustness rules.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Each secure service shall require specific keys and attributes to be per=
+sistently stored. Ingestion and management of such keys is accomplished by =
+Qterics (ULI) using a secure platform infrastructure.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Ingested DRM keys should be individualized with the device unique root k=
+ey prior to storage. This ties them to a particular unit thereby eliminatin=
+g possible device cloning.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-7.Security-7.2.1TrustedExecutionEnvironmentsupportforIoT">7.2.=
+1 Trusted Execution Environment support for IoT</h3>
+<p>The trusted execution environment (TEE) requires API&nbsp;extension f<sp=
+an class=3D"legacy-color-text-default">or IoT to support new cert provision=
+ed from Qterics for SCPL layer.</span></p>
+<h2 id=3D"id-7.Security-7.3SecureBoot">7.3 Secure Boot</h2>
+<p>Secure boot shall be supported as follows:</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"74=
+030d7b-c42f-439e-a7a7-fdd6107cb2f1" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Secure Boot Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The system shall implement a secure boot method.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>All portions of code, except for the lowest level ROM boot code shall be=
+ capable of being securely updated in the field.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Normally, secure boot shall be accomplished in a multi-step process, in =
+which each subsequently loaded code component is validated by the one befor=
+e it. In general, this sequence involves a low-level, tamper resistant ROM =
+that shall use a secure hardware key to decrypt and launch a bootloader, wh=
+ich, in turn, contains the secure keys necessary to decrypt, verify the int=
+egrity of the next code element (in general, the system kernel), and transf=
+er execution to it.&nbsp;Each code set and library shall be validated in tu=
+rn (possibly using a digsig utility) and loaded.&nbsp; Application code sha=
+ll also be security validated (either by accessing a secure store or by dig=
+sig validation) prior to being loaded and run. Other methodologies determin=
+ed to provide the equivalent level of security shall be deemed acceptable.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The security chain of trust shall ensure that only VIZIO signed code is =
+capable of running on the bootloader, kernel and certain system files.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A security exception shall be noted and the system shall halt when any c=
+ode validation or verification step fails.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>The core hardware keys used in the boot chain-of-trust shall be permanen=
+t and unique (at least on a platform family basis).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Component authentication during boot shall be required to make sure comp=
+romised devices won=E2=80=99t run. The authentication is tied through a cha=
+in of trust to an OTP root key **. Control of the secure boot sequence shal=
+l start with a trusted, low level loader. TIf the bootloader is properly si=
+gned it is allowed to run. The bootloader shall subsequently load the kerne=
+l and that same signature check is repeated. If the kernel passes the signa=
+ture check,it is allowed to run. The kernel mounts the filesystems and in t=
+hose file systems will be certain files that also need to be authenticated.=
+&nbsp;</p>
+<p>** VIZIO would prefer to not have the root key be symmetric, because tha=
+t would necessitate that it be shared with the factory. It would of course =
+be better that this be the public half of an asymmetric RSA key (although b=
+it length can be prohibitive for OTP), or the hash of the public key which =
+could be built in to the bootloader.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Component authentication shall run in a trusted execution environment an=
+d it is tasked with loading and authentication of the bootloader.&nbsp;</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>A mechanism is required to 1) at signature time define which files need =
+to be authenticated and 2) an authenticator mechanism that can be tied thro=
+ugh the chain of trust back to the root key. A full rootfs/system authentic=
+ation is NOT required because the processing time would be excessive.</p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>If the image update/validation/boot fails, return back to the last known=
+ good image. &nbsp;This can be achieved by using ping-pong partition for th=
+e previous and current images.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-7.Security-7.4Penetration(PEN)Testing">7.4 Penetration (PEN) T=
+esting</h2>
+<p>To ensure security, Penetration (PEN) testing is required as follows.</p=
+>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d6=
+74f748-bb2f-48a3-a6b1-981d5af3b819" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>PEN Testing Requirement</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Penetration (PEN)&nbsp;Testing shall be required every year based on cha=
+nges on the software stack.&nbsp; PEN testing shall&nbsp;be performed by an=
+ outside testing house every two years.&nbsp; Internal PEN testing is requi=
+red: 1) New Firmware and 2) Major production releases.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>PEN testing shall include both white&nbsp;and black box testing.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>PEN full results shall be shared with VIZIO and reviewed.&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-7.Security-7.5CastCertification">7.5 Cast Certification</h2>
+<p>The Cast receiver shall rely on platform to provide secure access to Cas=
+t certificate and private key used for device authentication. Google provid=
+es a cast certificate private key that shall be secured by secure processor=
+ and must not be accessible to CPU in clear form.</p>
+<p>Vendor shall follow all process controls and requirement specifications =
+provided by google for certifications and shall address all relevant issues=
+ until the certification passes all tests. Vendor shall closely work with b=
+oth Vizio during such process.</p>
+<h2 id=3D"id-7.Security-7.6AirPlayCertification">7.6 AirPlay Certification<=
+/h2>
+<p>AirPlay shall rely on platform to provide secure access to the MFI and F=
+PS certifications are used for device authentication for AirPlay and HomeKI=
+t integrations. Apple provides these certificates via a Qterics delivery, t=
+hat shall be secured by secure processor and must not be accessible to CPU =
+in clear form.</p>
+<p>Vendor shall follow all process controls and requirement specifications =
+provided by Apple for certifications and shall address all relevant issues =
+until the certification passes all tests. Vendor shall closely work with bo=
+th Vizio during such process.</p>
+<h2 id=3D"id-7.Security-7.7HTML5Security">7.7&nbsp;HTML5&nbsp;Security</h2>
+<p>The following requirements for applications developed for SmartCast TV s=
+hall be required to maximize platform security while balancing the needs of=
+ our services partners to minimize content delivery costs.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a0=
+29d285-ff39-4a73-a627-8c795c4abf10" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>HTML5 Security Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>All browser connections shall be initiated as HTTPS:&nbsp;with the serve=
+r-side certificates traceable to the Root CA certificates provisioned by VI=
+ZIO on the platform.&nbsp;&nbsp;Upon request, VIZIO&nbsp;can provide a list=
+ of approved and supported Root CAs (subject to change at any time).</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The platform application launch infrastructure shall actively block any =
+non-HTTPS (TLS) initial requests.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The platform browser infrastructure shall block any attempt to perform a=
+ non-authenticated (HTTP) load of mixed active content.&nbsp; That is, all =
+content accessed by the browser, including any references made within HTML =
+or other scripts served to the platform, shall be subject to HTTPS (TLS) ac=
+cess except passive content, such as images, audio and video content. &nbsp=
+;This specific relief of the TLS requirement for passive content is allowed=
+ to reduce the cost impact of serving large-format content, while still pre=
+serving the desirable security aspects of ensuring all active content is su=
+bject to TLS. &nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>For further information about mixed content handling, see the W3C&nbsp;=
+=E2=80=9CMixed Content Specification=E2=80=9D (<a class=3D"external-link" h=
+ref=3D"https://www.w3.org/TR/mixed-content/" rel=3D"nofollow">https://www.w=
+3.org/TR/mixed-content/</a>). &nbsp;In the parlance of the W3C specificatio=
+n, the platform shall block all =E2=80=9CBlockable Content=E2=80=9D and ALL=
+OW all =E2=80=9COptionally Blockable=E2=80=9D content.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>All accesses shall by services shall be subject to the CORS standard.&nb=
+sp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_6_789509264.1728074600923--

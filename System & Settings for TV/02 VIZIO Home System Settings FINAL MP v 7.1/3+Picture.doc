@@ -1,0 +1,6355 @@
+Message-ID: <1402718329.7.1728074725914@655e6d022ca6>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6_1237584518.1728074725914"
+
+------=_Part_6_1237584518.1728074725914
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>3 Picture</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>3 Picture</h1>
+    <div class=3D"Section1">
+        <p>
+<style>[data-colorid=3Dxaw2rg2ea0]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dxaw2rg2ea0]{color:#cf2600}[data-colorid=3Dftli5vj6s0]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dftli5vj6s0]{colo=
+r:#cf2600}[data-colorid=3Duatme48eve]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Duatme48eve]{color:#cf2600}[data-colorid=3Dln33ave8=
+08]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dln33ave808]=
+{color:#cf2600}[data-colorid=3Drikmmyxn7g]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Drikmmyxn7g]{color:#cf2600}[data-colorid=3Dbxnxg=
+qvm22]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dbxnxgqvm=
+22]{color:#cf2600}[data-colorid=3Dcka8rcxs7i]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dcka8rcxs7i]{color:#cf2600}[data-colorid=3Dnt=
+p8ea96bx]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dntp8e=
+a96bx]{color:#cf2600}[data-colorid=3Djz4ve1esra]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Djz4ve1esra]{color:#cf2600}[data-colorid=
+=3Dxjrb8yxxhm]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+xjrb8yxxhm]{color:#cf2600}[data-colorid=3Dbancmogkw8]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dbancmogkw8]{color:#cf2600}[data-colo=
+rid=3Dfo6fnoyq4m]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dfo6fnoyq4m]{color:#cf2600}[data-colorid=3Dzl4ejy7i2v]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dzl4ejy7i2v]{color:#cf2600}[data-c=
+olorid=3Dtq47qxcu7c]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dtq47qxcu7c]{color:#cf2600}[data-colorid=3Dagpqeye48d]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dagpqeye48d]{color:#cf2600}[dat=
+a-colorid=3Dwask60gqs4]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dwask60gqs4]{color:#cf2600}[data-colorid=3Dw1ryla7n7p]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dw1ryla7n7p]{color:#cf2600}[=
+data-colorid=3Dleupnpai45]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dleupnpai45]{color:#cf2600}[data-colorid=3Dcdmfqo8gzi]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dcdmfqo8gzi]{color:#cf260=
+0}[data-colorid=3Dlr1ca0dhrx]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dlr1ca0dhrx]{color:#cf2600}[data-colorid=3Duvdp3r7sts]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Duvdp3r7sts]{color:#cf=
+2600}[data-colorid=3Dcufr6kau5x]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dcufr6kau5x]{color:#cf2600}[data-colorid=3Dleqexl9iir]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dleqexl9iir]{color:=
+#cf2600}[data-colorid=3Dwi97vfvxn1]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dwi97vfvxn1]{color:#cf2600}[data-colorid=3Dl5hz3gqxr0]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dl5hz3gqxr0]{col=
+or:#cf2600}</style></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"02=
+037733-8e49-4d5e-addf-143ee418ee21" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 149.0px;">
+<col style=3D"width: 161.0px;">
+<col style=3D"width: 163.0px;">
+<col style=3D"width: 48.0px;">
+<col style=3D"width: 194.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Advanced Picture</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Submenu</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>slider</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Brightness (SDR) OR</p>
+<p>Tone Mapping (HDR)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Backlight displays with SDR content</p></li>
+<li>
+<p>Tone Mapping displays with HDR</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Black Level</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Contrast</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Color</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Color</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Tint</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Color Temperature</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Clarity</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Contrast Enhancer</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Dark Detail</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Super Resolution</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Sharpness</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Edge Enhancement</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Signal Noise</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Block Noise</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Contour Smoothing</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p>Motion Control</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Submenu for 3 settings</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Judder Reduction</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">20</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Motion Blur Reduction</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">21</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Clear Action</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">22</td>
+<td class=3D"confluenceTd">
+<p>Advanced Picture</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">23</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Fim Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">24</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Active Pixel Tuning</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Renamed for Local Contrast</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">25</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Active Full Array=E2=84=A2 OR Global Dimming</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Active Full Array for panels with local dimming.&nbsp;Global Dimming for=
+ panels with global dimming.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">26</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Ambient Light Sensor</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">27</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Aspect Ratio</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">28</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Enhanced Viewing Angle</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">29</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Picture Mode Edit</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>submenu with 2 settings</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">30</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Save Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">31</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Reset Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Reset Picture mode applies to preset picture modes.</p>
+<p>Grayed out if custom picture mode&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">32</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Delete Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Delete Picture mode applies to custom picture modes</p>
+<p>Grayed out if preset picture mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">33</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">34</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Color Calibrator</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Supported in TV but not customer facing: adjust only for SC mobile.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">35</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Picture Mode</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>reference only: not selectable, grayed out.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">36</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Color Temperature&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;reference only: not selectable, grayed out.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">37</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Dynamic Range&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;reference only: not selectable, grayed out.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">38</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Color Tuner</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Hue, Saturation, Brightness, each with Red, Green, Blue, Cyan, Magenta, =
+Yellow</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;yes</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">39</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>White Balance Tuner&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>IRE%, RGB Offset, RGB Gain each with Red, Green, Blue</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;yes</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>2-point White Balance (Offset and Gain</p>
+<p>20-point White Balance&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">40</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Reset Color Termperature</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">41</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Gamma&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p></p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">42</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>Calibration Tests</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p></p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">43</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<ul>
+<li>
+<p>Flat Test Pattern&nbsp;</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">44</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<ul>
+<li>
+<p>Ramp Test Pattern&nbsp;</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">45</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<ul>
+<li>
+<p>SMPTE Test Pattern&nbsp;</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">46</td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<ul>
+<li>
+<p>Uniformity Analyzer Test Pattrn&nbsp;</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>3.0 Picture Requirements</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8f=
+1bb5dc-3680-4c9e-869d-cc1fa56432f2" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><strong>Picture Requirements </strong></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode is saved for the current input only.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>For HDMI inputs, picture mode settings are saved separately for Dolby Vi=
+sion, HDR10/HDR10+ and HLG. In short, picture modes are saved by input and =
+content for HDMI</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>After the first adjustment(s) to a picture setting, upon exit of the pic=
+ture submenu, display a pop up message warning of increased energy consumpt=
+ion. The notification displays only once.&nbsp;&nbsp;The notification is =
+=E2=80=9CCustomizing the picture settings on the TV will change the energy =
+consumption required to operate the TV.&nbsp;=E2=80=9C</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>For changes that apply to a preset picture mode, an asterisk is added to=
+ the picture mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Some settings display a slider on the TV for the adjustment.&nbsp; If se=
+lected from the SmartCast app, then adjustments on the slider displayed on&=
+nbsp;the TV&nbsp;are controlled by the SmartCast app&nbsp;so user can watch=
+ the changes on the TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Not all picture settings are compatible with each other.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>When HDMI with 4:4:4 is detected (Full Color 4:4:4 set to On), the TV dy=
+namically updates the picture settings as required to display the content.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>&nbsp;HDR 4:2:2 supported for all picture settings.&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.0.1PictureCompatibilityandPriority">3.0.1 Picture C=
+ompatibility and Priority</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f3=
+364e76-463f-4523-ace5-4a8d74840e45" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 97.14px;">
+<col style=3D"width: 97.14px;">
+<col style=3D"width: 97.14px;">
+<col style=3D"width: 97.14px;">
+<col style=3D"width: 97.14px;">
+<col style=3D"width: 97.14px;">
+<col style=3D"width: 97.14px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>COMPATIBILITY &amp; PRIORITY</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>MEMC</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Game Low Latency</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Clear Action Rate: LED Overdrive</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Clear Action Rate: Backlight Timing</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Active Full Array (Active LED zones)</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Ambient Light Sensor AKA ABC</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Backlight Boost</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>Backlight Boost</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>Backlight Boost</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Ambient Light Sensor AKA ABC Auto Brightness (Backlight) Control</p></td=
+>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>LED Overdrive</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Active Full Array (Active LED Zones)</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Clear Action Rate: Backlight Timing</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Clear Action Rate: LED Overdrive</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td class=3D"confluenceTd">
+<p>OK</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Game Low Latency</p></td>
+<td class=3D"confluenceTd">
+<p>Game Low Latency</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td data-highlight-colour=3D"#f2f2f2" class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.0.2PictureSettingsNotSupportedbyContent">3.0.2 Pict=
+ure Settings Not Supported by Content</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"91=
+57f183-8f86-4091-a7f3-07e012aea54a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 170.0px;">
+<col style=3D"width: 170.0px;">
+<col style=3D"width: 170.0px;">
+<col style=3D"width: 170.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>PICTURE SETTING&nbsp;*</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Content: 4:4:4 </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Content: 120 Hz source (HDMI only)</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>NOTES</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Motion Blur Reduction</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Content over 60 hertz is not supported (not limited to 120 hertz)</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Judder Reduction</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Content over 60 hertz is not supported (not limited to 120 hertz)</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Sharpness</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Content is RGB and 120 hertz is not supported</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Block Noise&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Not supported</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Signal Noise&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Not supported</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Film Mode</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Not supported</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>
+<p>Picture settings that do not apply for the content type includes an X wi=
+th setting grayed out, not selectable and set to Off if applicable.</p></li=
+>
+</ul>
+<h2 id=3D"id-3Picture-3.1PictureMode">3.1 Picture Mode</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"74=
+e5d565-f6cd-41cb-88f9-809ce1f590a0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bright (default if OOBE completed)</p></td>
+<td class=3D"confluenceTd">
+<p>Bright&nbsp;based on calibrated except Color Temperature is 9300K (Norma=
+l). &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>OOBE completed then all inputs assigned to the Bright picture mode (TV n=
+ot in demo mode).&nbsp;</p>
+<p>Reduce Judder &amp; Motion set to 5 instead of 0.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Calibrated</p></td>
+<td class=3D"confluenceTd">
+<p>For bright rooms: default color temperature (warm) follows the D65 stand=
+ard,&nbsp;set at 6500K.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Calibrated Dark</p></td>
+<td class=3D"confluenceTd">
+<p>For dark rooms: default color temperature (warm) follows the D65 standar=
+d,&nbsp;set at 6500K.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Sports</p></td>
+<td class=3D"confluenceTd">
+<p>Sports is optimized for viewing sports and based Calibrated except Contr=
+ast is higher and Brightness is lower.</p></td>
+<td class=3D"confluenceTd">
+<p>Reduce Judder &amp; Motion set to 5 instead of 0.</p>
+<p>Clear Action is turned off.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Custom</p></td>
+<td class=3D"confluenceTd">
+<p>Up to 4 custom picture modes possible, saved globally. &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.1.1PictureModeforDemoMode">3.1.1 Picture Mode for D=
+emo Mode</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"89=
+0e0a1a-1af5-4ba9-bc88-2d2f4f619d17" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode Settings for Demo</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Vivid picture mode is supported for demo mode only.</p></td>
+<td class=3D"confluenceTd">
+<p>Vivid is no longer selectable by customers: not included in Picture Mode=
+ settings.</p></td>
+<td class=3D"confluenceTd">
+<p>All Settings is not selectable during demo mode: not possible to view Pi=
+cture Mode settings</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If demo mode launched then automatically switch to Vivid picture mode</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>The saved picture mode is the mode prior to demo mode launch, usually Br=
+ight if unchanged.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When demo mode stopped, revert back to previous picture mode.</p></td>
+<td class=3D"confluenceTd">
+<p>Previous picture mode is always Bright for OOBE. After OOBE exit the pre=
+vious picture mode is the default of Bright unless user has changed it.</p>=
+</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.1.2PictureModebanks">3.1.2 Picture Mode banks</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"27=
+992a76-87f7-4be4-9d35-b228bb71200f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode Banks</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Picture mode</p></td>
+<td class=3D"confluenceTd">
+<p>SDR content is blank after picture mode. SDR is NOT added</p></td>
+<td class=3D"confluenceTd">
+<p>Remains =E2=80=9CPicture Mode=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode HLG</p></td>
+<td class=3D"confluenceTd">
+<p>The picture settings for Hybrid Log Gamma (HLG) content are shared with =
+SDR with the following caveats:</p>
+<ul>
+<li>
+<p>SDR and HLG interpret Backlight differently.&nbsp;&nbsp;Brightness, the =
+name for Backlight, is peak level for SDR but tone map for HLG.&nbsp;&nbsp;=
+A perceptually acceptable backlight that applies to both is expected.</p></=
+li>
+<li>
+<p>For HLG, white is always white, no change (hence different from Brightne=
+ss setting).</p></li>
+<li>
+<p>All the other picture settings are common and adjust the same way.</p></=
+li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Picture Mode, text string =E2=80=9CHLG=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode HDR10</p></td>
+<td class=3D"confluenceTd">
+<p>Shared with HDR10+</p></td>
+<td class=3D"confluenceTd">
+<p>Picture Mode, text string =E2=80=9CHDR10=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode HDR10+</p></td>
+<td class=3D"confluenceTd">
+<p>Shared with HDR10</p></td>
+<td class=3D"confluenceTd">
+<p>Picture Mode, text string =E2=80=9CHDR10+=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode Dolby Vision</p></td>
+<td class=3D"confluenceTd">
+<p>Dolby Vision has dedicated picture mode bank</p></td>
+<td class=3D"confluenceTd">
+<p>DV logo only</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.1.2.1PictureModeBanksHDRContent">3.1.2.1&nbsp;Pictu=
+re Mode Banks HDR Content</h4>
+<p>If HDR content, then display HR10, HDR10+ HLG or Dolby Vision <span data=
+-colorid=3D"bxnxgqvm22">with picture mode </span>and in TV information.&nbs=
+p;&nbsp;For Dolby Vision a logo displays <span data-colorid=3D"agpqeye48d">=
+for picture mode</span>.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ef=
+a048e8-db62-4f47-baae-0e188a2d3c8c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 100.0px;">
+<col style=3D"width: 108.0px;">
+<col style=3D"width: 116.0px;">
+<col style=3D"width: 88.0px;">
+<col style=3D"width: 102.0px;">
+<col style=3D"width: 102.0px;">
+<col style=3D"width: 102.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>YEAR</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Platform</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>HDR10</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>HDR10+</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>FreeSync HDR</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Dolby Vision</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>HLG</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>2024</p></td>
+<td class=3D"confluenceTd">
+<p>5686</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">no</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>2025</p></td>
+<td class=3D"confluenceTd">
+<p>5686</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">no</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">YES</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.1.3PictureModesPresetandCustom">3.1.3 Picture Modes=
+ Preset and Custom</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a1=
+d0a062-24d0-46ed-bd92-a0f47f9dd7d2" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 182.0px;">
+<col style=3D"width: 536.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode Types</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Preset picture mode</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Changes made to a picture setting that apply to a picture mode are appli=
+ed immediately but after the first change an asterisk is appended to the pi=
+cture mode name, for example, Calibrated*.&nbsp; No limit to number of chan=
+ges.&nbsp;</p></li>
+<li>
+<p>To return to default settings for the preset picture selected Reset Pict=
+ure mode.</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Custom picture mode</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>From a preset or changed picture mode (with asterisk), select Save Pictu=
+re Mode to create a new picture mode.&nbsp; To save, a custom picture mode =
+must be named.&nbsp;A changed preset picture mode is unchanged when Save Pi=
+cture Mode is invoked.&nbsp; To revert the source picture mode to defaults =
+use Reset to Picture Mode.</p></li>
+<li>
+<p>A custom picture mode is saved globally for all inputs</p></li>
+<li>
+<p>A maximum of <strong>4</strong> unique custom picture modes can be saved=
+ for all inputs. Any changes to a custom picture mode enables the change gl=
+obally (for all inputs).</p></li>
+<li>
+<p>An attempt to create a seventh picture mode results in an error message =
+displayed in a dialog box with OK button.</p></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.1.4ColorTuneradjustmentsSavedtoPictureMode">3.1.4 C=
+olor Tuner adjustments Saved to Picture Mode</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"39=
+c324d5-f64f-4b89-a68e-e224d07816b4" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 213.0px;">
+<col style=3D"width: 505.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Color Tuner Adjustment</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Color Tuner Hue, Saturation or Brightness</p></td>
+<td class=3D"confluenceTd">
+<p>Color Tuner adjustments are available only from the VIZIO mobile app.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Asterisk is appended to the Picture Mode setting with the adjustment (e.=
+g. Calibrated*)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>The asterisk is removed when Reset Picture Mode is invoked.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Adjustments to a picture mode are saved by input<strong> and dynamic ran=
+ge. </strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.2BrightnessandToneMapping">3.2 Brightness and Tone =
+Mapping</h2>
+<p>Brightness previously named Backlight</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"1a=
+d177ce-c70b-4aa7-b745-9dd70dfc295c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The setting is in the same location dependent on content</p>
+<ul>
+<li>
+<p>If SDR then Brightness is setting name</p></li>
+<li>
+<p>If HDR then Tone Mapping is setting name</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Brightness was formerly named Backlight.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>For HDR content, Tone Mapping is a&nbsp;comparable to Backlight.</p></td=
+>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.2.1Brightness(SDR)">3.2.1 Brightness (SDR)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7d=
+986eeb-b5ee-474d-97b7-56f924046c41" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A slider adjusts the backlight value, that is the LED panel brightness, =
+with a range from 0 to 100.</p></td>
+<td class=3D"confluenceTd">
+<p>Brightness was formerly named Backlight.</p>
+<p>Technically the adjustment changes backlight but the effect appears to c=
+hange brightness.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The default varies by picture mode and is based on the Brightness as des=
+cribed in the specification =E2=80=9CPicture Modes spec v4.3.pdf=E2=80=9D o=
+r the latest version.</p>
+<ul>
+<li>
+<p>Calibrated: as defined Picture Modes spec v4.3.pdf</p></li>
+<li>
+<p>Calibrated Dark: as defined Picture Modes spec v4.3.pdf</p></li>
+<li>
+<p>Bright: 100</p></li>
+<li>
+<p>Sports: as defined Picture Modes spec v4.3.pdf</p></li>
+<li>
+<p>Vivid: Max Luminance</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If Ambient Light Sensor has been set, Brightness can not be adjusted and=
+ is grayed and not selectable.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.2.2ToneMapping(HDR)">3.2.2 Tone Mapping (HDR)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"28=
+92c0ba-fd6d-430b-90b1-3cd193d1d321" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Tone Mapping applies to all HDR content including:</p>
+<ul>
+<li>
+<p>HDR10</p></li>
+<li>
+<p>HDR10+</p></li>
+<li>
+<p>Dolby Vision</p></li>
+<li>
+<p>HLG</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A slider adjusts the Tone Mapping value with a range from 0 to 100.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Tone mapping brightens the screen by adjusting the mid-range of the tone=
+ mapping curve.&nbsp; Applies to LED and OLED panels.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.2.2.1ToneMappingDefaultbyPictureMode">3.2.2.1 Tone =
+Mapping Default by Picture Mode</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"44=
+64b71a-e162-4198-9bf5-036c232e72b2" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Tone Mapping default</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bright</p></td>
+<td class=3D"confluenceTd">
+<p>100, DV:70</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Calibrated</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Calibrated Dark</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Sports</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Vivid</p></td>
+<td class=3D"confluenceTd">
+<p>100</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.3BlackLevel">3.3 Black Level</h2>
+<p>Black Level previously named Brightness</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"73=
+ecee7b-2784-483f-998a-c6dd462d7168" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Brightness configures the black level of the picture.</p></td>
+<td class=3D"confluenceTd">
+<p>Black Level was formerly named Brightness.</p>
+<p>Technically the adjustment changes brightness but the effect appears to =
+change black level.<span data-colorid=3D"fo6fnoyq4m"> </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A slider adjusts the Black Level with a range from 0 to 100.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The default Black Level setting value for SDR is</p>
+<ul>
+<li>
+<p>50: Bright (sku dependent), Calibrated, Calibrated Dark</p></li>
+<li>
+<p>48: Bright (sku dependent).</p></li>
+<li>
+<p>As per comment Picture Modes spec v4.3.pdf: Sports, Vivid</p></li>
+</ul>
+<p>The default Black Level setting value for HDR is</p>
+<ul>
+<li>
+<p>48: Bright, Vivid (per sku)</p></li>
+<li>
+<p>50: Bright, Calibrated, Calibrated Dark, Sports</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.4Contrast">3.4 Contrast</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"76=
+b98d95-6311-429e-a94d-eb48f7985eb0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Contrast configures the white level of the picture.</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A slider adjusts the Contrast value with a range from 0 to 100.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The default&nbsp;Contrast setting value is 50.</p>
+<ul>
+<li>
+<p>Except for SDR Sports and SDR Vivid: default is as per comment Picture M=
+odes spec v4.3.pdf</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.5Color">3.5 Color</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c5=
+9bf6a2-542c-4fd5-af76-d6df3cbbbd81" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 386.0px;">
+<col style=3D"width: 333.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Settings in Color submenu optimize the color of the TV.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Color</p></li>
+<li>
+<p>Tint</p></li>
+<li>
+<p>Color Temperature</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.5.1Color">3.5.1 Color</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7d=
+12dcf6-23d7-49fe-86bd-6f73e327eabd" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Color configures the intensity of the picture colors.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A slider adjusts the Color value with a range from 0 to 100.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The default Color value is defined below.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.5.1.1ColorDefaultsbyPictureMode">3.5.1.1 Color Defa=
+ults by Picture Mode</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"21=
+f96616-2bf2-4bf6-9303-5b22dce622de" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Pic Mode</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Color SDR</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Color HDR</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bright</p></td>
+<td class=3D"confluenceTd">
+<p>Per Picture Modes spec*</p></td>
+<td class=3D"confluenceTd">
+<p>60/65</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Calibrated</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>55, DV: 50</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Calibrated Dark</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>55, DV: 50</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Sports</p></td>
+<td class=3D"confluenceTd">
+<p>Per Picture Modes spec*</p></td>
+<td class=3D"confluenceTd">
+<p>55</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Vivid</p></td>
+<td class=3D"confluenceTd">
+<p>Per Picture Modes spec*</p></td>
+<td class=3D"confluenceTd">
+<p>80</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>* Picture Mode spec version 5.3 or latest.</p>
+<h3 id=3D"id-3Picture-3.5.2Tint">3.5.2 Tint</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"0f=
+012261-6aea-4fda-b90e-7d5af938862e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Tint configures the hue of the picture.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A slider adjusts the Tint value with a range from - 50 to 50. &nbsp;</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"3d6dae8a-82f4-4b15-b92=
+1-c2dbbe21fcf2">If, the tint slider must display a one for one value, this =
+may require a reduced scale such as -32 to 32.</span>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The default SDR Tint setting value is 0.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>The default HDR Tint setting value is</p>
+<ul>
+<li>
+<p>0: Bright, Calibrated Dark, Vivid</p></li>
+<li>
+<p>0: Calibrated, Sports</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.5.3ColorTemperature">3.5.3 Color Temperature</h3>
+<p>Color Temperature configures the white level warmth or coolness.&nbsp;</=
+p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"41=
+68a01b-7c1d-41d5-ab1a-05264fd5ba10" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Color Temperature</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Warm</p></td>
+<td class=3D"confluenceTd">
+<p>6500K</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Cool</p></td>
+<td class=3D"confluenceTd">
+<p>15000K with taper to panel native</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Normal</p></td>
+<td class=3D"confluenceTd">
+<p>9300K</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.5.3.1WhiteBalanceTunerSavedtoColorTemperature">3.5.=
+3.1 White Balance Tuner Saved to Color Temperature</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"71=
+7956fb-8ea8-4084-b8bf-e4be6987d5c1" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Adjustments to White Balance Tuner are saved to Color Temperature.</p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If the&nbsp;White Balance Tuner is used to adjust Gain/Offset and/or 20 =
+Point White Balance then an asterisk is appended to the Color Temperature s=
+etting with the adjustment (e.g. Normal*).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Adjustments to Gain/Offset and 20 Point White Balance per color temperat=
+ure setting is global.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The asterisk is removed when Reset Color Temperature is invoked.&nbsp;</=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>For example, changes in Gain for Normal Color Temperature will apply to =
+all picture modes, for all inputs, where Normal Color Temperature is the cu=
+rrent setting.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.6Clarity">3.6 Clarity</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e3=
+66f497-8b8b-4f8b-b1b5-8895a8ab639d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Settings in Clarity submenu adjusts clarity of the picture.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Contrast Enhancer</p></li>
+<li>
+<p>Dark Detail</p></li>
+<li>
+<p>Super Resolution</p></li>
+<li>
+<p>Sharpness</p></li>
+<li>
+<p>Edge Enhancement</p></li>
+<li>
+<p>Signal Noise</p></li>
+<li>
+<p>Block Noise</p></li>
+<li>
+<p>Contour Smoothing</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Clarity submenu header is grayed out and not selectable with Game/PC Mod=
+e enabled.</p></td>
+<td class=3D"confluenceTd">
+<p>All 8 settings under Clarity are not selectable with Game/PC Mode enable=
+d.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Help text includes exclusion for Dark Detail.</p></td>
+<td class=3D"confluenceTd">
+<p>Adjusts picture settings that improve shadow detail. If content is Dolby=
+ Vision then Dark Detail can=E2=80=99t be adjusted for Calibrated or Calibr=
+ated Dark.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.1ContrastEnhancer">3.6.1 Contrast Enhancer</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a9=
+39c091-ebec-44fa-be68-d9ee6b07c526" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings SDR and HDR Content</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings DV Content</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off (default Calibrated Dark and Sports)</p></td>
+<td class=3D"confluenceTd">
+<p>Off (default Calibrated, Calibrated Dark and Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p>Contrast Enhancer was formerly named Black Detail.<span data-colorid=3D"=
+wi97vfvxn1">&nbsp; </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low</p></td>
+<td class=3D"confluenceTd">
+<p>Low</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium (default for Bright and Calibrated)</p></td>
+<td class=3D"confluenceTd">
+<p>Medium (default Bright and Sports)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High (default for Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.6.1.1ContrastEnhancerRequirements">3.6.1.1 Contrast=
+ Enhancer Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"2a=
+d80b12-427e-4265-8a08-d28141417045" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 452.0px;">
+<col style=3D"width: 264.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Contrast Enhancer includes Dark Detail with Contrast Enhancement.&nbsp;<=
+/p></td>
+<td class=3D"confluenceTd">
+<p>The intent is to adjust the blacks to prevent black crush.&nbsp;</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span class=3D"inline-comment-marker" data-ref=3D"b3ba5dc3-ed01-436f-ad3=
+0-d94ac756bab8">If DVI is the source then Contrast Enhancer is grayed out a=
+nd not selectable.</span></p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.2DarkDetail">3.6.2 Dark Detail</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7b=
+d8f1f0-b6b1-4f6b-8050-44e508a6aa00" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"uatme48eve"><span class=3D"inline-comment-marker" =
+data-ref=3D"1e266815-1a72-4448-bc4a-6931f7a75e8e">Enabled</span></span> (de=
+fault Bright, Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p>Enhances shadow detail in dark scenes and highlights the shadows so not =
+crushing using Dolby Vision algorithms.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"cka8rcxs7i">Disabled</span> (default Sports)</p></=
+td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.6.2.1DarkDetailRequirements">3.6.2.1 Dark Detail Re=
+quirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"63=
+be5391-620b-4a76-a840-1028e8a9db30" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Dark Detail is intended only for Dolby Vision content. If not DV content=
+ then Dark Detail is grayed out.</p></td>
+<td class=3D"confluenceTd">
+<p></p>
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Dark Detail enhances the Contrast Enhancer adjustment.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If the picture mode is Calibrated or Calibrated Dark then Dark Detail is=
+ set to off, grayed out and not selectable.</p></td>
+<td class=3D"confluenceTd">
+<p>Per Dolby Vision requirement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Help text indicates limited to DV content.</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CImproves details in dark areas of the picture and is only for D=
+olby Vision Content=E2=80=9D&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.3SuperResolution(4Kskusonly,notVHD,VFDskus)">3.6.=
+3 Super Resolution (4K skus only, not VHD, VFD skus)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8d=
+251993-59b0-430e-816d-225f555ff4a2" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings SDR</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings HDR</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off (Calibrated, Calibrated Dark)</p></td>
+<td class=3D"confluenceTd">
+<p>Off (Calibrated)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low</p></td>
+<td class=3D"confluenceTd">
+<p>Low (Calibrated Dark, Sports)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium (Bright, Sports, Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p>Medium (Bright, Vivid)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.6.3.1SuperResolutionRequirements">3.6.3.1 Super Res=
+olution Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"38=
+000545-9a68-4674-a25a-fd117a10a040" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 474.0px;">
+<col style=3D"width: 232.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Super Resolution configures the resolution to enhance dim and blurred pi=
+ctures resulting in a sharper picture for 1080P signal source and below.</p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Super Resolution combines sharpness with de-jagging of the image.&nbsp;<=
+/p></td>
+<td class=3D"confluenceTd">
+<p>Care is recommended as higher settings may introduce artifacts into the =
+picture.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If the source is 4K the Super Resolution is grayed out and not available=
+.</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.4Sharpness">3.6.4 Sharpness</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"60=
+1ecb78-2e42-4f25-820b-1a684d50213d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Sharpness configures the edge and content sharpness of the picture.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A slider adjusts the Sharpness value with a range from 0 to 100.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Default for SDR content for Bright, Calibrated, Calibrated Dark, Sports =
+and Vivid picture modes is defined as High Sharpness (from a normal viewing=
+ distance up the sharpness adjustment until the Spears &amp; Munsil sharpne=
+ss pattern looks harsh, then reduce the sharpness adjustment until it smoot=
+h out a bit). Refer to the specification =E2=80=9CPicture Modes spec 4.3=E2=
+=80=9D or latest version for details.</p>
+<ul>
+<li>
+<p>as per spec: Vivid, Calibrated, Calibrated Dark, Sports</p></li>
+<li>
+<p>30: Bright</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Default for HDR content is</p>
+<ul>
+<li>
+<p>30 for Bright and Vivid</p></li>
+<li>
+<p>20 for Calibrated Dark</p></li>
+<li>
+<p>25 for Sports</p></li>
+<li>
+<p>0 for Calibrated</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Super resolution edge enhancement is not included into the sharpness.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>If Full Color 4:4:4 is On, then Sharpness is disabled, is grayed out and=
+ not selectable. &nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.5EdgeEnhancement">3.6.5 Edge Enhancement</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"34=
+112b8f-72ad-4ef9-8c28-63f55da5ef07" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 314.0px;">
+<col style=3D"width: 402.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low (default)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.6.5.1EdgeEnhancementRequirements">3.6.5.1 Edge Enha=
+ncement Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"75=
+3c07c1-f48f-49aa-a51a-609b41508e27" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 533.0px;">
+<col style=3D"width: 183.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Edge Enhancement supports de-jagging of the image.&nbsp;&nbsp;Edge Enhan=
+cement increases the smoothness of edges.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If Full Color 4:4:4 is On and content is 4:4:4, then Edge Enhancement is=
+ disabled, grayed out and not available.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.6SignalNoise">3.6.6 Signal Noise</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"2e=
+a930ab-9953-4a26-ab48-b67899fefbdf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 409.0px;">
+<col style=3D"width: 307.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low (default Calibrated, Calibrated Dark, Sports)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium (default Bright, Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.6.6.1SignalNoiseRequirements">3.6.6.1 Signal Noise =
+Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"21=
+d6d2fb-00aa-457c-aae6-106096feab0e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Signal Noise configures video noise reduction.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Signal Noise is not available i for HDMI content with SDR 4:4:4 or HDR 4=
+:4:4 (available with HDR 4:2:2 and Dolby Vision).&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Most common 120 Hz source is PC connected to HDMI or HDMI 1.4a device wi=
+th EDID confirming 120 Hz.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If Full Color 4:4:4 is On, then Signal Noise is disabled, not available =
+and grayed out</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.7BlockNoise">3.6.7 Block Noise</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"46=
+c0d378-f5d1-4618-8926-43218d7a0b9d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 406.0px;">
+<col style=3D"width: 310.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low (default Calibrated, Calibrated Dark, Sports)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium (default Bright, Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.6.7.1BlockNoiseRequirements">3.6.7.1 Block Noise Re=
+quirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"1a=
+180e34-3e43-4da6-8a9d-f3e60135cb54" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 434.0px;">
+<col style=3D"width: 282.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Block Noise configures the MPEG compression level. Block Noise includes =
+UltraClear Noise Reduction (UCNR).&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Block Noise is not available if the current <span class=3D"inline-commen=
+t-marker" data-ref=3D"e6c2bd0b-6ed6-43fb-acb0-0bdf2d9d92b6">HMDI</span> con=
+tent is SDR 4:4:4 or HDR4:4:4 (available with HDR 4:2:2 and Dolby Vision).<=
+/p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If Full Color 4:4:4 is On, then Block Noise is disabled, grayed out and =
+not available</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.6.8ContourSmoothing(notforVHD,VFD,4K,VQDsku)">3.6.8=
+ Contour Smoothing (not for VHD, VFD, 4K, VQD sku)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d6=
+3a20fc-5338-4172-979b-f01eed07c463" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off (default Calibrated, Calibrated Dark)</p></td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low (default Sports)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium (default Bright, Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p>Contour Smoothing removes visible contour noise while retaining the comp=
+lex detail in the digital image.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.7MotionControl(notforVHD,VFD,4K,VQDskus)">3.7 Motio=
+n Control (not for VHD, VFD, 4K, VQD skus)</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"05=
+35a85e-797c-4e0c-ae10-fb1222035603" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 386.0px;">
+<col style=3D"width: 333.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Settings in Motion Control submenu optimize motion perception of the pic=
+ture.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Judder Reduction</p></li>
+<li>
+<p>Motion Blur Reduction</p></li>
+<li>
+<p>Clear Action</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Motion Control submenu header is grayed out and not selectable with Game=
+/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p>All 3 settings under Motion Control are not selectable with Game/PC Mode=
+ enable.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.7.1JudderReduction(NotforVHD,VFD,4K,VQDskus)">3.7.1=
+ Judder Reduction (Not for VHD, VFD, 4K, VQD skus)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"9d=
+ccbfb1-dbd7-4fe1-8731-344aab301c3d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 431.0px;">
+<col style=3D"width: 285.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Judder Reduction only applies to film dejudder (24 frame film content).&=
+nbsp; &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Judder Reduction configures frame interpolation to reduce film judder wh=
+en upconverting 24 or 30 Hz content to the 60 Hz panel or 24, 30, 60 Hz con=
+tent to the 120 Hz panel.</p></td>
+<td class=3D"confluenceTd">
+<p>Most common 120 Hz source is PC connected to HDMI or HDMI 1.4a device wi=
+th EDID confirming 120 Hz.)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The Judder Reduction setting value can range from 0 to 10.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The default Judder Reduction is</p>
+<ul>
+<li>
+<p>7 Vivid</p></li>
+<li>
+<p>6 Bright</p></li>
+<li>
+<p>0 Calibrated Dark</p></li>
+<li>
+<p>2 Calibrated, Sports</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Judder Reduction is a set and forget setting: If On is selected then Jud=
+der Reduction applies if applicable as per the table below.&nbsp; No gray o=
+ut of Judder Reduction.&nbsp; If Judder Reduction is NA in the tables below=
+, then Judder Reduction has no effect.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.7.1.1MEMCandFilmmodeSupport120HzTVfor60Hzand50HzRat=
+eReduction">3.7.1.1 MEMC and Film mode Support 120 Hz TV for 60 Hz and 50 H=
+z Rate Reduction</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"33=
+567ad9-332f-4419-a168-b3f070cded53" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 92.0px;">
+<col style=3D"width: 93.0px;">
+<col style=3D"width: 95.0px;">
+<col style=3D"width: 106.0px;">
+<col style=3D"width: 99.0px;">
+<col style=3D"width: 94.0px;">
+<col style=3D"width: 142.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Original</strong></p>
+<p><strong>Signal&nbsp;</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Pull down</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Input Signal</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Motion Blur Reduction</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Judder Reduct</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Film Mode</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>5:5 pulldown to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>2:1:1:1</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then 5:5 pulldown to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>2:1:1:1</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then MEMC to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>3:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then 5:5 pulldown to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>3:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then MEMC to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>4:4 pulldown to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then 4:4 pulldown to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then MEMC to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>2:2 pulldown to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>120</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>120</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Display Input Directly</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>4:4 pulldown to 100</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC to 100</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then 4:4 pulldown to 100</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse then MEMC to 100</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>2:2 pulldown to 100</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC to 120</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">20</td>
+<td class=3D"confluenceTd">
+<p>100</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>100</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Display Input Directly</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Note 1: Film Mode may be overloaded to disable cadence detection if swit=
+ched "Off=E2=80=9D.</p>
+<h4 id=3D"id-3Picture-3.7.1.2MEMCandFilmmodeSupport60HzTVfor60Hzand50HzRate=
+Reduction">3.7.1.2 MEMC and Film mode Support 60 Hz TV for 60 Hz and 50 Hz =
+Rate Reduction</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"9b=
+1d13b9-649c-4dab-a5dc-6e8875ccfa2c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 78.0px;">
+<col style=3D"width: 92.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 83.0px;">
+<col style=3D"width: 87.0px;">
+<col style=3D"width: 292.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Original Signal&nbsp;</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Pull down</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Input Signal</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Judder Reduct</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Film Mode</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Update LCD at 48, BL at 192</p>
+<p>Film Mode only for native 24 Hz</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>3:2 pulldown to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC to 60</p>
+<p>MEMC has priority over Film Mode</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>2:1:1:1</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse to 24 then 2:3&nbsp;pulldown to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>2:1:1:1</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse to 24 then MEMC to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>3:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Display Input Directly</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>24</p></td>
+<td class=3D"confluenceTd">
+<p>3:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse to 24&nbsp;then MEMC to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>2:2 pulldown to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC 30 to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Display Input Directly</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>30</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse to 30 then MEMC to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>60</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Display Input Directly</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>2:2 pulldown to 100</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>MEMC to 50</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse to 25 then 2:2 pulldown to 20</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p>25</p></td>
+<td class=3D"confluenceTd">
+<p>2:2</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Reverse t0 25 then MEMC to 60</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>-</p></td>
+<td class=3D"confluenceTd">
+<p>50</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Note 1</p></td>
+<td class=3D"confluenceTd">
+<p>Display Input Directly</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Note 1: Film Mode may be overloaded to disable cadence detection if swit=
+ched "Off".</p>
+<h3 id=3D"id-3Picture-3.7.2MotionBlurReduction(notforVHD,VFD,4K,VQDskus)">3=
+.7.2 Motion Blur Reduction (not for VHD, VFD, 4K, VQD skus)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"0a=
+4a5e73-0fd5-4acd-855a-fd3158e6fc68" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 441.0px;">
+<col style=3D"width: 441.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Motion Blur Reduction configures frame interpolation to reduce blur when=
+ upconverting 60 Hz content to the 120 Hz panel.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Judder Reduction and Motion Blur Reduction use MEMC video processing to =
+compensate for motion blur. &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The Motion Blur Reduction setting value can range from 0 to 10.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The default Motion Blur Reduction setting is:</p>
+<ul>
+<li>
+<p>7 Vivid</p></li>
+<li>
+<p>6 Bright</p></li>
+<li>
+<p>0 Calibrated Dark, Game</p></li>
+<li>
+<p>2 Calibrated, Sports</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Applies only to 120 Hz panels.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Motion Blur Reduction is not included for 60 Hz panels and is not availa=
+ble and does not display.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Motion Blur Reduction is a set and forget setting: If On is selected the=
+n Motion Blur Reduction applies if applicable as per the table above.&nbsp;=
+ No gray out of Motion Blur Reduction.&nbsp; If Motion Blur Reduction is NA=
+ in the tables below, then Motion Blur Reduction has no effect.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.7.3ClearAction(VQD/MQ6skusonly)">3.7.3 Clear Action=
+ (VQD/MQ6<span data-colorid=3D"xaw2rg2ea0"> </span>skus only)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"03=
+641e31-eed4-4f32-8613-513c8ebe458c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Default</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Clear Action reduces blur in scenes with fast action.&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.7.3.1ClearActionRequirements(VQDskusonly)">3.7.3.1 =
+Clear Action Requirements (VQD skus only)</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"42=
+c4c8d5-da87-489c-82bd-fd304dd574d8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For 60 HZ panel, Clear Action only applies to a signal of 60 Hz <span da=
+ta-colorid=3D"ntp8ea96bx">scanning backlight strobe rate, and 60 fps input =
+data.&nbsp;</span> Backlight timing is changed to de-blur with the effect t=
+hat motion blur is reduced but flicker may be present.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If signal is a 24 Hz source (e.g. film), then Clear Action does not <spa=
+n class=3D"inline-comment-marker" data-ref=3D"1a52acca-7c40-41d8-aa27-bb22d=
+93e76ae">apply, is</span> not supported and is grayed out.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If the panel is 60 Hz or 120 Hz then Clear Action activates overdrive fo=
+r all signal sources <span data-colorid=3D"rikmmyxn7g">by boosting the back=
+light LED current while reducing the duty cycle. The image sharpens by esse=
+ntially providing a shorter strobe pulse while maintaining the same luminan=
+ce level.&nbsp; </span></p></td>
+<td class=3D"confluenceTd">
+<p>If 960 hz (<span data-colorid=3D"zl4ejy7i2v">DMR)</span> hen duty cycle =
+of 1ms backlight strobing</p>
+<p>If 360 hz then 2.8ms</p>
+<p>180&nbsp;hz<span data-colorid=3D"ftli5vj6s0"> or DMR 120 </span>then&nbs=
+p;no Clear Action&nbsp;support</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The effect is to turn down the duty cycle, which results in less blur bu=
+t reduces backlight brightness.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>To compensate for the reduction, the LED drive is increased to raise the=
+ backlight.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>A by-product is the Backlight range is reduced.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable with Game/PC Mode enabled.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.8PictureModeEdit">3.8 Picture Mode Edit</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c3=
+797d19-ebab-461c-b131-2d3bff83ad64" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Save Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Reset Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p>Only displays with a preset picture mode. If a custom picture mode then =
+no display.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Delete Picture Mode</p></td>
+<td class=3D"confluenceTd">
+<p>Only displays with a custom picture mode. If a preset picture mode then =
+no display.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.8.1SavePictureMode">3.8.1 Save Picture Mode</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f8=
+3d92ea-25b8-41b3-a101-c39290f1e19d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Save Picture Mode is available for a preset picture mode or modified pre=
+set picture mode (picture mode with an asterisk).</p></td>
+<td class=3D"confluenceTd">
+<p>The preset or modified picture mode becomes the basis of the custom pict=
+ure mode.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>When Save Picture mode is selected the following steps are taken:</p>
+<ul>
+<li>
+<p>Naming of the saved picture mode with a maximum of 15 characters</p></li=
+>
+<li>
+<p>Resets the source picture mode to defaults (and removes the asterisk), i=
+f applicable.</p></li>
+<li>
+<p>Saves the picture mode as a custom picture mode.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>A custom picture mode cannot be saved again.</p></td>
+<td class=3D"confluenceTd">
+<p>Save picture mode is grayed out if a custom picture mode selected.</p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>A custom picture mode is saved globally for all inputs.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A maximum of 4 unique custom picture modes can be saved for all inputs.&=
+nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>An attempt to create a fifth picture mode results in an error message.&n=
+bsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The dialog box message is =E2=80=9CThe maximum of four picture modes has=
+ been created.=E2=80=9D An OK key is included to close the dialog box.</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Saved picture modes are saved by dynamic range: there are <span data-col=
+orid=3D"uvdp3r7sts">4</span> global picture modes for each dynamic range.</=
+p></td>
+<td class=3D"confluenceTd">
+<p>Dynamic ranges: SDR, HDR10/HDR10+, HLG, Dolby Vision.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.8.2ResetPictureMode">3.8.2 Reset Picture Mode</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"85=
+b6f6d0-b9ec-47fe-b4aa-fe2ca416ed10" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Only a modified picture mode (preset picture mode with an asterisk) can =
+be reset.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Reset Picture mode does not displays if custom picture mode is currently=
+ selected.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>To reset, the picture mode must first display on the TV.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When the picture mode is reset, any changes in the picture settings can =
+be seen and a notification displays.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Alternatively, if all picture modes are reset simultaneously from the Sm=
+artCast app, the picture mode on the TV remains the current picture mode.</=
+p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.8.3DeletePictureMode">3.8.3 Delete Picture Mode</h3=
+>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"79=
+07d7ad-b606-4c09-8c10-dd42d375851e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Only a custom picture mode can be deleted.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Delete Picture mode does not displays if a preset picture mode is curren=
+tly selected.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>To delete, the picture mode must first display on the TV.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When the current picture mode is deleted then the picture mode is change=
+d to Bright on screen and the change annunciated.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.9AdvancedPicture">3.9 Advanced Picture</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8c=
+e81a01-22a1-457f-a841-c976e1b9cd8b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Settings in Advanced Picture are included for advanced settings typicall=
+y changed only once.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.9.1FilmMode">3.9.1 Film Mode</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7b=
+f4b48a-b794-498d-ba7d-103114e98382" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 196.0px;">
+<col style=3D"width: 520.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>On (default)</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Film Mode detects the content and if no MEMC, optimizes movie content.</=
+p></li>
+<li>
+<p>TV has 60 Hz panel</p></li>
+<li>
+<p>MEMC turned off or not supported</p></li>
+<li>
+<p>24 Hz content</p></li>
+<li>
+<p>If Film Mode set to On, then update LCD at 48 Hz and flashing backlight =
+at 192 Hz</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Normal tone mapping based on HDR metadata.&nbsp;</p>
+<ul>
+<li>
+<p>If Film Mode set to Off, then 3:2 pulldown and then updating the LCD at =
+60 Hz and flashing backlight at 480 Hz.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.1.1FilmModeRequirements">3.9.1.1 Film Mode Requir=
+ements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"2e=
+556d61-a05b-4724-b3be-2476a5796b3d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 438.0px;">
+<col style=3D"width: 278.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Film Mode is available for 120 Hz panel for detection of film content on=
+ly. Not disabled nor gray out with MEMC or Game/PC Mode.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Film Mode is not available (disabled and grayed out) and does not displa=
+y if TV has a 60 Hz panel and the following occurs:</p>
+<ul>
+<li>
+<p>MEMC enabled</p></li>
+<li>
+<p>Game/PC Mode enabled.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>When Game/PC mode is turned off, Film Mode is restored to On.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If DVI is the source and chip cannot support Film Mode then the setting =
+is grayed out and not available.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.9.2ActivePixelTuning">3.9.2 Active Pixel Tuning</h3=
+>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"81=
+9a6947-29f6-47a4-8497-16f699616dad" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off (default Calibrated, Calibrated Dark)</p></td>
+<td class=3D"confluenceTd">
+<p>Defaults apply to both SDR and HDR content.</p></td>
+<td class=3D"confluenceTd">
+<p>Applies to all skus but with less zones than previously. <span data-colo=
+rid=3D"xjrb8yxxhm"> </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low (default Sports)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium (default Bright, Vivid)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Tuning<strong> </strong>Active Pixel Tuning<strong> </strong>supports fi=
+ne scale local contrast.&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.9.3ActiveFullArray(notforVHD,VFD,4K,VQDskus)">3.9.3=
+ Active Full Array (not for VHD, VFD, 4K, VQD skus)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"91=
+d910fb-e00a-4446-bca5-e2d87846b234" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Year</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>VHD</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>VFD</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>4K</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>VQD</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>2024</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;"></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.3.1ActiveFullArrayRequirements">3.9.3.1 Active Fu=
+ll Array Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"71=
+2d5d37-7ae9-418b-839d-ae806924ed42" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 571.0px;">
+<col style=3D"width: 147.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Active Full Array=E2=84=A2 is local dimming.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Active Full Array is only for LED panels with local dimming.&nbsp; If no=
+ne, then Global Dimming applies.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.3.2ActiveFullArrayPeakBrightness">3.9.3.2 Active =
+Full Array Peak Brightness</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3d=
+bbe8ee-46a1-4937-8eff-07271a681284" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 170.0px;">
+<col style=3D"width: 170.0px;">
+<col style=3D"width: 170.0px;">
+<col style=3D"width: 170.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Peak Brightness</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Local Dimming</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Effect</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Minimizes blooming</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Maximizes panel peak brightness.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.3.3ActiveFullArrayDefaultsbyPictureMode">3.9.3.3 =
+Active Full Array Defaults by Picture Mode</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"77=
+85ba94-bca1-4eac-ba02-36562ad202a1" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default for SDR content</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default for HDR content</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bright</p></td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Calibrated</p></td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Calibrated Dark</p></td>
+<td class=3D"confluenceTd">
+<p>Low</p></td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Sports</p></td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Vivid</p></td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.9.4GlobalDimming">3.9.4 Global Dimming</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"0b=
+2881ec-b90f-4484-978e-ae9dc97e36c9" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 186.0px;">
+<col style=3D"width: 192.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode Default SDR Content</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Picture Mode Default HDR Content</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Calibrated, Calibrated Dark, Sports</p></td>
+<td class=3D"confluenceTd">
+<p>Calibrated Dark, Sports</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Bright and Vivid</p></td>
+<td class=3D"confluenceTd">
+<p>Calibrated, Bright and Vivid</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.4.1GlobalDimmingSkus">3.9.4.1 Global Dimming Skus=
+</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"27=
+cc343f-36a0-4fb1-adb4-2ec0e98c8a1c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Year</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>VHD</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>VFD</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>4K</strong></p></th>
+<th class=3D"confluenceTh">
+<p style=3D"text-align: center;"><strong>VQD</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>2024</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">X</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">X</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">X</p></td>
+<td class=3D"confluenceTd">
+<p style=3D"text-align: center;">X</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.4.2GlobalDimmingRequirements">3.9.4.2 Global Dimm=
+ing Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3d=
+2d9da9-cd97-4ad6-92d9-2ea9eb0d9bb5" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Global dimming configures global backlight control (DCR only)</p></td>
+<td class=3D"confluenceTd">
+<p>Global Dimming was formerly named Backlight Control.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If Global Dimming is supported, then Active LED Zones is not supported.&=
+nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If DVI is the source and chip cannot support Black Detail then the setti=
+ng is grayed out and not selectable</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.9.5AmbientLightSensor(notforVHD,VFD,4K,VQDskus)">3.=
+9.5 Ambient Light Sensor (not for VHD, VFD, 4K, VQD skus)</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"13=
+9f5ca8-99c4-4b0c-817c-c2866d4cd180" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 680.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Ambient Light Sensor, known as Auto Brightness Control (ABC) in the indu=
+stry, configures the automatic brightness based on the room lighting.</p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Ambient Light sensor to behave similar to a phone.&nbsp;This will requir=
+e tuning. &nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If Clear Action is enabled, Ambient Light Sensor is disabled, grayed out=
+ and not selectable.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If content is HDR, HLG, or Dolby Vision, Ambient Light Sensor is disable=
+d, grayed out and not selectable.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Ambient light sensor does not apply to D, V or M6 skus.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.5.1AmbientLightSensorsettings">3.9.5.1 Ambient Li=
+ght Sensor settings</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6a=
+22312c-c1fc-45f1-a8c5-352db9302b1f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Default</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low</p></td>
+<td class=3D"confluenceTd">
+<p>Results in a darker picture.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p>Results in a brighter picture.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.9.6AspectRatio">3.9.6 Aspect Ratio</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"58=
+0ef451-d7b0-4cae-895c-fbcc6cfd1ed6" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Normal (default)</p></td>
+<td class=3D"confluenceTd">
+<p>No change to aspect ratio</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Stretch (HD only)</p></td>
+<td class=3D"confluenceTd">
+<p>if 16:9 signal is 4:3 image with black bars left &amp; right, stretches =
+to fill screen</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Panoramic (SD only)</p></td>
+<td class=3D"confluenceTd">
+<p>Stretches a 4:3 image to fill 16:9 screen with an algorithm so the cente=
+r doesn=E2=80=99t look stretched.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Wide</p></td>
+<td class=3D"confluenceTd">
+<p>Stretches a 4:3 aspect ratio to fill 16:9 screen, If 16:9 image adds bla=
+ck bars top and bottom</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Zoom</p></td>
+<td class=3D"confluenceTd">
+<p>Expands image both horizontally and vertically by 14%</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.6.1AspectRatioRequirements">3.9.6.1 Aspect Ratio =
+Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"cf=
+7e6f5e-be3c-49a5-a5bd-7717af30e2b9" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 537.0px;">
+<col style=3D"width: 179.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Depending on the current source, either Stretch or Panoramic is supporte=
+d.&nbsp; If SD (480i/p) settings are:</p>
+<ul>
+<li>
+<p>Normal</p></li>
+<li>
+<p>Panoramic</p></li>
+<li>
+<p>Wide</p></li>
+<li>
+<p>Zoom</p></li>
+</ul>
+<p>If the source is 720p (1080i) settings are:</p>
+<ul>
+<li>
+<p>Normal</p></li>
+<li>
+<p>Stretch</p></li>
+<li>
+<p>Wide</p></li>
+<li>
+<p>Zoom</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Aspect Ratio is saved by input and dynamic range.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The aspect ratio can change for a physical input if the content changes =
+from HD to SD and vice versa.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Aspect ratio is supported for WatchFree+ OTA channels only (no support f=
+or streaming content).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>The <span class=3D"inline-comment-marker" data-ref=3D"4cc6fd0c-8071-4da5=
+-a930-0e000fa5b7ab">Aspect Ratio setting is changed to Normal</span>, graye=
+d out and not adjustable for the following conditions:</p>
+<ul>
+<li>
+<p>1080p and 4K</p></li>
+<li>
+<p>Current content is 120Hz (typically a PC)</p></li>
+<li>
+<p>Full screen graphics - as for some apps during selection or play</p></li=
+>
+<li>
+<p>HDR, HLG or Dolby Vision content.</p></li>
+<li>
+<p>Streaming content</p></li>
+<li>
+<p>VIZIO Home</p></li>
+<li>
+<p>WatchFree streaming content (but supported for OTA content)</p></li>
+</ul></td>
+<td data-highlight-colour=3D"var(--ds-surface, #FFFFFF)" class=3D"confluenc=
+eTd">
+<p>No notification displays.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.9.7EnhancedViewingAngle">3.9.7 Enhanced Viewing Ang=
+le</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e2=
+990f9b-4986-41d4-99ac-b0219e5a058c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default SDR Content</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default HDR Content</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Bright, Calibrated, Calibrated Dark, Sports, Vivid</p></td>
+<td class=3D"confluenceTd">
+<p>Calibrated Dark, Sports</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Bright, Calibrated, Vivid</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.9.7.1EnhancedViewingAngleRequirements">3.9.7.1 Enha=
+nced Viewing Angle Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7f=
+9334b9-1d7d-47ae-8434-6e98376a6a3f" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 430.0px;">
+<col style=3D"width: 433.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Enhanced Viewing Angle is a global setting that improves the viewing=
+ angle but with the cost of reduces horizontal resolution.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>VRR takes precedence so if setting is On and VRR metadata detected and V=
+RR active then Enhanced Viewing Angle is Off, grayed out and unavailable.&n=
+bsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>When VRR is no longer active, the Enhanced Viewing Angle is reinstated t=
+o the current setting.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Supported as follows:</p>
+<ul>
+<li>
+<p>Enhanced Viewing Angle is supported if available for the panel</p></li>
+<li>
+<p>VHD series =E2=80=93 no&nbsp;Enhanced Viewing Angle&nbsp;support</p></li=
+>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Supported skus:</p>
+<ul>
+<li>
+<p>V4K50M-0809</p></li>
+<li>
+<p>V4K50C-0809</p></li>
+<li>
+<p><span data-colorid=3D"w1ryla7n7p">VQD50M-0809</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"cdmfqo8gzi">For VQD50M with DLG, Enhanced Viewing =
+Angle changes to Off and is grayed out with 4K1K120 content: Dual Line Gate=
+ (DLG) is enabled and drives 2 horizontal lines (vertical resolution) at th=
+e same time.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>asldfjsdfkj</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"21=
+6fa7ab-dac7-499f-8b41-40df1f21e8ff" class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">
+<p></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+<th class=3D"confluenceTh">
+<p></p></th>
+</tr>
+<tr>
+<th class=3D"confluenceTh">
+<p></p></th>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">
+<p></p></th>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3Picture-3.10ColorCalibration(DisplayswithkeycomboperVIZIOTest=
+)">3.10 Color Calibration (<span data-colorid=3D"leupnpai45">Displays with =
+key combo per</span> VIZIO Test)</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"78=
+0a105d-7a50-48ef-b939-16fafe5aefdb" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+<col style=3D"width: 226.67px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Supports</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Picture Mode Reference</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Color Temperature</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Dynamic Range</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>SDR</p></li>
+<li>
+<p>HDR10/HDR10+</p></li>
+<li>
+<p>HLG</p></li>
+<li>
+<p>Dolby Vision</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Grayed out and not selectable</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Color Tuner</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>RGB Enabled</p></li>
+<li>
+<p>RGBCMY Hue</p></li>
+<li>
+<p>RGBCMY Saturation</p></li>
+<li>
+<p>RGBCMY Brightness</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>White Balance Tuner</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>2-point White Balance (that is, RGB Offset &amp; RGB Gain)</p></li>
+<li>
+<p>20 Point white Balance</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Reset Color Temperature</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Gamma</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Calibration Test</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>SMPTE test pattern</p></li>
+<li>
+<p>Flat Test Pattern</p></li>
+<li>
+<p>Ramp Test Pattern</p></li>
+<li>
+<p>Uniformity Analyzer test pattern</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.10.0ColorCalibrationrequirements">3.10.0 Color Cali=
+bration requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"cd=
+a27204-9f1c-4dd4-ac1b-597307c1e54b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Color Calibration and Gamma are no longer in All Settings <span data-col=
+orid=3D"cufr6kau5x">for the user</span>.</p>
+<p><span data-colorid=3D"jz4ve1esra">Entry of a combination of keys as defi=
+ned in VIZIO Test menu adds Color Calibration and Gamma at the end of Pictu=
+re menu.</span></p></td>
+<td class=3D"confluenceTd">
+<p>Settings must be supported but are hidden from the user in All Settings.=
+</p>
+<p>For key combo go to <a data-card-appearance=3D"inline" href=3D"https://v=
+izio.atlassian.net/wiki/spaces/PM/pages/235874421375/13+VIZIO+Test+Menu#13.=
+10-Launch-PQ-Color-Calibration-menu" rel=3D"nofollow">https://vizio.atlassi=
+an.net/wiki/spaces/PM/pages/235874421375/13+VIZIO+Test+Menu#13.10-Launch-PQ=
+-Color-Calibration-menu</a></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Color Calibration is intended for professional calibration for</p>
+<ul>
+<li>
+<p>fine tuning of colors (Hue, Saturation and Brightness) saved by the curr=
+ent picture mode by input</p></li>
+<li>
+<p>Gain/Offset, 20 Point White Balance and 1D LUT, saved by Color Temperatu=
+re.&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The current picture mode, color temperature and dynamic range are displa=
+yed as a reference because the baseline colors for the color tuner are dict=
+ated by these.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>In practice, Calibrated would be the selected picture mode before color =
+calibration is started.</p>
+<p>Color temperature is defined by picture mode.</p>
+<p>Dynamic range is defined by content.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ln33ave808">Color Calibration is saved by input fo=
+r:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"tq47qxcu7c">HDMI ports</span></p></li>
+<li>
+<p><span data-colorid=3D"l5hz3gqxr0">Antenna</span></p></li>
+<li>
+<p><span data-colorid=3D"leqexl9iir">WatchFree+</span></p></li>
+<li>
+<p><span data-colorid=3D"lr1ca0dhrx">Applications (adjustments applies glob=
+ally to all apps)</span></p></li>
+<li>
+<p><span data-colorid=3D"bancmogkw8">not allowed for graphics including VIZ=
+IO Home. </span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"wask60gqs4">CONFIRM THIS IS TRUE</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.10.1ColorTuner">3.10.1 Color Tuner</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"f4=
+d8b12c-cd8e-4ded-ada0-5157293e2f97" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 424.0px;">
+<col style=3D"width: 292.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Color Tuner allows the user to configure or view the display setting=
+s for color.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The adjustments are saved to the currently selected picture mode for the=
+ current input.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Color Tuner also supports enable and disable of the primary colors red, =
+green, blue</p></td>
+<td class=3D"confluenceTd">
+<p>Used by professionals during color calibration.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td data-highlight-colour=3D"#ffffff" class=3D"confluenceTd">
+<p>The adjustments included in the Color Tuner table are:</p>
+<ul>
+<li>
+<p>Hue, Saturation and Brightness.</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#ffffff" class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.1.1Red,Green,BlueEnabled">3.10.1.1&nbsp;Red, Gre=
+en, Blue Enabled</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4c=
+609bc7-688a-4ce9-ae0b-57289c8cc94c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Red, Green or Blue setting enables and disables the red, green or bl=
+ue color displayed on the TV for testing purposes.</p></td>
+<td class=3D"confluenceTd">
+<p>If all three colors are disabled, the screen is blank, so if two colors =
+are disabled, the third color can not be disabled.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>By default, the color is enabled.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Primary color is persistent across inputs.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Changing inputs does not change the setting if turned off.&nbsp;</p></td=
+>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>To turn on the Red, Green or Blue color:</p>
+<ul>
+<li>
+<p>Change setting enabled</p></li>
+<li>
+<p>DC or AC cycle.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.1.2Red,Green,Blue,Cyan,Magenta,YellowHue">3.10.1=
+.2&nbsp;Red, Green, Blue, Cyan, Magenta, Yellow Hue</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e3=
+cc6125-d77a-4a1e-9b8f-0dd98a1e796d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Red, Green, Blue, Cyan, Magenta or Yellow Hue setting configures the=
+ hue.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Hue range for all 6 colors spans from -50 to 50, and the default val=
+ue is 0.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.1.3Red,Green,Blue,Cyan,Magenta,YellowSaturation"=
+>3.10.1.3&nbsp;Red, Green, Blue, Cyan, Magenta, Yellow Saturation</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"bf=
+5a6bb7-4ccc-4e27-93a5-fdc3fb9513f3" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Red, Green, Blue, Cyan, Magenta or Yellow Saturation setting configu=
+res the saturation.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Saturation range for all 6 colors spans from -50 to 50, and the defa=
+ult value is 0.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.1.4Red,Green,Blue,Cyan,Magenta,YellowBrightness"=
+>3.10.1.4&nbsp;Red, Green, Blue, Cyan, Magenta, Yellow Brightness</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"17=
+401b0d-57d2-41b2-8840-aee3dd1285bc" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 481.0px;">
+<col style=3D"width: 237.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Red, Green, Blue, Cyan, Magenta or Yellow Brightness setting configu=
+res the brightness for the color.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Brightness range for all 6 colors spans from -50 to 50, and the defa=
+ult value is 0.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.10.2WhiteBalanceTuner">3.10.2 White Balance Tuner</=
+h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ce=
+d4c60a-e3d1-464d-8b6d-e791061a58ef" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 476.0px;">
+<col style=3D"width: 242.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Red, Green, Blue, Cyan, Magenta or Yellow Saturation setting configu=
+res the saturation.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Saturation range for all 6 colors spans from -50 to 50, and the defa=
+ult value is 0.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.2.1Red,Green,BlueOffset">3.10.2.1&nbsp;Red, Gree=
+n, Blue Offset</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3b=
+c252e6-2651-4178-b2ca-29806158fd6c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 474.0px;">
+<col style=3D"width: 242.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Red, Green, Blue Offset configures the color offset.&nbsp; &nbsp;</p></t=
+d>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Offset range is actually 256 but supported values spans from -100 to=
+ 100 truncating the end limits.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The default setting is 0.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.2.2Red,Green,BlueGain">3.10.2.2&nbsp;Red, Green,=
+ Blue Gain</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c4=
+c4cba0-074b-4946-8675-8f5972b8d1f8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 491.0px;">
+<col style=3D"width: 225.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Red, Green, Blue Gain configures the color gain.&nbsp; &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The gain range is actually 256 but supported values spans from -100 to 1=
+00 truncating the end limits.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The default setting is 0.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.2.321PointWhiteBalance">3.10.2.3&nbsp;21 Point W=
+hite Balance</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b9=
+7cee1b-c0d3-441b-9e6c-7df27b03bfa0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 490.0px;">
+<col style=3D"width: 226.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>21 Point White Balance adjusts for the currently selected color temperat=
+ure.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The 21 Point White Balance Setting is the Gain percentage for the respec=
+tive color (red, green, or blue).</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The Gain percentage values for red, green, and blue:</p>
+<ul>
+<li>
+<p>5% (default)</p></li>
+<li>
+<p>10%</p></li>
+<li>
+<p>15%</p></li>
+<li>
+<p>20%</p></li>
+<li>
+<p>25%</p></li>
+<li>
+<p>30%</p></li>
+<li>
+<p>35%</p></li>
+<li>
+<p>40%</p></li>
+<li>
+<p>45%</p></li>
+<li>
+<p>50%</p></li>
+<li>
+<p>55%</p></li>
+<li>
+<p>60%</p></li>
+<li>
+<p>65%</p></li>
+<li>
+<p>70%</p></li>
+<li>
+<p>75%</p></li>
+<li>
+<p>80%</p></li>
+<li>
+<p>85%</p></li>
+<li>
+<p>90%</p></li>
+<li>
+<p>95%</p></li>
+<li>
+<p>100%</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>For each Gain setting, (e.g. 5%), the Red, Green, and Blue values can be=
+ adjusted with a hue setting value range from -50 to 50 and default of 0.&n=
+bsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.10.3ResetColorTemperature">3.10.3&nbsp;Reset Color =
+Temperature</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"42=
+029e6f-90f0-4cf2-a3e5-fc003cc0a02e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A White Balance Tuner adjustment is saved to the current Color Temperatu=
+re and Reset Color Temperature is available.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The Reset Color Temperature setting is not available if there are no Whi=
+te Balance tuner adjustments for the current color temperature and is graye=
+d out.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The selected color temperature setting is reset to the defaults globally=
+.&nbsp; Since color temperature is saved globally, the reset of the color t=
+emperature setting is reflected in all picture modes for all inputs with th=
+e setting.&nbsp;&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When reset is completed, the color temperature reset is annunciated on t=
+he TV.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.10.4Gamma">3.10.4 Gamma</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8a=
+64f477-fc59-420d-b66a-493984392bd0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>1.8</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>2.0</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>2.1 (Normal)</p></td>
+<td class=3D"confluenceTd">
+<p>default</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>2.2</p></td>
+<td class=3D"confluenceTd">
+<p>default for Calibrated Dark</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>2.4</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-3Picture-3.10.5CalibrationTests">3.10.5&nbsp;Calibration Tests=
+</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"21=
+8d3b97-fa6a-4fe2-95cf-ca70cf9d2527" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>SMPTE Test Pattern</p></td>
+<td class=3D"confluenceTd">
+<p>Off (default) On</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Flat Test Pattern</p></td>
+<td class=3D"confluenceTd">
+<p>Off, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, 100%</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Ramp Test Pattern</p></td>
+<td class=3D"confluenceTd">
+<p>Off (default), White, Red, Green, Blue</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Uniformity Analyzer Test Pattern</p></td>
+<td class=3D"confluenceTd">
+<p>Off (default), On</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.5.0CalibrationTestsRequirements">3.10.5.0 Calibr=
+ation Tests Requirements</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a4=
+fdfa6a-f87d-4d00-b02e-658c2d9b35dc" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 421.0px;">
+<col style=3D"width: 421.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The four test patterns are collectively known as the calibration tests, =
+and are used to tune picture settings.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If the current dynamic range does not support the calibration test then =
+it is grayed out (e.g Dolby Vision) on the mobile app.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>When a test pattern is selected from the mobile app, then the test patte=
+rns displays on the TV.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>All test patterns are created on demand: An image is not stored on the T=
+V.&nbsp; If a test pattern is selected from the SmartCast app, the test pat=
+tern is immediately generated and displays on the TV screen.</p></td>
+<td class=3D"confluenceTd">
+<p>Though not selectable from the Color Tuner, Dolby Vision test patterns a=
+re also generated and display on the TV screen when selected from the Spect=
+ralCal app loaded on a PC.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Only one test can be displayed at a time.&nbsp; If a calibration test is=
+ on and a second test is selected from the mobile app, the first calibratio=
+n test is turned off.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>The calibration tests are persistence until turned off. To remove a test=
+ pattern:</p>
+<ul>
+<li>
+<p>Turn the setting to Off</p></li>
+<li>
+<p>Select another test pattern</p></li>
+<li>
+<p>Change the input</p></li>
+<li>
+<p>Change the channel (if underlying source is tuner)</p></li>
+<li>
+<p>Press the MENU key</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>To change calibration while using a test pattern, tap the back arrow but=
+ton to redisplay the Color Calibration menu in the mobile app then tap Colo=
+r Tuner or White Balance Tuner. The Test Pattern remains onscreen for the c=
+urrently selected dynamic range.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>If the current input has no source or the UHD input is the current sourc=
+e, the requested calibration test displays.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>A calibration test cannot display over a graphical input including Smart=
+Cast TV, app content selection/streaming, or USB media. The calibration tes=
+ts are grayed out in the mobile app.</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CTo display the test pattern connect a source to the input and t=
+ry again.=E2=80=9D&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.5.1SMPTETestPattern">3.10.5.1&nbsp;SMPTE Test Pa=
+ttern</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"66=
+47af75-1641-4062-96f3-82c912ef417b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 355.0px;">
+<col style=3D"width: 609.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The SMPTE Test Pattern is an industry standard color bar including verti=
+cal bars of white, yellow, cyan, green, magenta, red, blue and black.</p></=
+td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Once enabled, the SMPTE Test Pattern becomes full-screen.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If requested by SmartCast app, test not annunciated.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The settings Is:</p></td>
+<td class=3D"confluenceTd">
+<p>Off (default)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.5.2FlatTestPattern">3.10.5.2&nbsp;Flat Test Patt=
+ern</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"51=
+445766-52ff-4ff6-95b2-3328b467a86b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 357.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Flat Test Pattern is full screen gray selected from 0% (off) to 100%=
+.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>By default, the Flat Test Pattern setting value is set to off.&nbsp;</p>=
+</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The values for the test pattern include</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Off (0%, default)</p></li>
+<li>
+<p>10%</p></li>
+<li>
+<p>20%</p></li>
+<li>
+<p>30%</p></li>
+<li>
+<p>40%</p></li>
+<li>
+<p>50%</p></li>
+<li>
+<p>60%</p></li>
+<li>
+<p>70%</p></li>
+<li>
+<p>80%</p></li>
+<li>
+<p>90%</p></li>
+<li>
+<p>100%.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The percentage of the selected flat test pattern is annunciated on the s=
+creen throughout the test.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Definitions of the color fills:</p>
+<ul>
+<li>
+<p>White opaque 1920 X 1080 fill with settings of 10% to 100% RGB</p></li>
+<li>
+<p>100% RGB is 255, 255, 255</p></li>
+<li>
+<p>10% RGB is 25, 25, 25.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.5.3RampTestPattern">3.10.5.3&nbsp;Ramp Test Patt=
+ern</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"92=
+bb7546-f6bf-4c7e-bf3c-c2737d45ff5d" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>For the Ramp Test Pattern, the 1920 X 1080 display is divided into 21 ve=
+rtical bars of fill progressing from the color selected to black.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If requested by SmartCast app, test not annunciated.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The colors that can be selected are:</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Off</p></li>
+<li>
+<p>White</p></li>
+<li>
+<p>Red</p></li>
+<li>
+<p>Green</p></li>
+<li>
+<p>Blue</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-3Picture-3.10.5.4UniformityAnalyzerTestPattern">3.10.5.4&nbsp;=
+Uniformity Analyzer Test Pattern</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"95=
+49f82e-5f7f-431f-bd1b-d8ee92623daa" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Uniformity Analyzer test pattern is a 1920x1080 fill at 80% white wi=
+th a 200x100 box at 40% white screen center.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If requested by SmartCast app, test not annunciated.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The settings is:</p></td>
+<td class=3D"confluenceTd">
+<p>Off (default)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_6_1237584518.1728074725914--

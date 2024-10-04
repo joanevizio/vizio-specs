@@ -1,0 +1,2690 @@
+Message-ID: <1845124907.9.1728075019305@640bd8528656>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_8_382065476.1728075019304"
+
+------=_Part_8_382065476.1728075019304
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>18.0 OOBE</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>18.0 OOBE</h1>
+    <div class=3D"Section1">
+        <p>
+<style>[data-colorid=3Dmajlwojds2]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dmajlwojds2]{color:#cf2600}[data-colorid=3Dxao6mytht3]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dxao6mytht3]{colo=
+r:#cf2600}[data-colorid=3Dky0fvswo2t]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dky0fvswo2t]{color:#cf2600}[data-colorid=3Dny0lola0=
+41]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dny0lola041]=
+{color:#cf2600}[data-colorid=3Dkq66ipw9r0]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dkq66ipw9r0]{color:#cf2600}[data-colorid=3Dijqc3=
+59tsk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dijqc359t=
+sk]{color:#cf2600}[data-colorid=3Dk36xima5ym]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dk36xima5ym]{color:#cf2600}[data-colorid=3Dfh=
+jmr2n2ir]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dfhjmr=
+2n2ir]{color:#cf2600}[data-colorid=3Dhq7dn8yo5k]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dhq7dn8yo5k]{color:#cf2600}[data-colorid=
+=3Dxc020mt60k]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+xc020mt60k]{color:#cf2600}[data-colorid=3Dd3hk1v498v]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dd3hk1v498v]{color:#cf2600}[data-colo=
+rid=3Dq4se4fx22w]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dq4se4fx22w]{color:#cf2600}[data-colorid=3Dh3cdbjwok5]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dh3cdbjwok5]{color:#cf2600}[data-c=
+olorid=3Dcc86nlwt69]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dcc86nlwt69]{color:#cf2600}[data-colorid=3Dnl17w6td6r]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dnl17w6td6r]{color:#cf2600}[dat=
+a-colorid=3Dyv9de3uav7]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dyv9de3uav7]{color:#cf2600}[data-colorid=3Duedjfnp27g]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Duedjfnp27g]{color:#cf2600}[=
+data-colorid=3Dbak9plnyjo]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dbak9plnyjo]{color:#cf2600}[data-colorid=3Dsvvgjazw7k]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dsvvgjazw7k]{color:#cf260=
+0}[data-colorid=3Dx7vawb9h8h]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dx7vawb9h8h]{color:#cf2600}[data-colorid=3Dvpj6rkbh5l]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dvpj6rkbh5l]{color:#cf=
+2600}[data-colorid=3Drbaogo79ri]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Drbaogo79ri]{color:#cf2600}[data-colorid=3Dc8c4v3kd8h]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dc8c4v3kd8h]{color:=
+#cf2600}[data-colorid=3Dkk2o0t48av]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dkk2o0t48av]{color:#cf2600}[data-colorid=3Dgk5nadil4g]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dgk5nadil4g]{col=
+or:#cf2600}[data-colorid=3Drwtvub4nqg]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Drwtvub4nqg]{color:#cf2600}[data-colorid=3Dsehu9zam=
+qy]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dsehu9zamqy]=
+{color:#cf2600}[data-colorid=3Dtv9ndvqwsf]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dtv9ndvqwsf]{color:#cf2600}[data-colorid=3De7guy=
+a38k4]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3De7guya38=
+k4]{color:#cf2600}[data-colorid=3Dvz7zmn2le7]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dvz7zmn2le7]{color:#cf2600}[data-colorid=3Dvx=
+hthk9hl8]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dvxhth=
+k9hl8]{color:#cf2600}[data-colorid=3Dhzxv8ui7ii]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dhzxv8ui7ii]{color:#cf2600}[data-colorid=
+=3Du987gl255p]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+u987gl255p]{color:#cf2600}[data-colorid=3Duvrfa0h9x4]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Duvrfa0h9x4]{color:#cf2600}[data-colo=
+rid=3Dejky13xdnb]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dejky13xdnb]{color:#cf2600}[data-colorid=3Dwwjoadolwi]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dwwjoadolwi]{color:#cf2600}[data-c=
+olorid=3Ddwd9u9lmaj]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Ddwd9u9lmaj]{color:#cf2600}[data-colorid=3Dtiv2a2jhr7]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dtiv2a2jhr7]{color:#cf2600}[dat=
+a-colorid=3Deagx96op8w]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Deagx96op8w]{color:#cf2600}[data-colorid=3Dljdsslt3m0]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dljdsslt3m0]{color:#cf2600}[=
+data-colorid=3Dvtphp83n7p]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dvtphp83n7p]{color:#cf2600}[data-colorid=3Dkgtwpm7rlr]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dkgtwpm7rlr]{color:#cf260=
+0}[data-colorid=3Defrfpf1cp3]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Defrfpf1cp3]{color:#cf2600}[data-colorid=3Dz45bflt6a1]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dz45bflt6a1]{color:#cf=
+2600}[data-colorid=3Dqzswiorwf4]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dqzswiorwf4]{color:#cf2600}[data-colorid=3Dsa3hvxvgvi]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dsa3hvxvgvi]{color:=
+#cf2600}[data-colorid=3Dsmvi0qbrdf]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dsmvi0qbrdf]{color:#cf2600}[data-colorid=3Dt5tnbuqtdj]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dt5tnbuqtdj]{col=
+or:#cf2600}[data-colorid=3Dhyt0pcwizy]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dhyt0pcwizy]{color:#cf2600}[data-colorid=3Df681q79i=
+rs]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Df681q79irs]=
+{color:#cf2600}[data-colorid=3Dy7im3rf1g5]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dy7im3rf1g5]{color:#cf2600}[data-colorid=3Dxiqf7=
+sn7kz]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dxiqf7sn7=
+kz]{color:#cf2600}[data-colorid=3Dqckp2uypsg]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dqckp2uypsg]{color:#cf2600}[data-colorid=3Ddh=
+o8eqxd1u]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ddho8e=
+qxd1u]{color:#cf2600}[data-colorid=3Dr8erhgw7db]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dr8erhgw7db]{color:#cf2600}[data-colorid=
+=3Doyy3pzp9re]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+oyy3pzp9re]{color:#cf2600}[data-colorid=3Dw38ykei48m]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dw38ykei48m]{color:#cf2600}[data-colo=
+rid=3Dy60va0iq1k]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dy60va0iq1k]{color:#cf2600}[data-colorid=3Dspe5y9b4vb]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dspe5y9b4vb]{color:#cf2600}[data-c=
+olorid=3Dxicj09inqm]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dxicj09inqm]{color:#cf2600}[data-colorid=3Dhbvetkekqo]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dhbvetkekqo]{color:#cf2600}[dat=
+a-colorid=3Dx7521ta64w]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dx7521ta64w]{color:#cf2600}[data-colorid=3Dinflbosulo]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dinflbosulo]{color:#cf2600}[=
+data-colorid=3Dlc92fv6fno]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dlc92fv6fno]{color:#cf2600}[data-colorid=3Dv81aqya07n]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dv81aqya07n]{color:#cf260=
+0}[data-colorid=3Djw4op0mb0m]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Djw4op0mb0m]{color:#cf2600}[data-colorid=3Drt3e1jxf5h]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Drt3e1jxf5h]{color:#cf=
+2600}[data-colorid=3Dfgbtmt1pp3]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dfgbtmt1pp3]{color:#cf2600}[data-colorid=3Dkq7atvh9gr]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dkq7atvh9gr]{color:=
+#cf2600}[data-colorid=3Da40cx9eepl]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Da40cx9eepl]{color:#cf2600}[data-colorid=3Db43q4csx58]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Db43q4csx58]{col=
+or:#cf2600}[data-colorid=3Dyz3r0cjv7w]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dyz3r0cjv7w]{color:#cf2600}[data-colorid=3Dugshszbz=
+sj]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dugshszbzsj]=
+{color:#cf2600}[data-colorid=3Dew3vxcl3ox]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dew3vxcl3ox]{color:#cf2600}[data-colorid=3Dh3htb=
+wqj9s]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dh3htbwqj=
+9s]{color:#cf2600}[data-colorid=3Dj6zs0zl1zo]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dj6zs0zl1zo]{color:#cf2600}[data-colorid=3Dmj=
+c6l8xi7m]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dmjc6l=
+8xi7m]{color:#cf2600}[data-colorid=3Dtdz5a7xho0]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dtdz5a7xho0]{color:#cf2600}[data-colorid=
+=3Da818r1snmc]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+a818r1snmc]{color:#cf2600}[data-colorid=3Dqy7egmrpjm]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dqy7egmrpjm]{color:#cf2600}[data-colo=
+rid=3Dgg85fquimz]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dgg85fquimz]{color:#cf2600}[data-colorid=3Dhaic899o4b]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dhaic899o4b]{color:#cf2600}[data-c=
+olorid=3Dmro4t8pfyi]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dmro4t8pfyi]{color:#cf2600}[data-colorid=3Dtg6n02f49y]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dtg6n02f49y]{color:#cf2600}[dat=
+a-colorid=3Dqbcgxgo8lh]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dqbcgxgo8lh]{color:#cf2600}[data-colorid=3Dc8hekx58e3]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dc8hekx58e3]{color:#cf2600}[=
+data-colorid=3Dpq177355rv]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dpq177355rv]{color:#cf2600}[data-colorid=3Dh4xhql38kg]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dh4xhql38kg]{color:#cf260=
+0}[data-colorid=3Dhu76e6y8pa]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dhu76e6y8pa]{color:#cf2600}[data-colorid=3Dn6zk39ebo2]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dn6zk39ebo2]{color:#cf=
+2600}[data-colorid=3Df87a59oy2w]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Df87a59oy2w]{color:#cf2600}[data-colorid=3Daxkq5wshs2]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Daxkq5wshs2]{color:=
+#cf2600}[data-colorid=3Dtyg2zcmw5o]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dtyg2zcmw5o]{color:#cf2600}[data-colorid=3Dr80r64ccw6]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dr80r64ccw6]{col=
+or:#cf2600}[data-colorid=3Djv8lj7ev4y]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Djv8lj7ev4y]{color:#cf2600}[data-colorid=3De62rk7vt=
+a0]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3De62rk7vta0]=
+{color:#cf2600}[data-colorid=3Dyooz5jha00]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dyooz5jha00]{color:#cf2600}[data-colorid=3Dzjzcv=
+if9kf]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dzjzcvif9=
+kf]{color:#cf2600}[data-colorid=3Dzjry1ukjqo]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dzjry1ukjqo]{color:#cf2600}[data-colorid=3Dc9=
+wg4fz5kn]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dc9wg4=
+fz5kn]{color:#cf2600}[data-colorid=3Dojf1n9dkcy]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dojf1n9dkcy]{color:#cf2600}[data-colorid=
+=3Dzxdq8uq1xy]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+zxdq8uq1xy]{color:#cf2600}[data-colorid=3Dvw9mm3x53v]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dvw9mm3x53v]{color:#cf2600}[data-colo=
+rid=3Drnbuy4lds9]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Drnbuy4lds9]{color:#cf2600}[data-colorid=3Dk4c3qyajcn]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dk4c3qyajcn]{color:#cf2600}[data-c=
+olorid=3Dc2pvep7qah]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dc2pvep7qah]{color:#cf2600}[data-colorid=3Dy9mmqkr28q]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dy9mmqkr28q]{color:#cf2600}[dat=
+a-colorid=3Dzys4m6oxk8]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dzys4m6oxk8]{color:#cf2600}[data-colorid=3Do81udmcga3]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Do81udmcga3]{color:#cf2600}[=
+data-colorid=3Dc2i3wpw04k]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dc2i3wpw04k]{color:#cf2600}[data-colorid=3Dcoc78iqboe]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dcoc78iqboe]{color:#cf260=
+0}[data-colorid=3Daptcwey95u]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Daptcwey95u]{color:#cf2600}[data-colorid=3Dizml5kqfn3]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dizml5kqfn3]{color:#cf=
+2600}[data-colorid=3Dir2x9x65gi]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dir2x9x65gi]{color:#cf2600}[data-colorid=3Dq20ary2gis]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dq20ary2gis]{color:=
+#cf2600}[data-colorid=3Ddvcets6inm]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Ddvcets6inm]{color:#cf2600}[data-colorid=3Dstkadxagoe]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dstkadxagoe]{col=
+or:#cf2600}[data-colorid=3Dd44g3wwxfq]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dd44g3wwxfq]{color:#cf2600}[data-colorid=3Dsiy2kvvi=
+c4]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dsiy2kvvic4]=
+{color:#cf2600}[data-colorid=3Dplfs9emqax]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dplfs9emqax]{color:#cf2600}[data-colorid=3Dxpw1t=
+in3km]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dxpw1tin3=
+km]{color:#cf2600}[data-colorid=3Ddixpcwm9f5]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Ddixpcwm9f5]{color:#cf2600}[data-colorid=3Dhp=
+9gyspgve]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dhp9gy=
+spgve]{color:#cf2600}[data-colorid=3Dgtlm2y0lgw]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dgtlm2y0lgw]{color:#cf2600}[data-colorid=
+=3Dzxfmp9w50d]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+zxfmp9w50d]{color:#cf2600}[data-colorid=3Drqs0f96863]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Drqs0f96863]{color:#cf2600}[data-colo=
+rid=3Ddollte7r3b]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Ddollte7r3b]{color:#cf2600}[data-colorid=3Dmm08xo1e33]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dmm08xo1e33]{color:#cf2600}[data-c=
+olorid=3Deoshsvkvgl]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Deoshsvkvgl]{color:#cf2600}[data-colorid=3Dlv4vurrozp]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dlv4vurrozp]{color:#cf2600}[dat=
+a-colorid=3De00gwrz8qv]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3De00gwrz8qv]{color:#cf2600}[data-colorid=3De5ey5pqcxn]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3De5ey5pqcxn]{color:#cf2600}[=
+data-colorid=3Dwe1m3wcbx1]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dwe1m3wcbx1]{color:#cf2600}[data-colorid=3Dc49qmoqlvy]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dc49qmoqlvy]{color:#cf260=
+0}[data-colorid=3Dom7bnfvqcj]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dom7bnfvqcj]{color:#cf2600}[data-colorid=3Dy68qs9v30x]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dy68qs9v30x]{color:#cf=
+2600}[data-colorid=3Dsnuu4cta8w]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dsnuu4cta8w]{color:#cf2600}[data-colorid=3Diiam3slfm0]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Diiam3slfm0]{color:=
+#cf2600}[data-colorid=3Dkubdjzhsxt]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dkubdjzhsxt]{color:#cf2600}[data-colorid=3Dsn7i19t1zb]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dsn7i19t1zb]{col=
+or:#cf2600}[data-colorid=3Db8dw941ive]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Db8dw941ive]{color:#cf2600}[data-colorid=3Dd7rqq080=
+ly]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dd7rqq080ly]=
+{color:#cf2600}[data-colorid=3Dhngpo96hf2]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dhngpo96hf2]{color:#cf2600}[data-colorid=3Dclasg=
+2hnpr]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dclasg2hn=
+pr]{color:#cf2600}[data-colorid=3Dh5fe1vxp15]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dh5fe1vxp15]{color:#cf2600}[data-colorid=3Df6=
+7b9djtdh]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Df67b9=
+djtdh]{color:#cf2600}[data-colorid=3Dzh1ivb962n]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dzh1ivb962n]{color:#cf2600}[data-colorid=
+=3Dg7nkdfhp5l]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+g7nkdfhp5l]{color:#cf2600}[data-colorid=3Dfkea106m1z]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dfkea106m1z]{color:#cf2600}[data-colo=
+rid=3Dyj2t1jdcnd]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dyj2t1jdcnd]{color:#cf2600}[data-colorid=3Dy54oi19gx3]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dy54oi19gx3]{color:#cf2600}[data-c=
+olorid=3Du459k8fcqo]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Du459k8fcqo]{color:#cf2600}[data-colorid=3Dylmqdmrn38]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dylmqdmrn38]{color:#cf2600}[dat=
+a-colorid=3Dk6mme654db]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dk6mme654db]{color:#cf2600}[data-colorid=3Djtpouu0xv4]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Djtpouu0xv4]{color:#cf2600}[=
+data-colorid=3Dez05nuutof]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Dez05nuutof]{color:#cf2600}[data-colorid=3Dugcq4z28yr]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dugcq4z28yr]{color:#cf260=
+0}[data-colorid=3Dxrtt6zkl1p]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dxrtt6zkl1p]{color:#cf2600}[data-colorid=3Djg92xlowrf]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Djg92xlowrf]{color:#cf=
+2600}[data-colorid=3Dz2hur1dzhf]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dz2hur1dzhf]{color:#cf2600}[data-colorid=3Dowprsoaii8]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dowprsoaii8]{color:=
+#cf2600}[data-colorid=3Dn16k7ak1zr]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dn16k7ak1zr]{color:#cf2600}[data-colorid=3Dailftmiatm]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dailftmiatm]{col=
+or:#cf2600}[data-colorid=3Djd4xp4soui]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Djd4xp4soui]{color:#cf2600}[data-colorid=3Dyexfyzo1=
+b2]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dyexfyzo1b2]=
+{color:#cf2600}[data-colorid=3Dn9pasb9no7]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dn9pasb9no7]{color:#cf2600}[data-colorid=3Dkrzah=
+ucsei]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dkrzahucs=
+ei]{color:#cf2600}[data-colorid=3Dtmvww4oohf]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dtmvww4oohf]{color:#cf2600}[data-colorid=3Drw=
+rxm2vl6f]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Drwrxm=
+2vl6f]{color:#cf2600}[data-colorid=3Dvkibc4n5ra]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dvkibc4n5ra]{color:#cf2600}[data-colorid=
+=3Dtdws2q964q]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+tdws2q964q]{color:#cf2600}[data-colorid=3Dz3w2q4ml1q]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dz3w2q4ml1q]{color:#cf2600}[data-colo=
+rid=3Dwl4nr22l1w]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dwl4nr22l1w]{color:#cf2600}[data-colorid=3Dp7q7t1vnzo]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dp7q7t1vnzo]{color:#cf2600}</style=
+></p>
+<style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728075019177 {padding: 0px;}
+div.rbtoc1728075019177 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728075019177 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728075019177">
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.0.1OOBERequirements">18.0.1 OOBE Requirement=
+s</a></li>
+</ul>
+<li><a href=3D"#id-18.0OOBE-18.1Language">18.1 Language</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.1.1StoreDemo">18.1.1 Store Demo</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.1.1.1OverlayandNoOverlay">18.1.1.1 Overlay a=
+nd No Overlay</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#id-18.0OOBE-18.2BluetoothRemotePairing(5691/5695J,Kskusgoin=
+gforward)">18.2 Bluetooth Remote Pairing (5691/5695 J, K skus going forward=
+)</a></li>
+<li><a href=3D"#id-18.0OOBE-18.3NetworkConnection">18.3 Network Connection<=
+/a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.3.1WiFiNetworks">18.3.1 WiFi Networks</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.3.1.1WiFiShowAllNetworksbutton">18.3.1.1 WiF=
+i Show All Networks button</a></li>
+<li><a href=3D"#id-18.0OOBE-18.3.1.2WiFiCustomNetworkbutton">18.3.1.2 WiFi =
+Custom Network button</a></li>
+<li><a href=3D"#id-18.0OOBE-18.3.1.3WiFiSetUpLaterbutton">18.3.1.3 WiFi Set=
+ Up Later button</a></li>
+</ul></li>
+<li><a href=3D"#id-18.0OOBE-18.3.2WiFiPassword">18.3.2 WiFi Password</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.3.2.2Keyboard">18.3.2.2 Keyboard</a></li>
+<li><a href=3D"#id-18.0OOBE-18.3.2.3WiFiPasswordSubmitbutton">18.3.2.3 WiFi=
+ Password Submit button</a></li>
+<li><a href=3D"#id-18.0OOBE-18.3.2.4WiFiPasswordIncorrect">18.3.2.4 WiFi Pa=
+ssword Incorrect</a></li>
+</ul></li>
+<li><a href=3D"#id-18.0OOBE-18.3.3Wi-FiCaptivePortal">18.3.3 Wi-Fi Captive =
+Portal</a></li>
+</ul></li>
+<li><a href=3D"#id-18.0OOBE-18.4Updates">18.4 Updates</a></li>
+<li><a href=3D"#id-18.0OOBE-18.5TVLocationtoNameTV">18.5 TV Location to Nam=
+e TV</a></li>
+<li><a href=3D"#id-18.0OOBE-19.6VIZIOAccountSetup">19.6 VIZIO Account Setup=
+</a></li>
+<li><a href=3D"#id-18.0OOBE-18.6Terms&amp;Conditions">18.6 Terms &amp; Cond=
+itions</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.6.1TermsofServiceandPrivacyPolicybuttons">18=
+.6.1 Terms of Service and Privacy Policy buttons</a></li>
+<li><a href=3D"#id-18.0OOBE-18.6.2ActivityData">18.6.2 Activity Data</a></l=
+i>
+<li><a href=3D"#id-18.0OOBE-18.6.3ViewingData">18.6.3 Viewing Data</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-18.0OOBE-18.6.3.1ViewPolicybutton">18.6.3.1 View Policy =
+button</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#id-18.0OOBE-18.7WelcometoVIZIO">18.7 Welcome to VIZIO</a></=
+li>
+<li><a href=3D"#id-18.0OOBE-18.8GettingStartedScreen">18.8 Getting Started =
+Screen</a></li>
+</div>
+<p>OOBE flow for 2023 -L skus going forward and 2020 - 2022 skus with<span =
+data-colorid=3D"uedjfnp27g"> </span>FUR6.0. <span data-colorid=3D"tiv2a2jhr=
+7">&nbsp;</span></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"62=
+d37743-8fdf-4153-bcf8-a535177ab78c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 214.0px;">
+<col style=3D"width: 212.0px;">
+<col style=3D"width: 212.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Out-of-Box Experience (OOBE) steps</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Substeps</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>VIZIO logo</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"siy2kvvic4">White VIZIO logo against black screen<=
+/span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Language</p></td>
+<td class=3D"confluenceTd">
+<p>Store Demo</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>BT remote pairing</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>5691 J and K except V705x-J03, V756x-J03, M70Q6x-J03</p></li>
+<li>
+<p>5695 J</p></li>
+<li>
+<p>5695s K</p></li>
+<li>
+<p>5583 K</p></li>
+</ul>
+<p>NOTE BT support for 5695 H skus (P/OLED) added 7/14/22 but BT pairing no=
+t in OOBE</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi network search</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Ethernet connected</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>WiFi enter password</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Network connecting</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Network connected</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Network unable to connect</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Show All Network</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Set up Network Later</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>custom (hidden) network</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Captive portal</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>Installing updates</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Checking updates</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Installing updates</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"z45bflt6a1">Installing app updates</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Installing updates - slow connection</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Update Successful</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">20</td>
+<td class=3D"confluenceTd">
+<p>TV location to name TV</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">21</td>
+<td class=3D"confluenceTd">
+<p>VIZIO Account Setup</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">22</td>
+<td class=3D"confluenceTd">
+<p>TOS</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Only displays if VIZIO Account setup skipped for pre-Amtrak skus</p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">23</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>VIZIO TOS and privacy policy</p></li>
+<li>
+<p>Google TOS and privacy policy</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Connected, displays VIZIO or Google TOS or privacy policy</p></li>
+<li>
+<p>Not connected displays URL for VIZIO/Google TOS or privacy policy</p></l=
+i>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">24</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Buttons for</p>
+<ul>
+<li>
+<p>VIZIO and Google TOS and privacy policy</p></li>
+<li>
+<p>Accept</p></li>
+<li>
+<p>Skip</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">25</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Activity Data</p></td>
+<td class=3D"confluenceTd">
+<p>Buttons for</p>
+<ul>
+<li>
+<p>Accept</p></li>
+<li>
+<p>Decline</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">26</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Viewing Data notification</p></td>
+<td class=3D"confluenceTd">
+<p>Buttons for</p>
+<ul>
+<li>
+<p>Accept</p></li>
+<li>
+<p>Decline</p></li>
+<li>
+<p>Viewing data privacy policy</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">27</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Viewing Data description is downloaded if network connected.</p></td>
+<td class=3D"confluenceTd">
+<p>If not network connected display URL for description</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">28</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ejky13xdnb">Getting Started</span> Screen</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.0.1OOBERequirements"><span data-colorid=3D"om7bnfv=
+qcj">18.0.1 OOBE Requirements</span></h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"9f=
+1c32e1-8ec9-4737-aecd-1dac75e673d4" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 393.0px;">
+<col style=3D"width: 326.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>OOBE Requirement</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Note</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"rwrxm2vl6f">At AC/DC power on V logo displays for =
+1 minute.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"z3w2q4ml1q">&nbsp;</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"coc78iqboe">Galaxy background for OOBE</span></p><=
+/td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"axkq5wshs2">Varied background to prevent banding</=
+span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"k4c3qyajcn">9 bubbles to indicate step of OOBE at =
+bottom left.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"pq177355rv">&nbsp;</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"stkadxagoe">Model, Firmware and ESN display at bot=
+tom left .</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"k6mme654db">&nbsp;</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"rwtvub4nqg">Demo mode automatically launches as fo=
+llows:</span></p>
+<p><span data-colorid=3D"c8c4v3kd8h">Initial AC on or after Reset to Defaul=
+ts: If no key press after 15 minutes then display Store demo timer/notifica=
+tion for 15 seconds</span></p>
+<p><span data-colorid=3D"jg92xlowrf">Second, third, etc AC/DC power on: OOB=
+E launches and immediately displays Store demo timer/notification for 1 min=
+ute</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"yooz5jha00">Store Deme Timer/Notification:</span><=
+/p>
+<p><span data-colorid=3D"vz7zmn2le7">Entering Store Demo</span></p>
+<p><span data-colorid=3D"y68qs9v30x">TIMERCOUNTDOWN</span></p>
+<p><span data-colorid=3D"snuu4cta8w">Entering Store Demo button</span></p>
+<p><span data-colorid=3D"a40cx9eepl">Start Dismiss button</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"n9pasb9no7">A press of the INPUT key or front pane=
+l button cancels demo mode launch for OOBE until the next power cycle and r=
+eturns to OOBE Language page.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ijqc359tsk">&nbsp;</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"b43q4csx58">MENU key</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"hngpo96hf2">MENU key press displays TV information=
+ tailored to setup info.</span></p></li>
+<li>
+<p><span data-colorid=3D"p7q7t1vnzo">Restart launches the =E2=80=9CRestart =
+TV=E2=80=9D function</span></p></li>
+<li>
+<p><span data-colorid=3D"t5tnbuqtdj">Reset power cycles the TV.</span></p><=
+/li>
+<li>
+<p><span data-colorid=3D"h3cdbjwok5">MENU or BACK key dismisses TV info scr=
+een</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"n6zk39ebo2">TV Information</span></p>
+<p><span data-colorid=3D"vw9mm3x53v">TV</span></p>
+<p><span data-colorid=3D"xicj09inqm">&nbsp; Serial Number:</span></p>
+<p><span data-colorid=3D"tmvww4oohf">&nbsp; Model Name:</span></p>
+<p><span data-colorid=3D"y7im3rf1g5">&nbsp; Firmware:</span></p>
+<p><span data-colorid=3D"svvgjazw7k">Network</span></p>
+<p><span data-colorid=3D"v81aqya07n">&nbsp; Connection:</span></p>
+<p><span data-colorid=3D"lc92fv6fno">&nbsp; WiFi Network:</span></p>
+<p><span data-colorid=3D"c2pvep7qah">&nbsp; IP Address:</span></p>
+<p><span data-colorid=3D"oyy3pzp9re">&nbsp; MAC Address:</span></p>
+<p><span data-colorid=3D"ir2x9x65gi">RESTART button</span></p>
+<p><span data-colorid=3D"efrfpf1cp3">RESET button</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"iiam3slfm0">Power key</span></p>
+<p><span data-colorid=3D"hbvetkekqo">Front Panel button (short or long pres=
+s)</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"o81udmcga3">Powers down TV. At power on TV is agai=
+n in OOBE.</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.1Language">18.1 Language</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"06=
+9dfd2d-8b3e-4516-8afd-9cd1456c455e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirement</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Language Buttons</p>
+<ul>
+<li>
+<p>English (default)</p></li>
+<li>
+<p>Espanol</p></li>
+<li>
+<p>Francais</p></li>
+<li>
+<p>Store Demo</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Choose a language</p>
+<p>You are a few steps away from experiencing a world of endless entertainm=
+ent. Let=E2=80=99s go!</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>MUTE key launches Talk Back</p></td>
+<td class=3D"confluenceTd">
+<p>Press MUTEKeyIcon for TTS</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If no key press after 14 minutes then pop up menu displays with 1 minute=
+ timer</p></td>
+<td class=3D"confluenceTd">
+<p>Entering Store Demo</p>
+<p>Start Dismiss</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"yj2t1jdcnd">Volume Up/Down change volume for Talk =
+Back</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"smvi0qbrdf">Volume Control does not display.</span=
+></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If TTS enabled then demo mode starts, then TTS disabled but if demo mode=
+ disabled then TTS resumes</p></td>
+<td class=3D"confluenceTd">
+<p>TTS currently does not resume but waiver as very low use case that custo=
+mer enables TTS but does not setup TV and demo mode starts.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>BACK key</p>
+<ul>
+<li>
+<p>BACK key press from Language screen displays a pop up notification to co=
+ntinue with Back (default) and Exit buttons.</p></li>
+<li>
+<p>BACK key press from any later screen returns to the previous screen</p><=
+/li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.1.1StoreDemo">18.1.1 Store Demo</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"9f=
+edac95-396e-400f-aee6-02a9e25c954c" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Store Demo Buttons</p>
+<ul>
+<li>
+<p>Overlay (default)</p></li>
+<li>
+<p>No Overlay</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Store Demo</p>
+<p>Select your store demo mode. No overlay shows only the VIZIO product vid=
+eo.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Press Back returns to the Language screen.</p></td>
+<td class=3D"confluenceTd">
+<p>Press Back to resume setup.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"d7rqq080ly">Selection of Overly or No Overlay disp=
+lays the Store Demo timer/notification for 15 seconds.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"jtpouu0xv4">&nbsp;</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"fhjmr2n2ir">After selection at next AC or DC power=
+ cycle the Store Demo timer/notification displays for 1 minute.</span></p><=
+/td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ky0fvswo2t">&nbsp;</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A press of INPUT <span data-colorid=3D"zjzcvif9kf">BACK, EXIT or front p=
+anel button</span> during the notification dismisses launch demo mode and t=
+he OOBE Language screens displays again. <span data-colorid=3D"vpj6rkbh5l">=
+ </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.1.1.1OverlayandNoOverlay"><span data-colorid=3D"zy=
+s4m6oxk8">18.1.1.1 Overlay and No Overlay</span></h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6b=
+decbb5-7d4d-42fd-8075-4c8556a8317a" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 172.0px;">
+<col style=3D"width: 237.0px;">
+<col style=3D"width: 229.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Store Demo Settings</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Description No Sync Detected</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Description Sync Detected</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tg6n02f49y">Overlay</span></p>
+<p><span data-colorid=3D"q4se4fx22w">(previously Demo 1)</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"uvrfa0h9x4">Embedded video available: Play embedde=
+d video, no overlay display</span></p>
+<p><span data-colorid=3D"fgbtmt1pp3">No embedded video: Display V logo with=
+ Overlay</span></p>
+<p><span data-colorid=3D"jv8lj7ev4y">If sync detected then stop play of emb=
+edded video and start Overlay</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"e5ey5pqcxn">Display HDMI video with Overlay</span>=
+</p>
+<p><span data-colorid=3D"r8erhgw7db">All&nbsp;other demo mode settings pers=
+ist such as Vivid picture mode, volume set to mute, no response to INPUT, M=
+ENU and most IR codes, power up on AC cycle.</span></p>
+<p><span data-colorid=3D"sn7i19t1zb">If sync lost then launch and play embe=
+dded video</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"sehu9zamqy">No Overlay</span></p>
+<p><span data-colorid=3D"d3hk1v498v">(previously Demo 2)</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"fkea106m1z">Embedded video available: Play embedde=
+d video</span></p>
+<p><span data-colorid=3D"xpw1tin3km">No embedded video: If no sync, display=
+ V logo (do not play Overlay) If sync detected then stop play of embedded v=
+ideo but no Overlay</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"n16k7ak1zr">Display HDMI video with demo content (=
+do not play Overlay).&nbsp;</span></p>
+<p><span data-colorid=3D"jd4xp4soui">All other demo mode settings persist s=
+uch as Vivid picture mode, volume set to mute, no response to INPUT, MENU a=
+nd most IR codes, power up on AC cycle.&nbsp;&nbsp;</span></p>
+<p><span data-colorid=3D"dvcets6inm">If sync lost then launch and play embe=
+dded video.</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.2BluetoothRemotePairing(5691/5695J,Kskusgoingforwa=
+rd)">18.2&nbsp;Bluetooth Remote Pairing (5691/5695 J, K skus going forward)=
+</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"69=
+6ee6fa-eaca-4c72-8185-93658c9c78f8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV launches Bluetooth pairing as soon at initial power on if initial OOB=
+E or reset to defaults.</p>
+<p>Per remote spec, the remote launches Bluetooth pairing immediately after=
+ battery insertion for 30 minutes.</p></td>
+<td class=3D"confluenceTd">
+<p>This allow pairing in the background to support skip of BT pairing scree=
+n if batteries inserted before Language screen response.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"mm08xo1e33">After Language is completed, Bluetooth=
+ pairing from the TV launched for 1 minute.</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Automatic pairing notification.</p></td>
+<td class=3D"confluenceTd">
+<p>Pair Your remote</p>
+<p>Let=E2=80=99s get your TV=E2=80=99s best friend up and running. Searchin=
+g for Voice Remote =E2=80=A6</p>
+<p><span data-colorid=3D"sa3hvxvgvi">Press and hold the microphone button t=
+o speak command such as "Open WatchFree=E2=80=9D</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If remote fails to pair automatically, instruction provided.</p></td>
+<td class=3D"confluenceTd">
+<p>Pair Your Remote</p>
+<p>We haven=E2=80=99t found your remote yet. To pair, press and hold the Mi=
+crophone and Mute buttons at the same time for five seconds, until the ligh=
+t on your remote begins to flash.</p>
+<p>Image of microphone and mute keys.</p>
+<p><span data-colorid=3D"vxhthk9hl8">Press and hold the microphone button t=
+o speak command such as "Open WatchFree=E2=80=9D</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Reset to defaults does not delete pairing: automatically repairs after a=
+ reset to defaults.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>The Bluetooth remote automatic first time pairing time is 10 minutes <sp=
+an data-colorid=3D"wl4nr22l1w">from power on until Language is selected. Th=
+is allows automatic pairing if remote batteries are installed.</span></p></=
+td>
+<td class=3D"confluenceTd">
+<p>Previously was 30 minutes.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Once paired a success screens displays.</p></td>
+<td class=3D"confluenceTd">
+<p>Success!</p>
+<p>Your voice remote is not paired!</p>
+<p><span data-colorid=3D"zjry1ukjqo">Press and hold the microphone button t=
+o speak command such as "Open WatchFree=E2=80=9D</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Pairing fails a second time</p></td>
+<td class=3D"confluenceTd">
+<p>Unable to Pair</p>
+<p>Please try again. Press and hold the Microphone and Mute buttons on your=
+ voice remote for five seconds, until the light on your remote begins to fl=
+ash.</p>
+<p>Image of microphone and mute keys.</p>
+<p><span data-colorid=3D"h5fe1vxp15">Press and hold the microphone button t=
+o speak command such as "Open WatchFree=E2=80=9D</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Do not present BT pairing in OOBE for following skus shipped with IR rem=
+otes:</p>
+<ul>
+<li>
+<p>V755x-K04</p></li>
+<li>
+<p>V555x-J01</p></li>
+<li>
+<p>V505x-J09</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.3NetworkConnection">18.3 Network Connection</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"89=
+04b838-e982-4409-b99c-a25f218239ff" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The network connection is confirmed immediately if Ethernet is detected =
+and notification displays.</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CEthernet Connected=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Ethernet deleted then OOBE skips Wi-Fi setup and continues to Update scr=
+een.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.3.1WiFiNetworks">18.3.1 WiFi Networks</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b4=
+3f53b2-159d-4a7a-9d51-269fe59de448" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The WiFi Networks screen displays regardless of Ethernet status.</p></td=
+>
+<td class=3D"confluenceTd">
+<p>Connect to a WiFi Network</p>
+<p><span data-colorid=3D"dho8eqxd1u">Once connected, you can start streamin=
+g your favorite apps, watch your favorite shows through WatchFree+ and rece=
+ive the latest updates.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Six WiFi networks display with two options.</p></td>
+<td class=3D"confluenceTd">
+<p>Show All Networks<span data-colorid=3D"kq7atvh9gr"> ( X )</span></p>
+<p>Set Up Later</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>WiFi networks display in highest signal strength order with:</p>
+<ul>
+<li>
+<p>AP name</p></li>
+<li>
+<p>signal strength</p></li>
+<li>
+<p>lock icon if password protection</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Exclude (do not) display access points with SSID ending with =E2=80=9CVI=
+ZIOTV=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>The MAC address is included on the left bottom display <span data-colori=
+d=3D"y60va0iq1k">above the step bubbles. </span></p></td>
+<td class=3D"confluenceTd">
+<p>MAC address: XX:XX:XX:XX:XX:XX</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A press of the Up or Down key toggles between the available six displaye=
+d WiFi networks.&nbsp;</p>
+<p>To see more networks, select Show All Networks.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>A press OK key for a selected WiFi network</p>
+<ul>
+<li>
+<p>invokes soft keyboard if password protected</p></li>
+<li>
+<p>launches connection if no password</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.3.1.1WiFiShowAllNetworksbutton">18.3.1.1 WiFi Show=
+ All Networks button</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"86=
+b3a31b-0735-498b-b160-00e43cec8856" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>All networks includes <span data-colorid=3D"nl17w6td6r">=E2=80=9C+ </spa=
+n>Hidden Network<span data-colorid=3D"y9mmqkr28q">=E2=80=9D </span>as the f=
+irst network following by all available networks.</p></td>
+<td class=3D"confluenceTd">
+<p>All Networks</p>
+<p>Select your network.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tv9ndvqwsf">Selection of Show All Networks launche=
+s a rescan of all available networks. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.3.1.2WiFiCustomNetworkbutton">18.3.1.2 WiFi Custom=
+ Network button</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e2=
+1476f6-7761-464e-a8ab-819f5e8ab48e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The <span data-colorid=3D"f681q79irs">Hidden</span> Network button invok=
+es the keyboard so the user can input the SSID for the desired hidden netwo=
+rk.</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CEnter Network <span data-colorid=3D"kq66ipw9r0">Name</span>=E2=
+=80=9D</p>
+<p>=E2=80=9C<span data-colorid=3D"tyg2zcmw5o">Network</span> Name=E2=80=9D<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>After SSID is entered from the keyboard, the password entry displays</p>=
+</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If a Name is not entered a notification displays</p></td>
+<td class=3D"confluenceTd">
+<p>=E2=80=9CName required=E2=80=9D</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.3.1.3WiFiSetUpLaterbutton">18.3.1.3&nbsp;WiFi Set =
+Up Later button</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a4=
+80b4db-0bfc-44ff-9713-09c3ce84966e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The Set Up Later button displays a pop up with <span data-colorid=3D"gtl=
+m2y0lgw">Set Up Later</span> and Back buttons.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"kk2o0t48av">Are you sure you want to skip Network =
+Setup?</span></p>
+<p><span data-colorid=3D"hu76e6y8pa">Until you connect your network, you wo=
+n=E2=80=99t be able to stream you favorite apps, including Netflix, Hulu an=
+d YouTube, or receive software updates that enhance your experience.</span>=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>When the <span data-colorid=3D"z2hur1dzhf">Set Up Later</span> button is=
+ selected the user can forego network selection and OOBE <span data-colorid=
+=3D"plfs9emqax">exits to HDMI-1. </span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.3.2WiFiPassword">18.3.2 WiFi Password</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8e=
+58a301-e4ee-410c-9dea-740793c3f972" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi network name included on the header</p></td>
+<td class=3D"confluenceTd">
+<p>Enter password</p>
+<p>WIFINETWORK</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Character Input Field</p>
+<ul>
+<li>
+<p>displays the characters input by the user.</p></li>
+<li>
+<p>Characters are entered by the soft keyboard or the remote (digits) or a =
+connected keyboard.</p></li>
+<li>
+<p><span data-colorid=3D"gk5nadil4g">If more than 57 characters are entered=
+ then</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"qy7egmrpjm">The first left character moves off scr=
+een.</span></p></li>
+<li>
+<p><span data-colorid=3D"c49qmoqlvy">The 58th character displays on the rig=
+ht.</span></p></li>
+<li>
+<p><span data-colorid=3D"u459k8fcqo">Repeat as characters 59 - 63 are enter=
+ed so the left most characters appear to slide off screen.</span></p></li>
+</ul></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"c8hekx58e3">A password can be up to 63 characters =
+per Wi-Fi requirements</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Soft keyboard includes these options</p>
+<ul>
+<li>
+<p>Show Password checkbox</p></li>
+<li>
+<p><span data-colorid=3D"xiqf7sn7kz">(default displays password)</span></p>=
+</li>
+<li>
+<p>Back button</p></li>
+<li>
+<p>Submit button</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"yexfyzo1b2">Back button always available</span></p=
+>
+<p><span data-colorid=3D"mjc6l8xi7m">Submit button grayed out until 8 chara=
+cters are entered (minimum for Wi-Fi password).</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.3.2.2Keyboard">18.3.2.2 Keyboard</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7a=
+f8a341-62fc-4408-a072-c05e4c52a726" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The keyboard provides character entry into the Character Input Field wit=
+h default location the letter 'a=E2=80=9D as the highlight focus.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A separate digit pad right of the keyboard is included.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If characters are entered from an IR remote, then the highlight moves to=
+ <span data-colorid=3D"cc86nlwt69">the character in the keyboard.</span></p=
+></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Shift soft key provides the user with upper-case letters.</p>
+<p></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Selection of upper-case letter adds the character in the Character Input=
+ Field.</p></li>
+<li>
+<p>Keyboard reverts back to lower-case letters</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Symbols soft key provides the user with symbols.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Selection of a symbol adds the character in the Character Input Field.</=
+p></li>
+<li>
+<p>Keyboard reverts back to lower-case letters</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Special Characters soft key provides the user with special characters su=
+ch as accented characters.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Selection of a special character adds the character in the Character Inp=
+ut Field.</p></li>
+<li>
+<p>Keyboard reverts back to lower-case letters</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>For password entry, a character displays until 5 seconds (tunable) have =
+elapsed or the next character is entered, whichever is first, then the char=
+acter is obfuscated.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Press Left key from left most character to</p>
+<ul>
+<li>
+<p>wrap to the right most <span data-colorid=3D"hp9gyspgve">digit in the ke=
+yboard</span>.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.3.2.3WiFiPasswordSubmitbutton">18.3.2.3 WiFi Passw=
+ord Submit button</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"19=
+aac603-259f-49d1-9725-a94725e01556" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>When the Submit button is highlighted a press of OK key initiates submis=
+sion of the user's input characters for network validation.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Connecting</p>
+<p>This may take a few minutes. Please don't turn off or unplug your TV.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Connecting text displays until the connection is successful.&nbsp;</=
+p>
+<p>The connected network name is the only network listed.</p></td>
+<td class=3D"confluenceTd">
+<p>Connected!</p>
+<p>Successfully connected to WIFINAME</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If connection fails the a unable to connect notification displays with B=
+ack and Try Again (default) soft buttons.</p></td>
+<td class=3D"confluenceTd">
+<p>Unable to Connect</p>
+<p>Let=E2=80=99s try that again.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ny0lola041">Submit soft button is grayed and not s=
+electable until 8 characters entered for the password.</span></p></td>
+<td class=3D"confluenceTd">
+<p>8 characters is minimum number of characters required for a valid passwo=
+rd.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.3.2.4WiFiPasswordIncorrect"><span data-colorid=3D"=
+ew3vxcl3ox">18.3.2.4 WiFi Password Incorrect</span></h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3c=
+d24458-2661-4226-8aa0-2a8e16597b75" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"eagx96op8w">If the WiFi fails to connect then pass=
+word incorrect displays with 2 options.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"zxdq8uq1xy">Unable to Connect WiFiName</span></p>
+<p><span data-colorid=3D"w38ykei48m">Incorrect password is entered.</span><=
+/p>
+<p><span data-colorid=3D"zh1ivb962n">BACK TRY AGAIN</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"tdz5a7xho0">If the BACK button selected, return to=
+ WiFi Network screen to allow for selection of a different network.</span><=
+/p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"vkibc4n5ra">If TRY AGAIN button selected, return t=
+o WiFi Password screen to allow re-entry of the password.</span></p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.3.3Wi-FiCaptivePortal">18.3.3&nbsp;Wi-Fi Captive P=
+ortal</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"97=
+df24be-defc-4e4e-933e-8bd28b11d1e2" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If captive portal with open enhanced network is selected, instead of the=
+ VIZIO password entry page, redirect to service provider=E2=80=99s full scr=
+een splash landing page. Landing page designed and hosted by service provid=
+er/router.</p></td>
+<td class=3D"confluenceTd">
+<p>VIZIO provides secure network communication for captive portal authentic=
+ation and login via HTTPS.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>if valid login credentials are entered continue with internet connectivi=
+ty.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If invalid login credential are entered</p>
+<ul>
+<li>
+<p>stay in log in page</p></li>
+<li>
+<p>return to SSID list.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Response depends upon service provider network operation flow.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>To exit the captive portal landing page press the BACK key to return to =
+OOBE WI-Fi Networks page.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.4Updates">18.4&nbsp;Updates</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"8a=
+478e18-7961-4512-bae6-fa9fcb4fb4b7" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>After successful Wi-Fi (or Ethernet connection)</p>
+<ul>
+<li>
+<p>notification displays that the TV is checking if a firmware update is re=
+quired</p></li>
+<li>
+<p>a spinner displays while the system checks</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Checking for Updates</p>
+<p>This may take a few minutes. Please don=E2=80=99t turn off or unplug you=
+r TV. Once updates are installed, your TV will restart.</p>
+<p>While you wait, see what=E2=80=99s in the store=E2=80=A6</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>TV checks for</p>
+<ul>
+<li>
+<p>Firmware update</p></li>
+<li>
+<p>DLM update</p>
+<ul>
+<li>
+<p><span data-colorid=3D"aptcwey95u">OS update</span></p></li>
+<li>
+<p><span data-colorid=3D"ylmqdmrn38">App update</span></p></li>
+</ul></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>During the download a notification and progress bar displays.</p>
+<ul>
+<li>
+<p>firmware update may take up to 10 minutes</p></li>
+<li>
+<p>Firmware update requires the TV to power cycle to complete the update in=
+stallation</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Installing Updates</p>
+<p>This may take a few minutes. Please don=E2=80=99t turn off or unplug you=
+r TV. Once update are installed, your TV will restart.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Install takes longer than ?</p></td>
+<td class=3D"confluenceTd">
+<p>Installing Updates</p>
+<p>It looks like your connection is a little slow and hour updates might ta=
+ke longer than usual. Please do not turn off or unplug your TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>After the firmware update is completed the TV checks again for another f=
+irmware update or if none checks for a DLM update.</p></td>
+<td class=3D"confluenceTd">
+<p>Update Successful!</p>
+<p>Your TV will restart now</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"hyt0pcwizy">Information screen of VIZIO TV feature=
+s cycles through the right window.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"rqs0f96863">While you wait, see what=E2=80=99s in =
+store=E2=80=A6</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"dwd9u9lmaj">If TV powers off during OS update, whe=
+n power restored resume or restart OS update.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"kgtwpm7rlr">When power restored don=E2=80=99t proc=
+eed to App update until OS update completed.</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.5TVLocationtoNameTV">18.5&nbsp;<span data-colorid=
+=3D"owprsoaii8">TV Location to</span> Name TV</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"37=
+97045c-8fe0-4d2c-a5b2-89cda37fc174" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The VIZIO default name is renamed to the selected location.&nbsp;</p></t=
+d>
+<td class=3D"confluenceTd">
+<p>Where is your VIZIO TV located?</p>
+<p>When you name your TV it helps with Google Chromecast, Apple Airplay, an=
+d Alexa Voice Assistant setup and control.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Defined locations for name reassignment</p>
+<ul>
+<li>
+<p>no Skip button</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Living Room</p></li>
+<li>
+<p>Primary Bedroom</p></li>
+<li>
+<p>Office</p></li>
+<li>
+<p><span data-colorid=3D"y54oi19gx3">Guest Bedroom</span></p></li>
+<li>
+<p>Game Room</p></li>
+<li>
+<p>Basement</p></li>
+<li>
+<p>Kitchen</p></li>
+<li>
+<p>+ Custom Location</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>+ Custom Location displays entry field for Custom Locationusing the onsc=
+reen keyboard with Back and Submit soft buttons.</p></td>
+<td class=3D"confluenceTd">
+<p>Custom Location</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>if the name is more than 24 characters when submitted an error is return=
+ed reflow the entry field</p></td>
+<td class=3D"confluenceTd">
+<p>Only 24 characters are supported</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>A notification appears when the TV is successfully named.</p></td>
+<td class=3D"confluenceTd">
+<p>Your TV has Been Named</p>
+<p>When casting to this display, use the name CASTNAME.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-19.6VIZIOAccountSetup">19.6&nbsp;VIZIO Account Setup<=
+/h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"af=
+3b0a71-92ef-4db1-a143-f882506a1609" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"g7nkdfhp5l">VIZIO account setup is required to use=
+ VIZIO Home and stream apps including WatchFree+.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"haic899o4b">Set Up Your Account</span></p>
+<p><span data-colorid=3D"xrtt6zkl1p">After completing setup of your VIZIO A=
+ccount, you=E2=80=99ll be able to:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"hq7dn8yo5k">Manage your app subscriptions in one p=
+lace</span></p></li>
+<li>
+<p><span data-colorid=3D"c2i3wpw04k">Purchase on demand titles</span></p></=
+li>
+<li>
+<p><span data-colorid=3D"lv4vurrozp">Access special sales and offers</span>=
+</p></li>
+<li>
+<p><span data-colorid=3D"qbcgxgo8lh">Receive personalized customer support<=
+/span></p></li>
+<li>
+<p><span data-colorid=3D"e62rk7vta0">Connect your favorite voice assistant<=
+/span></p></li>
+</ul>
+<p><span data-colorid=3D"yz3r0cjv7w">Download VIZIO Mobile (in POP)</span><=
+/p>
+<p><span data-colorid=3D"izml5kqfn3">Learn More button</span></p>
+<p><span data-colorid=3D"jw4op0mb0m">Continue button</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"f87a59oy2w">Select of Continue button updates the =
+POP with</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ailftmiatm">Scan QR</span></p>
+<p><span data-colorid=3D"x7vawb9h8h">Set Up On Web</span></p>
+<ol start=3D"1">
+<li>
+<p><span data-colorid=3D"ugcq4z28yr">Visit </span><a class=3D"external-link=
+" data-card-appearance=3D"inline" href=3D"http://vizio.com/setup" rel=3D"no=
+follow">http://vizio.com/setup</a></p></li>
+<li>
+<p><span data-colorid=3D"k36xima5ym">Enter code</span></p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"spe5y9b4vb">After setup is complete the page updat=
+es</span></p>
+<p><span data-colorid=3D"a818r1snmc">A Next button displays.</span></p></td=
+>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"f67b9djtdh">Make It Yours</span></p>
+<p><span data-colorid=3D"rbaogo79ri">When you create a VIZIO account, you c=
+an link all our devices, and manage your payments and subscirions all in on=
+e place.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"h4xhql38kg">VIZIO account setup is required to com=
+plete OOBE for Amtrak TVs: Skip button removed. Back out to exit OOBE.</spa=
+n></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"dollte7r3b">VIZIO account setup is not required fo=
+r pre-Amtrak TVs to complete OOBE: Skip button included and proceeds to TOS=
+.</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.6Terms&amp;Conditions">18.6&nbsp;Terms &amp; Condi=
+tions</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"17=
+aac0d5-c5ec-4f6f-a1c2-1e9b95ca293e" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"q20ary2gis">Terms &amp; Conditions is included in =
+VIZIO Account Setup.</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"u987gl255p">If pre-Amtrak skus skip VIZIO account =
+setup then Terms and Conditions displays.</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The Terms of Service and Privacy Policy must be<span data-colorid=3D"ez0=
+5nuutof"> selected and </span>confirmed <span data-colorid=3D"qzswiorwf4">w=
+ith a check</span> for VIZIO and Google.</p>
+<ul>
+<li>
+<p><span data-colorid=3D"majlwojds2">Select All (default)</span></p></li>
+<li>
+<p><span data-colorid=3D"c9wg4fz5kn">VIZIO Terms of Service</span></p></li>
+<li>
+<p><span data-colorid=3D"krzahucsei">VIZIO Privacy Policy</span></p></li>
+<li>
+<p><span data-colorid=3D"inflbosulo">Google Privacy Policy</span></p></li>
+<li>
+<p><span data-colorid=3D"rnbuy4lds9">Google Terms of Service</span></p></li=
+>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Terms &amp; Conditions</p>
+<p><span data-colorid=3D"hzxv8ui7ii">Select All</span></p>
+<p><span data-colorid=3D"h3htbwqj9s">VIZIO Terms of Service</span></p>
+<p><span data-colorid=3D"ugshszbzsj">VIZIO Privacy Policy</span></p>
+<p><span data-colorid=3D"rt3e1jxf5h">Google Privacy Policy</span></p>
+<p><span data-colorid=3D"e7guya38k4">Google Terms of Service</span></p></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"xc020mt60k">The POP to the right includes</span></=
+p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"yv9de3uav7">Accepting the Terms &amp; Conditions o=
+ffers access to your VIZIO Smart TV features, including the apps, free live=
+ TV, movies and shows on WatchFree+, and so much more.</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ojf1n9dkcy">Below the POP is a Google Chromecast c=
+heckbox, checked by default.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"xao6mytht3">Help improve Chromecast Built-in: Do y=
+ou want to help improve everyone=E2=80=99s experience by sharing device sta=
+ts and crash reports with Google? Learn more by visiting https//g.co/cast/p=
+rivacy</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>At the bottom right the buttons available are</p>
+<ul>
+<li>
+<p>Accept</p></li>
+<li>
+<p><span data-colorid=3D"eoshsvkvgl">Decline (default)</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Below the buttons is a Google Chromecast checkbox, checked by default.</=
+p></td>
+<td class=3D"confluenceTd">
+<p>Help improve Chromecast Built-in: Do you want to help improve everyone=
+=E2=80=99s experience by sharing device stats and crash reports with Google=
+? Learn more by visiting https//g.co/cast/privacy</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"we1m3wcbx1">If Decline selected </span>then a noti=
+fication displays with Back and <span data-colorid=3D"bak9plnyjo">Decline</=
+span> buttons. Selection of <span data-colorid=3D"gg85fquimz">Decline</span=
+> exits OOBE to HDMI-1.</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"kubdjzhsxt">Whoops! Are you sure you want to</span=
+> decline Terms of Service.</p>
+<p><span data-colorid=3D"b8dw941ive">Skipping this step means missing out o=
+n all your VIZIO Smart TV features including apps like Netflix, YouTUbe and=
+ other apps.</span></p>
+<p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.6.1TermsofServiceandPrivacyPolicybuttons">18.6.1&n=
+bsp;Terms of Service and Privacy Policy buttons</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"cf=
+28286a-5a10-4657-8d0b-dfbbe6b803c9" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Terms of Service and Privacy Policy buttons for VIZIO and Google display=
+s</p>
+<ul>
+<li>
+<p>the current terms and conditions from the website if connected.</p></li>
+<li>
+<p>the QR code or link to download and review the Terms of Service or Priva=
+cy Policy.</p></li>
+</ul>
+<p>A Back button displays (highlighted by default).</p></td>
+<td class=3D"confluenceTd">
+<p>NAMETERMS&amp;CONDITION</p>
+<p>To review these terms, scan the QR code or visit the URL on another devi=
+ce</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>A press right from the Back button followed by up or down scrolls the te=
+xt for the terms of service or privacy policy.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.6.2ActivityData">18.6.2 Activity Data</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"c1=
+a2e457-d314-4502-bdf0-5ba1b4bc65a7" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Activity Data must be confirmed to allow SmartCast Home usage. Selection=
+ of the Accept button supports display and use of <span data-colorid=3D"d44=
+g3wwxfq">VIZIO</span> Home or Decline which prevents display of <span data-=
+colorid=3D"vtphp83n7p">VIZIO</span> Home.</p></td>
+<td class=3D"confluenceTd">
+<p>Activity Data</p>
+<p>Accepting Activity Data will enable the smart Features of this VIZIO TV.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"x7521ta64w">POP displays scrollable description of=
+ Activity data from OneTruast</span></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Buttons for action</p>
+<ul>
+<li>
+<p>Accept (default)</p></li>
+<li>
+<p>Decline</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"wwjoadolwi">If Decline is selected then a notifica=
+tion displays with Back and Decline buttons. Selection of Decline exits OOB=
+E to HDMI-1.</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"qckp2uypsg">Whoops! Are you sure you want to decli=
+ne Activity Data?</span></p>
+<p><span data-colorid=3D"mro4t8pfyi">Skipping this step means missing out o=
+n all your VIZIO Smart TV features, including apps like Netflix, YouTube an=
+d other apps. you won=E2=80=99t be able to stream internet video or audio w=
+ith VIZIO SmartCast.</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-18.0OOBE-18.6.3ViewingData">18.6.3 Viewing Data</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"94=
+eb1e40-93c3-4e4b-8c3e-6f36206c1b69" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If Terms and Conditions <span data-colorid=3D"zxfmp9w50d">including Acti=
+vity Data</span> is accepted then Viewing Data displays.</p></td>
+<td class=3D"confluenceTd">
+<p>Viewing Data</p>
+<p>Legal description displays from <span data-colorid=3D"r80r64ccw6">OneTru=
+st (not hard coded)</span> or if no network, URL displays instead.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>The following buttons display:</p>
+<ul>
+<li>
+<p>Accept</p></li>
+<li>
+<p>Decline</p></li>
+<li>
+<p>View Policy (default)</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Accept button allows ACR, that is permits program related display of inf=
+ormation, program review, and data collection.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Decline button declines Viewing Data and no program related data can be =
+collected.</p>
+<p>Decline and Back buttons display.</p></td>
+<td class=3D"confluenceTd">
+<p>You=E2=80=99ve chosen to decline VIZIO Viewing Data Policy</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-18.0OOBE-18.6.3.1ViewPolicybutton">18.6.3.1 View Policy button=
+</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a3=
+c3275f-17a1-4227-82b4-0c8155bd96ef" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>The View Policy button opens the link to download and review the Viewing=
+ Data policy.</p>
+<ul>
+<li>
+<p>Back button is selected</p></li>
+<li>
+<p>Scroll bar navigated with up and down to display hidden text.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Viewing Data</p>
+<p>Legal description displays from URL or if no network, URL displays inste=
+ad.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.7WelcometoVIZIO"><span data-colorid=3D"dixpcwm9f5"=
+>18.7&nbsp;Welcome to VIZIO</span></h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"bd=
+a51e3b-8000-468b-87c7-a36778f709b1" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 319.0px;">
+<col style=3D"width: 319.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p>&nbsp;</p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Text</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>OOBE completed, welcome screen displays over galaxy screen then automati=
+cally displays Getting Started screen</p></td>
+<td class=3D"confluenceTd">
+<p>Welcome to the VIZIO Family</p>
+<p>Entertainment as it should be.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-18.0OOBE-18.8GettingStartedScreen">18.8 <span data-colorid=3D"=
+j6zs0zl1zo">Getting Started </span>Screen</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"30=
+004036-f1f2-419b-a123-5a25772220e8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 362.0px;">
+<col style=3D"width: 276.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Text/Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>After the setup completed, the TV exits to Welcome screen followed by th=
+e SmartCast Home page. &nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Welcome to the familly</p>
+<p>You=E2=80=99re in! Enjoy a world of endless entertainment with VIZIO.</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"clasg2hnpr">For non-Amtrak skus,</span> if a notif=
+ication with Setup Later button displays and once confirmed, TV exits to HD=
+MI-1 if:</p>
+<ul>
+<li>
+<p>WiFi setup skipped and no ethernet connection</p></li>
+<li>
+<p>WiFi setup, TOS declined, activity data accepted</p></li>
+<li>
+<p>WiFi setup, TOS accepted, activity data declined</p></li>
+<li>
+<p>WiFi setup, TOS and activity data declined.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"e00gwrz8qv">For Amtrak skus, if a notification wit=
+h =E2=80=9CSetup Later=E2=80=9D button displays and is confirmed, then TV e=
+xits to HDMI-1 if:</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"ljdsslt3m0">WiFi setup skipped</span></p></li>
+</ul>
+<p><span data-colorid=3D"tdws2q964q">WiFi setup is the only use case with s=
+etup later (no Ethernet).</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_8_382065476.1728075019304--

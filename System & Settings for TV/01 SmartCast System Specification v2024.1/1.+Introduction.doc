@@ -1,0 +1,1040 @@
+Message-ID: <269572946.11.1728074495083@7c91b6d1294f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10_78762960.1728074495082"
+
+------=_Part_10_78762960.1728074495082
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>1. Introduction</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>1. Introduction</h1>
+    <div class=3D"Section1">
+        <p>
+<style>[data-colorid=3Dix3kts9tb1]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dix3kts9tb1]{color:#cf2600}[data-colorid=3Dda1lgnizyk]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dda1lgnizyk]{colo=
+r:#cf2600}[data-colorid=3Did7az184ul]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Did7az184ul]{color:#cf2600}[data-colorid=3Dyn975uix=
+8f]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dyn975uix8f]=
+{color:#cf2600}[data-colorid=3Dnp42lf5f43]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dnp42lf5f43]{color:#cf2600}[data-colorid=3Ds74jm=
+qfvla]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ds74jmqfv=
+la]{color:#cf2600}[data-colorid=3Dmug95g9pnh]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dmug95g9pnh]{color:#cf2600}[data-colorid=3Du8=
+fqe48l7k]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Du8fqe=
+48l7k]{color:#cf2600}[data-colorid=3Dsnep7zqj9z]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dsnep7zqj9z]{color:#cf2600}[data-colorid=
+=3Dilnmllwbin]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+ilnmllwbin]{color:#cf2600}[data-colorid=3Ds271chb0if]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Ds271chb0if]{color:#cf2600}[data-colo=
+rid=3Dc7i26usvcy]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dc7i26usvcy]{color:#cf2600}[data-colorid=3Dsp8zj6pghp]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dsp8zj6pghp]{color:#cf2600}[data-c=
+olorid=3Dwc1sp4rldk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dwc1sp4rldk]{color:#cf2600}[data-colorid=3Df0gwcbq7zh]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Df0gwcbq7zh]{color:#cf2600}</st=
+yle>This document is intended to define requirements and provide sufficient=
+ description to achieve the requirement. &nbsp;</p>
+<h3 id=3D"id-1.Introduction-6.1.1SoftwareUpdateRequirements">6.1.1 Software=
+ Update Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e7=
+955560-32f7-47dc-ade2-00450daa2835" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 232.0px;">
+<col style=3D"width: 527.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Intro</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Details</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Purpose &amp; Scope</p></td>
+<td class=3D"confluenceTd">
+<p>This document defines system requirements but&nbsp;is not intended as a =
+deep dive into the design and implementation. &nbsp;If need be, a separate =
+design document may be created.&nbsp;</p>
+<p>This is a living&nbsp;document is&nbsp;subject to change over time based=
+ on internal and external conditions.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Target Audience</p></td>
+<td class=3D"confluenceTd">
+<p>This document is primarily aimed at the engineering and product manageme=
+nt of VIZIO and its technology partners including chipset manufacturers. &n=
+bsp;Specific sections only also provided to system ODM's if deemed necessar=
+y.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>References</p></td>
+<td class=3D"confluenceTd">
+<p>The following VIZIO specifications and protocols are references for the =
+SmartCast System spec.&nbsp; The current versions at the time when the docu=
+ment was published are referenced but the latest version always applies</p>
+<ul>
+<li>
+<p>SmartCast TV <span data-colorid=3D"wc1sp4rldk">System Settings, version =
+7.2</span></p></li>
+<li>
+<p><span data-colorid=3D"mug95g9pnh">VIZIO Home System Settings, version 7.=
+1</span></p></li>
+<li>
+<p>Picture modes spec version <span data-colorid=3D"id7az184ul">5.3</span><=
+/p></li>
+<li>
+<p>SettingsMatrixSDR_HDR10_HDR10P_DV_HLG_V3.0</p></li>
+<li>
+<p>Backlight-LCD-Rates-V3.0-Prelim-1.xlsx</p></li>
+<li>
+<p>Audio Quality Specification, version 3.<span data-colorid=3D"f0gwcbq7zh"=
+>4.1 See </span><a class=3D"external-link" href=3D"https://vizioonline-my.s=
+harepoint.com/:f:/g/personal/craig_liebel_vizio_com/EowbPC8WC89Nva37qDo0nbM=
+BhB_C-oOY3Rug_r8stNUkqA?e=3Dx9zQQ7&amp;xsdata=3DMDV8MDJ8fDFkMWZjYWMyYjQ1MjQ=
+zMzBkNDliMDhkYzdjMDc4NzhifGRlNmU4ZDljYmRmODRlMWQ5NTQwOGJjNmNiOWNkYTgyfDB8MH=
+w2Mzg1MjE2MTg5NjA0NzExOTV8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4Z=
+XlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lW=
+MVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPakV6WW1ZNFpXTXhMV1l6TW1JdE5HVXpaaTA0T1d=
+VeUxXWTJNbVUxTnpkalpURTJPVjgyT1RZeVltUTVZaTA0Tm1RMkxUUmtNMlV0WW1RNE1DMHlORF=
+l4WlRObU1HRXdOREZBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN4TmpVMk5UQ=
+TVOREk1TXc9PXw1ZTQ2ZTRkNDc0OGY0ZmU1ZDQ5YjA4ZGM3YzA3ODc4YnwwZWVkMzEyNmQwOWM0=
+MTE1YjE1MmQ1NzVlMjhkOGMwZg%3D%3D&amp;sdata=3Dd0hRSGdTUy9sandwNUZKZ1pSQTVDeE=
+9FY3ZZaGk4Qy9zZ0VJVSszaFVkTT0%3D&amp;ovuser=3Dde6e8d9c-bdf8-4e1d-9540-8bc6c=
+b9cda82%2CPolly.Stecyk%40vizio.com" rel=3D"nofollow">_Specifications</a>. <=
+span data-colorid=3D"da1lgnizyk">for details.</span></p></li>
+<li>
+<p>2.4 Ghz 802.11ax 4K Test Spec Worksheet<span data-colorid=3D"s271chb0if"=
+> V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>2.4 Ghz 802.11n 2K Test Spec Worksheet<span data-colorid=3D"c7i26usvcy">=
+ V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>2.4 Ghz 802.11n 4K Test Spec Worksheet<span data-colorid=3D"yn975uix8f">=
+ V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>5.0 Ghz 802.11ac 2K Test Spec Worksheet<span data-colorid=3D"snep7zqj9z"=
+> V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>5.0 Ghz 802.11ac 4K Test Spec Worksheet<span data-colorid=3D"sp8zj6pghp"=
+> V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>5.0 Ghz 802.11ax 4K Test Spec Worksheet<span data-colorid=3D"np42lf5f43"=
+> V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>5.0 Ghz 802.11n 2K Test Spec Worksheet<span data-colorid=3D"ilnmllwbin">=
+ V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>5.0 Ghz 802.11n 4K Test Spec Worksheet <span data-colorid=3D"u8fqe48l7k"=
+>V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>6.0 Ghz 802.11ax 4K Test Spec Worksheet <span data-colorid=3D"s74jmqfvla=
+">V4.4 Rev2.</span>xlsx</p></li>
+<li>
+<p>802.11 Test Specification<span data-colorid=3D"ix3kts9tb1"> V4.4 Rev2</s=
+pan>.pdf</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-1.Introduction-1.1Acronyms">1.1 Acronyms</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"57=
+3d0ada-e2f8-4754-afcb-4bda4cdf3fff" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 147.0px;">
+<col style=3D"width: 299.0px;">
+<col style=3D"width: 310.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>Acronym</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Definition</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Comments</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>3DLUT</p></td>
+<td class=3D"confluenceTd">
+<p>3D Lookup Table</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>AC off</p></td>
+<td class=3D"confluenceTd">
+<p>Alternating Current off</p></td>
+<td class=3D"confluenceTd">
+<p>Pull plug from the source</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>ALLM</p></td>
+<td class=3D"confluenceTd">
+<p>Automatic Low Latency Mode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>AP</p></td>
+<td class=3D"confluenceTd">
+<p>Access Point</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>API</p></td>
+<td class=3D"confluenceTd">
+<p>Application Programming Interface</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>ARC</p></td>
+<td class=3D"confluenceTd">
+<p>Audio Return Channel</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>ATSC</p></td>
+<td class=3D"confluenceTd">
+<p>Advanced Television Systems Committee</p></td>
+<td class=3D"confluenceTd">
+<p>TV transmission requiring tuner, digital signal 1080p and 720p; also 480=
+p</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>BLE</p></td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Low Energy</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>BT</p></td>
+<td class=3D"confluenceTd">
+<p>Bluetooth</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>CC</p></td>
+<td class=3D"confluenceTd">
+<p>Closed Captioning</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>CEC</p></td>
+<td class=3D"confluenceTd">
+<p>Consumer Electronics Control</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>CEC</p></td>
+<td class=3D"confluenceTd">
+<p>California Energy Commission</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>DC off</p></td>
+<td class=3D"confluenceTd">
+<p>Direct Current Off</p></td>
+<td class=3D"confluenceTd">
+<p>Power off with remote or IP</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>DAI</p></td>
+<td class=3D"confluenceTd">
+<p>Dynamic Ad Insertion</p></td>
+<td class=3D"confluenceTd">
+<p>Provides dynamic ad insertion into content.</p>
+<p>Setting Name is Ad Replacement.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">15</td>
+<td class=3D"confluenceTd">
+<p>DIAL protocol</p></td>
+<td class=3D"confluenceTd">
+<p>Discovery and Launch Protocol</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">16</td>
+<td class=3D"confluenceTd">
+<p>DNS</p></td>
+<td class=3D"confluenceTd">
+<p>Domain Name Server</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">17</td>
+<td class=3D"confluenceTd">
+<p>DRAM</p></td>
+<td class=3D"confluenceTd">
+<p>Dynamic random-access memory</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">18</td>
+<td class=3D"confluenceTd">
+<p>DV</p></td>
+<td class=3D"confluenceTd">
+<p>Dolby Vision</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">19</td>
+<td class=3D"confluenceTd">
+<p>DVI</p></td>
+<td class=3D"confluenceTd">
+<p>Digital Visual Interface&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Connect a video source to display device, typically a computer, often pa=
+ssing VGA</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">20</td>
+<td class=3D"confluenceTd">
+<p>eARC</p></td>
+<td class=3D"confluenceTd">
+<p>Enhanced Audio Return Channel</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">21</td>
+<td class=3D"confluenceTd">
+<p>EDID</p></td>
+<td class=3D"confluenceTd">
+<p>Extended Display Identification Data</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">22</td>
+<td class=3D"confluenceTd">
+<p>EOTF</p></td>
+<td class=3D"confluenceTd">
+<p>Electro-Optical Transfer Function</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">23</td>
+<td class=3D"confluenceTd">
+<p>ESN</p></td>
+<td class=3D"confluenceTd">
+<p>Electronic Serial Number</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">24</td>
+<td class=3D"confluenceTd">
+<p>FHD</p></td>
+<td class=3D"confluenceTd">
+<p>Full High Definition</p></td>
+<td class=3D"confluenceTd">
+<p>1080p</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">25</td>
+<td class=3D"confluenceTd">
+<p>GB</p></td>
+<td class=3D"confluenceTd">
+<p>Gigabyte</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">26</td>
+<td class=3D"confluenceTd">
+<p>GBPS</p></td>
+<td class=3D"confluenceTd">
+<p>GigaBytes per Second</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">27</td>
+<td class=3D"confluenceTd">
+<p>GHz</p></td>
+<td class=3D"confluenceTd">
+<p>Gigahertz</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">28</td>
+<td class=3D"confluenceTd">
+<p>HD</p></td>
+<td class=3D"confluenceTd">
+<p>High Definition</p></td>
+<td class=3D"confluenceTd">
+<p>720p</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">29</td>
+<td class=3D"confluenceTd">
+<p>HDCP</p></td>
+<td class=3D"confluenceTd">
+<p>High-bandwidth digital Content&nbsp;Protection</p></td>
+<td class=3D"confluenceTd">
+<p>Secure connection between a source and a display (e.g. prevents recordin=
+g a BD disc).</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">30</td>
+<td class=3D"confluenceTd">
+<p>HDMI</p></td>
+<td class=3D"confluenceTd">
+<p>High-Definition Multimedia Interface</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">31</td>
+<td class=3D"confluenceTd">
+<p>HDR</p></td>
+<td class=3D"confluenceTd">
+<p>High Dynamic Range</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">32</td>
+<td class=3D"confluenceTd">
+<p>HLG</p></td>
+<td class=3D"confluenceTd">
+<p>Hybrid Log Gamma</p></td>
+<td class=3D"confluenceTd">
+<p>HDR format that can display on HDR TV or SDR TV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">33</td>
+<td class=3D"confluenceTd">
+<p>HTTP</p></td>
+<td class=3D"confluenceTd">
+<p>HyperText Transfer Protocol</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">34</td>
+<td class=3D"confluenceTd">
+<p>HTTPS</p></td>
+<td class=3D"confluenceTd">
+<p>HyperText Transfer Protocol Secure</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">35</td>
+<td class=3D"confluenceTd">
+<p>IOT</p></td>
+<td class=3D"confluenceTd">
+<p>Internet of Things</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">36</td>
+<td class=3D"confluenceTd">
+<p>IPv4/IPv6</p></td>
+<td class=3D"confluenceTd">
+<p>Internet Protocol version 4/6</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">37</td>
+<td class=3D"confluenceTd">
+<p>LCD</p></td>
+<td class=3D"confluenceTd">
+<p>Liquid Crystal Display</p></td>
+<td class=3D"confluenceTd">
+<p>LCD is the panel</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">38</td>
+<td class=3D"confluenceTd">
+<p>LED</p></td>
+<td class=3D"confluenceTd">
+<p>Light-Emitting Diode</p></td>
+<td class=3D"confluenceTd">
+<p>LED is the backlight.</p>
+<p>Power LED co-located with IR receiver.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">39</td>
+<td class=3D"confluenceTd">
+<p>MAC</p></td>
+<td class=3D"confluenceTd">
+<p>Media Access Control</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">40</td>
+<td class=3D"confluenceTd">
+<p>mDNS</p></td>
+<td class=3D"confluenceTd">
+<p>MultiCast Domain Name Server</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">41</td>
+<td class=3D"confluenceTd">
+<p>MEMC</p></td>
+<td class=3D"confluenceTd">
+<p>Motion Estimation, Motion Compensation</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">42</td>
+<td class=3D"confluenceTd">
+<p>NOC</p></td>
+<td class=3D"confluenceTd">
+<p>Network Operating Center</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">43</td>
+<td class=3D"confluenceTd">
+<p>NTSC</p></td>
+<td class=3D"confluenceTd">
+<p>National Television System Committee</p></td>
+<td class=3D"confluenceTd">
+<p>TV transmission requiring tuner, limited to analog 480i</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">44</td>
+<td class=3D"confluenceTd">
+<p>NTP</p></td>
+<td class=3D"confluenceTd">
+<p>Network Time Protocol</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">45</td>
+<td class=3D"confluenceTd">
+<p>ODM</p></td>
+<td class=3D"confluenceTd">
+<p>Original Design Manufacturing</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">46</td>
+<td class=3D"confluenceTd">
+<p>OLED</p></td>
+<td class=3D"confluenceTd">
+<p>Organic Light-Emitting Diode</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">47</td>
+<td class=3D"confluenceTd">
+<p>OOBE</p></td>
+<td class=3D"confluenceTd">
+<p>Out-of-Box Experience</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">48</td>
+<td class=3D"confluenceTd">
+<p>OTA</p></td>
+<td class=3D"confluenceTd">
+<p>Over the Air</p></td>
+<td class=3D"confluenceTd">
+<p>Free broadcast TV</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">49</td>
+<td class=3D"confluenceTd">
+<p>OTP</p></td>
+<td class=3D"confluenceTd">
+<p>One-Time Password</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">50</td>
+<td class=3D"confluenceTd">
+<p>OTT</p></td>
+<td class=3D"confluenceTd">
+<p>Over the Top</p></td>
+<td class=3D"confluenceTd">
+<p>Content delivered over broadband internet delivered by cable, satellite =
+or IPTV.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">51</td>
+<td class=3D"confluenceTd">
+<p>PQ</p></td>
+<td class=3D"confluenceTd">
+<p>Picture Quality</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">52</td>
+<td class=3D"confluenceTd">
+<p>QAM</p></td>
+<td class=3D"confluenceTd">
+<p>Quadrature Amplitude Modulation</p></td>
+<td class=3D"confluenceTd">
+<p>Cable standard for digital broadcast</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">53</td>
+<td class=3D"confluenceTd">
+<p>REST</p></td>
+<td class=3D"confluenceTd">
+<p>REpresentational State Transfer&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">54</td>
+<td class=3D"confluenceTd">
+<p>ROM</p></td>
+<td class=3D"confluenceTd">
+<p>Read-Only Memory</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">55</td>
+<td class=3D"confluenceTd">
+<p>SC</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">56</td>
+<td class=3D"confluenceTd">
+<p>SCFS</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast File Service</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">57</td>
+<td class=3D"confluenceTd">
+<p>SCPL</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast Platform Layer or SmartCast Python Layer</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">58</td>
+<td class=3D"confluenceTd">
+<p>SCOS</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast OS</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">59</td>
+<td class=3D"confluenceTd">
+<p>SCTV</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast TV</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">60</td>
+<td class=3D"confluenceTd">
+<p>SDR</p></td>
+<td class=3D"confluenceTd">
+<p>Standard Dynamic Range</p></td>
+<td class=3D"confluenceTd">
+<p>Old color standard based on &nbsp;Rec 709 color gamut with limited dynam=
+ic range,</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">61</td>
+<td class=3D"confluenceTd">
+<p>SOC</p></td>
+<td class=3D"confluenceTd">
+<p>System on Chip</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">62</td>
+<td class=3D"confluenceTd">
+<p>SSDP</p></td>
+<td class=3D"confluenceTd">
+<p>Simple Service Discovery Protocol</p></td>
+<td class=3D"confluenceTd">
+<p>Used in conjunction with DIAL for a two screen experience</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">63</td>
+<td class=3D"confluenceTd">
+<p>TDLS</p></td>
+<td class=3D"confluenceTd">
+<p>Tunneled Direct Link Setup</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">64</td>
+<td class=3D"confluenceTd">
+<p>TEE</p></td>
+<td class=3D"confluenceTd">
+<p>Trusted Execution Environment</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">65</td>
+<td class=3D"confluenceTd">
+<p>TLS</p></td>
+<td class=3D"confluenceTd">
+<p>Transport Layer Security</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">66</td>
+<td class=3D"confluenceTd">
+<p>TTS</p></td>
+<td class=3D"confluenceTd">
+<p>Text to Speech</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">67</td>
+<td class=3D"confluenceTd">
+<p>UHD</p></td>
+<td class=3D"confluenceTd">
+<p>Ultra High Definition</p></td>
+<td class=3D"confluenceTd">
+<p>2160p or 3840 x 2160 AKA 4K</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">68</td>
+<td class=3D"confluenceTd">
+<p>WOL</p></td>
+<td class=3D"confluenceTd">
+<p>Wake on LAN</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">69</td>
+<td class=3D"confluenceTd">
+<p>WOW</p></td>
+<td class=3D"confluenceTd">
+<p>Wake on Wi-Fi</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">70</td>
+<td class=3D"confluenceTd">
+<p>WOBT</p></td>
+<td class=3D"confluenceTd">
+<p>Wake on Bluetooth</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<p><br></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_10_78762960.1728074495082--

@@ -1,0 +1,2908 @@
+Message-ID: <307793456.9.1728074731900@a050e9963acb>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_8_768150246.1728074731900"
+
+------=_Part_8_768150246.1728074731900
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>4 Audio</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>4 Audio</h1>
+    <div class=3D"Section1">
+        <p>
+<style>[data-colorid=3Dnm9crrlli4]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Dnm9crrlli4]{color:#cf2600}[data-colorid=3Dte7rfpty3u]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dte7rfpty3u]{colo=
+r:#cf2600}[data-colorid=3Drnbss328s9]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Drnbss328s9]{color:#cf2600}[data-colorid=3Dyiztuf1f=
+u2]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dyiztuf1fu2]=
+{color:#cf2600}[data-colorid=3Ds2rqlc3j00]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Ds2rqlc3j00]{color:#cf2600}[data-colorid=3Dxegk9=
+q6ihc]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dxegk9q6i=
+hc]{color:#cf2600}[data-colorid=3Dml8jhfva69]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dml8jhfva69]{color:#cf2600}[data-colorid=3Duv=
+gk3jimtb]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Duvgk3=
+jimtb]{color:#cf2600}[data-colorid=3Dr2qn303gjy]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dr2qn303gjy]{color:#cf2600}[data-colorid=
+=3Dsafkkvsc8d]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+safkkvsc8d]{color:#cf2600}[data-colorid=3Dxbqbh3ri38]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dxbqbh3ri38]{color:#cf2600}[data-colo=
+rid=3Divxwvwa6mi]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Divxwvwa6mi]{color:#cf2600}[data-colorid=3Dmqsuvzk7iz]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dmqsuvzk7iz]{color:#cf2600}[data-c=
+olorid=3Dmxlxpd2p8i]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dmxlxpd2p8i]{color:#cf2600}[data-colorid=3Dnlh67rmoqs]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dnlh67rmoqs]{color:#cf2600}</st=
+yle></p>
+<style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074731341 {padding: 0px;}
+div.rbtoc1728074731341 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074731341 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074731341">
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-4Audio-4.0AudioSettingsSavedGlobally">4.0 Audio Settings=
+ Saved Globally</a></li>
+<li><a href=3D"#id-4Audio-4.1AudioOut">4.1 Audio Out</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-4Audio-4.1.1AudioOutwithCECAudioDevice">4.1.1 Audio Out =
+with CEC Audio Device</a></li>
+<li><a href=3D"#id-4Audio-4.1.2VolumeControl">4.1.2 Volume Control</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-4Audio-4.1.2.1TVSpeakersOff,DeviceswithVolumeControl">4.=
+1.2.1 TV Speakers Off, Devices with Volume Control</a></li>
+<li><a href=3D"#id-4Audio-4.1.2.2ARC/eARCSoundBarVolumeControl(VIZIOandnon-=
+VIZIO)">4.1.2.2 ARC/eARC Sound Bar Volume Control (VIZIO and non-VIZIO)</a>=
+</li>
+<li><a href=3D"#id-4Audio-4.1.2.3VolumeControlwithVIZIOSoundBar">4.1.2.3 Vo=
+lume Control with VIZIO Sound Bar</a></li>
+<li><a href=3D"#id-4Audio-4.1.2.4BluetoothheadphonesVolumeControl">4.1.2.4 =
+Bluetooth headphones Volume Control</a></li>
+<li><a href=3D"#id-4Audio-4.1.2.5TVSpeakersOff,NotificationofNoVolumeContro=
+l">4.1.2.5 TV Speakers Off, Notification of No Volume Control</a></li>
+</ul></li>
+</ul></li>
+<li><a href=3D"#id-4Audio-4.2SurroundSound">4.2 Surround Sound</a></li>
+<li><a href=3D"#id-4Audio-4.3ClearDialog">4.3 ClearDialog</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-4Audio-4.3.1ClearDialogRequirements">4.3.1 ClearDialog R=
+equirements</a></li>
+</ul></li>
+<li><a href=3D"#id-4Audio-4.4VolumeLeveling">4.4 Volume Leveling</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-4Audio-4.4.1VolumeLevelingFlowChart">4.4.1 Volume Leveli=
+ng Flow Chart</a></li>
+</ul></li>
+<li><a href=3D"#id-4Audio-4.5Bass">4.5 Bass</a></li>
+<li><a href=3D"#id-4Audio-4.6Treble">4.6 Treble</a></li>
+<li><a href=3D"#id-4Audio-4.7LipSync">4.7 Lip Sync</a></li>
+<li><a href=3D"#id-4Audio-4.8DigitalAudioOut">4.8 Digital Audio Out</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-4Audio-4.8.1DigitalAudioOutRequirements">4.8.1 Digital A=
+udio Out Requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-4Audio-4.9SoundBarSettingsRequirementsV3">4.9 Sound Bar =
+Settings Requirements V3</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-4Audio-4.9.1SoundBarSettingsSupportedbyTV">4.9.1 Sound B=
+ar Settings Supported by TV</a></li>
+<li><a href=3D"#id-4Audio-4.9.2Informationscreen">4.9.2 Information screen<=
+/a></li>
+<li><a href=3D"#id-4Audio-4.9.3SoundBarSliderSettingDefaults">4.9.3 Sound B=
+ar Slider Setting Defaults</a></li>
+<li><a href=3D"#id-4Audio-4.9.4AIOSliderSettingDefaults">4.9.4 AIO Slider S=
+etting Defaults</a></li>
+<li><a href=3D"#id-4Audio-4.9.5SupportedSoundBarsforSoundBarSettingsdisplay=
+edbyTV">4.9.5 Supported Sound Bars for Sound Bar Settings displayed by TV</=
+a></li>
+</ul></li>
+</ul>
+</div>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"3f=
+01a522-b496-441d-872e-271e3db1c99b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 277.0px;">
+<col style=3D"width: 72.0px;">
+<col style=3D"width: 368.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Slider</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Audio Out</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"nm9crrlli4">TV Speakers is default. If a soundbar =
+(or audio device) is discovered then that replaces the TV speakers setting.=
+ </span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Surround Sound</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>ClearDialog</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Volume Leveling</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Bass</p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Treble</p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Lip Sync</p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;Slider limited scale 0 - 8</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Digital Audio Out</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Sound Bar Settings</p></td>
+<td class=3D"confluenceTd">
+<p>&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Control of VIZIO sound bars 2021 going forward</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.0AudioSettingsSavedGlobally">4.0 Audio Settings Saved=
+ Globally</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e1=
+80dfe3-90f3-4e99-a807-5e7cf53c3e55" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Audio settings are saved globally, not by input.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Volume is saved globally, not by input.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.1AudioOut">4.1 Audio Out</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"ec=
+176663-7d03-4f6c-9293-14a214c041e9" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 133.0px;">
+<col style=3D"width: 247.0px;">
+<col style=3D"width: 337.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Definition</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio Device Behavior Including CEC</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>AudioDeviceName if discovered - <span data-colorid=3D"xegk9q6ihc">replac=
+es TV speakers setting</span></p></td>
+<td class=3D"confluenceTd">
+<p>When a CEC sound bar or audio receiver is discovered then</p>
+<ul>
+<li>
+<p>Audio out setting switched to the name of the audio device</p></li>
+<li>
+<p><span data-colorid=3D"r2qn303gjy">Replaces the TV Speakers setting</span=
+> automatically <span data-colorid=3D"mxlxpd2p8i">with the AudioDeviceName<=
+/span></p></li>
+<li>
+<p>TV speakers are automatically turned Off</p></li>
+<li>
+<p>Audio is heard from the sound bar. While discovered CEC audio device is =
+selected, automatic power on and off of the CEC audio device applies when T=
+V powered on and off.</p></li>
+<li>
+<p>For a VIZIO Sound Bar, the audio menu updates to the sound bar settings =
+included for control by the TV. All TV Audio settings are removed except Au=
+dio Out remains at the top and Digital Audio Out following the sound bar se=
+ttings.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>When CEC audio device is turned off or disconnected</p>
+<ol start=3D"1">
+<li>
+<p>TV speakers are automatically powered on (unmuted)</p></li>
+<li>
+<p><span data-colorid=3D"ml8jhfva69">The AudioDeviceName setting is replace=
+d by the TV Speakers setting</span></p></li>
+</ol></li>
+<li>
+<p>If the TV speakers are on (discovered CEC device not connected) and the =
+CEC audio device is reconnected</p>
+<ol start=3D"1">
+<li>
+<p>TV speakers automatically turned off</p></li>
+<li>
+<p>Audio Out setting switches to AudioDeviceName, <span data-colorid=3D"ivx=
+wvwa6mi">TV speakers setting is removed.</span>&nbsp;</p></li>
+</ol></li>
+<li>
+<p>If CEC is disabled from the TV or ARC audio device</p>
+<ol start=3D"1">
+<li>
+<p>Remove the AudioDeviceName setting from Audio Out</p></li>
+<li>
+<p>Audio Out setting is changed to TV speakers</p></li>
+<li>
+<p>Audio is heard from TV Speakers.</p></li>
+</ol></li>
+<li>
+<p>If CEC is disabled from the TV or eARC audio device</p>
+<ol start=3D"1">
+<li>
+<p>Audio is heard from the eARC audio device</p></li>
+<li>
+<p>Automatic turn on and off is not supported with TV power cycle.</p></li>
+<li>
+<p><span data-colorid=3D"rnbss328s9">No volume control as no support of CEC=
+ commands. Notification displays first time at power on, then no action if =
+volume/mute is pressed.</span></p></li>
+<li>
+<p><span data-colorid=3D"xbqbh3ri38">TV speakers setting not included in Au=
+dio out.</span></p></li>
+</ol></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>TV Speakers</p>
+<p><span data-colorid=3D"yiztuf1fu2">(default but if ARC/ eARC audio device=
+ discovered then TV Speakers settings is removed and replaced by the AudioD=
+eviceName)</span></p></td>
+<td class=3D"confluenceTd">
+<p>If the TV Speakers a<span data-colorid=3D"mqsuvzk7iz">re no longer displ=
+ayed, unplug or disconnect the soundbar then the TV Speakers are automatica=
+lly displayed.</span></p>
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Audio only from TV speakers.</p>
+<p>Audio is no longer heard from optical when TV speakers are selected.</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Optical</p></td>
+<td class=3D"confluenceTd">
+<p>If the Optical setting is selected, the TV speakers are turned off and a=
+ CEC power off command is sent to ARC/eARC sound bar or audio receiver.</p>
+<p>The Audio menu is reduced to:</p>
+<ul>
+<li>
+<p>Audio Out</p></li>
+<li>
+<p>Digital Audio Out</p></li>
+</ul>
+<p>All other settings apply only to TV speakers.</p></td>
+<td class=3D"confluenceTd">
+<p>When TV speakers or sound bar is off, audio is heard from optical.</p>
+<p>For Optical (digital audio out), DD+ content is pass through as DD and D=
+TS is pass through as DTS digital surround. Other content pass through PCM.=
+</p>
+<p>NOTE: audio always is sent out to optical audio out even if not selected=
+.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.1.1AudioOutwithCECAudioDevice">4.1.1 Audio Out with C=
+EC Audio Device</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"de=
+1b6d40-7a54-4cd7-9428-cd1378dd6110" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 384.0px;">
+<col style=3D"width: 140.0px;">
+<col style=3D"width: 193.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio Out Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>TV Speakers</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>ARC or eARC Audio Device power on</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>TV Speakers</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Optical</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>ARC/eARC sound bar detected with CEC enabled</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>ARC audio device without CEC disabled</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>N/A (CEC required to hear audio)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>eARC audio device without CEC disabled</p></td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.1.2VolumeControl">&nbsp;4.1.2 Volume Control</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"af=
+8bffdf-6dda-4a2b-83d1-ad363fd1f329" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Volume can be changed from a variety of sources:</p>
+<ul>
+<li>
+<p>Volume IR codes from a VIZIO or other IR remote</p></li>
+<li>
+<p>SmartCast mobile</p></li>
+<li>
+<p>CEC command to change volume for sound bar</p>
+<ul>
+<li>
+<p>Limited to volume up/down and mute CEC command</p></li>
+</ul></li>
+<li>
+<p>Voice Command from BT remote or Alexa/GVA.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>If volume is changed from SmartCast mobile, the adjustment is displayed =
+on the TV <span data-colorid=3D"uvgk3jimtb">w</span>ith the volume control =
+at top right so eyes are on screen.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Volume has a range from 0 =E2=80=93 100.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>The Volume default setting value is 20 or 30.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>The volume setting is global.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>When an input is changed the volume setting is unchanged.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Volume change for TV or connected VIZIO sound bar using Alexa/GVA/Vizio =
+Voice command (BT remote).</p></td>
+<td class=3D"confluenceTd">
+<p>For ARC/eARC, use CEC Volume Up/Down repeatedly to achieve specified vol=
+ume level requested via Alexa/GVA/Vizio Voice</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Direct value volume change for VIZIO sound bar connected to TV using Voi=
+ce command (BT remote)</p></td>
+<td class=3D"confluenceTd">
+<p>Set volume to requested value</p>
+<ul>
+<li>
+<p>Display value for 2021 VIZIO SB and later</p></li>
+<li>
+<p>No display of value for old VIZIO SB</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Direct value volume change for non-VIZIO sound bar connected to TV using=
+ Voice command (BT remote)</p></td>
+<td class=3D"confluenceTd">
+<p>Set volume to requested value</p>
+<ul>
+<li>
+<p>No display of value for non-VIZIO SB</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>No volume control display:</p>
+<ul>
+<li>
+<p>TV power on&nbsp;&nbsp;</p></li>
+<li>
+<p>Connect sound bar during TV boot up</p></li>
+<li>
+<p>Switch ARC/eARC setting</p></li>
+<li>
+<p>Switch TV speaker setting auto/on/off</p></li>
+<li>
+<p>Plug or unplug of sound bar</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>This is true for both no sound bar and sound bar use cases.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-4Audio-4.1.2.1TVSpeakersOff,DeviceswithVolumeControl">4.1.2.1 =
+TV Speakers Off, Devices with Volume Control</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"dc=
+1813f1-6a05-4c48-83df-1e21c348cfcf" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 95.0px;">
+<col style=3D"width: 122.0px;">
+<col style=3D"width: 141.0px;">
+<col style=3D"width: 158.0px;">
+<col style=3D"width: 199.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio Out setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio device connected</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Volume Control</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Device name</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>ARC/eARC sound bar</p></td>
+<td class=3D"confluenceTd">
+<p>CEC audio system connected via:</p>
+<ul>
+<li>
+<p>ARC</p></li>
+<li>
+<p>eARC</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Audio system volume level (digits)</p>
+<p>Ring depicts scale</p></td>
+<td class=3D"confluenceTd">
+<p>Volume control with device name left of control as follows:</p>
+<ul>
+<li>
+<p>VIZIO Elevate</p></li>
+<li>
+<p>VIZIO AIO</p></li>
+<li>
+<p><span data-colorid=3D"te7rfpty3u">VIZIO MicMe SB</span></p></li>
+<li>
+<p>VIZIO Soundbar</p></li>
+<li>
+<p>non-VIZIO: Audio system</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>TV issues CEC commands to the audio system to change the volume</p>
+<p>Per audio team suppress the CEC name for all VIZIO sound bars except Ele=
+vate and AIO: model number no longer displayed.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Any</p></td>
+<td class=3D"confluenceTd">
+<p>Bluetooth headphones paired and connected</p></td>
+<td class=3D"confluenceTd">
+<p>Slider displays BT headphones volume value on round control without digi=
+ts.</p></td>
+<td class=3D"confluenceTd">
+<p>headphones icon (no text)</p></td>
+<td class=3D"confluenceTd">
+<p>BT headphones are not included in Audio Out setting.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-4Audio-4.1.2.2ARC/eARCSoundBarVolumeControl(VIZIOandnon-VIZIO)=
+">4.1.2.2 ARC/eARC Sound Bar Volume Control (VIZIO and non-VIZIO)</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"60=
+c20250-944f-403f-8e16-fe308808c6d9" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Volume Control Used</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Behavior</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Volume Up/Down from IR or BT remote</p></td>
+<td class=3D"confluenceTd">
+<p>Increment/decrement volume on sound bar by two</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Alexa/GVA/VIZIO Voice specifies new volume value for connected VIZIO sou=
+nd bar.</p></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>Use CEC to find current sound bar volume value.</p></li>
+<li>
+<p>Find difference between current sound bar volume and new volume value.</=
+p></li>
+<li>
+<p>Use CEC volume up/down to change volume with number of commands required=
+ to achieve requested change.</p></li>
+</ol></td>
+<td class=3D"confluenceTd">
+<p>CEC volume changes by two steps.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-4Audio-4.1.2.3VolumeControlwithVIZIOSoundBar">4.1.2.3 Volume C=
+ontrol with VIZIO Sound Bar</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"35=
+491d6f-d9c7-4552-9023-6fd3e1e58984" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Volume Control with VIZIO Sound Bar Requirements </strong></p></=
+th>
+<th class=3D"confluenceTh">
+<p><strong>Details</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Volume Up/Down on TV remote issues volume CEC command to sound bar.</p><=
+/td>
+<td class=3D"confluenceTd">
+<p>Vendor specific commands created to reduce CEC traffic, specifically to =
+disable sound bar audio status (confirmation) back to TV after volume IR co=
+de received and volume changed.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>For a faster response to the volume control between a VIZIO TV and VIZIO=
+ sound bar.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>TV does not wait for CEC feedback command from the sound bar to confirm =
+received (this caused a delay)</p></li>
+<li>
+<p>The volume OSD for sound bar, and the volume OSD for the TV reacts more =
+quickly and more in sync.</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>CEC mapping of TV volume to VIZIO sound bars are 2:1.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span class=3D"inline-comment-marker" data-ref=3D"712cc760-21b9-4745-904=
+a-6c466d443590">A volume step of 2 is 1 sound bar step</span></p></li>
+<li>
+<p>Odd TV volume is rounded up (e.g. TV volume 89 is interpreted as 45 on s=
+ound bar)</p></li>
+<li>
+<p>TV volume 96 - 100 is converted to 49 (maximum volume) on the sound bar<=
+/p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>BT Voice control change volume via CEC mapping to sound bars including:<=
+/p>
+<ul>
+<li>
+<p>Volume up/down</p></li>
+<li>
+<p>increase/decrease volume</p></li>
+<li>
+<p>increase/decrease audio</p></li>
+<li>
+<p>make it louder</p></li>
+<li>
+<p>turn it up/down</p></li>
+<li>
+<p>set volume to XX or % (VIZIO sound bars only)</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Volume up/down then starting at level 10 increase or decrease SB volume =
+by 4 steps</p></li>
+<li>
+<p>VIZIO sound bars: show volume slider with value</p></li>
+<li>
+<p>non-VIZIO sound bars: show up or down, no slider, no value.</p></li>
+<li>
+<p>If requested volume value is odd then round up to next even volume value=
+ (e.g. 11 spoken would change volume to 12).</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-4Audio-4.1.2.4BluetoothheadphonesVolumeControl">4.1.2.4 Blueto=
+oth headphones Volume Control</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7b=
+582c6c-82ca-4d95-ba82-6c002c850745" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 154.0px;">
+<col style=3D"width: 182.0px;">
+<col style=3D"width: 381.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio device connected</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Volume keys pressed</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bluetooth Headphones</p></td>
+<td class=3D"confluenceTd">
+<p>Press Volume Up or Down key.</p></td>
+<td class=3D"confluenceTd">
+<p>Volume control displays BT headphones volume value on round control with=
+out digits. Each key press advances or decrements 6 steps.</p>
+<p>Audio for Sound Bar, TV speakers and/or Optical is muted and not heard.<=
+/p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"id-4Audio-4.1.2.5TVSpeakersOff,NotificationofNoVolumeControl">4.1=
+.2.5<span data-colorid=3D"s2rqlc3j00"> </span>TV Speakers Off, Notification=
+ of No Volume Control</h4>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a8=
+86711d-ecf4-41d1-8490-942efd538fc4" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 98.0px;">
+<col style=3D"width: 125.0px;">
+<col style=3D"width: 132.0px;">
+<col style=3D"width: 156.0px;">
+<col style=3D"width: 207.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio out</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio device connected</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Volume control</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Volume keys pressed</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Optical</p></td>
+<td class=3D"confluenceTd">
+<p>Audio device connected via optical</p></td>
+<td class=3D"confluenceTd">
+<p>No display of volume control</p></td>
+<td class=3D"confluenceTd">
+<p>First volume key press or IP command displays =E2=80=9CTV Speakers are O=
+ff=E2=80=9D.</p></td>
+<td class=3D"confluenceTd">
+<p>TV cannot detect if optical is connected or not to AV Receiver or sound =
+bar</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.2SurroundSound">4.2 Surround Sound</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"dc=
+541038-39ae-488a-ba41-8579f5e9af9c" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Virtual:X (default)</p></td>
+<td class=3D"confluenceTd">
+<p>If Surround Sound is set to Virtual:X, DTS audio processing provides sur=
+round sound and virtual height.</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast app must include the same help text as sidebar referring to pa=
+rtner: =E2=80=9CWhen set to On, enables Surround Sound suitable for sports =
+and TV shows. Virtual:X=E2=84=A2 adds virtualized height best for movies.=
+=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>If Surround Sound is set to On, DTS audio proceeding provides Surround S=
+ound.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Off</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>Dialog Clarity is part of Virtual:X so is disabled when Surround Sound i=
+s off</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.3ClearDialog">4.3 ClearDialog</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"a3=
+0982d4-b3a8-427e-bae1-adecdc1a73d8" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off (default)</p></td>
+<td class=3D"confluenceTd">
+<p>The help text is =E2=80=9CIf enabled, then clarity of dialogue is enhanc=
+ed when Surround Sound is enabled.=E2=80=9D</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Low</p></td>
+<td class=3D"confluenceTd">
+<p>If Low, Medium or High is selected and then the audio is enhanced.</p></=
+td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Medium</p></td>
+<td class=3D"confluenceTd">
+<p>Same as above</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>High</p></td>
+<td class=3D"confluenceTd">
+<p>Same as above</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.3.1ClearDialogRequirements">4.3.1 ClearDialog Require=
+ments</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"71=
+5a281a-259e-4aee-8d86-a1c1e5c65490" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>ClearDialog is always available but depending on the content the solutio=
+n changes as per below.</p></td>
+<td class=3D"confluenceTd">
+<p>This is a set and forget setting so even if the setting does not apply t=
+o the content it can still be set for future content.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Dolby MS12 Config Y includes a function known as =E2=80=9CDialog Enhance=
+r=E2=80=9D for AC-4 content only.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If audio content is Dolby AC-4:</p>
+<ul>
+<li>
+<p>Only the Dolby function =E2=80=9CDialog Enhancer=E2=80=9D adjusts the se=
+tting value heard by the user.</p></li>
+<li>
+<p>DTS dialog clarity is disabled.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If audio content is not Dolby AC-4:</p>
+<ul>
+<li>
+<p>Only the DTS Dialog Clarity function adjusts the setting value heard by =
+the user.</p></li>
+<li>
+<p>Dolby function =E2=80=9CDialog Enhancer=E2=80=9D is disabled.</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>If Surround Sound is set to Off then even though the Dialog Enhancer set=
+ting is available (not grayed out) the setting has no effect.</p></td>
+<td class=3D"confluenceTd">
+<p>Dialog Clarity is part of Virtual:X so is disabled when Surround Sound i=
+s off</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.4VolumeLeveling">4.4 Volume Leveling</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e6=
+2bde09-6f3a-4aeb-9e9f-d30f7d4c3675" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Off (default)</p></td>
+<td class=3D"confluenceTd">
+<p>TruVolume does not apply</p>
+<p>DRC for DTS:X content does not apply.</p></td>
+<td class=3D"confluenceTd">
+<p>SmartCast app must include the same help text as sidebar referring to pa=
+rtner: =E2=80=9CDTS TruVolume=E2=84=A2 levels the sound heard if Volume Lev=
+eling is set to On.=E2=80=9D&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>On</p></td>
+<td class=3D"confluenceTd">
+<p>Content is not DTS:X then TruVolume levels the sound when commercials ar=
+e detected.</p>
+<p>If source is DTS:X then TruVolume does not apply, Dynamic Range Compress=
+ion (DRC) is used.</p></td>
+<td class=3D"confluenceTd">
+<p>DRC and TruVolume have different algorithms but the apparent effect from=
+ customer perception is basically the same.</p>
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.4.1VolumeLevelingFlowChart">4.4.1 Volume Leveling Flo=
+w Chart</h3><span class=3D"confluence-embedded-file-wrapper image-left-wrap=
+per confluence-embedded-manual-size"><img class=3D"confluence-embedded-imag=
+e image-left" width=3D"468" loading=3D"lazy" src=3D"9e9ed038e654e39a12c75e5=
+105b06fe1cbc38e5ec2cca525a004c163d973da42" data-image-src=3D"https://vizio.=
+atlassian.net/wiki/download/attachments/235874421035/image-20210203-034217.=
+png?version=3D1&amp;modificationDate=3D1699914869572&amp;cacheVersion=3D1&a=
+mp;api=3Dv2" data-height=3D"251" data-width=3D"362" data-unresolved-comment=
+-count=3D"0" data-linked-resource-id=3D"235874421069" data-linked-resource-=
+version=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource=
+-default-alias=3D"image-20210203-034217.png" data-base-url=3D"https://vizio=
+.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png" data-l=
+inked-resource-container-id=3D"235874421035" data-linked-resource-container=
+-version=3D"38" data-media-id=3D"7f3ca539-3f31-4042-b971-d07c5146ebd3" data=
+-media-type=3D"file" height=3D"324"></span>
+<h2 id=3D"id-4Audio-4.5Bass">4.5 Bass</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"b0=
+fb07f2-289a-48b5-91a5-dd8768eb48b3" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 145.0px;">
+<col style=3D"width: 94.0px;">
+<col style=3D"width: 341.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong> Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Slider range</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Configures bass.</p></td>
+<td class=3D"confluenceTd">
+<p>-12&nbsp;to&nbsp;12</p></td>
+<td class=3D"confluenceTd">
+<p>0</p></td>
+<td class=3D"confluenceTd">
+<p>As the setting is changed in the SmartCast app, a slider displays on the=
+ TV with the adjustment.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.6Treble">4.6 Treble</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"0a=
+710ac4-3be4-4ec9-9762-7c33721f3d63" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 145.0px;">
+<col style=3D"width: 94.0px;">
+<col style=3D"width: 341.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong> Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Slider range</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Configures treble.</p></td>
+<td class=3D"confluenceTd">
+<p>-12&nbsp;to&nbsp;12</p></td>
+<td class=3D"confluenceTd">
+<p>0</p></td>
+<td class=3D"confluenceTd">
+<p>As the setting is changed in the SmartCast app, a slider displays on the=
+ TV with the adjustment.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.7LipSync">4.7 Lip Sync</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4a=
+f06ac0-d507-4f4a-9d96-e81dba0ebcf8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 175.0px;">
+<col style=3D"width: 151.0px;">
+<col style=3D"width: 120.0px;">
+<col style=3D"width: 270.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Slider range</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Default</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Configures the synchronization of the audio with the video.</p></td>
+<td class=3D"confluenceTd">
+<p>0 - 20</p>
+<p>The audio delay is 10 ms for each step</p></td>
+<td class=3D"confluenceTd">
+<p>0</p></td>
+<td class=3D"confluenceTd">
+<p>Delay&nbsp;Adjustment range: 0 to <span data-colorid=3D"safkkvsc8d"><spa=
+n class=3D"inline-comment-marker" data-ref=3D"e406f199-f9b1-4943-86d5-385b6=
+4b08a9a">200</span></span> msec &nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.8DigitalAudioOut">4.8 Digital Audio Out</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"e0=
+3bcf39-1492-479c-953f-2ee285387bcc" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 105.0px;">
+<col style=3D"width: 342.0px;">
+<col style=3D"width: 270.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Settings</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Description</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Auto (default)</p></td>
+<td class=3D"confluenceTd">
+<p>Auto automatically provides the best audio format supported by the EDID =
+as follows:</p>
+<ul>
+<li>
+<p>Dolby Digital, Dolby Digital+ and Dolby TrueHD</p></li>
+<li>
+<p>DTS-HD or DTS-X&nbsp;</p></li>
+<li>
+<p>For optical, if support is detected by EDID, then Dolby Digital is sent<=
+/p></li>
+<li>
+<p>For optical&nbsp;If end user=E2=80=99s device does not support Dolby Dig=
+ital as detected by EDID, then PCM is sent.&nbsp;&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>PCM</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Digital (all Dolby and DTS)</p></td>
+<td class=3D"confluenceTd">
+<p>Digital included to provide DTS support to optical via pass through inst=
+ead of using TV EDID.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.8.1DigitalAudioOutRequirements">4.8.1 Digital Audio O=
+ut Requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"51=
+0f9f4d-7d28-408c-937c-fdde931a5b37" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Digital audio output is always available except if TV speakers is set to=
+ On then setting changed to PCM and Digital Audio out is grayed out and not=
+ available.</p></td>
+<td class=3D"confluenceTd">
+<p>Change to PCM because different audio type to TV speakers and digital au=
+dio out (non-ARC sound bar) can require different audio processing and may =
+result in abnormal audio to TV speakers.&nbsp;</p>
+<p>ARC not an issue as automatically turned off via CEC when TV speakers se=
+t to ON.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>This is a set and forget setting.</p></td>
+<td class=3D"confluenceTd">
+<p>Setting does not gray out if not digital content.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If source is AAC audio for both optical out and HDMI ARC/eRC the output =
+is PCM Stereo for Auto, PCM and digital settings.&nbsp;</p></td>
+<td class=3D"confluenceTd">
+<p>Multi channel AAC must output 2 channel PCM through S/PDIF and HDMI ARC/=
+eARC.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-4Audio-4.9SoundBarSettingsRequirementsV3">4.9 Sound Bar Settin=
+gs Requirements V3</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"34=
+3f3550-1172-4fca-982d-fd8efe121d2f" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Menu Items</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>A VIZIO sound bar connected via CEC (limited to ARC/eARC) can be control=
+led from the TV using vendor specific commands.</p></td>
+<td class=3D"confluenceTd">
+<p>Press of volume displays the Volume Slider with device name above slider=
+ as follows:</p>
+<ul>
+<li>
+<p>VIZIO Elevate</p></li>
+<li>
+<p>VIZIO AIO</p></li>
+<li>
+<p>VIZIO Soundbar</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Sound bars supported:</p>
+<ul>
+<li>
+<p>2020 M51</p></li>
+<li>
+<p>2021 V21 and M51</p></li>
+<li>
+<p>all 2022 going forward</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Sound Bar settings do not display in the menu until supported sound bar =
+is discovered.</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Audio Out SoundbarName</p>
+<ul>
+<li>
+<p>Bass</p></li>
+<li>
+<p>Treble</p></li>
+<li>
+<p>Subwoofer</p></li>
+<li>
+<p>ClearDialog</p></li>
+<li>
+<p>Height Level</p></li>
+<li>
+<p>Virtual:X</p></li>
+<li>
+<p>Night Mode</p></li>
+<li>
+<p>Info</p></li>
+</ul></li>
+<li>
+<p>Digital Audio Out</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li>
+<p>The first setting is the TV Audio Out setting with the VIZIO sound bar n=
+ame.</p></li>
+<li>
+<p>The VIZIO sound bar settings controlled via CEC display indented.</p></l=
+i>
+<li>
+<p>The last setting is the TV Digital Audio Out setting (not indented)</p><=
+/li>
+<li>
+<p>SOUNDBAR NAME =3D</p>
+<ol start=3D"1">
+<li>
+<p>VIZIO Elevate</p></li>
+<li>
+<p>VIZIO AIO</p></li>
+<li>
+<p>VIZIO Soundbar</p></li>
+</ol></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>TV audio settings that don=E2=80=99t apply and do not display while the =
+sound bar is connected, and TV Speakers are set to Auto or Off</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Surround Sound</p></li>
+<li>
+<p>ClearDialog</p></li>
+<li>
+<p>Volume Leveling</p></li>
+<li>
+<p>Bass</p></li>
+<li>
+<p>Treble</p></li>
+<li>
+<p>Lip Sync</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>If Audio Out is changed to TV speakers then the Sound bar settings are r=
+eplaced by these TV audio settings.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>If SmartCast mobile used to control the TV with connected sound bars, th=
+e Audio submenu replaces the sound bar settings with a link to Audio SmartC=
+ast mobile.</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.9.1SoundBarSettingsSupportedbyTV">4.9.1 Sound Bar Set=
+tings Supported by TV</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"bd=
+63e289-9859-4bf7-9629-8bb0b1b29639" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 144.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Bar Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Options for app</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>New CEC </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>2.0 </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>2.1 </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>5.1 </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Atmos</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Volume</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Up</p></li>
+<li>
+<p>Down</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>NO</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Slider - supported from key press, no submenu</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Mute</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>On</p></li>
+<li>
+<p>Off</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>NO</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Radial - supported from key press, no submenu</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Bass</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Low</p></li>
+<li>
+<p>Med.</p></li>
+<li>
+<p>High</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Radial</p>
+<p>Sound bar has 21 point slider</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Treble</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Low</p></li>
+<li>
+<p>Med.</p></li>
+<li>
+<p>High</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>radial</p>
+<p>Sound bar has 21 point slider</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Subwoofer</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Low</p></li>
+<li>
+<p>Med.</p></li>
+<li>
+<p>High</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>radial</p>
+<p>Sound bar has 21 point slider</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>ClearDialog</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Low</p></li>
+<li>
+<p>Med.</p></li>
+<li>
+<p>High</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Radial</p>
+<p>Sound bar has 10 point slider</p>
+<p>Grayed out if EQ =3D Direct</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Height Level</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Low</p></li>
+<li>
+<p>Med.</p></li>
+<li>
+<p>High</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>X - limited to 2022 skus and beyond with Atmos support</p></td>
+<td class=3D"confluenceTd">
+<p>X - limited to 2022 skus and beyond with Atmos support</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Applies to sound bars with Atmos support. If bar does not includes heigh=
+t speakers then Height level adjustment is virtual (M215aw-K6, M213ad-K8)</=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Virtual:X</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>On</p></li>
+<li>
+<p>Off</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>O</p></td>
+<td class=3D"confluenceTd">
+<p>Radial</p>
+<p>Not for 2020 Atmos bars</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Night Mode</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>On</p></li>
+<li>
+<p>Off</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Radial; Not persistent for a power cycle</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Info</p></td>
+<td class=3D"confluenceTd">
+<p>Launch new menu</p></td>
+<td class=3D"confluenceTd">
+<p>yes</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>X</p></td>
+<td class=3D"confluenceTd">
+<p>Displays for <span data-colorid=3D"nlh67rmoqs">2024</span> sound bars go=
+ing forward.</p>
+<p>No display for 2020 - 2023 bars</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.9.2Informationscreen">4.9.2 Information screen</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"0a=
+a8f8d2-1177-4544-b33f-acef011f6f09" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 168.0px;">
+<col style=3D"width: 258.0px;">
+<col style=3D"width: 212.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Information</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Audio Format</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Model Name: XXXXX-XX</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Serial Number: XXXXXXXXXXXXXX</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Firmware: x.x.x.x</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Audio out</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>Dolby Audio - Dolby Digital</p></li>
+<li>
+<p>Dolby Audio - Dolby Digital Plus</p></li>
+<li>
+<p>Dolby Digital - Dolby True HD</p></li>
+<li>
+<p>Dolby Atmos - Dolby Digital Plus</p></li>
+<li>
+<p>Dolby Atmos - Dolby True HD</p></li>
+<li>
+<p>Dolby Atmos - Dolby MAT</p></li>
+<li>
+<p>DTS Digital Surround</p></li>
+<li>
+<p>DTS-HD Master Audio</p></li>
+<li>
+<p>DTS:X</p></li>
+<li>
+<p>LPCM</p></li>
+<li>
+<p>PCM</p></li>
+<li>
+<p>Stereo</p></li>
+<li>
+<p>WAV</p></li>
+<li>
+<p>MP3</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>Current audio format played from the Soundbar</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.9.3SoundBarSliderSettingDefaults">4.9.3 Sound Bar Sli=
+der Setting Defaults</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"75=
+398aa3-e5aa-49f2-8c4d-867ed4313c25" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Sound Bar Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Low </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Medium</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>High</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bass</p>
+<p>Treble</p>
+<p>Subwoofer</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-10</p></li>
+<li>
+<p>-9</p></li>
+<li>
+<p>-8</p></li>
+<li>
+<p>-7 (default for TV)</p></li>
+<li>
+<p>-6</p></li>
+<li>
+<p>-5</p></li>
+<li>
+<p>-4</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-3</p></li>
+<li>
+<p>-2</p></li>
+<li>
+<p>-1</p></li>
+<li>
+<p>0 (default for TV)</p></li>
+<li>
+<p>1</p></li>
+<li>
+<p>2</p></li>
+<li>
+<p>3</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>4</p></li>
+<li>
+<p>5</p></li>
+<li>
+<p>6</p></li>
+<li>
+<p>7 (default for TV)</p></li>
+<li>
+<p>8</p></li>
+<li>
+<p>9</p></li>
+<li>
+<p>10</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>ClearDialog</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>0 (default)</p></li>
+<li>
+<p>1</p></li>
+<li>
+<p>2</p></li>
+<li>
+<p>3</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>4</p></li>
+<li>
+<p>5 (default)</p></li>
+<li>
+<p>6</p></li>
+<li>
+<p>7</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>8</p></li>
+<li>
+<p>9</p></li>
+<li>
+<p>10 (default)</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Height Level</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-5 (default)</p></li>
+<li>
+<p>-4</p></li>
+<li>
+<p>-3</p></li>
+<li>
+<p>-2</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-1</p></li>
+<li>
+<p>0 (default)</p></li>
+<li>
+<p>1</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>2</p></li>
+<li>
+<p>3 (default)</p></li>
+<li>
+<p>4</p></li>
+<li>
+<p>5</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.9.4AIOSliderSettingDefaults">4.9.4 AIO Slider Setting=
+ Defaults</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"d2=
+4a2a04-9d72-407a-89ae-40b2d1d5d197" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>AIO Setting</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Low </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Medium</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>High</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Bass</p>
+<p>Treble</p>
+<p>Subwoofer</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-14</p></li>
+<li>
+<p>-13</p></li>
+<li>
+<p>-12</p></li>
+<li>
+<p>-11</p></li>
+<li>
+<p>-10 (default for TV)</p></li>
+<li>
+<p>-9</p></li>
+<li>
+<p>-8</p></li>
+<li>
+<p>-7</p></li>
+<li>
+<p>-6</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-5</p></li>
+<li>
+<p>-4</p></li>
+<li>
+<p>-3</p></li>
+<li>
+<p>-2</p></li>
+<li>
+<p>-1</p></li>
+<li>
+<p>0 (default for TV)</p></li>
+<li>
+<p>1</p></li>
+<li>
+<p>2</p></li>
+<li>
+<p>3</p></li>
+<li>
+<p>4</p></li>
+<li>
+<p>5</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>6</p></li>
+<li>
+<p>7</p></li>
+<li>
+<p>8</p></li>
+<li>
+<p>9</p></li>
+<li>
+<p>10 (default for TV)</p></li>
+<li>
+<p>11</p></li>
+<li>
+<p>12</p></li>
+<li>
+<p>13</p></li>
+<li>
+<p>14</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Height Level</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-5 (default)</p></li>
+<li>
+<p>-4</p></li>
+<li>
+<p>-3</p></li>
+<li>
+<p>-2</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>-1</p></li>
+<li>
+<p>0 (default)</p></li>
+<li>
+<p>1</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>2</p></li>
+<li>
+<p>3 (default)</p></li>
+<li>
+<p>4</p></li>
+<li>
+<p>5</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-4Audio-4.9.5SupportedSoundBarsforSoundBarSettingsdisplayedbyTV=
+">4.9.5 Supported Sound Bars for Sound Bar Settings displayed by TV</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"6c=
+bd39a6-b12b-4fb6-a166-7a8351c59a7a" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>SOC</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Model</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Year</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>M51a-H6</p></td>
+<td class=3D"confluenceTd">
+<p>2020 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>M512a-H6</p></td>
+<td class=3D"confluenceTd">
+<p>2020 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>P514a-H6</p></td>
+<td class=3D"confluenceTd">
+<p>2020 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>V51-H6</p></td>
+<td class=3D"confluenceTd">
+<p>2020 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>M51ax-J6</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>V51x-J6</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>M512a-J6</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Tonly</p></td>
+<td class=3D"confluenceTd">
+<p>V21x-J8</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>Tonly</p></td>
+<td class=3D"confluenceTd">
+<p>V21d-J8</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Tonly</p></td>
+<td class=3D"confluenceTd">
+<p>V20-J8</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">11</td>
+<td class=3D"confluenceTd">
+<p>Tonly</p></td>
+<td class=3D"confluenceTd">
+<p>V20x-J8</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">12</td>
+<td class=3D"confluenceTd">
+<p>Tonly</p></td>
+<td class=3D"confluenceTd">
+<p>V21t-J8</p></td>
+<td class=3D"confluenceTd">
+<p>2021 (not included at launch)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">13</td>
+<td class=3D"confluenceTd">
+<p>Zylux</p></td>
+<td class=3D"confluenceTd">
+<p>M512E-K6 (M-elevate)</p></td>
+<td class=3D"confluenceTd">
+<p>2022</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">14</td>
+<td class=3D"confluenceTd">
+<p>Zylux &amp; Tonly</p></td>
+<td class=3D"confluenceTd">
+<p>All skus</p></td>
+<td class=3D"confluenceTd">
+<p>2022 and going forward</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_8_768150246.1728074731900
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/9e9ed038e654e39a12c75e5105b06fe1cbc38e5ec2cca525a004c163d973da42
+
+iVBORw0KGgoAAAANSUhEUgAAAWkAAAD6CAYAAABj/rYXAAAACXBIWXMAAAsSAAALEgHS3X78AAAg
+AElEQVR4nO29B3QUR9Y97t/3eb9d7+6x1+u11zmDAwYHbHDONsYBE41xApxtcCCDAQeSTc5BJIEC
+OUlkhERGQgIEQkSRQeQoiahw///7ZmpojUcoTGs0I717Tp/pqe6u7q7uvvXqpboCCoVCofBbXFHS
+F6BQKBSKvKEkrVAoFH4MJWmFQqHwYyhJKxQKhR9DSVqhUCj8GErSCoVC4ce4LElfvHjRd1eiUCgU
+ij8hT5LOycnByZMnvaqcdWRnZ3tVh13wp2tRKBSKgkLVHQqFQuHHuCxJU/rMC2lpabnUIadPn8aF
+CxdEWs3MzJSy48ePY/78+bJupFjWaaTarKws+bUuBMvNNvdzWsvMPqY+c73u9RB79uzBihUrcPDg
+Qezfv1/KeJ3cbj3OXNfl7l2hUCh8hUJL0ob0+vbti2bNmsk6yfrNN9/Ejh07cu2TlJSE+vXru44t
+CvFZj3n33XeFbC9Xl3u5IeyZM2eidevWiIiIkMV6nQpFoMIIPYqSQ3YxP4NCk7QhvQ0bNuCVV16R
+9QULFqBuvXo4c+YMWrRogU8++QRr1qxBSkqKrFNyHTVqlOw7efJkrF27FmNDxuLHH39Eq1atMG7c
+OLz//vtYvHix7BMWHoYvvvgCkyZNynXuV199Fbt27ZL19PR0dO/eHV9//TW2bNmCiRMnYtWqVbKt
+d+/ecs4ePXrIdhJ7dHQ0WrZsiWXLliE+IV727dChAxo3buyS9ocNG4aGDRviu+++c3U4qsdW+CNy
+LAIJSeLwsXRs33MMKbr4ZNm+9xj2HDiJ46fOXnomxUTURdJJG+J6/fXXhXC7du2K8PBwIeiff/4Z
+c+bMwcsvv4zY2Fh89dVXWL16NerVqyfHNG3aFFOnTkXVqlURFBSETz/9FG+99RZCQkLwwQcfYOXK
+lXjmmWeEzG+55RYkJye7zlmtWjUhfqJz585o0KCBSPQ1a9bEb7/9JiS8fft2qYfXQcIlUb/zzjuY
+PXs2fv31Vylnh8Hy1157DdOmTZP7oNRfvXp1xMTEoFy5cqK+QTE2vEJRVJh3MjMrGwvjUjBo3EqE
+zlyLMF18uoRGrsXYiDUYG7Eam3cezvVs7ESRSNqoCYYMGYIvv/wSH330Efbu3SuSLsmOoJRNAqS0
+TJKmRE1Q5cBy/j937hyGDh0qki/1w6yrX79+eOqppxAaGiqS7u7du+U4kjRVKjt37pT/3JckTKLv
+37+/lL9X/z05H0mYhN2oUSO5xhEjRiAyMlJImucaP348Bg8eLMeyUevUrSPX+MILL8g5uQ9Uilb4
+IQwJHDqWjgFhyzEjOhlpGedL+rLKNA4cScPwyaswce46GdXYjSKRtHlRaBi8+uqrRXIlqFqgmqJn
+z54iOa9btw4ffvghjhw5gieeeAKDBg3CAw88IIRJqZiGQBJsp06dcPbsWdSpU0eMey+8+IKoIKZP
+n46MjAzXeZ999lmRhKlf7vZ7N5eKJHphtGz/7LPP8Je//EXW+/bri/cbvC+ScWJiImbOmikEbCTp
+P/74Q6Rpdg7sUCjBV6pUCXXr1kXkzMhc96lQ+APM+3jkeAa6BMXgwJFLoz1uysrK1sWHS3a2o90N
+TcxdthUhkWtzPSs7UGQXPHMRVHOQjIlTp06JFErSpRcFVQZUfRBz580VFQXVGJSO586dKwS5fv16
+rFm7VqTziEgHOS5cuFAkbuqI6TFiQIMf6+jTpw/S0tMwduwYtGrdynUO6sEpJcPpuUEJmvUsWbJE
+dNSxK2Nlny1bt8g1U+rnebmd6pbatWuLRP34448LaUOlaYUfwUhpI6bEY8uuI7JOslCULEwHSYTN
+SsTS1Y7RPkncDnjlJ+3eW1j/F7Un8aYHMscWxuJtSJjGREr/9Fj54YcfpMPx9noUCrtgPvikbQcR
+NjNR1rNsIgGF9zA0kZ5xHkMnxNlG0LAjmMXqz0xCE9/jzCwXURr9NX+tfsmm3N0/2pRxX+NvbT2X
+tdz8N8cbH2f3/a2+1Hn5ZRPUkVM1o655Cn+D+ejDZ61D4ubUXGUK/4B5HtMXbkRyisOQaIeOWiMO
+nbBK39bAGIXCH2Dex1HTEpB2Rg2F/ghDyLHr92BhrMMLzY7RjpK0okRhRl+lYuGospg6d1Pt0Amx
+qof2UxhJes3G/Zi1ZLOsZ9lg01KSVpQISnOkXHHcm5K0/8OQ9LrNqYiI2SjrdjwrJWmFz2EI7Njx
+45gyZQoGDBggAVG///57wC506ezXv79EyRaH0dkOkrbaZSj5W6/PmrfG3SZj7EhWO05hYM3RY63b
+PU9OoGeqdJH0llREKkkrAhXmI2TYfZu2bcUXnqH+x44dE6Pt0aNHA3I5fPgw9u7bJ/fTrl07V9CV
+XaRTXJJ0cY9mPNVfWkdQStKKUoPz58+jY8eOOHDggPwvLR+tuQ92QCRqO/XT3pC06SgY2MUUDIwH
+YOIz/jdgeoW3335bUij8+tuv8owI5uPhvTDg64033pD0CtY6jWrHXcVjNcIzroGpF1gHo37pRUWE
+hYVJageTgoEpJhhs5l5HoEBJWhHwMENdBjKNGTNG1plBMdA+xsvBpO8dOXIkli5dKut2SNPekLRp
+d6pkHnzwQUmI1u6ndvj73/8u6RfgjOZlmgUGjN1www0SnUvUqFFDInEZMEa1jsl8md8zM/fMBGrM
+wcMgthkzZuCOO+6QqGSCKRyuuOIKdO7SWf5zO3P6mOsNtPdCSVoR8DD+7QzLX71mjawXhcCsHiFw
+86s3Ok6r/zzc/PHdc5Jb9zU62aIShKmHUazjLNGv3sIukmbaAwNKz+XLl5d1Srpjx46VdebiYW6d
+Xbt34brrrnOlB7ZKz3BGGFO9Q7sC8/FQH2/2JU6cOIH//Oc/WLJ0iauM7XL99ddLJHHbtm0lEdt9
+990nEcqU7Jk/x6qjDiQoSSsCHoasmNiKQ1v4KOzejkjYgsLcD9MKmNGCv5A0JWHmZDfgM7jrrruE
+bJlJkhLz2++8LWX79u+XFAsPPfSQqw5jbDRtyKRq3377LT7//HPJdklJ3KRTIJgO+J577hGdvQHz
+/VBSJykzIyY7DubcYTbM5cuXSwZM984gUKAkrQh4WEl6TREkabMv09d+/8MPMpTekJSEVfHx+Oab
+byTB17CgICEKkgdzlhtwKE1JjcZJ5oQxGD16tJAM9aPUv3KY3/S777Bv3z7ZXliisJJ0cHBwrvv2
+BnaRNNUXBkxmRhI1k3aQZJs0aYI777xTtjPPO6VcIPcsR6ZNqFtm8jLmu+HzTEhIEOnZgGW33367
+GFUNUlNThaRJ1iRpphjmM7nppptknemCTXspSTugJK3wGbwlaUMSJFQaszZt2iTGLEp0HHIzfS0/
+bA7VKQUysyIJgBLd5s2bJVsjiZwTRBjwP4mGBEUSJ6E0b94c3bp1y3XNBYU/kzSlVpPXnWDnxJzq
+cE6owQ6LYMZKJko7dOiQ6K05UYapx5o2gQZSGhqpKiG5vvjii6LvNmCnd+ONN+Zq7z59+0omTIId
+608//STr7HCpn2Z9StK5oSSt8Amsc196S9IkZOpTiV9++QWLFi0S6dp4BlDvSdJgetpTp067dMMk
+30cffTTXeSnNMbMiJcjjTimQ5MU6C3t98HOSZq52phbmPVP3W6FCBWzdulW2Uc1g2pQ2g7vvvlvW
+27Rpg2uuuUaMfdQfm7zw+QXsmHbgqOXqa66WTpCphamPNtPXsYzkTFAlQkJnB3HpnpWkoSSt8BX4
+wVGygg0kTSnZEEqtWrVENUFpmYYogkYp6jyffvpp8b8mKAGSaOh6Rt2nAcvoiXHy5En5T9Kny1hh
+r83AH0nakB1TBJM0Bw4ciGnTp+XK1c787ZyGjmBbUPo1rnFRUVGiiuAEGka/7J5x8nJueJyhiR1h
+j549XOeAs43WJq51/Y9PSMCcuXML3zh+AiXpUgB+wCSQEs8x4eOFOk+SpXFPI1F4o5OmpMxhO+ei
+NB4J8fHxLuLu1auXSMMkIwbKDAsaJoRJ7wNK3MwxbtClSxchdILqk8efeFzczDjFG0qJTjrvOj1L
+w3YaWj0d7+mZB5rU7AlK0oqARr16ddGocSMxNnEyhqKQtBUMtjABF+4fODsDkfhynO56WZkuNzvj
+nuceEm0Ii+v0djABF4WFP5O0J1dFA08ph812a4rgopCp9bzu7o/u/wM5TbCSdADDvIg0cNGBn0Yp
+zl7DIWBpX3if9CqgPy4NQwxmqP5mdZcu1BsXPBKGGZm4l8MDefsiqZM/k/TlVBP5Heepnrz2teN+
+7UJeIwX3NihKu7hDSTqAYT5cujxRHwun3i89Pb3UL5zHkkRKyz+NdtQHUy3hrZ+0deIIaztb3cTc
+J3awTkBhlRrNf09BMEV91v5G0tYAIKvKLT9C8jTyCASJl6MpjrT4PPhrDXziNqtk766GLOrzV5L2
+IeyWtqwkzbkUYdOHGyhge27YsMFrw6E7+PEx9JrzVRpSdidvT2RtVW0Y2DXRg7+SdN71XmofT23i
+ad1dZ21VnbBTpr+0VYUEN+nbei7rs3Bvf3d1SEHhqS7fjKKUpH2G4iJpSpHG0FWWSNrAGA69IWnr
+s+FclHSrY7ImjkzojWDUKDwXfZ7p0UBQxWTc6rZv3+4yFtLDgcZF+lTzl367xiOkqPpX+BFJm+vh
+pMv0Z2YwCwNX6KLI8G96vcDDvVoDhz788EOX9wvBEHC2u/XejH0gblUcHnn0EZdnSF7qBnOckezN
+ujmveVeM5GsFyZvHsNws7tc9f8F8uc+XXnpJ7pkBN3A+eyaSYuQlR3f0uWeADf3tWcb9TaRo4d0v
+laQDFkrS9vhJW/eny51J1EOkpKRIaHKjRo3Ej3rGjAhxz2vYqCGio6PlI6Qf9eLFi9GseXPx0d24
+caN4cnz88cdo2bKlJBEqV66c7F+Ua4MfkrQrd/exY3LvdC+8+eabpY34n2RKgqWhleTHzgpOImT5
+mTMZEiHIiE0DErzxkKFKa//+/a57pJcNfZ1ZbiVgEqkxxvKX9bMTNaMeBs6YfQ2YJfFyZO8OUxe/
+MwbhdO/eHWsTE/FtkyaSQ4R10R2Q65GRkZJ3hO6bHI3Rf3vWrFniw23cBAvv2aMkHbBQknbATpIm
+kbZo0cJV3rdPH6mX5MDIw0GDBorEx4Vtzgg6fvTt27eXwBVK4SRlGnJJFpSg+XysqTKLAn8jaffr
+IolWrvyYECKJkTk7HnnkEencwsPDRbomSFSM/iNRMfiF6U0JEjLDxplIad78eXjsscdQpUoVvPba
+qzIqoa2BZSRMtrFpg6FDh0q7w0nyrI/GZJ6Pz/Hee++VcqpLCHaaDLBhXexQrO3Ic9C9kv7tdOfk
+8+X9mHusV7ee5AKBhbiZl2T48OHSMVesWDGX+oPvUuXKlS1trYbDMgclaQfsIGlr3ggSDI2QTLcZ
+PGaMkEnvPr1FWqSbH6Ui+juzzbt07YL+/fsjaHgQmjRtgoULFwo5M7kPJSwGwnBITPIwQ2Nv1R3+
+kmAJFrLidTFdaUbGGfE2+tvf/iaBKsSQwYMlZSmceTcYvk3JmmHhTDdKkHSff/55qe+///2vECXB
+MqpAGCr+8MMPSzvw+fTo0UO28xwmuRMjGBnJSCn2n//8p0vtQqKmNMvAGuYUYX6PESNH4tZbb5XO
+14Ch5wwppzTPkRDVXWYEAGfaVWOgN3YQ+tWzg+b1XXXVVahTp46EwtPnnjYNU1atWjXMmzcvV5sV
+FErSAQwlaQfsyoJnyJNS3dBhw2QoznqYkH7kiJEyTN+5a5dIzqkHDggZkRBCQkNkG4Na+BxIzszb
+waF44rpEkcYYXWdSa5YGnbT7dcXFxUk4+PnzF2T2GHrcmGRS7NiokyVo6H388cddyZGoBmIecOY/
+ofS6fv16kUiNOoLRiFQpUVJlnSQ4RncyFJ3g9Gi1ateSdbphUjcMJ6FyRANn9CgN6zyGIeIcEZHY
+2VlYM+nxeqmqoSGeHQhVX1ZCZYdhzmuiKjnZATvqbSnbRH3D0Hde8569e6VNmOCJuUt4b5ud6g7V
+SZchKEk7YO6Z0hc9AOClC15RthU3isuTx2uSdpLYqrhYVKpYERfOnceunTtR+bHHsMdpXCVJPe4c
+9i+MisL999+Pw4cOyX9Kodz3yapVpfPbtnWrZLjbvWuXbG/RvLlIqzu2bxcVBbKzUa9uXZmJhfjm
+668loAlOkk7esEHWn3vmGUQ49d3v1qiB8ePGYfDgwXIe4iL11DkSleQi4nHjx4nRj6RO4yBnd8k4
+k+F67iY3iQE7hH9de60rWx87F6sHCBNryTW72lrVHWUOStIOmI+MkhONNnC2Q1E/CuMlYPV/tvrD
+WoMTsi2Trxp/WFiejSd/6qLAeBrwOXMoDS86Iiu8VneYziN2JcqVL4/z585hx7ZteKBCBZEmiS2b
+NuG6G28U6bXCww/jtttvF701kZScLMFItd57z1Un93uwUiUJwb/+5ptldLQ+ORkPPPig41oHD8G1
+1/9H9N3/+5e/yC9BqXWjU1p97PHKmO4MwX+zenX0GzgQ6WlpuKtcOTHoNmvdGs2bN0N2Vv45pk07
+px5IRfly5UUPzTqolmG2Q4IePtSpUz1inhVVX0woxVFWUd3+oCQd2FCSdsB8YBxCU49o9IWlIW8D
+LPdB4xezuxkjmB3353UwC3W2OTk4sXMnFkRHI/v0aZxJS0N0RATOcXbz06dE+l29cCF69OmNNYsW
+YWV8PM5S3UEyO3kKs+bNw2bnCAinTuHM2bMYHxSEnn37YmNsrBQf374d0UuXIpNujDk5mBYcjJFj
+x2D98mVYzWRK6emYHbUAp9kx5ORg8YwZDnfIM2ewcs0abI2Pl3r2JCai39Ch6PPLz1jJc3KatTzm
+VfTkw019Nr816sSN6yWc2fao07Y+E+rDF0RdSrFaVChJBzCUpC/BtAWNMzQe0TfZ3Q82UMEPn66A
+nDgg1klads08U2SSNgemHgBGjQFGBgMzIoChI4CQMGD8JGBsKDB0ODB6DBA6Dpg7HwgbD0ydDgSN
+BILHOrZHzkLOmFAgeAxyBgchJzQcmDwNmLcACAlHzuhgYPgoYEYkMGQ4cljvxCnAnHmyHVOnAYOG
+AZGzHfWOCQHCJwDjJwIDhwDTI4DRY5HD6xg91lHv1BnAhEnA4qW57+eyt/znwBVfzACkJB3AUJLO
+DdMetKrT44KBJkwRSv1lwC6//ILOXbpIYn1OMACbRwheSdLm4I2bkXPqNDI3bRFJOGfLVmSdOIGc
+LduAU6eBzVuRffIUMpM3yW9W8ibk0DDI/dPSkLkhGdmnzP905CRvQibr25CMLO7H+tPTkZWUDKRn
+ANx+Og2ZSRuQlZaO7A3JQMYZZK5PQg4Nehs2Iis9HTkbNooknbV+A7LTHeXZ3C9xPTLTM5C9fgNg
+vDcKkW/EmkzKWu6uzvJUVhQoSQcwlKT/DJF2nOtsC+oI6VYXsMvZs7jgHBG4D8HtaS/Hr91h4Qr7
+oCQdwFCS9gxrzojSAm8MT5eDLSTN62JFgfDr6Xr9HErSAQwlaYW3MBw1bGIcMjNVkvZHGJJO3JyK
+yEWbZF1JOkCgJK3wFma0ETYrEUdPZOQqU/gHsp3PY9na3Vi62uE/bojbGyhJ+wBK0gpvYT72BSu2
+YcnqnbKeZQMBKOyDeR4jp8Rj7wFH1kA7OlIlaR9ASVrhLczHvvfgSQRNWiXrWcWg+1YUDaYT3ZV6
+UuwGsHGkoyTtAyhJK+yAIYIJc9dh7jJH3mzqPLmo5qNkQBVHJo3fzv9DJ8Zh047Drm12QEnaB1CS
+VtgJkvXIqQlYGJsi/5WfSw6Ghy9czMKwSXGIcj4TO3TRBkrSPoCStMIuSK4hcAb0bIybnYgRU+IR
+u34vTqefL+lLK3MgER86lo7F8TsweHwsViXtdZXbCSVpH0BJWmEnHMEyDiLYnXoCc5ZuQfjsRAyf
+vEoXHy6jpyVgTMQaLIxLQcZZx6wyxWHMVZL2AZSkFXYjx4PO0+indfHNYpWYrR2n3VCS9gGUpBXF
+BUfeCTUclhTYUWZZDIfFASVpH0BJWlFcyDEkoSRdInC1fzHStJK0D6AkrbAbORrM4lcQdUcx9ZRK
+0j6AkrTCTjhyDjkI4cCR04iM2YTwWYkY4QfGtLKyjJiyCsHTV2P8nPVYtmYXzpxzGA6LQy+tJO0D
+KEkr7EKORWqbHp2MweNWIiF5P06ePqe5PHwItvW585k4cjwDixN2YkD4CqzdlCrb1AUvAKEkrbAT
+9JFmZNui+O0lfSllHqZfTD9zHsMnx2P5WmdiJRs7TCVpH0BJWmEHjIQ2LSoZ81dsk3VxB1PDYYnB
+GA7hJGwGtWzZdcS1zQ4oSfsAStIKb3EpwdIp0YVCEyz5FUwHuu/QKQlyQcFn+soXStI+gJK0wlsY
+EpgevRGx6/fkKlP4By4lwFqP3amaqjSgoCSt8BbmY6cUfezkGWdZCV+UIheMHnr52t1iTIQm/Q8c
+KEkrvIUh5OGTdPosf4Uh5ITkfZdSydqgklKS9gGUpPMGJUS2RWlYOAltcbnB6Wzh/g/XRLSbUxGh
+E9EGFpSk/wxHzomskr6MYkFWMcyAbjdJ53V9LL/ctXt7X56ON+e0bvNU5u/Q2cIDGErSueHIGOZo
+kx07dmDu3LmYOHEiJk+eHLDLlClTMH/BAuzevVvuK9tmzws7SdoQH6/x4sWLrmu1kiI7UGsnyvfV
+7GddLyjMSMOc17z/nog40MjZQEk6gKEkfQnm4zt//jz69OmD7t27Y8aMGZg3b56QdaAuc+bMwdSp
+U9G3b18MGDgQGRn2zuhttyTN989cm5UUDYG6S7XmmPT09CJc+6X6T58+natTcJ3T2Sm4yqgGcyvz
+dyhJBzCUpC/BtEXv3r0xbtw4WQ+UjzA/mPugZN2rVy9Zt0ui9pakrZ1jjRo18MQTT+Dxxx9HnTp1
+sHnzZtm2bt06PPbYY3jhhRfw8MMPIzQs1HX8sGHD8NBDD+HRRx/F66+/jgMHDrjqJZG66+YNzP2z
+I36s8mOo+mRVqWfMmDFSvnDhQlSoUAEvvvgiHn3kEenwVqxYgfvvvx8vvfgiHq9cGdOnT5d9/V09
+piQdwFCSdsC0w6pVq1wk5v6BB/RiUREMGDAA27Y5ogLt6ITsIum0tDTcfffdol6iqumDDz7AzTff
+LM+GhHnXXXfJdQ8ePBhXX301Tp48iZkzZ+Kaa66R3z179qBr165ITEzM9Uw9wWxbvXo1/vnPfyIo
+KAhHjhxB8JgxuPLKK+U84eHhqFSpErZs2SL7wdkhsLPgdp7n2LFjue7BX6EkHcBQknbA3PPYkBCs
+XLlS1vP6yK2GxexCGOKs3iKw6F2t3hfuOlWum3NYpTXTgVh1sfk9N7Mv1Td2SoB2kjQlV0OyBCVb
+kiU7T5IjsXbtWlx//fU4evQo3njjDfz0009Sbr1/Uyfvs127dujcuTPat28vZGxtt2+//Rb16tWT
+9QsXHNniKM136NgRkTNn4rXXXpMyPie5x6FD8fbbb8t6YZ59SUNJOoChJO2AuWd+xGvWrJH1/NQB
+7rpREp45hr+X01l6+sDz+m+IuiDXcTkU17O2k6SpSoiPj3dte//99/Hbb78hKSkJf/vb3/Dss8/i
+//7v/9CjR0/Zfs8992DSpEmyTiIl0VrbfcGCBejRo4eMHjhCohrLur1mzZro2LGDrJ854wjE+fHH
+H/Hll19iYfRC/OUvfxEVyjPPPCOqF57rr3/9K6pVqyZqEHYeKAZjrN1Qkg5gKEk7UBCSNh/24cOH
+scIpbW/fvl3+W7fnRbaU/CY4PUXOnTuH5I0bERISgomTJol0y+0cTvNZGFBq3Lt3r+hrjYRPrF6z
+BiNGjMDWrVul/vHjx0u9l8twZu6H9QQHB+e6b29gN0kb1QJBIuQzYRkJmQT+5JNPonXr1rK9XLly
+0mbu92LqjI2NFR0z24fvN/XK1k6vfv36aNq0qazzmRAff/wxWrZsKQZXSvYk4piYGNk2cuRI0X3z
+OpYsWYITJ07kOp+/Qkk6gKEk7UBBSNqoBkio//u//ysGqoEDB4o+FE6pjbpUYv/+/Vi6dClSU1Nd
+x4eGhqJRw4bo17cvPvvsM9FrtmrVSobXPOenn34qEh9JgVIdiZnuc5TsBg0aJPpWAx4/ZMgQfPzR
+R4iLixMJsW7dui6jl6dn6O8kTe8KkrRpf977v/71L+xPTRVCpMGQoPGO6g6SKtvmvvvuQ3aO47yU
+uPfu2+eqe/To0UK6X3/9NRo2bChqD1F3OK+T+u3bbrvNpVvetWsX/vGPf0gbUTf+yiuvSLlRd3D/
+6tWry7qqO5SkfQIlaQcKQ9LR0dFCiD///LO46vE/3dvatm2LTz75BBuSk2WY/v3338uw2eg6w8LC
+5CMnvvvuO5EOKSkb8u3WrZscfzrttEjPPXs6hvSNGjVClSpVZN2QwjfffCPSHSVBYwRs3ry5dATI
+Q9fs7yTNjomGQ5Iu1Qs0FHKkQcyaNQsVK1bE2bNn5T89QOiFw+vn+i233IKnn35ajklISMh1v5c7
+J9upTt06uOGGG/DSSy8J+fO5wfkuPPfcc7JuzstOmdI9nMTt72oOAyVpP4O1h7f6gXrq9ZWkHe1C
+qRUFJGn6HA8fHiQEXbVqVcyfP1+kNYK+1QMHDkCHDu1x/PhxGUofPHhQtpFwKBETlJqTk5OxbNky
+MWgZUEonCZjrISgBsozeDAYk7iZNmrhUIBERETJEx2WG3v5K0lZQfUOpOT4h3qVKgFPK3rhx46W0
+qHv3iqoJTtc93lPkzEikHkh1XtMlEs7LBc+AZewwp02fJnpnq3qKnh3W+ugBwmsMNChJ+yFysulw
+n/8HaCVpDg3h1M2VuMuYDxfjVQGn9T4/kqbut3///shIT8d1110nH/ivv/4qetLPP/8c69evl2E4
+h9AkUkPSVEnUqlVLJPAffvhByqgi+fmXn2XdGLc4NCc5TJg4AUHDh+OPP/4QnR47aNIAACAASURB
+VKqR8OCUpI0qhfvSVY0eCStjHaR9uQ7Zn0k6d735h+d7MqoWRgXh6RyBFKRSUChJ+wnMy0oJjRZp
+GjjMh127dm0hkVOnTuGjjz5yGZhUkgY6dfpNpGMU0HDINjTGQoZacyjMoTp100YnTZ9dfuz79u1z
+tScj4qinps7ZlKWdTnORLSXFyVOmiATJ+iix7dq9WwxqHFqbwA5TvzF0UcLmED9qYZRrn0AlaWvn
+aW1/Ty6I7qHceUnK+V9/7kRaBsZDxwpPZYEAJWk/gXmpaexo0aKFSHLU702YMEH8Pf/+978LGT3/
+/PO5XnCCH/kXX3whfqUka+o2S/tC9QMl1AoVHsQVV1yB555/Dg0/aYhNmzblapu84Ck82X39cs/q
+comE3Pe1Q/cZCCRtTV7kjTR7uWPtak87kNd95ueeWVgoSfsBzEOkkYpGpqioKPnP0FoOr6mvNAao
+am9U+xNJU7pr06aNSJGM7lq0aFGpX2h44wiCBimSNFUTVENs2LAhV9t4amuzzQyNuVDaNe1qyM/d
+JmBVsVjLTF1WY5Q1kMXUb+AuZbKO/AxZgUDSdiAQVBXunXRB/Oa9O5+StF/AfIRvvvkmGjRoIPrO
+O++8U0j33XffFd9O+n1Sf+l+TFlWd9D31Rr2W9Bglrxg9VYwnh1WsjUkn1cKzLz29Rb+TtJUG9FA
+SDUO247rNAoaVYd7W5j24b7uKgjWYTo1E2RkjqOhl7lA4OYF455xz9oZW9et+xdVf201ThqDsHvw
+kntiKW+gJO0nMC9RSkqK5D2gisP4zVKaNrkO6BbmfowaDi8ZDukWhyKStDlmzNixovtv1qyZ6LCR
+hxqDoER/6NAhWbdGLVqPIWGRXLyBv5K0uS6OZOgLTUGCv1yGDx8u2y7nUvjZZ59KVKIpIznThY/+
+49b9TB20z9AYi8vcv7uUe7ntnlQWRmduFuvoiNi5axdeffVVPPLII+Ib/t5774k3EJyh6hUrVXR5
+t1Al99VXX/3pvIWBkrQfwZN0lp80gDIuSfOjNka4woSFu8O0O42HJAKmBKVdgB8fSYE6fxp1ExLi
+xU+adgMaB+mf26Z1GwmAoQsfw5hJypTq2aEystCMioway5sOxN9I2oBeMGwrChc0crMNaAil4ZTX
+fPjIEXG9M+HbNMqyzekO+eCDD7ran4LIAw88IKMYLlRtMcjFbGfnSU8aOJ+V9bmRUEmOfG60TZgO
+m8/JhKub/Wk05nPJqxP+cztd2k6144cffSj3y/ugyo3qSIKETfVbx44d5T996995550CnSMvKEn7
+GfiicZjIF5QExAfLdSMxWn1wlaQdyCxAMEt+MPsz9Nh8YHBGvTHwgh86dd786OhjTRKm8ZJS4KbN
+m9CpUychZX6QjLajmx29QehrTX9qBquYZ1eUj9XfSdpIunXr1nFJumzH22+/XaRrjiRo9GZbEJQu
+GfDD+2IwivEZJ9mxAzT2GebZIGlzVOOov660PUmYqU+NSopG9iNHj0jQ0U033SSRhQw7ZwImSr23
+3nqrRCwSzOHB8HS6VFJqt0aWshPp0KGDPGtGlPI6SeYGJHvWZcgdzneG9wlnWDpdOdkpc4TF75I5
+RqAkXTahJO2AHSRtPiBKxJQG6S9N1RN9n0nS/M+PNmjYMMyeNUvyGLPNGWnIUOcuXboIuXCddZCw
+6bbHD57ExAAYSpUopSRtdMg1a74rHRbBNiAZmussX768dFwEozNNZ8jMdIaESW50Z2SQEF1R4XRv
+/Ne112Lf/v0SHES1FqXrypUru/TeJGbqiBluf8cdd8hx9IdnWlSOiugZxf3ZjlRH9OvXT54P1TIm
+lwg7GpI+feJHjRolz5cdAp+9AQme9VgNzRxh8fwXLl5AjXdqiIqDof9cuK6SdBmGkrQDdpC09ZjZ
+s2cLwXTt1hUHDx0UaZlBKjt37sTSZUvF5ZELCZPD8VatW2Hnrp0SFEPpkH7YJFKSQEhoiJBHp86d
+XBnfvFV3XC7HR2FhtyRdq1ZN6bDglJZpTzGgRGwSULF9DUnzfpghj5GXJoSexGYiPOGUlHnv7OxI
+0iTOp556yiVJU7o9dvyYjHIYbk8EB492ESTPy3NQLcN8H5TIqTqhlD3a2emxjUn6HCHxXSJRM5Tc
+qE3gNFwy/N2MconFixfL+c1189lTir733ntFTUYbE5SkyyaUpB2wkrQ3hkPk8yGVpHuYuR9K6v4o
+SWc5r6VmjXfQxalWIEG1coa7w0m0kyZOlPVHKlVCZ6fEffzYMTxcsSLKlyuHTk4j4qeNG6N2rVqy
+vnnTJvznuutwMDUVn3z0EQYPGoQdKSm48447kMaQ8+Rk/OXKK3H61Cn06dULb7/9lhw3euQIUYkQ
+i2NiUPWJJ3AmPV0k+hnOnNwiEcu1OxqCXirtO7TPU91BPfSNN90o75oBiZ66aDi9syjNE+y0qZ9m
+ZwAl6bIJJWkHzD1TIjMGIm8CHozfsvFdtq5bLf5m3Qx9zSQAxn5g/KNNHd5Eu5n7obrATA/mVyRt
+dNIffoAu3brJ+hdNmqBDt0vZ/7r17oVbypfH6++8gxvvvhvde/RwbfuuZUtc8f/+H7bud2TBS9q4
+EeUffhhv1KmN+ypVxE/ORFb1G36C3n36yPrz1aqh4pNV8WK1arjmphvFWNmzd2+865wIYMy4cLzu
+JPqly5bhsaeekvVR4WG47b7yaNC4MZ6rXl0m+kUeXihWmGfADHtUb1CVw9EBO4J9zux91IWb9KvU
+W3M/xjvAi3dSSTqAoSTtgGkHDjvpTQGnhBQIgREFhdH5kgCYZxk2Jau3haTplbR5C3OFIjUsHEfo
+t75sBQ7GxeHY5KnAnr3AosXI3rUbSQMGYvOcuTgZEYnDsXHA0uX0acOJGZFImT8f2YsW0w8VWBmL
+U4mJiOvRC5tnzwZiV9GFA/snTMQx3n9cPDLWrUN8n344uGIFDkyZiosbknEscib20IsmYQ1Or4pH
+6uQpwLYUnFkYgx2zZyNnxUpg+w7smjARi4cMxdbgsbi4ZSvj8133QhUK1R5c6DlkJW/zTtGDhB0m
+1S7GsE/s3rM7V3Ipqlf2OTselaTLIJSkHTAvPw1EnG6JeYVRwuoJO2GeM6MpeX925p/wmqRNBSti
+gaCRwPyFwOixwOx5QHAIMHcBMGqM/M8aPgqIigHCJyB71hxgTBgwa67sn83fkHDkRM4GxoQia8ZM
+ZPP46MXAuInInBYBBIc66g0Zh5wZM5E1OgRYEIPs0HHIiZglx2PmbKkfMyKB0HEA62P5jJlSD8sz
+g0Mc5+E+rG9sGFnPeT/537J7dGheeUfsSwmgJB2wUJK+BNMWTF5EIps2bZoknOeQk5INg4ECcZGE
+UEeOSE5mpgegfy9skqJhd1i4uab8frMKXp5TmHoL+ZvjXl5I+EoIUJIOYChJ54Y1bzBdn2jpp2cG
+/WMDdaE7G3W3jIKkkQw2k4NtJM2KAnnxYyhJBzAMSdMPV0naAW8zsPkziuPecpF0dulst0CHi6Q3
+pyJCSTqwYAjZKkkbv9GyDvc8wwG9uOUEsbudiNHTEpB+5ny++yt8D5M/Pj5pH6JWpsi6HR2qknQx
+wxgqJFCiUyfxSd3inBqoNM5OoSgeGClt5qJNWLNxf64yhX/API/xc9Zh044jsm7H960kXUywWozp
+AsRwWgZw0KDE6C5Gtbnnm1Yo8oIhgPVbD2BshCNaU9Ue/gPDxaczzqN/6HJk2pjzW0m6GGDINy09
+XbKt/f77766ZkM12GsyYi2DP3r2uMpWqFZeDeT+ol960wzG1mD9MAKCgStMZQDMvCUsSdsq6XSMd
+JWkbYZ0jjrOwMGQ1ZtEi+W9NMG72oT8t8yJERka6jlepWpEXXAEaJ8+gz9hl2HfIpO906ENJ2Lr4
+cHG6HprnsjBuO8bMWJ3rWdkBJWmbYMiVBiQme+natauEvyIPdYY1QTmj75iFjS5pUKlacRmY9+LA
+0TT0HrMUC2NTZIitKDkcPZGB0JmJCIlciwuZ9k+gqyTtJazSM0NPGaCxyEjP+bhiWSXnxLVrhajN
+zCDZKlUr8oB5p86eu4h5y7ciaPIqjJ+zHpPmJWGyLr5b5idh5NQEjJgSj41O9VNxCFdK0l7AKvFS
+GmZAhpmiqTAEa/Y9e+6cBHYwGfsppxSuUrXCE3Isxiq+HwePpmHLziO6+HBJ2XMMR0+eufRMiuk7
+VZIuAqzSM6cD+vHHH2WWD+vknUWp05A1JfG27dph+YoV8t+u3AKK0gd5b7QTL1HkN2L2FkrShYSV
+LMPCw2WWD84MggKkUCxM/cwF0fHnn9Gvf3/XdE5K1ApF2YOSdAFhlZ6Zk5b6Y84IYaIJ7SRQa1gx
+Zx/hFEUJq1e7zqPqD4Wi7EBJugCwkiYns6R6IzExUf4Xp87YdAoHDhzAT+3by2SrGgCjUJQtKElf
+DpSenWTI6Xg4Lx7d65hgHDapN/K/hNxSNb1HOOGnnF+laoWi1ENJOg9YjXXMXsccwXFxca5tviZH
+0yFs27YNbdq2lamBoAEwCkWph5K0BxjSS0tLk5BuusSZsG5fSM/5XRf14Awrb9+hA/aasHKVqhWK
+UgklaQusxkFKzU2aNkV0TIz89xeDXY5FBcPgmRYtW2LOnDmubeqOpVCULihJO2HImVJq//79ZbaN
+k85JL/NSJ5hcyGa7NyRuVa+YDuFyHYNLqr54UQJp6AHiCitX9YdCUWpQ5knaKj1T38ukSDNnzpT/
+RQnNNuRqJW7W7+4FkmVDgnirPjpu1SrRmy9ZssRx7RoAo1CUCpRpkrZKnPR5pufE3gKkDjXl+/fv
+xy+//CK5obm+YMGCXNsNDFlGRESICx8sknu2RXWxZo0jT/DChQtFKmbk4eHD+ecEMHUw6IVh5V26
+dsUJ5yigJHXoCoXCe5RJkrZKz0zCTx/k8PDwAvsgmwAWzrLCfNH0Y96yZYvohg8ePIjJkycLIRO7
+du3CsGHDEBsbi759+yI0NFTKg4OD5RgDdhJDhgyR9S+//FImCPj+++9dxJ3fNVml6qioKLRq1SpX
+AIxK1QpFYKLMkbRVDTFx0iT88uuv2L59u2tbQfTKhsxJytWrVxciXb16tUixvXr1xLfffiNES9UD
+Z2Fp27YtPvnkEyHiCRMmiPRNtcprr70m02rBSdojR46U9TZt2iApKUlyTfMXhQheMftRn850qYMG
+DcKZM2cKVYdCofAflBmSdg/rZsa6MWPG4OLFi1JWWGObIbw9e/agRo0a4rdMgyOXlStXSt10k6M0
+3LDhJ4iNixNpffDgwULYQUFBIjkbkua+dPcjPv/8c5GyOXML1SAoJMFaE75EzpwpHZG1Hn/wUlEo
+FAVDmSBpGe5bwrqpCjASalHCul3TGA0dKnMXMo9HTEyMRCMGBQ0TkiYhU2om4X799dfyn5LyjBkz
+RKImAVOXbepiitOPPvpIJGzWSXAfE11YFCnYdDzUb//666/iBWL1IFEoFP6PUk/ShgQZ1k39MfXC
+3oZ1mzo580rShg2iTiDpMeCFdVM653/qpxs0aCDSde3atUUFYVz2KNlSX22t79TpU9i4aaMr613G
+mQyvDX/WABhK+7/+9psra59K1AqF/6NUk7QhuAVRUfjss8/EGIdiSIrkqS5TtnXrVjEiWr00PO1v
+VUMUB3kaqTo1NRUtW7XCyFGjXOdVKBT+i1JN0oaAqGL4/ocfsGXzZvlfkiHUeZF0ccO0BUcUzOJH
+gyKUpBUKv0epJmlYZ1g+dgydu3QRY11xJNF3J1+z7soDcvq0+FJb97Um+DdSvt2kaZXQ2VnR20TV
+HQpF4KDUkzTcDIcMFKERbd26dfLfTtUHdc5MymSI0UrEGzZswPwF8xEdHeMKesnIyEBmZhY2bdok
+M7wYXbZdMOoe6sZp3KTx0tyrBrkoFIGBMkHSBkYvS0+Kdj/9hLEhIS6yKmq+C9ds34mJ4hu9dOlS
+8ZcmKbf7qZ2U06tj5qyZYrj7/PPPULNmTZFmqScneTKZ05tvVkfjxo3EXxpeStTW4BXOPt68eXNs
+NqoendhWoQgolCmShptagsN/ejvQuIciEpghQwa01KtXT+qixMqAlZdfflkCWRhUQgme5D127FiR
+pMPCwtCnbx85lp4edL3blpKCr776ynWdRYHpdOh5Ql9w6p5NmlXVPysUgYcyR9JwC6EmMTIxkQnj
+LmwSfauLH6e3euedd8Qv+bbbbhNSrlChgkjSJGLO7BISEiL5qRk6TmJm0AoJvF27tiLh06/a23ui
+NM+66a8NDWBRKAIaZZKkDaw+xAw86dS5M/bu2ydlBZWqra52TG8aHR0t/xlxyGRNjCRkVCL1wsuX
+LxcDZpcuXSTqkUbMfv36Sf4QhpCnp6dj3rx5hb4PIz3TX3vAgAHiD05jJFT3rFAEPMo0ScMtiT4D
+U5g3wxClXe5yxSXFWkPdaQhlFj9z7UVJs6pQKPwPZZ6kDQyhMWKQ6olOnTqJCgMF1OW6TwBgJHHz
+61JHsCwz8095pgsbrm1NT8ow8169erkCZlR6VihKD5SkLbCS5ZKlS9G8RQtJMQo/0utapWe67pkc
+ICiCPl2hUPg/lKQ9wKg/6PdMY1+3bt1c+T5KkgRdnUROjhgg6Vtt8n+o9KxQlE4oSecBawAMfY1b
+tW6dKwG/r6VqQ8I0QtIbha58UOlZoSj1UJK+HCxGxRMnToiemhntiiOsPC9YA1OmTp0qaUzNJAUa
+mKJQlH4oSRcAVi+PKVOmyMzc1AejmInSSM80YDLnBvNXm6m7dEZwhaJsQEm6oLBI1Uz3SYPdqNGj
+vQ4r9wSr9MzJaJs2bSrTc8GPDJgKhcI3UJIuJKwEOTo4GL916pTLeOctgRrSZzBKz169ZLYXBrlA
+w7oVijIJJekiwGqsY6Thj82aYfr06a5tRSFq97DuJk2bSoQidLZvRT7g65adTdfMbF18uch3Wfyj
+WiVpL5BlCSunSxwTKTEUHIWdONa5LyXm3r17o3v37pLyFGocVFwGJAh9N/wD2cU4mYeStJewhpUn
+JydLYqO5BQwrtx7LlKZMKcqJcqHSsyIfGPfQM+cuYOW6PZg0PwkjpqzC8Mm6+GJhW4+NWIPp0Rux
+ddcRZGUX39R3StI2wTUDS1oagoKCJMnRiZMnc23ztD9/GYZOjxEaJKHSsyIfmHdjxdrd6B28BDOi
+k7Ft9zEcPZGBYyfP6OKDhW297+ApbEw5hIlz12PohDjsOeD83m3+dpWkbYTolZ0PaNmyZaJX9hRW
+boyD9Hdm6HloaOil41V6VlwG5v0aP2c9wmauxZlzF+W/duklA/NN79p/Ar2Cl2LLriPy306iVpIu
+Brj8m0+cwMBBg2RhGlFYHioDU9p36OCab1ClZ0V+MEaqhbEpGDdnnavMMbFyCV9cGYVDZelo/JOn
+z6FvyHKkHjnt2mYHlKSLCe5h5c2aNxed9YEDB2TKLOavLmzmO0XZhfngT5w+i2ET43DhYpazvIQv
+TCEwRJ209SBCIh2TSitJBwiMVM1kTZxS69NPP5Uk/1DpWVEIGCl67rKtWBS/I1eZwj9gnkdoZCIO
+HXPENtjxeStJ+wAmlJt+zyYx0oULF0r4qhSBBNOZB09fgwNH0nKVKfwDhqSXJOzEsjW7cpV5AyVp
+H8CoM2hM5LRasBC3QlEQGD6m+9fFTE1L648whJywYR/mLXdObm2DKlNJ2gcwJG2VpJWkFYWBIemh
+E2Jd+k+Ff8GQ9LotqYiM2SjrjEz0FkrSPoCStGeUxmRRxeVGmYukbfjw82r3ggRg2X1ec07rNk9l
+/g4l6QCGkvSfYT4+hsJv3LgRq1atQkJCQsAuzFJI7x0zS7vd5GI3SV+qN38i9LRPYe/PveMKJPIt
+KJSkAxhK0rlhPtCwsDDxeGGE5ogRIwJ6GT58OIKGD8fPv/ySa85J+9rM8WsHSW/evFlS4LJjPOmM
+ioVzUmN2NjExMdLhWImVnkicmYiJxFIPHHBeU+Hub8uWLZKPff369bk66bi4OCxevBjR0dE4ePAg
+zp49K0FgpuxAEc/nayhJBzCUpC/BtAWJzbRFaYAhEP7y3kaPHi3/7VJ9eEvS5voyMjJwzz334Ikn
+nsDTzzyNm266STpJOHOX/+Mf/8Dbb7+NG2+8ER999JHrmDfffBN33XUXqlWrhjvuuAPr1plgmuxc
+qglPagviy6++knPVql1L6q5du7aUM17gqquuwttvvYWnn3pKroGBXn/961/lOp5/7jlERkbKvv4+
+j6eSdABDSdoB0w4bNmyQyX1hmf2c7RHoi9XvnSOEnTt3uu7RW9hF0qdPn8b999/vmkRi2rRp+Pvf
+/y7XyhS5jz76qJRz5qGr/nYV9u/fj67duuLee+91vbN8fizP794MqYaHh+OWW25x5aY5dOgQ/v3v
+f2POnDky6njllVek/OJFR4j74MGDUb16dVkPJLuFknQAQ0naAetHyyE1iihp8qM1xGjqcCdKs25g
+zSpoLTcdRLYl7SyXohKDqYfZDEmA7ucrKuwiaSYAs5I08eKLL2LAgAFSRimbaol+/frhgfsfEBUI
+pW5uh4VIYbnXnj174vnnnxfJ96WXXkKTJk1kP3POjz/+GN98842sU5VBNG7cGD/8+CNmz56Nxx57
+TCbOoIqFoOroySeflEmXqZoxk174O1krSQcwlKQdMPfM4bV15nVv63T/ePMyUrE8L8K0SmzeeGhY
+nzVzjMOmZ20nSd93332Ij493bXv//ffRuXNnJCUlieqBpHzFFVdIZ0rcdfddLj07yffcuXO52pES
+MvXMNACzjh07d0rCpxxnW9SqVQsdOnaQdZPD5scff8RXX38lOuf/+Z//wTPPPINHHnlEiHry5Mm4
+8sor8eyzz8q1rFy5Uo7x9/QJStIBDCVpB7wlaUM0lMZWr1kjxAAnSdD4tDYxEeuTkoREoqKiXMmr
+CBqfONTnNezes9tVF49lkNGxY8fkP68rwSJlFhbmfkgswcHBue7bG9hJ0g899JDkLzeoWLGiGPRo
+SCRREsxt/vrrr8t6lSpV0KlTpz/di6mTOvj69evjs88+wwcffCCqHuvo5IsvvsCHH34o6ybSljru
+P/74Q/TNlL5hkdKHDRuGN954w3UOf5egDZSkAxhK0g54S9JGepsxY4ZIZ23atkHbtm2FrJkThUNu
+fvQdO3bETz/9JNKfOee4cePQvkN7MUq1a9fOVeeXX34pUt3XX38tulYSx1tvvSX7oQiqikAgaeqX
+6aXBjotqB6o4iIULFwqBE1Q1XHvttaKb5ojg6muuFqMevS969OwhbocGJHy218yZM0XFs2TJklzq
+JdZLgyQlZHqT8PmzvqNHj0qaXj43uOmkjZ5aSVpJukjgh8sXyqrj5H/+WvWjBkrSl/TIsIGkJ06c
+iL59+8o6yXnt2rUyzP7111+ljKTbqlUrWd+3d69MRwanHvTpp58WidqA+lPqYBs2bCj1ECR46mRR
+hOfk7yRNSfbdd98VMqbel/dtRhx8P+vWresiy88//xy9e/eSdU4NV65cOTz44IOiey6I4RCW9mBb
+8FhK7Y8//jjmOWcvogTPZwhLO9Hjg+eGkrRASbqQsFrwCzrFlZK0436N0chbkuaH3b9/f1lv2bKl
+ECIJluRqQONTnTp1hJTMEPvbb78VYoKFXGjQomGLxA+nVEji9lYn7W8kffm68yZC6zbem9VwaGB0
+/WbJq+1Yz7nz53L9L01QkvYjcIbwBQsWuPSY1GvSfYlEcfz4cayMjRVnfEMOhlxI0sZ/lnrTknYZ
+8+ViXO2IIUOGuKTWokrSlADZ4RldJ9vfqDFI4vQaqFevHlJStmHRYofvLVUjJG+ruoPEvWOHI/Xn
+gYMHxKj2R/fuMmsOvIisCxSSzo9U4cGQWhS3OKtwU1pnIFKSLmEYgqB+ji5MdOrnkJFETGMJ9Xok
+Hw6z6fTfpk0bIWy4kXRZlaTpPUA9KGwwHB4+fFjacfz48aLXNGUmwIK6U+qWSb7UwS5ZukTcy6hn
+pSRIHakBdavGxYs6WkZBklxpTEQZIOniwuUk89IKJekShPXFoluQca2ifjM8LEys19R3Mm/Dd999
+h9q1aomO1OrHS9DtiUNpztRCaZASX2lfaCyioa9ChQri1vXKq6+iUaNGYpCCDW5VhfnofaHf9HeS
+9hQ4VJBn4Enivpw/ub/okq336x7mbm0DT2WF76CVpEsMVp1c1apVhXSIl19+WfJDk5g5TKZkx6E0
+DSx0WWIgACySNF2cqEPlLw0ndBMr7QvVQszBQIMRSfrLL76Q9qInBYpI0sYIyfY1Q2/3YBVj2DXb
+LmbmNvQaWIfuXOfIqKDE5Qn+TtJ2wV9I+HJwn/mouNUsStIlDPNhU51BqfCrr74SFQed82ktN94G
+n3zyibiAwfJxquHQYcijLzOcfrDeBrN4yspmNVwZLxtPulCzn6f/3pKPv5K0uacVK1bICIcqH47o
+uL5xk4NQTMdmbTOrgOHu0cG6qGYyx1ql0i5dukjdcJuFyFOUqOkU3SVea2SppzYsSM4QXjPdL+mO
+adSPBD1a6DJIFRztF7x+ltGFk2WMGKXdCIUYrSlJ+wn4AvGB9+7d2+W6tHTZMte6BFkkOYIsrBIa
+nCRtPlxKgVaLeGlfYPlAhw4dWiTDofUZEAwtp6sWJ/ZlEiB4kPDMujW8OC/Q+8SEJhcV/krS5rro
+AUN7yg033OCyrZjIQk/Pwjw7esB86Ey4RNBfmomS3Dtbsz89a2gXQBHuPy/SLei74vICmjpVcoTQ
+ZZBqyv/+97/S2RAsu/mmm0TAqlmzprw/XGeOEf7SFdE4BihJBxg8JSbPDypJX1IlwMuwcNPeTNLD
+qDX6ONNgSHsAVU+tW7cW6WnLls34/fffhSi476uvvor27dsjI+OMdBLcl+em6orls2bNEtJnoAfV
+MyiikctfSdrAEFjdunXQo0cP17VSqqQqjs+FQsi+fftkGyXKTZs2S4DKquFiygAAGcBJREFU7bff
+5iIutqFxZ+QI6YcffhBfapI3nKHmAwcOlI6PnYA576hRo6SMAUhsc+YEoWqQz2/QoEGiLrRK5xyB
+0eZjjL3WZ+JJh2y2s75bb71VDMEGDFwiWRPsnHh9sATRvPbaa66MgEV5ZkrSfgT3YZnVqOLJd1pJ
+2gFvg1ms+5M8jFqJILHwA+fQtVXr1kIiVE3Rq4RRbS1atBCvDxITpW+SNt3yGMpMQzDLuJ3qKpI6
+SjlJ16pVU9qGoI2A9gJ6KdELhl5LpqNiGTsxgilKJ0+aLOtsP7Yxyfbqq68W9QaJj8mSCIaJ8znT
+77xSpUou1QGlb5LwyJEj5Zwkd5L9NddcI8+AuTooycIZlMRseAw7v+222+T5GNBrhxIwQ8oZQs7Q
+dT5nA9pDypVj5r6Ll+YeTEgQaZqoUaMGvv/+e3GnNcmmWA/fE5ZxpKeGwzIEJWkH7CRpqi8Yvk2J
+iaojpj6l1EW9Iz1ohg0bKqkwIyIipM2ZqY0qKRI7P0ST24N+0hzqMt8EpcUfvv/Bq3sMJJImscIp
+YdI7yeCBBx6QtiDoj/7zzz/LOgN/6r9fX9qbhM22ZifXrFkz2U510n9v/K8YhVkfSZzrJF7abtgO
+VCdQGmcw0gsvviDHkYRpWCaYcKly5cryXEnMVM/wWdEw/93338s+RmpmetVt27bJcySxWicwYNQi
+OwwjbcP5zjCnNUd07733Hq677jo89dRTeKdGDdnOzuH666+Xstp16uTSjRcEStIBDCVpB+wgaesx
+JAEOqxmksmnzZjRt2lQkP9ZNiZqSV8yiReJJQ6mZJEPJrlnzZujTp69IzH90/0Oksj59+8gQn6Qd
+Pi5vHW1Br41GNTtnhi8OdYfJ6c28JSakniAh8l2FMzkSOzA4pdMqTzwhKiSTfImSbp8+fVzH0rOJ
+el8ex+dMVRSlXKNSIPEeO35MDO3v1X9PythO1BET9E9/7rnn5NmQ0Dk66tWrl4TpGz94ODsEunJy
+8oAGDRqIFEx3TwOqYCi1nzhxwlVGA2L58uVlnedzV3ewDlV3lFEoSTtgF0nDLReF1TBp3B494fwF
+xzZKddb8HVZYdedFgZWk/VKSdl4LZ0L5zUnMnzZujJYtWrj2qVqlCtq1aYM1CQmSGKmrU+LmRTz7
+zDOipghzqhY6tu+Acvfei9S9ezFk0CDc/v9LvxcvXED9995D3z59cPzoUfz72msRNX8+BvbvL8em
+p6WhR/fuePvtt6SOEcOHywwsxOKYGDxS6WFkXriA55591nGNOTnYlLwBh5zTaMHZpiR0St7sjOmp
+snv3budlOhqLkjTJmBI07Q0kfZPHhWoSjq5gIWnm1TbpBpSkyxiUpB0wZEp/cjOc9sZv1XpsXq5Y
+1u0owNDVW99fc030DzcRlv6Q9N/9+lp26IBRzqCsrr16YvCoka59YpYvxwOVK6Pau+/i/U8bY4zF
++BY0diwqVamC484Jd9PPnkXjb7/Fo888g6deeglRS5dKeZtffkHo+PGy3qFLZ9xbqSI+/uILvFWv
+Hk5npCN03Dg0c+ZamTl3Lr5p6egkEpOS8KEzudLGrVvx9Cuv4PnXXsOzr7+GlU7PjPzeGbOdEwm8
+8847omPnQkOyQdPvmopkDcu3+G2Tb13SeFGemZJ0AENJ2gHTDjTgmGFlaZk6SxaL/pMGSibBh5cd
+kYFtwSxJSZz/Cjnz5gNbtgJz5jIZDTB3PpW2jv/btyNz7jxkbd0GLFoC0I963nzk8H4WRMlxOfMX
+ABuSkcP/O3cic/YcZG/eAixZgpz1SUDUQiDZuX3rNmTNj0LOthRgyVJg3Xoqnx3XsjAa4P6LFgNU
+Z8QscmyPiUEO61+5EmeXr0DOkmV0bgac3iVw83G/XOCKdZaY4gzAUZIOYChJX4L5SLr9/jvmzJ2b
+qyzQYe6DQ2/60cPGe/OapE0FCauBMaHIil6M7LHhQsLZY8OQHb0ICB0PxCxB1tgwZEXFICskHJnz
+FyIndBwQvRgIn4DsqGhkjg1HzsIYYNxE5ETFIDMkHDkLopEVOl7IGOMnIXt+FLLHTQS4PWw8suYt
+QGb4BGTOmQdMmIzsedw+CViwENkTJiOL5ZOmImfuAmSNnwzMi0LWhCnInDUHmDwNWbPmOeorRHua
+rH2GzK2h3nl5YXk3slOSDlgoSV+CdUJUGoToJ0sPDBr36FYXyMvMWbPEqMak9d7otT23m+PXX8LC
+3VGc3ay3dftKCFCSDmAoSeeGVXfMYBR6YtDPmfrAQF14/RGRkbYljvpzmzl+h030kqR5XYG8+PGg
+y0XSm1MRuUhJOqCgJP1nlNacwvCQ2McO5JKkS2m7BTqsJB2hknRgQUk6b7gn0Qno5TIJ9O1oJ2Lk
+lHicPf/n2VEUJY9s5zNanbwf85ZvlXU7OlQlaR9ASVrhLYyUNiN6IzZud+S2yC4lBtfSAtczitmI
+9VsdOUzseEZK0j6AkrTCWxgCiN+wDxPnOrIs+qMBsSyDfHwxMwsDQpfjzFn7DMdK0j6AkrTCWxh5
+jMPnQeNW4NBRR9pVJWr/AMmZmL10C2Yt3izrpmP1FkrSPoCStMIOGL30tj1HMTB8Jc6eu+gqJyGQ
+sHXx4SJ+1TkuMk5OOYSgSXG2G42VpH0AJWmFXTA6zg3bDqFvyDJs2nHEn73SygQyM7OxMDYFg8at
+xPFTZ6TMTqJWkvYBlKQVdsK8T6mHTyNsZiKCJq3CvBXbsHztbqzQxWfLsjW7MGXBBgydGIfouB3I
+zMoWvbTd9lwlaR9ASVphNzjENtLaufOZWL/1AGJWbdfFR0t03HYh6U07DuPCxaw/PRM7oSTtAyhJ
+K4oDRhetKHlkkaCLqW4laR9ASVpR3FDDYckZDosbStI+gJK0QqEoKpSkfQAlaUVxgSoPSnQafFgy
+cLV/MfrYKEn7AErSCruR49SDWlHiw/8ytvxpkoFi6imVpH0AJWmFnSAXGILed+gUpi1MRtistRg+
+ZRWGT9bFF8uIKaswenoCxs1eh8UJO5DhDAN37zjtgJK0D6AkrbALDj9ch5FwatQGBE2Mw9pNqTiV
+fq7UzHATCGBbn7+QiaMnMrB87S4MHh+LhOR9ss1uY6KStA+gJK2wE8wTMWRiHJas3lnSl1LmYfrF
+jDMXMHJqApau2SX/7VR9KEn7AErSCjtgJLTJ85MQFZsi68YVTIXokoExHBowNHzj9kOybhdRK0n7
+AErSCm9hVBl7DpzE6GkJsq4ztPgPTAfKUH1OzAAb531UkvYBlKQV3sKQwPSFGxG7bk+uMoV/wDyP
+CXPXY3fqSVm3w06gJO0DKEkrvIX52IOnr8axkybTWglflCIXjHqDyZcWx+9wlNnQkSpJ+wBK0gpv
+YQiZ+YozNdG/X8IQMr085i7TOQ4DCkrSnsF2KY6ZtUsKDte44pmMNtds4UrSfgmdLTyAoST9Z2Rn
+X4rYYlucPXsW586dC+iFBA1Xdjp7iVRJ2v/hIuktqYhUkg4sKEnnhmmPzZs3Y/DgwejRowc6deqE
+zp07B+7SpQt69OyJkSNHYvv27XJ/do4QlKT9H0rSAQwl6UswbREbG4sffvgBGzduFCk00EFC5miA
+99OyZUssXbpUyu2SqJWk/R9K0gEMJWkHjGR5/PhxtG3bFidP2uem5A8w93Hi5En8/MsvOH/+vI11
+O36VpP0XStIBDCVpB4zOdtq0aZg8ebKsX7x4sVSRNO+HGDduHBYtWiTrdkjTStL+DyXpAIaStAPm
+nocPH47Vq1fL+uUI2lvy9kSOeREmz5XX+azHXG4/676LFy8WooZNz1pJ2v+hJB3AUJJ2wNxzUFAQ
+1qxZI+uFkTKNR4g5xv2/gdUNjuc0/42Um56e/idPDEO+Vq8T/lqf0/kL53HhwoV8r5FYsWIFgoOD
+c923N7CDpM09WpeCHuepnrz2NW3rD/B0nZ7aoCjt4g4l6QCGkrQDBSFp83/lypWoXr26rIeFhWHZ
+smUe93c/jiqG9+q/h88++wyzZs2SNq9Xrx7eeustDBs2DOPHj8cXX3yBESNGuI4dNWqUSL2JiYno
+1LmTq7xjx46oX78+evbsiYMHD6Lpd01Rp24dbNiwIc9rsV7/mDFjct23N/AnSToQ1FPuo5/i8F3/
+8zmVpAMWStIOFISkjRQWHR2N//znP6K/JrnOnz8fycnJ+PLLL/HHH3+IUa5Pn9745ptvxO3NYPTo
+0ejfv7/U88Ybb+DQoUOievjpp59k+wcffIDQsFBZ37t3LyZMmCAGTJJxrVq1XNdFfP3110hNTUWj
+Ro3k2RFtWrcW0kYez9BK0v4kSbM90tLSZBTBtjPr2TKZavafRiVGouTow937hnXRkwUWydkcd/jw
+YUyaNMk1anGXVOE2AvI0grGepyjkaurhqOfAgQO5Rk2mnPd/+vRpnHeOjDyVFRZK0gEMJWlHGxSG
+pGfPnoVevXqhRYsWaN68ORYsWCAEvX//frRv316k608/bSxt2rhxYxw7dkyOCw8PF99rgsRMsqT+
++7fffpOy3bt348MPPhSiPXP2LFbFOzKWffvtt3jiiSdyXRPP99VXX+GXX36RDzwjIwMNGzbErl2O
+nMGeJEp/I2nTnmzvRx99VO6xfPnyqFy5Mt58800cPXrU472Y+1i/fh2qVHlCOjsDdprs1Kz7mfPQ
+tbJSpUo4deqUx3ov3c8l8nZ/B9xVDp5GWzyfdXGvt1+/frjvvvtQpUoVud+JEydKOUdBLH/66afx
+4AMPyIiKfu333HMPnnn6aTxUoYLr/SlsB6EkHcBQknbASFcFIWmqH4YOHSIf/VVXXYUlS5YIGVOy
+7fhzRyHjNm1aixRMiZcSE0Gp+tdff8W2bdtEXUKpkVI5VRfEjh07hGT5kVKFceLECcTHx4sKhEQd
+GhrqupZPP/1UpHCC9bz99tsYlM8H7G8kbUjrzJkzIuVOnTpVCCkpKUnage22b98+rF27ViRJrsN5
+v3v37JXncdddd7reW+K5556TDpRgO8fExEg7EmzLqlWrSofG85lyul2aZ8SOls+N3wPJnO8F1VlH
+jhxxnYNtxu1GtVQQmHdn+vTp+Oc//4m5c+fKPQ0ZOhR//etf5d7i4uJw2223ISUlBdtTUkSC5vXf
+eeed8m7s3LEDJ44fz9V2BYWSdADDakwKCQmR9bJE0nzZ+QGYYXNBdNLx8aswZ85sWWdwCCVgfrQf
+f/wx+vbtK8Nt6pL5EVLFYSS3hIQEkX7btGkjBE+sW7dO1BrEgAEDRH0xe/ZsUXcEjwkWPTVJgh+x
+IR+CUpYhGQapvPfee1IvScDTtcMPSdr9utiujzzyiJATOzyu3377baI2otcNVURwSpwkWx7XoUMH
+vPrqq1K+ZcsW3H333TJyGTJkiEip3HbffeXlGa1fv14kdh730UcfYeDAgXIco0obNGgg6w8//LB0
+khUrVpTfunXr4qGHHpLFSOy0I1DS5769evfO1Y5RUVFo0qSJ+NpzpPXzzz/nUsnUqFEDrVq1knUj
+GPBeKF0zyrVChQq51CskaV7zpbZWw2GZg1WSNvpT6gNLOteELxaSKSWc119/Dc+/8AKSNyZj0KBB
+IrmhAENKT7pKFOJDKuh+eek/8zp/XvBXkjZSJq/rwQcfREbGGemkrr32WpcqgGoMSskEjagkUUrE
+7ORuvPFGka757GiEZfkNN9wgIxziww8/lM6PnTGJle1A8u3tJFiG/desWVPWaWtgh0DcfPPNaNeu
+naw//vjjYoOYMmWKqCTYEXBk8+9//1skcQNeD6+V0r0x+lq9bngPpn6jO+e1/NT+J+zcuRN/ufIv
+eOqpp3Df/fdjzpw50iFdeeWVUsa24TVY26ygUJIOYJgPly8IQ6EprXXr1g2///57qV94n9T/UuK6
+4oorZKhJaW3r1q252sZTm5mPhORgdNqUjEwAjFnndkOkPIYfLMsNOVrd71hmFuNiZ/Sa1v1k34uZ
+uXSnPA/rvtzH668kba6Lw31KkrwPvo8kRkrUcI4cXnrpJVnnyIH6ayPZUuImGb777rtC6uxkH3vs
+MTG0wUnwfK48jlIp24gjD45ciK5du6JW7Vqyfscdd7jym7z44gtiFCZouKWtgSOlW2+9VVRQJNfa
+tWu7RkoEz83OggTNURlHp1aSfvnll9G9e3dZN1GfvC9+dxwJ3H777WKnoGqGJM4Qfo4OOLpjeV56
++vzbWElaEYAwLzqHrhyGUi/JD7ooftJ51W1gJXZjkLJ6Kxip2Co1W/9bPQ2KCr8laWe7xK1ciQoP
+PogL585h186dqFSxouhhiZCxY0WSJMaHh+OO22/HESdJ9/jjD9x6yy146sknRcLdu3s3/nvDDVid
+4JjKq+Enn4jb446UFDEc8oLfr19fvGGIOrVro269urLOepLWrZP1J6tWcUmulNDDQkIwdswYPFG5
+cq5rz7E8y7nz5sq5mjVrhqZNm6JN2zY4e+6s632g+oMdEUerBEmYOmnqz0nMDzzwQK4REm0Wcs2u
+tlZ1R5mFNX9yWVp43/v273NJNUUNZjEwHxENf9SL0uXLSoSePjIOz/MbvnK7t8me/JakjSS9Zg0e
+rFQJF86fF3KuVKUK9juJmAa9+ytXRuUnn8Sjzz6L+6kjPnxYtm3fuxdX/M//oFGTb111fv9jM9z1
+0EN4/c03cV/lytibegDrN21Epccc+t0p06bhmltuwRtvv4X/3HEHPvvyCym/6dZbsWm7YyLdqi+/
+jIhZs2T9nZo10X/oUFmv8srLeOb5F1CjQQM0+vzzXJ1q3m3k2EZyrlatmkjMVH3cdNNNLlsDDcHl
+ypWT52xGTSRpqlfMKKmonbSStCLgQQ8DeEnSLl/XixfR4IMPRMfPYS+HwxxqR0REyIdG7wESJYNb
+eAwlLxNcwg/VnJ9DfnoBUD9LjwcOrY0qpigSld+RtFHXkGyPHsW5pcuwfdky5KyKx4U9e7Bz4iRk
+0aODroiHD+PI7DlYPnkyTsxfgH2rV+Mi/cN5bGwcUlaswLHZc4AjR5ETF4fsY8exdUwIlk2dipNR
+C4FTp3E2OgY74lYhe/kK4MQJpISEIjEqCifnLUDq+vVA3CpsWbEC52MWyfY94yYgffduYFU89qxN
+xLGISCAtDWdjFmHFzEis6NELR+jhsXeva2JX05my0zcqKHdwH74PfNZW90G+g9tStuWaJZYdOL09
+vIWStCKgwY+mIC54+cGaG4NeHwbUtdIVjz7UdJOji97777+Pr7/+BjNmzECDBu+L/yv1qRwiv1vz
+XfHooCcIh830bqBulJJXgnMIX5pIGmnpwJDhwNQZwOgQYPI0YMRoYHqE43fKdGQPG4HsqdOB8AnI
+njoDOSODHfsPH4XsKdOQMyoYOdNmICdoJHKmzkDm4GHArLlA2HhkTZ2BrMFBwPRIgMdNj5T/OZGz
+gbFhyJ7mPA9/ndsxbATA7cNGOv4PHwVEzEL2oGFSH49DVAzA8ySsMQ2c7y1bffLhlviqOKEkrQh4
+eJu7w7o/3esoHRvQi4ASNYe6JN6goGFiuZ85c6YQdp8+fUQf3qFjB7Ro3kJcw0ikJHoeQz0mdZd0
+N/MGfkfSVly4iJysLGRS7US124VMZGVmIedipvzHxUzR/148ew7ZNKieOy/7gwTH486x3PzPRs6F
+C8iU/c86dN406GZlI+vsOQeZXrgo8zFmOj18snnebMd/7sftnAMw5/wFKedx2c7jxIh75iwyqYs+
+d17OV7j2ynEZmt2DXdzVXp7KigIlaUXAww6Stkq3jAiktwzDxOn3zOCTJk2biBcCXbcoQdMoRT9o
+egy0ad0G06ZPk30oUTPYglI13btat24trlhUd5Dci3Jt8GeSZgVcSEa8Rk+/ZntBfnlPRdm/oL/u
+x/kg94a3UJJWBDzsIGlYiJp6SQYIbdq0Sf5Tl2wCWKijpq4xPSNDAl64Tss+z0d1BnXV1GceOXpE
+yg47DWTUUdMLADaoO0prgiWFZyhJKwIedpG0gZVE7Q5uKSr8OVWponihJK0IeBi9Hz0wvFEp+DPM
+/TB03NyjHfpOJWn/h5K0IuBhpFiqJawGOpKYNRIwkBdzn8ycR7c+2CS9K0n7P5SkFaUCRtKkMW/w
+kCF/yvUbqLBeP8PhjT5aZwsvO1CSVpQaGEKbPGWKSNRMhsO8EaVh+al9e5kRBjarcpSk/R9K0opS
+BSN30keZkWGrVq0Sr4tAXeg5wjSdx4uYizjf9lKS9nsoSStKHQJdxeEJ3iZoyrtex6+QdHbpa7fS
+ABdJb05FhJK0QlG2YDq00dMSkH7mfElfjsIDsp3PaFXSXkTFOnKB2NGhKkkrFAEAI6XNXLwZq5P3
+5ypT+AfM8wifnYjNOx1TgdkxWlSSVigCAIYAkrYdxNgZjkAgVXv4DwwXn0o7h/6hyyUniV1QklYo
+AgRGKhsyYSU2pDjSb6oRseThSDXieA7jZq/DktU7Zd2ukY6StEIRIDAkffzUWfQMXoLdqSdc5YYo
+dPHdQhLOsTyXecu3Inj66lzPyg4oSSsUAQTz8R86lo5ewUuEGE6cPlvSl1WmcfBoGsZErEFIxBpc
+zHTOIGNj/UrSCkWAwRD1+QuZmLtsK4aMj0XYzESMn7NOFx8vQZNWYdikOGzccTjXs7ETStIKRQAi
+x01aO3oiAyl7juniw2Xn/hM4mXZpFFNcfv9K0gpFAEOCZ0phUFAgIds54XJxQUlaoVAo/BhK0gqF
+QuHHUJJWKBQKP4aStEKhUPgxlKQVCoXCj6EkrVAoFH4MJWmFQqHwYyhJKxQKhR9DSVqhUCj8GErS
+CoVC4cdQklYoFAo/hpK0QqFQ+DGUpBUKhcKP8f8BvERKHw2rFhwAAAAASUVORK5CYII=
+------=_Part_8_768150246.1728074731900--

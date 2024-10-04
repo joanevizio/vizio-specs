@@ -1,0 +1,575 @@
+Message-ID: <2038475511.7.1728075200541@7ee07930f813>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6_2076560641.1728075200541"
+
+------=_Part_6_2076560641.1728075200541
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>System Information Text</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>System Information Text</h1>
+    <div class=3D"Section1">
+        <div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"0027c749-6306-42cd-91e3-81c=
+04a03b55b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 136.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>MENU</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>ENGLISH</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>ESPA=C3=91OL</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>FRAN=C3=87AIS</strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>NOTES</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>System Info</p></td>
+<td class=3D"confluenceTd">
+<p>TV Name:<br>
+Serial Number:<br>
+Model Name:<br>
+Firmware:<br>
+Cast:<br>
+Conjure:<br>
+SC Config:<br>
+Input:<br>
+Resolution:<br>
+Frame Rate: FreeSync Rate:<br>
+Audio In:<br>
+Audio Out:<br>
+HDR:<br>
+VRR:<br>
+Filmmaker Mode Content:<br>
+Bluetooth Driver:</p></td>
+<td class=3D"confluenceTd">
+<p>Nombre de TV:<br>
+N=C3=BAmero de Serie:<br>
+Nombre del Modelo:<br>
+Firmware:<br>
+Cast: <br>
+Conjure:<br>
+SC Config: <br>
+Entrada:<br>
+Resoluci=C3=B3n:<br>
+Velocidad de Cuados: Velocidad de FreeStyle: <br>
+Audio de la Entrada:<br>
+Salida de Audio:<br>
+HDR:<br>
+VRR:<br>
+Contenido de Filmmaker Mode:<br>
+Driver de Bluetooth:</p></td>
+<td class=3D"confluenceTd">
+<p>Nom de TV :<br>
+Num=C3=A9ro de S=C3=A9rie :<br>
+Nom du Mod=C3=A8le :<br>
+Firmware :<br>
+Cast : <br>
+Conjure : <br>
+SC Config : <br>
+Entr=C3=A9e :<br>
+R=C3=A9solution :<br>
+Fr=C3=A9quence d'images : Fr=C3=A9quence de FreeStyle :<br>
+Audio de l'entr=C3=A9e:<br>
+Sortie de Audio :<br>
+HDR : <br>
+VRR :<br>
+Contenu du Filmmaker Mode <br>
+Driver de Bluetooth :</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Network Info</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Wi-Fi Network:<br>
+Wi-Fi Signal Strength:<br>
+IP Address: <br>
+Default Gateway:<br>
+Subnet Mark:<br>
+Pref. DNS Server:<br>
+Alt. DNS Server:<br>
+RJ45 MAC: or ID MAC:<br>
+WLAN MAC:<br>
+Connection:<br>
+Wi-Fi Security:<br>
+WiFi Module:</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Red de Wi-Fi:<br>
+Wi-Fi Intensidad de Se=C3=B1al:<br>
+Direcci=C3=B3n IP:<br>
+Pasarela Predeterminada:<br>
+M=C3=A1scara de subred:<br>
+Servidor DNS Pref.:<br>
+Servidor DNS Alt.:<br>
+RJ45 MAC:<br>
+WLAN MAC:<br>
+Conexion: <br>
+Seguridad de Wi-Fi:<br>
+M=C3=B3dulo WiFi:</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>R=C3=A9seau de Wi-Fi :<br>
+Wi-Fi Force du Signal:<br>
+Adresse IP :<br>
+Passerelle par d=C3=A9faut :<br>
+Masque de Sous-R=C3=A9seau :<br>
+Serveur DNS pr=C3=A9f=C3=A9r=C3=A9 :<br>
+Autre Serveur DNS :<br>
+RJ45 MAC :<br>
+WLAN MAC :<br>
+Connexion :<br>
+S=C3=A9curit=C3=A9 de Wi-Fi:<br>
+WiFi Module :</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Remote Info</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Bluetooth Remote Status:<br>
+Battery Level XX%:<br>
+Remote Firmware: <br>
+Bluetooth Firmware:<br>
+Remote Serial Nmber:<br>
+Bluetooth MAC Address:&nbsp;&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Estado Remoto de Bluetooth:<br>
+Nivel de Carga XX%:<br>
+Firmware de Remoto:<br>
+Firmware de Bluetooth:<br>
+N=C3=BAmero de Serie de Remoto:<br>
+Direcci=C3=B3n MAC Bluetooth:&nbsp;</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>=C3=89tat de t=C3=A9l=C3=A9commande Bluetooth:<br>
+Niveau de Charge XX% :<br>
+Firmware de t=C3=A9l=C3=A9commande :<br>
+Firmware de Bluetooth :<br>
+Num=C3=A9ro de s=C3=A9rie de t=C3=A9l=C3=A9commande :<br>
+Adresse Bluetooth MAC :</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Remote Status settings</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SCPL<br>
+AirPlay<br>
+AirPlay Internal<br>
+Apple TV<br>
+Cobalt<br>
+=E2=80=9CDAI=E2=80=9D</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SCPL<br>
+AirPlay<br>
+AirPlay Interno<br>
+Apple TV<br>
+Cobalt<br>
+=E2=80=9CDAI=E2=80=9D</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>SCPL<br>
+AirPlay<br>
+AirPlay Internal<br>
+Apple TV<br>
+Cobalt<br>
+=E2=80=9CDAI=E2=80=9D</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>ULI Info</p></td>
+<td class=3D"confluenceTd">
+<p>ESN:<br>
+SV:<br>
+REG: <br>
+NP:<br>
+Netflix ESN: <br>
+UID:<br>
+Dev ID:<br>
+Prov ID: <br>
+DA:<br>
+Country:<br>
+Display Hours:</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>ESN:<br>
+SV:<br>
+REG: <br>
+NP:<br>
+Netflix ESN: <br>
+UID:<br>
+Dev ID:<br>
+Prov ID: <br>
+DA:<br>
+Pa=C3=ADs:<br>
+Horas de Pantalla:</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>ESN :<br>
+SV :<br>
+REG : <br>
+NP :<br>
+Netflix ESN :<br>
+UID :<br>
+Dev ID :<br>
+Prov ID :<br>
+DA :<br>
+Pays :<br>
+Heures d'=C3=89cran :</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>Source Info Tuner only</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Physical Channel: <br>
+Frequency:<br>
+Modulation:<br>
+Status:<br>
+Signal Strength:<br>
+Tuner Module:</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Canal F=C3=ADsico:<br>
+Frecuencia:<br>
+Modulaci=C3=B3n:<br>
+Estado:<br>
+Intensidad de Se=C3=B1al:<br>
+Sintonizador:</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Cha=C3=AEne Physique :<br>
+Fr=C3=A9quence :<br>
+Modulation :<br>
+=C3=89tat :<br>
+Qualit=C3=A9 du Signal :<br>
+Module de tuner :</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Connection Type Settings</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Wireless<br>
+Wired<br>
+Disconnected<br>
+Not Available</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Inal=C3=A1mbrico<br>
+Ethernet<br>
+Desconocido<br>
+No Disponible</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Sans fil<br>
+Ethernet<br>
+D=C3=A9connect=C3=A9<br>
+Non Disponible</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>WiFi Signal settings</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Excellent <br>
+Good<br>
+Fair<br>
+Weak<br>
+Unknown</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Excelente <br>
+Bueno<br>
+Justo <br>
+D=C3=A9bil<br>
+Desconocido</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Excellent <br>
+Bon<br>
+Passable<br>
+Faible<br>
+Inconnu</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>Remote Status settings</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Paired, not connected <br>
+Not Paired, not connected <br>
+Paired, connected</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Emparejado, No conectado<br>
+Emparejado, No conectado <br>
+No emparejado, Conectado</p></td>
+<td data-highlight-colour=3D"white" class=3D"confluenceTd">
+<p>Jumel=C3=A9, non connect=C3=A9<br>
+Non jumel=C3=A9, non connect=C3=A9<br>
+Jumel=C3=A9, connect=C3=A9</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_6_2076560641.1728075200541--

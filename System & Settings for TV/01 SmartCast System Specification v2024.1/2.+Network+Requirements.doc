@@ -1,0 +1,1051 @@
+Message-ID: <2058682781.15.1728074515501@7c91b6d1294f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_14_1189561021.1728074515501"
+
+------=_Part_14_1189561021.1728074515501
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>2. Network Requirements</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>2. Network Requirements</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1728074515485 {padding: 0px;}
+div.rbtoc1728074515485 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1728074515485 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1728074515485">
+<style>[data-colorid=3Desc7td3vbf]{color:#ff5630} html[data-color-mode=3Dda=
+rk] [data-colorid=3Desc7td3vbf]{color:#cf2600}[data-colorid=3Dajxunfq0fc]{c=
+olor:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dajxunfq0fc]{colo=
+r:#cf2600}[data-colorid=3Dnb5s9t8ifz]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dnb5s9t8ifz]{color:#cf2600}[data-colorid=3Da2jx980y=
+f7]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Da2jx980yf7]=
+{color:#cf2600}[data-colorid=3Dgo4n00olj4]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dgo4n00olj4]{color:#cf2600}[data-colorid=3Dnqj3t=
+lmf1f]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dnqj3tlmf=
+1f]{color:#cf2600}[data-colorid=3Dtkfprho8ue]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Dtkfprho8ue]{color:#cf2600}[data-colorid=3Dqb=
+kzr4o92r]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dqbkzr=
+4o92r]{color:#cf2600}[data-colorid=3Dag0hy283y0]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dag0hy283y0]{color:#cf2600}[data-colorid=
+=3Dstryh9h5td]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+stryh9h5td]{color:#cf2600}[data-colorid=3Dz2njvuk8nt]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Dz2njvuk8nt]{color:#cf2600}[data-colo=
+rid=3Dueh0rtct7u]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dueh0rtct7u]{color:#cf2600}[data-colorid=3Dyv40q24qma]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dyv40q24qma]{color:#cf2600}[data-c=
+olorid=3Dlxp9op0drk]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Dlxp9op0drk]{color:#cf2600}[data-colorid=3Doggbr2brhz]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Doggbr2brhz]{color:#cf2600}[dat=
+a-colorid=3Do2m1zwjszv]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Do2m1zwjszv]{color:#cf2600}[data-colorid=3Dydnhz1nlu7]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dydnhz1nlu7]{color:#cf2600}[=
+data-colorid=3Divgamk9j91]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Divgamk9j91]{color:#cf2600}[data-colorid=3Dh0p4iqfi1q]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dh0p4iqfi1q]{color:#cf260=
+0}[data-colorid=3Dk8d6lu0imv]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dk8d6lu0imv]{color:#cf2600}[data-colorid=3Dc6x7wvn1i0]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dc6x7wvn1i0]{color:#cf=
+2600}[data-colorid=3Dwxxjlnvmk4]{color:#ff5630} html[data-color-mode=3Ddark=
+] [data-colorid=3Dwxxjlnvmk4]{color:#cf2600}[data-colorid=3Ddvbauxyj4n]{col=
+or:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Ddvbauxyj4n]{color:=
+#cf2600}[data-colorid=3Dx6kdbylhka]{color:#ff5630} html[data-color-mode=3Dd=
+ark] [data-colorid=3Dx6kdbylhka]{color:#cf2600}[data-colorid=3Dopsbd1abd6]{=
+color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dopsbd1abd6]{col=
+or:#cf2600}[data-colorid=3Dpvd4clostr]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dpvd4clostr]{color:#cf2600}[data-colorid=3Dwoubacfx=
+f6]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dwoubacfxf6]=
+{color:#cf2600}[data-colorid=3Dkneyqxaf1s]{color:#ff5630} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dkneyqxaf1s]{color:#cf2600}[data-colorid=3Du37gr=
+lc2bi]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Du37grlc2=
+bi]{color:#cf2600}[data-colorid=3Ddprrg88e2r]{color:#ff5630} html[data-colo=
+r-mode=3Ddark] [data-colorid=3Ddprrg88e2r]{color:#cf2600}[data-colorid=3Dc2=
+jfnvwk04]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dc2jfn=
+vwk04]{color:#cf2600}[data-colorid=3Dgt0k5x9901]{color:#ff5630} html[data-c=
+olor-mode=3Ddark] [data-colorid=3Dgt0k5x9901]{color:#cf2600}[data-colorid=
+=3Doendi25dwe]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=3D=
+oendi25dwe]{color:#cf2600}[data-colorid=3Ddzast1q986]{color:#ff5630} html[d=
+ata-color-mode=3Ddark] [data-colorid=3Ddzast1q986]{color:#cf2600}[data-colo=
+rid=3Dvl3k4tt8wa]{color:#ff5630} html[data-color-mode=3Ddark] [data-colorid=
+=3Dvl3k4tt8wa]{color:#cf2600}[data-colorid=3Dvew93akzba]{color:#ff5630} htm=
+l[data-color-mode=3Ddark] [data-colorid=3Dvew93akzba]{color:#cf2600}[data-c=
+olorid=3Diact5lw1bn]{color:#ff5630} html[data-color-mode=3Ddark] [data-colo=
+rid=3Diact5lw1bn]{color:#cf2600}[data-colorid=3Dubcrjdwcdg]{color:#ff5630} =
+html[data-color-mode=3Ddark] [data-colorid=3Dubcrjdwcdg]{color:#cf2600}[dat=
+a-colorid=3Dwfjma8d0pk]{color:#ff5630} html[data-color-mode=3Ddark] [data-c=
+olorid=3Dwfjma8d0pk]{color:#cf2600}[data-colorid=3Dz7gc1spp53]{color:#ff563=
+0} html[data-color-mode=3Ddark] [data-colorid=3Dz7gc1spp53]{color:#cf2600}[=
+data-colorid=3Drb4sodzawf]{color:#ff5630} html[data-color-mode=3Ddark] [dat=
+a-colorid=3Drb4sodzawf]{color:#cf2600}[data-colorid=3Dctobnc41gd]{color:#ff=
+5630} html[data-color-mode=3Ddark] [data-colorid=3Dctobnc41gd]{color:#cf260=
+0}[data-colorid=3Dv4hixc3618]{color:#ff5630} html[data-color-mode=3Ddark] [=
+data-colorid=3Dv4hixc3618]{color:#cf2600}[data-colorid=3Dsa3twrdex4]{color:=
+#ff5630} html[data-color-mode=3Ddark] [data-colorid=3Dsa3twrdex4]{color:#cf=
+2600}</style>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-2.NetworkRequirements-2.0Wi-FiStandardsandRequirements">=
+2.0 Wi-Fi Standards and Requirements</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.1Wi-FiandNetworkManagement">2.1 =
+Wi-Fi and Network Management</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.2InterfaceArbitration">2.2 Inter=
+face Arbitration</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.3CommunicationProtocolIPv4andIPv=
+6">2.3 Communication Protocol IPv4 and IPv6</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.4SetUpNetworkConnection">2.4 Set=
+ Up Network Connection</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.5Wi-FiCountryforPowerProtocols">=
+2.5 Wi-Fi Country for Power Protocols</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.6WirelessProtocolsandSecurity">2=
+.6 Wireless Protocols and Security</a>
+<ul class=3D"toc-indentation">
+<li><a href=3D"#id-2.NetworkRequirements-2.6.1WirelessTestSpecandWorksheets=
+">2.6.1 Wireless Test Spec and Worksheets</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.6.2WirelessSecurityrequirements"=
+>2.6.2 Wireless Security requirements</a></li>
+</ul></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.7Wi-FiCertification">2.7 Wi-Fi C=
+ertification</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.8TVmDNSSupport">2.8 TV mDNS Supp=
+ort</a></li>
+<li><a href=3D"#id-2.NetworkRequirements-2.9AdaptiveBitrateStreaming">2.9 A=
+daptive Bitrate Streaming</a></li>
+</ul>
+</div>
+<p>The SMARTCAST platform supports both wired and wireless connections to a=
+ router for access to the Internet.&nbsp;&nbsp;The base platform must have =
+at least 10/100 Mbps Ethernet and concurrent dual band 2.4 GHz plus 5 GHz 2=
+x2 802.11ac to support the network connection.&nbsp;Each of the hardware in=
+terfaces will require a unique Media Access Control (MAC) address.&nbsp;&nb=
+sp;It is VIZIO=E2=80=99s responsibility to secure these MAC addresses and t=
+o provide them to the ODM for integration into the manufacturing process wh=
+ere these MAC addresses are assigned.</p>
+<h2 id=3D"id-2.NetworkRequirements-2.0Wi-FiStandardsandRequirements">2.0 Wi=
+-Fi Standards and Requirements</h2>
+<p>Cast receiver has built in support for Cast Wi-Fi setup protocol and rel=
+ies on the platform for this management. In addition to setup, Cast receive=
+r uses this abstraction to monitor network status changes and to interact w=
+ith mDNS daemon.</p>
+<p>Small skus may be limited to 2.4 Ghz 1.1 802.11n <span data-colorid=3D"d=
+zast1q986">and 5Ghz 802.11ac dual band</span> as a cost cutting measure for=
+ HD/FHD products that don't require as much bandwidth. &nbsp;These skus sti=
+ll must pass VIZIO WiFi performance. &nbsp;</p>
+<p>Final WiFi chip assignment and support as follows:</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1698" data-layout=3D"wide" data-local-id=3D"dca7=
+6ac2-5300-441a-927a-8fd7bece6488" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 152.0px;">
+<col style=3D"width: 284.0px;">
+<col style=3D"width: 311.0px;">
+<col style=3D"width: 345.0px;">
+<col style=3D"width: 329.0px;">
+<col style=3D"width: 277.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>WiFi Support</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>2020 -H</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>2021 -J</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong>2022 -K</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"ctobnc41gd">2023 -L</span></strong></p></t=
+h>
+<th data-highlight-colour=3D"var(--ds-background-accent-gray-subtlest, #F4F=
+5F7)" class=3D"confluenceTh">
+<p><strong><span data-colorid=3D"vl3k4tt8wa">2024 -8</span></strong></p></t=
+h>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>5691</p></td>
+<td class=3D"confluenceTd">
+<p>WiFi 4 Dual-Band</p>
+<p>(MT7638, WiFi only)</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p>WiFi 4 Dual Band (MT7638, 1st source)</p></li>
+<li>
+<p>WiFI 5 Dual Band (MT7663, 2nd source)</p></li>
+<li>
+<p>V705x-J03, V756x-J03 and V705x-J01 - BT feature is disable for seasonal =
+models</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p>WiFi 6E Tri Band (MT7921a)</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"qbkzr4o92r">WiFi 6E Tri Band (MT7921a, 1st MP)</sp=
+an></p></li>
+<li>
+<p><span data-colorid=3D"wfjma8d0pk">WiFi 6 Dual Band (MT7920, 2nd MP forwa=
+rd)</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"c2jfnvwk04">Wi-Fi 6 Dual Band / MT7920</span></p><=
+/li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>5583</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>WiFi 4 Single Band</p>
+<p>(MT7603, WiFi only)</p></td>
+<td class=3D"confluenceTd">
+<p>WiFi 5 Dual Band (MT7663)</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"wxxjlnvmk4">WiFi 5 Dual Band</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"u37grlc2bi">MTK: MT7663</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"iact5lw1bn">Wi-Fi 5 Dual Band / MT7663</span></p><=
+/li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>5695</p></td>
+<td class=3D"confluenceTd">
+<p>WiFi 5 Dual-Band</p>
+<p>(MT7668)</p></td>
+<td class=3D"confluenceTd">
+<p>WiFi 4 Dual Band (MT7668)</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"oggbr2brhz">N/A</span></p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"rb4sodzawf">N/A</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>5695s</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>WiFi 6E Tri Band (MT7921a)</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"nb5s9t8ifz">WiFi 6E Tri Band (MT7921a, 1st MP)</sp=
+an></p></li>
+<li>
+<p><span data-colorid=3D"dprrg88e2r">WiFi 6 Dual Band (MT7920, 2nd MP forwa=
+rd)</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"c6x7wvn1i0">Wi-Fi 6e Tri Band / MT7921a</span></p>=
+</li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>5586L</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"x6kdbylhka">N/A</span></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"opsbd1abd6">Wi-Fi 6 Dual Band / MT7920</span></p><=
+/li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>5586F</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"oendi25dwe">N/A</span></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"yv40q24qma">Wi-Fi 5 Dual Band / MT7663</span></p><=
+/li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>72690-2K</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"o2m1zwjszv">Wi-Fi 5 Dual Band / RTL8822CU</span></=
+p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"v4hixc3618">Wi-Fi 5 Dual Band / RTL8822CU</span></=
+p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>72690-4K</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p>N/A</p></td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ubcrjdwcdg">N/A</span></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li>
+<p><span data-colorid=3D"sa3twrdex4">Wi-Fi 6 Dual Band / RTL8852</span></p>=
+</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.NetworkRequirements-2.1Wi-FiandNetworkManagement">2.1 Wi-Fi =
+and Network Management</h2>
+<p>Cast receiver has built in support for Cast Wi-Fi setup protocol and rel=
+ies on the platform for this management.&nbsp; In addition to setup, Cast r=
+eceiver uses this abstraction to monitor network status changes and to inte=
+ract with mDNS daemon.</p>
+<p>SoftAP requirement <span data-colorid=3D"ydnhz1nlu7">reinstated only for=
+ captive portal.</span></p>
+<h2 id=3D"id-2.NetworkRequirements-2.2InterfaceArbitration">2.2 Interface A=
+rbitration</h2>
+<p>Only one interface can be active. &nbsp;The arbitration during initial s=
+etup follows a two-step algorithm. &nbsp;TV must reboot&nbsp;with&nbsp;each=
+.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"6=
+0db54de-9c3d-4d03-88f0-7e821dd230f0" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 718.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>If Ethernet network is connected and active, and W-Fi is connected, the =
+wired connection must take precedence and the wireless interface is not use=
+d. &nbsp;&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>If the platform is connected via Wi-Fi and Ethernet is connected, the wi=
+red connection takes precedence.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If&nbsp;the Ethernet connection is disconnected, the TV must fall back t=
+o the Wi-Fi connection.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>While content is streaming and at all other times, seamlessly switching =
+<span data-colorid=3D"ueh0rtct7u">from</span> Ethernet to <span data-colori=
+d=3D"vew93akzba">Wi-Fi </span>on the same subnet must be supported <span da=
+ta-colorid=3D"h0p4iqfi1q">and vice-versa</span>.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Streaming movies and other user actions must not be interrupted or delay=
+ed by a network switch, subject to some minimal amount of data buffering at=
+ the application level.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>The platform must retain separate and unique Wi-Fi scan information for =
+identical SSIDs found on both the 2.4 GHz and 5 GHz bands for a given acces=
+s point (e.g. identical SSIDs found on the same band of different access po=
+ints).&nbsp; Ad-Hoc requires no network support.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.NetworkRequirements-2.3CommunicationProtocolIPv4andIPv6">2.3=
+ Communication Protocol IPv4 and IPv6</h2>
+<p>Support both Internet Protocol version 4 (IPv4)and Internet Protocol ver=
+sion 6 (IPv6). IPv6 is the next generation Internet Protocol address standa=
+rd intended to supplement, and eventually replace, IPv4 due to insufficient=
+ number of addresses.&nbsp;&nbsp;IPv4 uses 32 bit addresses whereas IPv6 us=
+es 128 bit addresses.&nbsp;</p>
+<h2 id=3D"id-2.NetworkRequirements-2.4SetUpNetworkConnection">2.4 Set Up Ne=
+twork Connection</h2>
+<p>During set up of the network connection for the platform, the following =
+requirements apply.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"3=
+04bf08e-59d8-457d-92f1-adf77cd32d00" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 718.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Automatic or manual entry of TCP/IP configuration via DHCP for IP addres=
+s, subnet mask, gateway, and Domain Name servers (DNS) must be supported.</=
+p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Network&nbsp;status for Wi-Fi must include Signal Strength, Wi-Fi Mode, =
+Secure/Clear.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Network status for Ethernet must include status=20
+<del>and throughput</del>.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>Connection test must include:</p>
+<ol start=3D"1">
+<li>
+<p>Established DNS Servers.</p></li>
+<li>
+<p>Established Network Time Protocol (NTP) time indicating successful Inter=
+net connection using <span data-colorid=3D"lxp9op0drk">Google service to pi=
+ng DNS. </span></p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>Wireless setup must include list of detected wireless access points and&=
+nbsp;protocol, signal strength, and encrypted/clear indicator.&nbsp;</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>List of wireless access points must be&nbsp;ordered by signal strength.<=
+/p>
+<ol start=3D"1">
+<li>
+<p>Continue scanning and dynamically add AP's missing from the list.</p></l=
+i>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>Security types supported must include (WEP no longer supported):&nbsp;</=
+p>
+<ol start=3D"1">
+<li>
+<p>WPA+TKIP/AES</p></li>
+<li>
+<p>WPA+TKIP</p></li>
+<li>
+<p>WPA+AES</p></li>
+<li>
+<p>WPA2+AES</p></li>
+<li>
+<p>WPA3+SAE</p></li>
+<li>
+<p>none</p></li>
+</ol></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>Manual entry of the Service Set Identified (SSID) must be supported. &nb=
+sp;For IPv6 manual entry is not supported.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>WLAN MAC address must be viewable from configuration screens including d=
+uring initial setup. &nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.NetworkRequirements-2.5Wi-FiCountryforPowerProtocols">2.5 Wi=
+-Fi Country for Power Protocols</h2>
+<p>The power protocols for Wi-Fi are dictated by the country.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"5=
+92acf29-91be-4789-9d17-d3f798098bd3" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 718.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Before Wi-Fi is connected, Wi-Fi power band frequency default must be se=
+t to the lowest common denominator for North America until a specific count=
+ry code is known.</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>After connection, the&nbsp;Wi-Fi power requirements are defined per the =
+country found using geofencing.&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>If the country can not be determined via geofencing or returns none, the=
+n the lowest common denominator must persist.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.NetworkRequirements-2.6WirelessProtocolsandSecurity">2.6 Wir=
+eless Protocols and Security</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"c=
+76ef958-c579-4868-b361-7505b243fee8" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 718.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Wireless Protocol Requirements</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>802.11b (2.4GHz)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>802.11g (2.4GHz)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>802.11n (2.4GHz + 5Ghz)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>802.11ac (5Ghz)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>WIFI 6E 2x2 Tri band (2.4/5/6GHz)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.NetworkRequirements-2.6.1WirelessTestSpecandWorksheets">2.6.=
+1 Wireless Test Spec and Worksheets</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"3=
+3b556c5-7018-4d55-8811-0af5e66a080b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 718.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement&nbsp;</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>2.4 Ghz 802.11ax 4K Test Spec Worksheet <span data-colorid=3D"pvd4clostr=
+">V4.4 Rev2</span>.xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>2.4 Ghz 802.11n 2K Test Spec Worksheet <span data-colorid=3D"ag0hy283y0"=
+>V4.4 Rev2</span>.xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>2.4 Ghz 802.11n 4K Test Spec Worksheet <span data-colorid=3D"stryh9h5td"=
+>V4.4 Rev2</span>.xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p>5.0 Ghz 802.11ac 2K Test Spec Worksheet <span data-colorid=3D"tkfprho8ue=
+">V4.4 Rev2</span>.xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">5</td>
+<td class=3D"confluenceTd">
+<p>5.0 Ghz 802.11ac 4K Test Spec Worksheet <span data-colorid=3D"z2njvuk8nt=
+">V4.4 Rev2</span>.xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">6</td>
+<td class=3D"confluenceTd">
+<p>5.0 Ghz 802.11ax 4K Test Spec Worksheet <span data-colorid=3D"ajxunfq0fc=
+">V4.4 Rev2</span>.xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">7</td>
+<td class=3D"confluenceTd">
+<p>5.0 Ghz 802.11n 2K Test Spec Worksheet <span data-colorid=3D"woubacfxf6"=
+>V4.4 Rev2.</span>xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">8</td>
+<td class=3D"confluenceTd">
+<p>5.0 Ghz 802.11n 4K Test Spec Worksheet <span data-colorid=3D"go4n00olj4"=
+>V4.4 Rev2.</span>xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">9</td>
+<td class=3D"confluenceTd">
+<p>6.0 Ghz 802.11ax 4K Test Spec Worksheet <span data-colorid=3D"k8d6lu0imv=
+">V4.4 Rev2.</span>xlsx</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">10</td>
+<td class=3D"confluenceTd">
+<p>802.11 Test Specification <span data-colorid=3D"gt0k5x9901">V4.4 Rev2.</=
+span>pdf</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"id-2.NetworkRequirements-2.6.2WirelessSecurityrequirements">2.6.2=
+ Wireless Security requirements</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"e=
+3600cb2-e86d-46bb-aca0-40ab3b5d97ae" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 718.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Requirement</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi Protected Access (WPA) with TKIP, AES,&nbsp;TKIP/AES</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi Protected Access 2 802.11i (WPA2) with AES</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>Wi-Fi Protected Access 3 802.11<span data-colorid=3D"esc7td3vbf"> </span=
+>(WPA3) with AES or SAE</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">4</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"z7gc1spp53">Mixed mode WPA2/WPA3</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.NetworkRequirements-2.7Wi-FiCertification">2.7 Wi-Fi Certifi=
+cation</h2>
+<p>VIZIO requires the ODM and vendors to test the Wi-Fi functionality in th=
+e exact same manner as a formal certification with the Wi-Fi Alliance.&nbsp=
+;The system must pass all tests but does not need to be submitted for forma=
+l certification.</p>
+<h2 id=3D"id-2.NetworkRequirements-2.8TVmDNSSupport">2.8 TV mDNS Support</h=
+2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"6=
+ca5d353-87b9-4624-9f74-58931be76dd6" class=3D"confluenceTable">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p><strong>Requirements </strong></p></th>
+<th class=3D"confluenceTh">
+<p><strong>Notes</strong></p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"dvbauxyj4n">mDNS required for casting.</span></p><=
+/td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"ivgamk9j91">mDNS required for</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"nqj3tlmf1f">wake on when in quick start mode.</spa=
+n></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p><span data-colorid=3D"kneyqxaf1s">mDNS offload</span></p>
+<ul>
+<li>
+<p><span data-colorid=3D"a2jx980yf7">wake on eco mode</span></p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-2.NetworkRequirements-2.9AdaptiveBitrateStreaming">2.9 Adaptiv=
+e Bitrate Streaming</h2>
+<p>Adaptive bitrate is a method of video streaming that supports encoding o=
+f source content at multiple bit rates.&nbsp;&nbsp;Three methods are suppor=
+ted.</p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"8=
+4ef3dea-ae70-43ab-a6b6-bd7bac5c845b" class=3D"confluenceTable">
+<colgroup>
+<col>
+<col style=3D"width: 359.0px;">
+<col style=3D"width: 359.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"></th>
+<th class=3D"confluenceTh">
+<p>Video Streaming Encoding Requirement</p></th>
+<th class=3D"confluenceTh">
+<p>Encryption required</p></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<td class=3D"confluenceTd">
+<p>MPEG-DASH&nbsp;PlayReady 2000 and for UHD PlayReady 3000, level 3.3 (Net=
+flix)</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<td class=3D"confluenceTd">
+<p>MPEG-DASH&nbsp;Widevine, level 1 and level 3</p></td>
+<td class=3D"confluenceTd">
+<p></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">3</td>
+<td class=3D"confluenceTd">
+<p>HTTP Live Streaming (HLS)</p></td>
+<td class=3D"confluenceTd">
+<p>AES-128 encryption</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_14_1189561021.1728074515501--
